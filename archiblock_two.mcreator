@@ -474,7 +474,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "walls",
-      "path": "~/Stone Type Blocks"
+      "path": "~/Tags"
     },
     {
       "name": "StairsTag",
@@ -483,7 +483,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "stairs_tag",
-      "path": "~/Stone Type Blocks"
+      "path": "~/Tags"
     },
     {
       "name": "SlabsTag",
@@ -492,7 +492,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "slabs_tag",
-      "path": "~/Stone Type Blocks"
+      "path": "~/Tags"
     },
     {
       "name": "CutGranite",
@@ -1213,6 +1213,168 @@
       "locked_code": false,
       "registry_name": "sus",
       "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "BigClayBricks",
+      "type": "block",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_clay_bricks",
+      "path": "~/OtherBlocks/Bricks"
+    },
+    {
+      "name": "ClayBrickBlock",
+      "type": "block",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "clay_brick_block",
+      "path": "~/OtherBlocks/Bricks"
+    },
+    {
+      "name": "ClayBrickTiles",
+      "type": "block",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "clay_brick_tiles",
+      "path": "~/OtherBlocks/Bricks"
+    },
+    {
+      "name": "ClayBrickPavement",
+      "type": "block",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "clay_brick_pavement",
+      "path": "~/OtherBlocks/Bricks"
+    },
+    {
+      "name": "SmallClayBrickTiles",
+      "type": "block",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_clay_brick_tiles",
+      "path": "~/OtherBlocks/Bricks"
+    },
+    {
+      "name": "BigClayBricksR",
+      "type": "recipe",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_clay_bricks_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "ClayBrickBlockR",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "clay_brick_block_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "ClayBrickTilesR",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "clay_brick_tiles_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "SmallClayBrickTilesR",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_clay_brick_tiles_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "ClayBrickPavementR",
+      "type": "recipe",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "clay_brick_pavement_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "ClayShingles",
+      "type": "block",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "clay_shingles",
+      "path": "~/OtherBlocks/Bricks"
+    },
+    {
+      "name": "ClayShinglesR",
+      "type": "recipe",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "clay_shingles_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "ClayShinglesSlab",
+      "type": "block",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "clay_shingles_slab",
+      "path": "~/OtherBlocks/Bricks"
+    },
+    {
+      "name": "ClayShinglesSlabR",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "clay_shingles_slab_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "SlantedClayShingles",
+      "type": "block",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "slanted_clay_shingles",
+      "path": "~/OtherBlocks/Bricks"
+    },
+    {
+      "name": "SlantedClayShinglesR",
+      "type": "recipe",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "slanted_clay_shingles_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "SlantedShinglesSide",
+      "type": "block",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "slanted_shingles_side",
+      "path": "~/OtherBlocks/Bricks"
+    },
+    {
+      "name": "SlantedShinglesSideR",
+      "type": "recipe",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "slanted_shingles_side_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
     }
   ],
   "variable_elements": [],
@@ -1228,45 +1390,54 @@
   ],
   "language_map": {
     "en_us": {
-      "block.archiblock_two.andesite_pillar": "Andesite Pillar",
       "block.archiblock_two.diorite_tiles": "Diorite Tiles",
       "block.archiblock_two.andesite_block": "Cut Andesite",
-      "block.archiblock_two.granite_bricks": "Granite Bricks",
+      "block.archiblock_two.slanted_shingles_side": "Slanted Clay Shingles Side",
+      "block.archiblock_two.clay_shingles_slab": "Clay Shingles Slab",
       "block.archiblock_two.andesite_tiles": "Andesite Tiles",
       "block.archiblock_two.cut_granite_stairs": "Cut Granite Stairs",
       "itemGroup.tabarchiblock_ii_tab": "Archiblock II ",
-      "block.archiblock_two.andesite_block_wall": "Andesite Block Wall",
-      "block.archiblock_two.granite_tiles": "Granite Tiles",
-      "block.archiblock_two.chiselled_granite": "Chiselled Granite",
       "block.archiblock_two.diorite_bricks": "Diorite Bricks",
       "block.archiblock_two.diorite_brick_slab": "Diorite Brick Slab",
-      "block.archiblock_two.andesite_block_stairs": "Andesite Block Stairs",
       "block.archiblock_two.andesite_brick_slab": "Andesite Brick Slab",
-      "block.archiblock_two.diorite_tile_stairs": "Diorite Tile Stairs",
       "block.archiblock_two.cut_granite_slab": "Cut Granite Slab",
-      "block.archiblock_two.andesite_bricks": "Andesite Bricks",
-      "block.archiblock_two.granite_brick_slab": "Granite Brick Slab",
       "block.archiblock_two.granite_brick_stairs": "Granite Brick Stairs",
-      "block.archiblock_two.cut_granite": "Cut Granite",
       "block.archiblock_two.andesite_block_slab": "Andesite Block Slab",
-      "block.archiblock_two.cut_granite_wall": "Cut Granite Wall",
-      "subtitles.lolol": "ZAMN",
       "block.archiblock_two.diorite_tile_slab": "Diorite Tile Slab",
       "block.archiblock_two.diorite_pillar": "Diorite Pillar",
+      "block.archiblock_two.diorite_brick_stairs": "Diorite Brick Stairs",
+      "block.archiblock_two.andesite_brick_stairs": "Andesite Brick Stairs",
+      "block.archiblock_two.chiselled_andesite": "Chiselled Andesite",
+      "block.archiblock_two.fancy_diorite_pillar": "Carved Diorite Pillar",
+      "block.archiblock_two.chiselled_diorite": "Chiselled Diorite",
+      "block.archiblock_two.andesite_pillar": "Andesite Pillar",
+      "block.archiblock_two.clay_brick_pavement": "Clay Brick Pavement",
+      "block.archiblock_two.granite_bricks": "Granite Bricks",
+      "block.archiblock_two.clay_shingles": "Clay Shingles",
+      "block.archiblock_two.andesite_block_wall": "Andesite Block Wall",
+      "block.archiblock_two.chiselled_granite": "Chiselled Granite",
+      "block.archiblock_two.granite_tiles": "Granite Tiles",
+      "block.archiblock_two.slanted_clay_shingles": "Slanted Clay Shingles",
+      "block.archiblock_two.andesite_block_stairs": "Andesite Block Stairs",
+      "block.archiblock_two.diorite_tile_stairs": "Diorite Tile Stairs",
+      "block.archiblock_two.andesite_bricks": "Andesite Bricks",
+      "block.archiblock_two.granite_brick_slab": "Granite Brick Slab",
+      "block.archiblock_two.cut_granite": "Cut Granite",
+      "block.archiblock_two.cut_granite_wall": "Cut Granite Wall",
+      "subtitles.lolol": "ZAMN",
+      "block.archiblock_two.big_clay_bricks": "Big Clay Bricks",
       "block.archiblock_two.andesite_brick_wall": "Andesite Brick Wall",
       "block.archiblock_two.granite_cut_pillar": "Granite Cut Pillar",
+      "block.archiblock_two.small_clay_brick_tiles": "Small Clay Brick Tiles",
       "item.archiblock_two.sus": "Pandora Anamiya - Ass",
       "block.archiblock_two.granite_brick_wall": "Granite Brick Wall",
+      "block.archiblock_two.clay_brick_tiles": "Clay Brick Tiles",
       "block.archiblock_two.granite_small_bricks": "Granite Small Bricks",
       "block.archiblock_two.granite_pillar": "Granite Pillar",
-      "block.archiblock_two.andesite_brick_stairs": "Andesite Brick Stairs",
-      "block.archiblock_two.diorite_brick_stairs": "Diorite Brick Stairs",
-      "block.archiblock_two.chiselled_andesite": "Chiselled Andesite",
+      "block.archiblock_two.clay_brick_block": "Clay Brick Block",
       "block.archiblock_two.cut_diorite": "Cut Diorite",
       "item.archiblock_two.sus.desc": "pandora when she sees dori, libido, zadkiel, ira, yingtao, etora and doremy",
-      "block.archiblock_two.andesite_small_bricks": "Andesite Small Bricks",
-      "block.archiblock_two.fancy_diorite_pillar": "Carved Diorite Pillar",
-      "block.archiblock_two.chiselled_diorite": "Chiselled Diorite"
+      "block.archiblock_two.andesite_small_bricks": "Andesite Small Bricks"
     }
   },
   "foldersRoot": {
@@ -1303,6 +1474,24 @@
             ]
           }
         ]
+      },
+      {
+        "name": "OtherBlocks",
+        "children": [
+          {
+            "name": "Bricks",
+            "children": [
+              {
+                "name": "Recipes",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tags",
+        "children": []
       }
     ]
   },
@@ -1320,6 +1509,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.17.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.archiblocktwo",
     "lockBaseModFiles": false
   },

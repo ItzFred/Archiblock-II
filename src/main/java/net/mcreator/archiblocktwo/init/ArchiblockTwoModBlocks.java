@@ -4,12 +4,17 @@
  */
 package net.mcreator.archiblocktwo.init;
 
+import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.event.RegistryEvent;
+import net.minecraftforge.api.distmarker.Dist;
 
 import net.minecraft.world.level.block.Block;
 
+import net.mcreator.archiblocktwo.block.SmallClayBrickTilesBlock;
+import net.mcreator.archiblocktwo.block.SlantedShinglesSideBlock;
+import net.mcreator.archiblocktwo.block.SlantedClayShinglesBlock;
 import net.mcreator.archiblocktwo.block.GraniteTilesBlock;
 import net.mcreator.archiblocktwo.block.GraniteSmallBricksBlock;
 import net.mcreator.archiblocktwo.block.GranitePillarBlock;
@@ -31,9 +36,15 @@ import net.mcreator.archiblocktwo.block.CutGraniteStairsBlock;
 import net.mcreator.archiblocktwo.block.CutGraniteSlabBlock;
 import net.mcreator.archiblocktwo.block.CutGraniteBlock;
 import net.mcreator.archiblocktwo.block.CutDioriteBlock;
+import net.mcreator.archiblocktwo.block.ClayShinglesSlabBlock;
+import net.mcreator.archiblocktwo.block.ClayShinglesBlock;
+import net.mcreator.archiblocktwo.block.ClayBrickTilesBlock;
+import net.mcreator.archiblocktwo.block.ClayBrickPavementBlock;
+import net.mcreator.archiblocktwo.block.ClayBrickBlockBlock;
 import net.mcreator.archiblocktwo.block.ChiselledGraniteBlock;
 import net.mcreator.archiblocktwo.block.ChiselledDioriteBlock;
 import net.mcreator.archiblocktwo.block.ChiselledAndesiteBlock;
+import net.mcreator.archiblocktwo.block.BigClayBricksBlock;
 import net.mcreator.archiblocktwo.block.AndesiteTilesBlock;
 import net.mcreator.archiblocktwo.block.AndesiteSmallBricksBlock;
 import net.mcreator.archiblocktwo.block.AndesitePillarBlock;
@@ -87,6 +98,15 @@ public class ArchiblockTwoModBlocks {
 	public static final Block DIORITE_BRICK_SLAB = register(new DioriteBrickSlabBlock());
 	public static final Block DIORITE_TILE_SLAB = register(new DioriteTileSlabBlock());
 	public static final Block DIORITE_TILE_STAIRS = register(new DioriteTileStairsBlock());
+	public static final Block BIG_CLAY_BRICKS = register(new BigClayBricksBlock());
+	public static final Block CLAY_BRICK_BLOCK = register(new ClayBrickBlockBlock());
+	public static final Block CLAY_BRICK_TILES = register(new ClayBrickTilesBlock());
+	public static final Block CLAY_BRICK_PAVEMENT = register(new ClayBrickPavementBlock());
+	public static final Block SMALL_CLAY_BRICK_TILES = register(new SmallClayBrickTilesBlock());
+	public static final Block CLAY_SHINGLES = register(new ClayShinglesBlock());
+	public static final Block CLAY_SHINGLES_SLAB = register(new ClayShinglesSlabBlock());
+	public static final Block SLANTED_CLAY_SHINGLES = register(new SlantedClayShinglesBlock());
+	public static final Block SLANTED_SHINGLES_SIDE = register(new SlantedShinglesSideBlock());
 
 	private static Block register(Block block) {
 		REGISTRY.add(block);
@@ -96,5 +116,14 @@ public class ArchiblockTwoModBlocks {
 	@SubscribeEvent
 	public static void registerBlocks(RegistryEvent.Register<Block> event) {
 		event.getRegistry().registerAll(REGISTRY.toArray(new Block[0]));
+	}
+
+	@Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
+	public static class ClientSideHandler {
+		@SubscribeEvent
+		public static void clientSetup(FMLClientSetupEvent event) {
+			SlantedClayShinglesBlock.registerRenderLayer();
+			SlantedShinglesSideBlock.registerRenderLayer();
+		}
 	}
 }

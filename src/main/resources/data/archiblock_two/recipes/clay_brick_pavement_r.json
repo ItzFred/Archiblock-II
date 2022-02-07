@@ -1,0 +1,16 @@
+{
+  "group": "clay_brick_pavement",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:clay_brick_tiles"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:clay_brick_pavement",
+    "count": 1
+  }
+}

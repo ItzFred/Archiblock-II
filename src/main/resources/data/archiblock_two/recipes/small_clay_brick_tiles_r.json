@@ -1,0 +1,22 @@
+{
+  "group": "small_clay_brick_tiles",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:brick"
+    },
+    {
+      "item": "archiblock_two:clay_brick_tiles"
+    },
+    {
+      "item": "archiblock_two:clay_brick_tiles"
+    },
+    {
+      "item": "minecraft:brick"
+    }
+  ],
+  "result": {
+    "item": "archiblock_two:small_clay_brick_tiles",
+    "count": 3
+  }
+}

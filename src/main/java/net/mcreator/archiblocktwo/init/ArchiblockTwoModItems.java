@@ -60,6 +60,18 @@ public class ArchiblockTwoModItems {
 	public static final Item DIORITE_TILE_SLAB = register(ArchiblockTwoModBlocks.DIORITE_TILE_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item DIORITE_TILE_STAIRS = register(ArchiblockTwoModBlocks.DIORITE_TILE_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item SUS = register(new SusItem());
+	public static final Item BIG_CLAY_BRICKS = register(ArchiblockTwoModBlocks.BIG_CLAY_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CLAY_BRICK_BLOCK = register(ArchiblockTwoModBlocks.CLAY_BRICK_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CLAY_BRICK_TILES = register(ArchiblockTwoModBlocks.CLAY_BRICK_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CLAY_BRICK_PAVEMENT = register(ArchiblockTwoModBlocks.CLAY_BRICK_PAVEMENT, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMALL_CLAY_BRICK_TILES = register(ArchiblockTwoModBlocks.SMALL_CLAY_BRICK_TILES,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CLAY_SHINGLES = register(ArchiblockTwoModBlocks.CLAY_SHINGLES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CLAY_SHINGLES_SLAB = register(ArchiblockTwoModBlocks.CLAY_SHINGLES_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SLANTED_CLAY_SHINGLES = register(ArchiblockTwoModBlocks.SLANTED_CLAY_SHINGLES,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SLANTED_SHINGLES_SIDE = register(ArchiblockTwoModBlocks.SLANTED_SHINGLES_SIDE,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

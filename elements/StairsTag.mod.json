@@ -16,6 +16,12 @@
       },
       {
         "value": "CUSTOM:GraniteBrickStairs"
+      },
+      {
+        "value": "CUSTOM:DioriteTileStairs"
+      },
+      {
+        "value": "CUSTOM:DioriteBrickStairs"
       }
     ],
     "functions": [],

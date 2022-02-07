@@ -2,6 +2,8 @@
   "replace": false,
   "values": [
     "archiblock_two:granite_brick_slab",
+    "archiblock_two:diorite_brick_slab",
+    "archiblock_two:diorite_tile_slab",
     "archiblock_two:cut_granite_slab",
     "archiblock_two:andesite_brick_slab",
     "archiblock_two:andesite_block_slab"
