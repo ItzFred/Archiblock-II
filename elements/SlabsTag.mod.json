@@ -16,6 +16,12 @@
       },
       {
         "value": "CUSTOM:GraniteBrickSlab"
+      },
+      {
+        "value": "CUSTOM:DioriteTileSlab"
+      },
+      {
+        "value": "CUSTOM:DioriteBrickSlab"
       }
     ],
     "functions": [],

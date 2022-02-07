@@ -1,0 +1,13 @@
+{
+  "group": "slanted_clay_shingles",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "archiblock_two:clay_shingles_slab"
+    }
+  ],
+  "result": {
+    "item": "archiblock_two:deleted_mod_element",
+    "count": 2
+  }
+}

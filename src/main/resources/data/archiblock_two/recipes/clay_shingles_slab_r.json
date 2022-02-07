@@ -1,0 +1,22 @@
+{
+  "group": "clay_shingles_slab",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:clay_shingles"
+    },
+    "1": {
+      "item": "archiblock_two:clay_shingles"
+    },
+    "2": {
+      "item": "archiblock_two:clay_shingles"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:clay_shingles_slab",
+    "count": 1
+  }
+}

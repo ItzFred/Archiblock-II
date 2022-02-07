@@ -9,9 +9,7 @@ import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.BlockGetter;
-import net.minecraft.world.item.TieredItem;
 import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.entity.player.Player;
 import net.minecraft.core.BlockPos;
 
 import java.util.List;
@@ -19,7 +17,7 @@ import java.util.Collections;
 
 public class AndesiteBlockBlock extends Block {
 	public AndesiteBlockBlock() {
-		super(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.STONE).strength(1.5f, 6f).requiresCorrectToolForDrops());
+		super(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.STONE).strength(1.5f, 6f));
 		setRegistryName("andesite_block");
 	}
 
@@ -31,13 +29,6 @@ public class AndesiteBlockBlock extends Block {
 	@Override
 	public MaterialColor defaultMaterialColor() {
 		return MaterialColor.STONE;
-	}
-
-	@Override
-	public boolean canHarvestBlock(BlockState state, BlockGetter world, BlockPos pos, Player player) {
-		if (player.getInventory().getSelected().getItem()instanceof TieredItem tieredItem)
-			return tieredItem.getTier().getLevel() >= 0;
-		return false;
 	}
 
 	@Override

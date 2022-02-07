@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "slantedshinglesidetop",
+        "1": "slantedclayshinglessidebottom",
+        "2": "clayshinglesside"
+      },
+      "name": "default"
+    }
+  }
+}

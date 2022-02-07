@@ -4,14 +4,19 @@
  */
 package net.mcreator.archiblocktwo.init;
 
+import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.event.RegistryEvent;
+import net.minecraftforge.api.distmarker.Dist;
 
 import net.minecraft.world.level.block.Block;
 
 import net.mcreator.archiblocktwo.block.YellowSpoolBlock;
 import net.mcreator.archiblocktwo.block.WhiteSpoolBlock;
+import net.mcreator.archiblocktwo.block.SmallClayBrickTilesBlock;
+import net.mcreator.archiblocktwo.block.SlantedShinglesSideBlock;
+import net.mcreator.archiblocktwo.block.SlantedClayShinglesBlock;
 import net.mcreator.archiblocktwo.block.RedSpoolBlock;
 import net.mcreator.archiblocktwo.block.PurpleSpoolBlock;
 import net.mcreator.archiblocktwo.block.PinkSpoolBlock;
@@ -44,12 +49,18 @@ import net.mcreator.archiblocktwo.block.CutGraniteStairsBlock;
 import net.mcreator.archiblocktwo.block.CutGraniteSlabBlock;
 import net.mcreator.archiblocktwo.block.CutGraniteBlock;
 import net.mcreator.archiblocktwo.block.CutDioriteBlock;
+import net.mcreator.archiblocktwo.block.ClayShinglesSlabBlock;
+import net.mcreator.archiblocktwo.block.ClayShinglesBlock;
+import net.mcreator.archiblocktwo.block.ClayBrickTilesBlock;
+import net.mcreator.archiblocktwo.block.ClayBrickPavementBlock;
+import net.mcreator.archiblocktwo.block.ClayBrickBlockBlock;
 import net.mcreator.archiblocktwo.block.ChiselledGraniteBlock;
 import net.mcreator.archiblocktwo.block.ChiselledDioriteBlock;
 import net.mcreator.archiblocktwo.block.ChiselledAndesiteBlock;
 import net.mcreator.archiblocktwo.block.BrownSpoolBlock;
 import net.mcreator.archiblocktwo.block.BlueSpoolBlock;
 import net.mcreator.archiblocktwo.block.BlackSpoolBlock;
+import net.mcreator.archiblocktwo.block.BigClayBricksBlock;
 import net.mcreator.archiblocktwo.block.AndesiteTilesBlock;
 import net.mcreator.archiblocktwo.block.AndesiteSmallBricksBlock;
 import net.mcreator.archiblocktwo.block.AndesitePillarBlock;
@@ -78,8 +89,24 @@ public class ArchiblockTwoModBlocks {
 	public static final Block ANDESITE_BLOCK_SLAB = register(new AndesiteBlockSlabBlock());
 	public static final Block ANDESITE_BRICK_STAIRS = register(new AndesiteBrickStairsBlock());
 	public static final Block ANDESITE_BRICK_SLAB = register(new AndesiteBrickSlabBlock());
+	public static final Block RED_SPOOL = register(new RedSpoolBlock());
+	public static final Block ORANGE_SPOOL = register(new OrangeSpoolBlock());
+	public static final Block YELLOW_SPOOL = register(new YellowSpoolBlock());
+	public static final Block WHITE_SPOOL = register(new WhiteSpoolBlock());
+	public static final Block PINK_SPOOL = register(new PinkSpoolBlock());
+	public static final Block MAGENTA_SPOOL = register(new MagentaSpoolBlock());
+	public static final Block PURPLE_SPOOL = register(new PurpleSpoolBlock());
+	public static final Block BLUE_SPOOL = register(new BlueSpoolBlock());
 	public static final Block ANDESITE_BLOCK_WALL = register(new AndesiteBlockWallBlock());
+	public static final Block CYAN_SPOOL = register(new CyanSpoolBlock());
 	public static final Block ANDESITE_BRICK_WALL = register(new AndesiteBrickWallBlock());
+	public static final Block LIGHT_BLUE_SPOOL = register(new LightBlueSpoolBlock());
+	public static final Block LIME_SPOOL = register(new LimeSpoolBlock());
+	public static final Block GREEN_SPOOL = register(new GreenSpoolBlock());
+	public static final Block BROWN_SPOOL = register(new BrownSpoolBlock());
+	public static final Block BLACK_SPOOL = register(new BlackSpoolBlock());
+	public static final Block GRAY_SPOOL = register(new GraySpoolBlock());
+	public static final Block LIGHT_GRAY_SPOOL = register(new LightGraySpoolBlock());
 	public static final Block CUT_GRANITE = register(new CutGraniteBlock());
 	public static final Block GRANITE_BRICKS = register(new GraniteBricksBlock());
 	public static final Block GRANITE_TILES = register(new GraniteTilesBlock());
@@ -103,22 +130,15 @@ public class ArchiblockTwoModBlocks {
 	public static final Block DIORITE_BRICK_SLAB = register(new DioriteBrickSlabBlock());
 	public static final Block DIORITE_TILE_SLAB = register(new DioriteTileSlabBlock());
 	public static final Block DIORITE_TILE_STAIRS = register(new DioriteTileStairsBlock());
-	public static final Block RED_SPOOL = register(new RedSpoolBlock());
-	public static final Block ORANGE_SPOOL = register(new OrangeSpoolBlock());
-	public static final Block YELLOW_SPOOL = register(new YellowSpoolBlock());
-	public static final Block WHITE_SPOOL = register(new WhiteSpoolBlock());
-	public static final Block PINK_SPOOL = register(new PinkSpoolBlock());
-	public static final Block MAGENTA_SPOOL = register(new MagentaSpoolBlock());
-	public static final Block PURPLE_SPOOL = register(new PurpleSpoolBlock());
-	public static final Block BLUE_SPOOL = register(new BlueSpoolBlock());
-	public static final Block CYAN_SPOOL = register(new CyanSpoolBlock());
-	public static final Block LIGHT_BLUE_SPOOL = register(new LightBlueSpoolBlock());
-	public static final Block LIME_SPOOL = register(new LimeSpoolBlock());
-	public static final Block GREEN_SPOOL = register(new GreenSpoolBlock());
-	public static final Block BROWN_SPOOL = register(new BrownSpoolBlock());
-	public static final Block BLACK_SPOOL = register(new BlackSpoolBlock());
-	public static final Block GRAY_SPOOL = register(new GraySpoolBlock());
-	public static final Block LIGHT_GRAY_SPOOL = register(new LightGraySpoolBlock());
+	public static final Block BIG_CLAY_BRICKS = register(new BigClayBricksBlock());
+	public static final Block CLAY_BRICK_BLOCK = register(new ClayBrickBlockBlock());
+	public static final Block CLAY_BRICK_TILES = register(new ClayBrickTilesBlock());
+	public static final Block CLAY_BRICK_PAVEMENT = register(new ClayBrickPavementBlock());
+	public static final Block SMALL_CLAY_BRICK_TILES = register(new SmallClayBrickTilesBlock());
+	public static final Block CLAY_SHINGLES = register(new ClayShinglesBlock());
+	public static final Block CLAY_SHINGLES_SLAB = register(new ClayShinglesSlabBlock());
+	public static final Block SLANTED_CLAY_SHINGLES = register(new SlantedClayShinglesBlock());
+	public static final Block SLANTED_SHINGLES_SIDE = register(new SlantedShinglesSideBlock());
 
 	private static Block register(Block block) {
 		REGISTRY.add(block);
@@ -128,5 +148,14 @@ public class ArchiblockTwoModBlocks {
 	@SubscribeEvent
 	public static void registerBlocks(RegistryEvent.Register<Block> event) {
 		event.getRegistry().registerAll(REGISTRY.toArray(new Block[0]));
+	}
+
+	@Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
+	public static class ClientSideHandler {
+		@SubscribeEvent
+		public static void clientSetup(FMLClientSetupEvent event) {
+			SlantedClayShinglesBlock.registerRenderLayer();
+			SlantedShinglesSideBlock.registerRenderLayer();
+		}
 	}
 }
