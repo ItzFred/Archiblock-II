@@ -1,0 +1,16 @@
+{
+  "group": "stone_tiles",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:cut_stone"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:stone_tiles",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "group": "cracked_cut_stone",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "archiblock_two:cut_stone"
+  },
+  "result": "archiblock_two:cracked_cut_stone"
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "cut_stone_stairs",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CutStone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CutStone"
+      },
+      {
+        "value": "CUSTOM:CutStone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CutStone"
+      },
+      {
+        "value": "CUSTOM:CutStone"
+      },
+      {
+        "value": "CUSTOM:CutStone"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CutStoneStairs"
+    },
+    "name": "cut_stone_stairs_r_2",
+    "namespace": "mod"
+  }
+}

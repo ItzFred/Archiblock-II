@@ -1672,6 +1672,402 @@
       "locked_code": false,
       "registry_name": "cut_stone",
       "path": "~/Stone Type Blocks/Stone"
+    },
+    {
+      "name": "SmallStoneBricks",
+      "type": "block",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_stone_bricks",
+      "path": "~/Stone Type Blocks/Stone"
+    },
+    {
+      "name": "StonePillar",
+      "type": "block",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillar",
+      "path": "~/Stone Type Blocks/Stone"
+    },
+    {
+      "name": "StoneTiles",
+      "type": "block",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_tiles",
+      "path": "~/Stone Type Blocks/Stone"
+    },
+    {
+      "name": "CrackedCutStone",
+      "type": "block",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_cut_stone",
+      "path": "~/Stone Type Blocks/Stone"
+    },
+    {
+      "name": "MossyCrackedStone",
+      "type": "block",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mossy_cracked_stone",
+      "path": "~/Stone Type Blocks/Stone"
+    },
+    {
+      "name": "MossySmallStoneBricks",
+      "type": "block",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mossy_small_stone_bricks",
+      "path": "~/Stone Type Blocks/Stone"
+    },
+    {
+      "name": "CrackedStonePillar",
+      "type": "block",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_stone_pillar",
+      "path": "~/Stone Type Blocks/Stone"
+    },
+    {
+      "name": "MossyStonePillar",
+      "type": "block",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mossy_stone_pillar",
+      "path": "~/Stone Type Blocks/Stone"
+    },
+    {
+      "name": "CrackedStoneTiles",
+      "type": "block",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_stone_tiles",
+      "path": "~/Stone Type Blocks/Stone"
+    },
+    {
+      "name": "MossyStoneTiles",
+      "type": "block",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mossy_stone_tiles",
+      "path": "~/Stone Type Blocks/Stone"
+    },
+    {
+      "name": "CutStoneStairs",
+      "type": "block",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_stone_stairs",
+      "path": "~/Stone Type Blocks/Stone"
+    },
+    {
+      "name": "CutStoneSlab",
+      "type": "block",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_stone_slab",
+      "path": "~/Stone Type Blocks/Stone"
+    },
+    {
+      "name": "CutStoneWall",
+      "type": "block",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_stone_wall",
+      "path": "~/Stone Type Blocks/Stone"
+    },
+    {
+      "name": "CutStoneR",
+      "type": "recipe",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_stone_r",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "MossyCutStoneR",
+      "type": "recipe",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mossy_cut_stone_r",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "CrackedCutStoneR",
+      "type": "recipe",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_cut_stone_r",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "CrackedCutStoneR1",
+      "type": "recipe",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_cut_stone_r_1",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "CutStoneStairsR",
+      "type": "recipe",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_stone_stairs_r",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "CutStoneStairsR1",
+      "type": "recipe",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_stone_stairs_r_1",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "CutStoneStairsR2",
+      "type": "recipe",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_stone_stairs_r_2",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "CutStoneSlabR",
+      "type": "recipe",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_stone_slab_r",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "CutStoneSlabR1",
+      "type": "recipe",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_stone_slab_r_1",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "CutStoneSlabR2",
+      "type": "recipe",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_stone_slab_r_2",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "CutStoneWallR",
+      "type": "recipe",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_stone_wall_r",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "CutStoneWallR1",
+      "type": "recipe",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_stone_wall_r_1",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "CutStoneWallR2",
+      "type": "recipe",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_stone_wall_r_2",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "SmallStoneBricksR",
+      "type": "recipe",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_stone_bricks_r",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "SmallStoneBricksR1",
+      "type": "recipe",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_stone_bricks_r_1",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "SmallStoneBricksR2",
+      "type": "recipe",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_stone_bricks_r_2",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "MossySmallStoneBricksR",
+      "type": "recipe",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mossy_small_stone_bricks_r",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "StoneTilesR",
+      "type": "recipe",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_tiles_r",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "StoneTilesR1",
+      "type": "recipe",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_tiles_r_1",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "StoneTilesR2",
+      "type": "recipe",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_tiles_r_2",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "CrackedStoneTilesR",
+      "type": "recipe",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_stone_tiles_r",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "CrackedStoneTilesR1",
+      "type": "recipe",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_stone_tiles_r_1",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "CrackedStoneTilesR2",
+      "type": "recipe",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_stone_tiles_r_2",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "MossyStoneTilesR",
+      "type": "recipe",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mossy_stone_tiles_r",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "StonePillarR",
+      "type": "recipe",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillar_r",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "StonePillarR1",
+      "type": "recipe",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillar_r_1",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "StonePillarR2",
+      "type": "recipe",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillar_r_2",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "CrackedStonePillarR",
+      "type": "recipe",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_stone_pillar_r",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "CrackedStonePillarR1",
+      "type": "recipe",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_stone_pillar_r_1",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "CrackedStonePillarR2",
+      "type": "recipe",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_stone_pillar_r_2",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "MossyStonePillarR",
+      "type": "recipe",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mossy_stone_pillar_r",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
     }
   ],
   "variable_elements": [],
@@ -1690,6 +2086,7 @@
       "block.archiblock_two.brown_spool": "Brown Spool",
       "block.archiblock_two.diorite_tiles": "Diorite Tiles",
       "block.archiblock_two.andesite_block": "Cut Andesite",
+      "block.archiblock_two.mossy_small_stone_bricks": "Mossy Small Stone Bricks",
       "block.archiblock_two.cyan_spool": "Cyan Spool",
       "block.archiblock_two.slanted_shingles_side": "Slanted Clay Shingles Side",
       "block.archiblock_two.clay_shingles_slab": "Clay Shingles Slab",
@@ -1703,14 +2100,21 @@
       "block.archiblock_two.lime_spool": "Lime Spool",
       "block.archiblock_two.granite_brick_stairs": "Granite Brick Stairs",
       "block.archiblock_two.andesite_block_slab": "Andesite Block Slab",
+      "block.archiblock_two.cut_stone_slab": "Cut Stone Slab",
+      "block.archiblock_two.mossy_stone_pillar": "Mossy Stone Pillar",
       "block.archiblock_two.magenta_spool": "Magenta Spool",
       "block.archiblock_two.gray_spool": "Gray Spool",
       "block.archiblock_two.diorite_tile_slab": "Diorite Tile Slab",
+      "block.archiblock_two.stone_tiles": "Stone Tiles",
       "block.archiblock_two.diorite_pillar": "Diorite Pillar",
+      "block.archiblock_two.stone_pillar": "Stone Pillar",
+      "block.archiblock_two.mossy_stone_tiles": "Mossy Stone Tiles",
       "block.archiblock_two.pink_spool": "Pink Spool",
       "block.archiblock_two.andesite_brick_stairs": "Andesite Brick Stairs",
       "block.archiblock_two.diorite_brick_stairs": "Diorite Brick Stairs",
       "block.archiblock_two.chiselled_andesite": "Chiselled Andesite",
+      "block.archiblock_two.cracked_stone_tiles": "Cracked Stone Tiles",
+      "block.archiblock_two.small_stone_bricks": "Small Stone Bricks",
       "block.archiblock_two.fancy_diorite_pillar": "Carved Diorite Pillar",
       "block.archiblock_two.yellow_spool": "Yellow Spool",
       "block.archiblock_two.white_spool": "White Spool",
@@ -1719,14 +2123,18 @@
       "block.archiblock_two.andesite_pillar": "Andesite Pillar",
       "block.archiblock_two.orange_spool": "Orange Spool",
       "block.archiblock_two.clay_brick_pavement": "Clay Brick Pavement",
+      "block.archiblock_two.cracked_cut_stone": "Cracked Cut Stone",
       "block.archiblock_two.granite_bricks": "Granite Bricks",
       "block.archiblock_two.black_spool": "Black Spool",
       "block.archiblock_two.clay_shingles": "Clay Shingles",
+      "block.archiblock_two.cut_stone_wall": "Cut Stone Wall",
       "block.archiblock_two.andesite_block_wall": "Andesite Block Wall",
       "block.archiblock_two.chiselled_granite": "Chiselled Granite",
       "block.archiblock_two.granite_tiles": "Granite Tiles",
       "block.archiblock_two.slanted_clay_shingles": "Slanted Clay Shingles",
       "block.archiblock_two.cut_stone": "Cut Stone",
+      "block.archiblock_two.mossy_cracked_stone": "Mossy Cut Stone",
+      "block.archiblock_two.cracked_stone_pillar": "Cracked Stone Pillar",
       "block.archiblock_two.andesite_block_stairs": "Andesite Block Stairs",
       "block.archiblock_two.diorite_tile_stairs": "Diorite Tile Stairs",
       "block.archiblock_two.red_spool": "Red Spool",
@@ -1736,6 +2144,7 @@
       "block.archiblock_two.cut_granite": "Cut Granite",
       "block.archiblock_two.cut_granite_wall": "Cut Granite Wall",
       "subtitles.lolol": "ZAMN",
+      "block.archiblock_two.cut_stone_stairs": "Cut Stone Stairs",
       "block.archiblock_two.purple_spool": "Purple Spool",
       "block.archiblock_two.light_blue_spool": "Light Blue Spool",
       "block.archiblock_two.big_clay_bricks": "Big Clay Bricks",
@@ -1816,7 +2225,12 @@
           },
           {
             "name": "Stone",
-            "children": []
+            "children": [
+              {
+                "name": "Recipes",
+                "children": []
+              }
+            ]
           }
         ]
       }

@@ -89,6 +89,20 @@ public class ArchiblockTwoModItems {
 	public static final Item SLANTED_SHINGLES_SIDE = register(ArchiblockTwoModBlocks.SLANTED_SHINGLES_SIDE,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CUT_STONE = register(ArchiblockTwoModBlocks.CUT_STONE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMALL_STONE_BRICKS = register(ArchiblockTwoModBlocks.SMALL_STONE_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item STONE_PILLAR = register(ArchiblockTwoModBlocks.STONE_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item STONE_TILES = register(ArchiblockTwoModBlocks.STONE_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CRACKED_CUT_STONE = register(ArchiblockTwoModBlocks.CRACKED_CUT_STONE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MOSSY_CRACKED_STONE = register(ArchiblockTwoModBlocks.MOSSY_CRACKED_STONE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MOSSY_SMALL_STONE_BRICKS = register(ArchiblockTwoModBlocks.MOSSY_SMALL_STONE_BRICKS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CRACKED_STONE_PILLAR = register(ArchiblockTwoModBlocks.CRACKED_STONE_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MOSSY_STONE_PILLAR = register(ArchiblockTwoModBlocks.MOSSY_STONE_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CRACKED_STONE_TILES = register(ArchiblockTwoModBlocks.CRACKED_STONE_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MOSSY_STONE_TILES = register(ArchiblockTwoModBlocks.MOSSY_STONE_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CUT_STONE_STAIRS = register(ArchiblockTwoModBlocks.CUT_STONE_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CUT_STONE_SLAB = register(ArchiblockTwoModBlocks.CUT_STONE_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CUT_STONE_WALL = register(ArchiblockTwoModBlocks.CUT_STONE_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

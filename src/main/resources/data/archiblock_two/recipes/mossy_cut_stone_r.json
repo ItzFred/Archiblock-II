@@ -1,0 +1,16 @@
+{
+  "group": "mossy_cut_stone",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "archiblock_two:cut_stone"
+    },
+    {
+      "item": "minecraft:vine"
+    }
+  ],
+  "result": {
+    "item": "archiblock_two:mossy_cracked_stone",
+    "count": 1
+  }
+}

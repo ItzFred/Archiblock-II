@@ -45,6 +45,19 @@
     "archiblock_two:clay_shingles_slab",
     "archiblock_two:slanted_clay_shingles",
     "archiblock_two:slanted_shingles_side",
-    "archiblock_two:cut_stone"
+    "archiblock_two:cut_stone",
+    "archiblock_two:small_stone_bricks",
+    "archiblock_two:stone_pillar",
+    "archiblock_two:stone_tiles",
+    "archiblock_two:cracked_cut_stone",
+    "archiblock_two:mossy_cracked_stone",
+    "archiblock_two:mossy_small_stone_bricks",
+    "archiblock_two:cracked_stone_pillar",
+    "archiblock_two:mossy_stone_pillar",
+    "archiblock_two:cracked_stone_tiles",
+    "archiblock_two:mossy_stone_tiles",
+    "archiblock_two:cut_stone_stairs",
+    "archiblock_two:cut_stone_slab",
+    "archiblock_two:cut_stone_wall"
   ]
 }

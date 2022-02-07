@@ -1,0 +1,16 @@
+{
+  "group": "mossy_small_stone_bricks",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "archiblock_two:small_stone_bricks"
+    },
+    {
+      "item": "minecraft:vine"
+    }
+  ],
+  "result": {
+    "item": "archiblock_two:mossy_small_stone_bricks",
+    "count": 1
+  }
+}
