@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cyan_wool"
+    },
+    "1": {
+      "item": "minecraft:cyan_wool"
+    },
+    "2": {
+      "item": "minecraft:cyan_wool"
+    },
+    "3": {
+      "item": "minecraft:cyan_wool"
+    },
+    "4": {
+      "tag": "items:planks"
+    },
+    "5": {
+      "item": "minecraft:cyan_wool"
+    },
+    "6": {
+      "item": "minecraft:cyan_wool"
+    },
+    "7": {
+      "item": "minecraft:cyan_wool"
+    },
+    "8": {
+      "item": "minecraft:cyan_wool"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:cyan_spool",
+    "count": 8
+  }
+}

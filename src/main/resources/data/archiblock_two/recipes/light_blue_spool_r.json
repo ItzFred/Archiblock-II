@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:light_blue_wool"
+    },
+    "1": {
+      "item": "minecraft:light_blue_wool"
+    },
+    "2": {
+      "item": "minecraft:light_blue_wool"
+    },
+    "3": {
+      "item": "minecraft:light_blue_wool"
+    },
+    "4": {
+      "tag": "items:planks"
+    },
+    "5": {
+      "item": "minecraft:light_blue_wool"
+    },
+    "6": {
+      "item": "minecraft:light_blue_wool"
+    },
+    "7": {
+      "item": "minecraft:light_blue_wool"
+    },
+    "8": {
+      "item": "minecraft:light_blue_wool"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:light_blue_spool",
+    "count": 8
+  }
+}

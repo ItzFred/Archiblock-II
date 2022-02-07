@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "archiblock_two:blocks/spoolmagentatop",
+    "up": "archiblock_two:blocks/spoolmagentatop",
+    "north": "archiblock_two:blocks/spoolmagenta",
+    "east": "archiblock_two:blocks/spoolmagenta",
+    "south": "archiblock_two:blocks/spoolmagenta",
+    "west": "archiblock_two:blocks/spoolmagenta",
+    "particle": "archiblock_two:blocks/spoolmagentatop"
+  }
+}

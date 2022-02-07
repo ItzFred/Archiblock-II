@@ -59,6 +59,22 @@ public class ArchiblockTwoModItems {
 	public static final Item DIORITE_BRICK_SLAB = register(ArchiblockTwoModBlocks.DIORITE_BRICK_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item DIORITE_TILE_SLAB = register(ArchiblockTwoModBlocks.DIORITE_TILE_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item DIORITE_TILE_STAIRS = register(ArchiblockTwoModBlocks.DIORITE_TILE_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item RED_SPOOL = register(ArchiblockTwoModBlocks.RED_SPOOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ORANGE_SPOOL = register(ArchiblockTwoModBlocks.ORANGE_SPOOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item YELLOW_SPOOL = register(ArchiblockTwoModBlocks.YELLOW_SPOOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item WHITE_SPOOL = register(ArchiblockTwoModBlocks.WHITE_SPOOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item PINK_SPOOL = register(ArchiblockTwoModBlocks.PINK_SPOOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MAGENTA_SPOOL = register(ArchiblockTwoModBlocks.MAGENTA_SPOOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item PURPLE_SPOOL = register(ArchiblockTwoModBlocks.PURPLE_SPOOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item BLUE_SPOOL = register(ArchiblockTwoModBlocks.BLUE_SPOOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CYAN_SPOOL = register(ArchiblockTwoModBlocks.CYAN_SPOOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item LIGHT_BLUE_SPOOL = register(ArchiblockTwoModBlocks.LIGHT_BLUE_SPOOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item LIME_SPOOL = register(ArchiblockTwoModBlocks.LIME_SPOOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item GREEN_SPOOL = register(ArchiblockTwoModBlocks.GREEN_SPOOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item BROWN_SPOOL = register(ArchiblockTwoModBlocks.BROWN_SPOOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item BLACK_SPOOL = register(ArchiblockTwoModBlocks.BLACK_SPOOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item GRAY_SPOOL = register(ArchiblockTwoModBlocks.GRAY_SPOOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item LIGHT_GRAY_SPOOL = register(ArchiblockTwoModBlocks.LIGHT_GRAY_SPOOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item SUS = register(new SusItem());
 
 	private static Item register(Item item) {
