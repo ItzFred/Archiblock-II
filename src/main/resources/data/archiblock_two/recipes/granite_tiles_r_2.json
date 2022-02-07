@@ -1,0 +1,19 @@
+{
+  "group": "granite_tiles_r",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:cut_granite"
+    },
+    "1": {
+      "item": "archiblock_two:cut_granite"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:granite_tiles",
+    "count": 2
+  }
+}

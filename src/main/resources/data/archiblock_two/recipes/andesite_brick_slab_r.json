@@ -1,0 +1,9 @@
+{
+  "group": "andesite_brick_slab_r",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "minecraft:andesite"
+  },
+  "result": "archiblock_two:andesite_brick_slab"
+}

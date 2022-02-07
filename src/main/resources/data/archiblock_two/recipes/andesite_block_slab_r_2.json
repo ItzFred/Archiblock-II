@@ -1,0 +1,22 @@
+{
+  "group": "andesite_block_slab_r",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:andesite_block"
+    },
+    "1": {
+      "item": "archiblock_two:andesite_block"
+    },
+    "2": {
+      "item": "archiblock_two:andesite_block"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:andesite_block_slab",
+    "count": 6
+  }
+}

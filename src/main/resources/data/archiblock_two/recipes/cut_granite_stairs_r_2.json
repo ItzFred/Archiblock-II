@@ -1,0 +1,33 @@
+{
+  "group": "cut_granite_stairs_r",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:cut_granite"
+    },
+    "3": {
+      "item": "archiblock_two:cut_granite"
+    },
+    "4": {
+      "item": "archiblock_two:cut_granite"
+    },
+    "6": {
+      "item": "archiblock_two:cut_granite"
+    },
+    "7": {
+      "item": "archiblock_two:cut_granite"
+    },
+    "8": {
+      "item": "archiblock_two:cut_granite"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:cut_granite_stairs",
+    "count": 3
+  }
+}

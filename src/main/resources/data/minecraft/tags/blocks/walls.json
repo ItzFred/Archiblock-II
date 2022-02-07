@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "archiblock_two:granite_brick_wall",
+    "archiblock_two:andesite_brick_wall",
+    "archiblock_two:cut_granite_wall",
+    "archiblock_two:andesite_block_wall"
+  ]
+}

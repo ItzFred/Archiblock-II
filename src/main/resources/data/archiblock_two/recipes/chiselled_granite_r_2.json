@@ -1,0 +1,16 @@
+{
+  "group": "chiselled_granite_r",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:cut_granite"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:chiselled_granite",
+    "count": 1
+  }
+}

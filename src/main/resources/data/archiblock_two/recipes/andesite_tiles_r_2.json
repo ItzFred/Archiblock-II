@@ -1,0 +1,19 @@
+{
+  "group": "andesite_tiles_r",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:andesite_block"
+    },
+    "1": {
+      "item": "archiblock_two:andesite_block"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:andesite_tiles",
+    "count": 2
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "group": "granite_brick_stairs_r",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:granite_bricks"
+    },
+    "3": {
+      "item": "archiblock_two:granite_bricks"
+    },
+    "4": {
+      "item": "archiblock_two:granite_bricks"
+    },
+    "6": {
+      "item": "archiblock_two:granite_bricks"
+    },
+    "7": {
+      "item": "archiblock_two:granite_bricks"
+    },
+    "8": {
+      "item": "archiblock_two:granite_bricks"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:granite_brick_stairs",
+    "count": 3
+  }
+}

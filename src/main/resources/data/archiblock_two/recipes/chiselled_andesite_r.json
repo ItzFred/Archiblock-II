@@ -1,0 +1,9 @@
+{
+  "group": "chiselled_andesite_r",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:andesite"
+  },
+  "result": "archiblock_two:chiselled_andesite"
+}

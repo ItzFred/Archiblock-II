@@ -1,0 +1,9 @@
+{
+  "group": "granite_brick_wall_r",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:granite"
+  },
+  "result": "archiblock_two:granite_brick_wall"
+}

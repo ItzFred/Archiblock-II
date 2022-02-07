@@ -1,0 +1,32 @@
+{
+  "group": "andesite_brick_wall_r",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:andesite_bricks"
+    },
+    "1": {
+      "item": "archiblock_two:andesite_bricks"
+    },
+    "2": {
+      "item": "archiblock_two:andesite_bricks"
+    },
+    "3": {
+      "item": "archiblock_two:andesite_bricks"
+    },
+    "4": {
+      "item": "archiblock_two:andesite_bricks"
+    },
+    "5": {
+      "item": "archiblock_two:andesite_bricks"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:andesite_brick_wall",
+    "count": 6
+  }
+}

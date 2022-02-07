@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "archiblock_two:blocks/graniteblock",
+    "particle": "archiblock_two:blocks/graniteblock"
+  }
+}

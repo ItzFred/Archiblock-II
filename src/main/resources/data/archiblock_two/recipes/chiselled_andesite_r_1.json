@@ -1,0 +1,13 @@
+{
+  "group": "chiselled_andesite_r",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "archiblock_two:andesite_block"
+    }
+  ],
+  "result": {
+    "item": "archiblock_two:chiselled_andesite",
+    "count": 1
+  }
+}

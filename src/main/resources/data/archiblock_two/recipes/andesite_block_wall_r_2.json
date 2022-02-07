@@ -1,0 +1,32 @@
+{
+  "group": "andesite_block_wall_r",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:andesite_block"
+    },
+    "1": {
+      "item": "archiblock_two:andesite_block"
+    },
+    "2": {
+      "item": "archiblock_two:andesite_block"
+    },
+    "3": {
+      "item": "archiblock_two:andesite_block"
+    },
+    "4": {
+      "item": "archiblock_two:andesite_block"
+    },
+    "5": {
+      "item": "archiblock_two:andesite_block"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:andesite_block_wall",
+    "count": 6
+  }
+}

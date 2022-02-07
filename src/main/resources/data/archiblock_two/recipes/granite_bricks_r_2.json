@@ -1,0 +1,26 @@
+{
+  "group": "granite_bricks_r",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:cut_granite"
+    },
+    "1": {
+      "item": "archiblock_two:cut_granite"
+    },
+    "2": {
+      "item": "archiblock_two:cut_granite"
+    },
+    "3": {
+      "item": "archiblock_two:cut_granite"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:granite_bricks",
+    "count": 4
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "group": "andesite_block_stairs_r",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "archiblock_two:andesite_block"
+  },
+  "result": "archiblock_two:andesite_block_stairs"
+}

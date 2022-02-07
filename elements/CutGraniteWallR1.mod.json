@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "cut_granite_wall_r",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:CutGranite"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:CutGraniteWall"
+    },
+    "name": "cut_granite_wall_r_1",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "group": "granite__cut_pillar_r",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "archiblock_two:granite_pillar"
+  },
+  "result": "archiblock_two:granite_cut_pillar"
+}

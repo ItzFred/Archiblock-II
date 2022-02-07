@@ -1,0 +1,32 @@
+{
+  "group": "cut_granite_wall_r",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:cut_granite"
+    },
+    "1": {
+      "item": "archiblock_two:cut_granite"
+    },
+    "2": {
+      "item": "archiblock_two:cut_granite"
+    },
+    "3": {
+      "item": "archiblock_two:cut_granite"
+    },
+    "4": {
+      "item": "archiblock_two:cut_granite"
+    },
+    "5": {
+      "item": "archiblock_two:cut_granite"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:cut_granite_wall",
+    "count": 6
+  }
+}

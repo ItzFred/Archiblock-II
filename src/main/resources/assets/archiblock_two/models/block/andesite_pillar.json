@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "archiblock_two:blocks/chiselledandesite",
+    "up": "archiblock_two:blocks/chiselledandesite",
+    "north": "archiblock_two:blocks/andesitepillar",
+    "east": "archiblock_two:blocks/andesitepillar",
+    "south": "archiblock_two:blocks/andesitepillar",
+    "west": "archiblock_two:blocks/andesitepillar",
+    "particle": "archiblock_two:blocks/chiselledandesite"
+  }
+}

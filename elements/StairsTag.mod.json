@@ -1,0 +1,26 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:AndesiteBlockStairs"
+      },
+      {
+        "value": "CUSTOM:AndesiteBrickStairs"
+      },
+      {
+        "value": "CUSTOM:CutGraniteStairs"
+      },
+      {
+        "value": "CUSTOM:GraniteBrickStairs"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "stairs",
+    "namespace": "minecraft"
+  }
+}

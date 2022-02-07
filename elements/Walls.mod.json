@@ -1,0 +1,26 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:AndesiteBlockWall"
+      },
+      {
+        "value": "CUSTOM:AndesiteBrickWall"
+      },
+      {
+        "value": "CUSTOM:CutGraniteWall"
+      },
+      {
+        "value": "CUSTOM:GraniteBrickWall"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "walls",
+    "namespace": "minecraft"
+  }
+}

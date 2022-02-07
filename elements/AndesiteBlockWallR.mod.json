@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "andesite_block_wall_r",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "Blocks.STONE#5"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:AndesiteBlockWall"
+    },
+    "name": "andesite_block_wall_r",
+    "namespace": "mod"
+  }
+}

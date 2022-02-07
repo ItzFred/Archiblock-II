@@ -1,0 +1,9 @@
+{
+  "group": "andesite_small_bricks_r",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:andesite"
+  },
+  "result": "archiblock_two:andesite_small_bricks"
+}

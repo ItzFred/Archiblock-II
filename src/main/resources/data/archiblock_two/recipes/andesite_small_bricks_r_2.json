@@ -1,0 +1,26 @@
+{
+  "group": "andesite_small_bricks_r",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:andesite_bricks"
+    },
+    "1": {
+      "item": "archiblock_two:andesite_bricks"
+    },
+    "2": {
+      "item": "archiblock_two:andesite_bricks"
+    },
+    "3": {
+      "item": "archiblock_two:andesite_bricks"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:andesite_small_bricks",
+    "count": 4
+  }
+}

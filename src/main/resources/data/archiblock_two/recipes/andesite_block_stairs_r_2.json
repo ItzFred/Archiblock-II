@@ -1,0 +1,33 @@
+{
+  "group": "andesite_block_stairs_r",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:andesite_block"
+    },
+    "3": {
+      "item": "archiblock_two:andesite_block"
+    },
+    "4": {
+      "item": "archiblock_two:andesite_block"
+    },
+    "6": {
+      "item": "archiblock_two:andesite_block"
+    },
+    "7": {
+      "item": "archiblock_two:andesite_block"
+    },
+    "8": {
+      "item": "archiblock_two:andesite_block"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:andesite_block_stairs",
+    "count": 3
+  }
+}

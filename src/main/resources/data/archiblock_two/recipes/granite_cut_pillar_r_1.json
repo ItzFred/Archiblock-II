@@ -1,0 +1,16 @@
+{
+  "group": "granite__cut_pillar_r",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:granite_pillar"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:granite_cut_pillar",
+    "count": 1
+  }
+}
