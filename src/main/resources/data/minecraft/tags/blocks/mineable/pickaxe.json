@@ -1,6 +1,31 @@
 {
   "replace": false,
   "values": [
+    "archiblock_two:andesite_block",
+    "archiblock_two:andesite_bricks",
+    "archiblock_two:andesite_small_bricks",
+    "archiblock_two:andesite_pillar",
+    "archiblock_two:andesite_tiles",
+    "archiblock_two:chiselled_andesite",
+    "archiblock_two:andesite_block_stairs",
+    "archiblock_two:andesite_block_slab",
+    "archiblock_two:andesite_brick_stairs",
+    "archiblock_two:andesite_brick_slab",
+    "archiblock_two:andesite_block_wall",
+    "archiblock_two:andesite_brick_wall",
+    "archiblock_two:cut_granite",
+    "archiblock_two:granite_bricks",
+    "archiblock_two:granite_tiles",
+    "archiblock_two:chiselled_granite",
+    "archiblock_two:granite_pillar",
+    "archiblock_two:granite_cut_pillar",
+    "archiblock_two:granite_small_bricks",
+    "archiblock_two:cut_granite_stairs",
+    "archiblock_two:cut_granite_slab",
+    "archiblock_two:cut_granite_wall",
+    "archiblock_two:granite_brick_stairs",
+    "archiblock_two:granite_brick_slab",
+    "archiblock_two:granite_brick_wall",
     "archiblock_two:cut_diorite",
     "archiblock_two:diorite_bricks",
     "archiblock_two:diorite_tiles",
@@ -19,6 +44,7 @@
     "archiblock_two:clay_shingles",
     "archiblock_two:clay_shingles_slab",
     "archiblock_two:slanted_clay_shingles",
-    "archiblock_two:slanted_shingles_side"
+    "archiblock_two:slanted_shingles_side",
+    "archiblock_two:cut_stone"
   ]
 }

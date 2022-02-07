@@ -44,6 +44,7 @@ import net.mcreator.archiblocktwo.block.DioriteBricksBlock;
 import net.mcreator.archiblocktwo.block.DioriteBrickStairsBlock;
 import net.mcreator.archiblocktwo.block.DioriteBrickSlabBlock;
 import net.mcreator.archiblocktwo.block.CyanSpoolBlock;
+import net.mcreator.archiblocktwo.block.CutStoneBlock;
 import net.mcreator.archiblocktwo.block.CutGraniteWallBlock;
 import net.mcreator.archiblocktwo.block.CutGraniteStairsBlock;
 import net.mcreator.archiblocktwo.block.CutGraniteSlabBlock;
@@ -139,6 +140,7 @@ public class ArchiblockTwoModBlocks {
 	public static final Block CLAY_SHINGLES_SLAB = register(new ClayShinglesSlabBlock());
 	public static final Block SLANTED_CLAY_SHINGLES = register(new SlantedClayShinglesBlock());
 	public static final Block SLANTED_SHINGLES_SIDE = register(new SlantedShinglesSideBlock());
+	public static final Block CUT_STONE = register(new CutStoneBlock());
 
 	private static Block register(Block block) {
 		REGISTRY.add(block);

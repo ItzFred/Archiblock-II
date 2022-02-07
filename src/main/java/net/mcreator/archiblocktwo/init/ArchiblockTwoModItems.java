@@ -88,6 +88,7 @@ public class ArchiblockTwoModItems {
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item SLANTED_SHINGLES_SIDE = register(ArchiblockTwoModBlocks.SLANTED_SHINGLES_SIDE,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CUT_STONE = register(ArchiblockTwoModBlocks.CUT_STONE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

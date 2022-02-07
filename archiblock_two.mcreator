@@ -1221,7 +1221,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "green_spool_r",
-      "path": "~/Spool/Recipes"
+      "path": "~/OtherBlocks/Spool/Recipes"
     },
     {
       "name": "CyanSpool",
@@ -1230,7 +1230,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "cyan_spool",
-      "path": "~/Spool"
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "LightBlueSpool",
@@ -1239,7 +1239,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "light_blue_spool",
-      "path": "~/Spool"
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "MagentaSpool",
@@ -1248,7 +1248,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "magenta_spool",
-      "path": "~/Spool"
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "OrangeSpoolR",
@@ -1257,7 +1257,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_spool_r",
-      "path": "~/Spool/Recipes"
+      "path": "~/OtherBlocks/Spool/Recipes"
     },
     {
       "name": "RedSpoolR",
@@ -1266,7 +1266,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_spool_r",
-      "path": "~/Spool/Recipes"
+      "path": "~/OtherBlocks/Spool/Recipes"
     },
     {
       "name": "BlueSpool",
@@ -1275,7 +1275,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "blue_spool",
-      "path": "~/Spool"
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "LimeSpool",
@@ -1284,7 +1284,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "lime_spool",
-      "path": "~/Spool"
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "PurpleWool",
@@ -1293,7 +1293,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "purple_wool",
-      "path": "~/Spool/Recipes"
+      "path": "~/OtherBlocks/Spool/Recipes"
     },
     {
       "name": "BlackSpoolR",
@@ -1302,7 +1302,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "black_spool_r",
-      "path": "~/Spool/Recipes"
+      "path": "~/OtherBlocks/Spool/Recipes"
     },
     {
       "name": "PinkSpool",
@@ -1311,7 +1311,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_spool",
-      "path": "~/Spool"
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "BrownSpool",
@@ -1320,7 +1320,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "brown_spool",
-      "path": "~/Spool"
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "GreenSpool",
@@ -1329,7 +1329,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "green_spool",
-      "path": "~/Spool"
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "PurpleSpool",
@@ -1338,7 +1338,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "purple_spool",
-      "path": "~/Spool"
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "WhiteSpool",
@@ -1347,7 +1347,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "white_spool",
-      "path": "~/Spool"
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "YellowSpoolR",
@@ -1356,7 +1356,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_spool_r",
-      "path": "~/Spool/Recipes"
+      "path": "~/OtherBlocks/Spool/Recipes"
     },
     {
       "name": "CyanSpoolR",
@@ -1365,7 +1365,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "cyan_spool_r",
-      "path": "~/Spool/Recipes"
+      "path": "~/OtherBlocks/Spool/Recipes"
     },
     {
       "name": "PinkSpoolR",
@@ -1374,7 +1374,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_spool_r",
-      "path": "~/Spool/Recipes"
+      "path": "~/OtherBlocks/Spool/Recipes"
     },
     {
       "name": "OrangeSpool",
@@ -1383,7 +1383,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_spool",
-      "path": "~/Spool"
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "YellowSpool",
@@ -1392,7 +1392,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_spool",
-      "path": "~/Spool"
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "LightBlueSpoolR",
@@ -1401,7 +1401,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "light_blue_spool_r",
-      "path": "~/Spool/Recipes"
+      "path": "~/OtherBlocks/Spool/Recipes"
     },
     {
       "name": "LightGraySpoolR",
@@ -1410,7 +1410,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "light_gray_spool_r",
-      "path": "~/Spool/Recipes"
+      "path": "~/OtherBlocks/Spool/Recipes"
     },
     {
       "name": "BrownSpoolR",
@@ -1419,7 +1419,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "brown_spool_r",
-      "path": "~/Spool/Recipes"
+      "path": "~/OtherBlocks/Spool/Recipes"
     },
     {
       "name": "LightGraySpool",
@@ -1428,7 +1428,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "light_gray_spool",
-      "path": "~/Spool"
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "LimeSpoolR",
@@ -1437,7 +1437,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "lime_spool_r",
-      "path": "~/Spool/Recipes"
+      "path": "~/OtherBlocks/Spool/Recipes"
     },
     {
       "name": "MagentaSpoolR",
@@ -1446,7 +1446,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "magenta_spool_r",
-      "path": "~/Spool/Recipes"
+      "path": "~/OtherBlocks/Spool/Recipes"
     },
     {
       "name": "BlueSpoolR",
@@ -1455,7 +1455,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "blue_spool_r",
-      "path": "~/Spool/Recipes"
+      "path": "~/OtherBlocks/Spool/Recipes"
     },
     {
       "name": "GraySpool",
@@ -1464,7 +1464,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "gray_spool",
-      "path": "~/Spool"
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "WhiteSpoolR",
@@ -1473,7 +1473,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "white_spool_r",
-      "path": "~/Spool/Recipes"
+      "path": "~/OtherBlocks/Spool/Recipes"
     },
     {
       "name": "BlackSpool",
@@ -1482,7 +1482,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "black_spool",
-      "path": "~/Spool"
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "GraySpoolR",
@@ -1491,7 +1491,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "gray_spool_r",
-      "path": "~/Spool/Recipes"
+      "path": "~/OtherBlocks/Spool/Recipes"
     },
     {
       "name": "RedSpool",
@@ -1500,7 +1500,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_spool",
-      "path": "~/Spool"
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "ClayBrickPavementR",
@@ -1663,6 +1663,15 @@
       "locked_code": false,
       "registry_name": "clay_brick_block",
       "path": "~/OtherBlocks/Bricks"
+    },
+    {
+      "name": "CutStone",
+      "type": "block",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_stone",
+      "path": "~/Stone Type Blocks/Stone"
     }
   ],
   "variable_elements": [],
@@ -1678,8 +1687,12 @@
   ],
   "language_map": {
     "en_us": {
+      "block.archiblock_two.brown_spool": "Brown Spool",
       "block.archiblock_two.diorite_tiles": "Diorite Tiles",
       "block.archiblock_two.andesite_block": "Cut Andesite",
+      "block.archiblock_two.cyan_spool": "Cyan Spool",
+      "block.archiblock_two.slanted_shingles_side": "Slanted Clay Shingles Side",
+      "block.archiblock_two.clay_shingles_slab": "Clay Shingles Slab",
       "block.archiblock_two.andesite_tiles": "Andesite Tiles",
       "block.archiblock_two.cut_granite_stairs": "Cut Granite Stairs",
       "itemGroup.tabarchiblock_ii_tab": "Archiblock II ",
@@ -1687,36 +1700,58 @@
       "block.archiblock_two.diorite_brick_slab": "Diorite Brick Slab",
       "block.archiblock_two.andesite_brick_slab": "Andesite Brick Slab",
       "block.archiblock_two.cut_granite_slab": "Cut Granite Slab",
+      "block.archiblock_two.lime_spool": "Lime Spool",
       "block.archiblock_two.granite_brick_stairs": "Granite Brick Stairs",
       "block.archiblock_two.andesite_block_slab": "Andesite Block Slab",
+      "block.archiblock_two.magenta_spool": "Magenta Spool",
+      "block.archiblock_two.gray_spool": "Gray Spool",
       "block.archiblock_two.diorite_tile_slab": "Diorite Tile Slab",
       "block.archiblock_two.diorite_pillar": "Diorite Pillar",
+      "block.archiblock_two.pink_spool": "Pink Spool",
       "block.archiblock_two.andesite_brick_stairs": "Andesite Brick Stairs",
       "block.archiblock_two.diorite_brick_stairs": "Diorite Brick Stairs",
       "block.archiblock_two.chiselled_andesite": "Chiselled Andesite",
       "block.archiblock_two.fancy_diorite_pillar": "Carved Diorite Pillar",
+      "block.archiblock_two.yellow_spool": "Yellow Spool",
+      "block.archiblock_two.white_spool": "White Spool",
       "block.archiblock_two.chiselled_diorite": "Chiselled Diorite",
+      "block.archiblock_two.light_gray_spool": "Light Gray Spool",
       "block.archiblock_two.andesite_pillar": "Andesite Pillar",
+      "block.archiblock_two.orange_spool": "Orange Spool",
+      "block.archiblock_two.clay_brick_pavement": "Clay Brick Pavement",
       "block.archiblock_two.granite_bricks": "Granite Bricks",
+      "block.archiblock_two.black_spool": "Black Spool",
+      "block.archiblock_two.clay_shingles": "Clay Shingles",
       "block.archiblock_two.andesite_block_wall": "Andesite Block Wall",
       "block.archiblock_two.chiselled_granite": "Chiselled Granite",
       "block.archiblock_two.granite_tiles": "Granite Tiles",
+      "block.archiblock_two.slanted_clay_shingles": "Slanted Clay Shingles",
+      "block.archiblock_two.cut_stone": "Cut Stone",
       "block.archiblock_two.andesite_block_stairs": "Andesite Block Stairs",
       "block.archiblock_two.diorite_tile_stairs": "Diorite Tile Stairs",
+      "block.archiblock_two.red_spool": "Red Spool",
+      "block.archiblock_two.blue_spool": "Blue Spool",
       "block.archiblock_two.andesite_bricks": "Andesite Bricks",
       "block.archiblock_two.granite_brick_slab": "Granite Brick Slab",
       "block.archiblock_two.cut_granite": "Cut Granite",
       "block.archiblock_two.cut_granite_wall": "Cut Granite Wall",
       "subtitles.lolol": "ZAMN",
+      "block.archiblock_two.purple_spool": "Purple Spool",
+      "block.archiblock_two.light_blue_spool": "Light Blue Spool",
+      "block.archiblock_two.big_clay_bricks": "Big Clay Bricks",
       "block.archiblock_two.andesite_brick_wall": "Andesite Brick Wall",
       "block.archiblock_two.granite_cut_pillar": "Granite Cut Pillar",
+      "block.archiblock_two.small_clay_brick_tiles": "Small Clay Brick Tiles",
       "item.archiblock_two.sus": "Pandora Anamiya - Ass",
       "block.archiblock_two.granite_brick_wall": "Granite Brick Wall",
+      "block.archiblock_two.clay_brick_tiles": "Clay Brick Tiles",
       "block.archiblock_two.granite_small_bricks": "Granite Small Bricks",
       "block.archiblock_two.granite_pillar": "Granite Pillar",
+      "block.archiblock_two.clay_brick_block": "Clay Brick Block",
       "block.archiblock_two.cut_diorite": "Cut Diorite",
       "item.archiblock_two.sus.desc": "pandora when she sees dori, libido, zadkiel, ira, yingtao, etora and doremy",
-      "block.archiblock_two.andesite_small_bricks": "Andesite Small Bricks"
+      "block.archiblock_two.andesite_small_bricks": "Andesite Small Bricks",
+      "block.archiblock_two.green_spool": "Green Spool"
     }
   },
   "foldersRoot": {
@@ -1733,15 +1768,15 @@
                 "children": []
               }
             ]
-          }
-        ]
-      },
-      {
-        "name": "Spool",
-        "children": [
+          },
           {
-            "name": "Recipes",
-            "children": []
+            "name": "Spool",
+            "children": [
+              {
+                "name": "Recipes",
+                "children": []
+              }
+            ]
           }
         ]
       },
@@ -1778,6 +1813,10 @@
                 "children": []
               }
             ]
+          },
+          {
+            "name": "Stone",
+            "children": []
           }
         ]
       }
