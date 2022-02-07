@@ -2,7 +2,7 @@
   "_fv": 24,
   "_type": "block",
   "definition": {
-    "texture": "andesitebricks",
+    "texture": "dioritepavement",
     "textureTop": "andesiteblock",
     "textureLeft": "andesiteblock",
     "textureFront": "andesiteblock",
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Andesite Bricks",
+    "name": "Diorite Tiles",
     "specialInfo": [],
     "hardness": 1.5,
     "resistance": 6.0,

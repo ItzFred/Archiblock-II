@@ -2,10 +2,10 @@
   "_fv": 24,
   "_type": "block",
   "definition": {
-    "texture": "andesitebricks",
-    "textureTop": "andesiteblock",
+    "texture": "dioritebricks",
+    "textureTop": "dioritebricks",
     "textureLeft": "andesiteblock",
-    "textureFront": "andesiteblock",
+    "textureFront": "dioritebricks",
     "textureRight": "andesiteblock",
     "textureBack": "andesiteblock",
     "renderType": 11,
@@ -15,6 +15,7 @@
     "displayFluidOverlay": false,
     "itemTexture": "",
     "particleTexture": "",
+    "blockBase": "Slab",
     "tintType": "No tint",
     "isItemTinted": false,
     "hasTransparency": false,
@@ -32,7 +33,7 @@
         "subtract": false
       }
     ],
-    "name": "Andesite Bricks",
+    "name": "Diorite Brick Slab",
     "specialInfo": [],
     "hardness": 1.5,
     "resistance": 6.0,

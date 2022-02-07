@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "3 5",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "archiblock_two:cut_diorite"
+    },
+    "3": {
+      "item": "archiblock_two:cut_diorite"
+    },
+    "5": {
+      "item": "archiblock_two:cut_diorite"
+    },
+    "7": {
+      "item": "archiblock_two:cut_diorite"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:diorite_tiles",
+    "count": 4
+  }
+}

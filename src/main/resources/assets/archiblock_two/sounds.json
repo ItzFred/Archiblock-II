@@ -1,0 +1,12 @@
+{
+  "lolol": {
+    "category": "record",
+    "subtitle": "subtitles.lolol",
+    "sounds": [
+      {
+        "name": "archiblock_two:not_sorry",
+        "stream": true
+      }
+    ]
+  }
+}

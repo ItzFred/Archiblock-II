@@ -2,10 +2,10 @@
   "_fv": 24,
   "_type": "block",
   "definition": {
-    "texture": "andesitebricks",
-    "textureTop": "andesiteblock",
+    "texture": "dioritepavement",
+    "textureTop": "dioritepavement",
     "textureLeft": "andesiteblock",
-    "textureFront": "andesiteblock",
+    "textureFront": "dioritepavement",
     "textureRight": "andesiteblock",
     "textureBack": "andesiteblock",
     "renderType": 11,
@@ -15,6 +15,7 @@
     "displayFluidOverlay": false,
     "itemTexture": "",
     "particleTexture": "",
+    "blockBase": "Stairs",
     "tintType": "No tint",
     "isItemTinted": false,
     "hasTransparency": false,
@@ -32,7 +33,7 @@
         "subtract": false
       }
     ],
-    "name": "Andesite Bricks",
+    "name": "Diorite Tile Stairs",
     "specialInfo": [],
     "hardness": 1.5,
     "resistance": 6.0,

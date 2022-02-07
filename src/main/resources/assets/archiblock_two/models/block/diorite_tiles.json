@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "archiblock_two:blocks/dioritepavement",
+    "particle": "archiblock_two:blocks/dioritepavement"
+  }
+}

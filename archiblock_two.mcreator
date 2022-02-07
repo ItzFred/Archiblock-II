@@ -979,13 +979,257 @@
       "locked_code": false,
       "registry_name": "granite_brick_wall_r_3",
       "path": "~/Stone Type Blocks/Granite/Recipe"
+    },
+    {
+      "name": "CutDiorite",
+      "type": "block",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_diorite",
+      "path": "~/Stone Type Blocks/Diorite"
+    },
+    {
+      "name": "DioriteBricks",
+      "type": "block",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_bricks",
+      "path": "~/Stone Type Blocks/Diorite"
+    },
+    {
+      "name": "DioriteTiles",
+      "type": "block",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_tiles",
+      "path": "~/Stone Type Blocks/Diorite"
+    },
+    {
+      "name": "DioritePillar",
+      "type": "block",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_pillar",
+      "path": "~/Stone Type Blocks/Diorite"
+    },
+    {
+      "name": "FancyDioritePillar",
+      "type": "block",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fancy_diorite_pillar",
+      "path": "~/Stone Type Blocks/Diorite"
+    },
+    {
+      "name": "ChiselledDiorite",
+      "type": "block",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_diorite",
+      "path": "~/Stone Type Blocks/Diorite"
+    },
+    {
+      "name": "CutDioriteR",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_diorite_r",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "DioriteBricksR",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_bricks_r",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "DioriteTilesR",
+      "type": "recipe",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_tiles_r",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "DioriteBrickStairs",
+      "type": "block",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_brick_stairs",
+      "path": "~/Stone Type Blocks/Diorite"
+    },
+    {
+      "name": "DioriteBrickSlab",
+      "type": "block",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_brick_slab",
+      "path": "~/Stone Type Blocks/Diorite"
+    },
+    {
+      "name": "DioriteTileSlab",
+      "type": "block",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_tile_slab",
+      "path": "~/Stone Type Blocks/Diorite"
+    },
+    {
+      "name": "DioriteTileStairs",
+      "type": "block",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_tile_stairs",
+      "path": "~/Stone Type Blocks/Diorite"
+    },
+    {
+      "name": "DioriteBricksR2",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_bricks_r_2",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "DioriteTilesR2",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_tiles_r_2",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "DioritePillarR",
+      "type": "recipe",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_pillar_r",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "DioritePillar2R",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_pillar_2_r",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "ChiselledDioriteR",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_diorite_r",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "ChiselledDioriteR2",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_diorite_r_2",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "DioritePillarR2",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_pillar_r_2",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "DioritePillar2R2",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_pillar_2_r_2",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "DioriteBricksSlabR",
+      "type": "recipe",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_bricks_slab_r",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "DioriteBricksStairsR",
+      "type": "recipe",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_bricks_stairs_r",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "DioriteTileStairsR",
+      "type": "recipe",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_tile_stairs_r",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "DioriteTileSlabR",
+      "type": "recipe",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_tile_slab_r",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "Sus",
+      "type": "musicdisc",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sus",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
     }
   ],
   "variable_elements": [],
-  "sound_elements": [],
+  "sound_elements": [
+    {
+      "name": "lolol",
+      "files": [
+        "not_sorry"
+      ],
+      "category": "record",
+      "subtitle": "ZAMN"
+    }
+  ],
   "language_map": {
     "en_us": {
       "block.archiblock_two.andesite_pillar": "Andesite Pillar",
+      "block.archiblock_two.diorite_tiles": "Diorite Tiles",
       "block.archiblock_two.andesite_block": "Cut Andesite",
       "block.archiblock_two.granite_bricks": "Granite Bricks",
       "block.archiblock_two.andesite_tiles": "Andesite Tiles",
@@ -994,8 +1238,11 @@
       "block.archiblock_two.andesite_block_wall": "Andesite Block Wall",
       "block.archiblock_two.granite_tiles": "Granite Tiles",
       "block.archiblock_two.chiselled_granite": "Chiselled Granite",
+      "block.archiblock_two.diorite_bricks": "Diorite Bricks",
+      "block.archiblock_two.diorite_brick_slab": "Diorite Brick Slab",
       "block.archiblock_two.andesite_block_stairs": "Andesite Block Stairs",
       "block.archiblock_two.andesite_brick_slab": "Andesite Brick Slab",
+      "block.archiblock_two.diorite_tile_stairs": "Diorite Tile Stairs",
       "block.archiblock_two.cut_granite_slab": "Cut Granite Slab",
       "block.archiblock_two.andesite_bricks": "Andesite Bricks",
       "block.archiblock_two.granite_brick_slab": "Granite Brick Slab",
@@ -1003,14 +1250,23 @@
       "block.archiblock_two.cut_granite": "Cut Granite",
       "block.archiblock_two.andesite_block_slab": "Andesite Block Slab",
       "block.archiblock_two.cut_granite_wall": "Cut Granite Wall",
+      "subtitles.lolol": "ZAMN",
+      "block.archiblock_two.diorite_tile_slab": "Diorite Tile Slab",
+      "block.archiblock_two.diorite_pillar": "Diorite Pillar",
       "block.archiblock_two.andesite_brick_wall": "Andesite Brick Wall",
       "block.archiblock_two.granite_cut_pillar": "Granite Cut Pillar",
+      "item.archiblock_two.sus": "Pandora Anamiya - Ass",
       "block.archiblock_two.granite_brick_wall": "Granite Brick Wall",
       "block.archiblock_two.granite_small_bricks": "Granite Small Bricks",
       "block.archiblock_two.granite_pillar": "Granite Pillar",
       "block.archiblock_two.andesite_brick_stairs": "Andesite Brick Stairs",
+      "block.archiblock_two.diorite_brick_stairs": "Diorite Brick Stairs",
       "block.archiblock_two.chiselled_andesite": "Chiselled Andesite",
-      "block.archiblock_two.andesite_small_bricks": "Andesite Small Bricks"
+      "block.archiblock_two.cut_diorite": "Cut Diorite",
+      "item.archiblock_two.sus.desc": "pandora when she sees dori, libido, zadkiel, ira, yingtao, etora and doremy",
+      "block.archiblock_two.andesite_small_bricks": "Andesite Small Bricks",
+      "block.archiblock_two.fancy_diorite_pillar": "Carved Diorite Pillar",
+      "block.archiblock_two.chiselled_diorite": "Chiselled Diorite"
     }
   },
   "foldersRoot": {
@@ -1036,6 +1292,15 @@
                 "children": []
               }
             ]
+          },
+          {
+            "name": "Diorite",
+            "children": [
+              {
+                "name": "Recipes",
+                "children": []
+              }
+            ]
           }
         ]
       }
@@ -1058,5 +1323,5 @@
     "modElementsPackage": "net.mcreator.archiblocktwo",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202100353117
+  "mcreatorVersion": 202100354000
 }

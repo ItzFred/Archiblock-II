@@ -2,12 +2,12 @@
   "_fv": 24,
   "_type": "block",
   "definition": {
-    "texture": "andesitebricks",
-    "textureTop": "andesiteblock",
-    "textureLeft": "andesiteblock",
-    "textureFront": "andesiteblock",
-    "textureRight": "andesiteblock",
-    "textureBack": "andesiteblock",
+    "texture": "dioritechiselled",
+    "textureTop": "dioritetop",
+    "textureLeft": "dioritepillar",
+    "textureFront": "dioritepillar",
+    "textureRight": "dioritepillar",
+    "textureBack": "dioritepillar",
     "renderType": 11,
     "customModelName": "Single texture",
     "rotationMode": 0,
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Andesite Bricks",
+    "name": "Chiselled Diorite",
     "specialInfo": [],
     "hardness": 1.5,
     "resistance": 6.0,

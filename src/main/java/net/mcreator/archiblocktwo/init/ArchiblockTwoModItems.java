@@ -13,6 +13,8 @@ import net.minecraft.world.item.Item;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.BlockItem;
 
+import net.mcreator.archiblocktwo.item.SusItem;
+
 import java.util.List;
 import java.util.ArrayList;
 
@@ -47,6 +49,17 @@ public class ArchiblockTwoModItems {
 	public static final Item GRANITE_BRICK_STAIRS = register(ArchiblockTwoModBlocks.GRANITE_BRICK_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item GRANITE_BRICK_SLAB = register(ArchiblockTwoModBlocks.GRANITE_BRICK_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item GRANITE_BRICK_WALL = register(ArchiblockTwoModBlocks.GRANITE_BRICK_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CUT_DIORITE = register(ArchiblockTwoModBlocks.CUT_DIORITE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item DIORITE_BRICKS = register(ArchiblockTwoModBlocks.DIORITE_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item DIORITE_TILES = register(ArchiblockTwoModBlocks.DIORITE_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item DIORITE_PILLAR = register(ArchiblockTwoModBlocks.DIORITE_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item FANCY_DIORITE_PILLAR = register(ArchiblockTwoModBlocks.FANCY_DIORITE_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_DIORITE = register(ArchiblockTwoModBlocks.CHISELLED_DIORITE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item DIORITE_BRICK_STAIRS = register(ArchiblockTwoModBlocks.DIORITE_BRICK_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item DIORITE_BRICK_SLAB = register(ArchiblockTwoModBlocks.DIORITE_BRICK_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item DIORITE_TILE_SLAB = register(ArchiblockTwoModBlocks.DIORITE_TILE_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item DIORITE_TILE_STAIRS = register(ArchiblockTwoModBlocks.DIORITE_TILE_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SUS = register(new SusItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

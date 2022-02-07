@@ -18,11 +18,21 @@ import net.mcreator.archiblocktwo.block.GraniteBricksBlock;
 import net.mcreator.archiblocktwo.block.GraniteBrickWallBlock;
 import net.mcreator.archiblocktwo.block.GraniteBrickStairsBlock;
 import net.mcreator.archiblocktwo.block.GraniteBrickSlabBlock;
+import net.mcreator.archiblocktwo.block.FancyDioritePillarBlock;
+import net.mcreator.archiblocktwo.block.DioriteTilesBlock;
+import net.mcreator.archiblocktwo.block.DioriteTileStairsBlock;
+import net.mcreator.archiblocktwo.block.DioriteTileSlabBlock;
+import net.mcreator.archiblocktwo.block.DioritePillarBlock;
+import net.mcreator.archiblocktwo.block.DioriteBricksBlock;
+import net.mcreator.archiblocktwo.block.DioriteBrickStairsBlock;
+import net.mcreator.archiblocktwo.block.DioriteBrickSlabBlock;
 import net.mcreator.archiblocktwo.block.CutGraniteWallBlock;
 import net.mcreator.archiblocktwo.block.CutGraniteStairsBlock;
 import net.mcreator.archiblocktwo.block.CutGraniteSlabBlock;
 import net.mcreator.archiblocktwo.block.CutGraniteBlock;
+import net.mcreator.archiblocktwo.block.CutDioriteBlock;
 import net.mcreator.archiblocktwo.block.ChiselledGraniteBlock;
+import net.mcreator.archiblocktwo.block.ChiselledDioriteBlock;
 import net.mcreator.archiblocktwo.block.ChiselledAndesiteBlock;
 import net.mcreator.archiblocktwo.block.AndesiteTilesBlock;
 import net.mcreator.archiblocktwo.block.AndesiteSmallBricksBlock;
@@ -67,6 +77,16 @@ public class ArchiblockTwoModBlocks {
 	public static final Block GRANITE_BRICK_STAIRS = register(new GraniteBrickStairsBlock());
 	public static final Block GRANITE_BRICK_SLAB = register(new GraniteBrickSlabBlock());
 	public static final Block GRANITE_BRICK_WALL = register(new GraniteBrickWallBlock());
+	public static final Block CUT_DIORITE = register(new CutDioriteBlock());
+	public static final Block DIORITE_BRICKS = register(new DioriteBricksBlock());
+	public static final Block DIORITE_TILES = register(new DioriteTilesBlock());
+	public static final Block DIORITE_PILLAR = register(new DioritePillarBlock());
+	public static final Block FANCY_DIORITE_PILLAR = register(new FancyDioritePillarBlock());
+	public static final Block CHISELLED_DIORITE = register(new ChiselledDioriteBlock());
+	public static final Block DIORITE_BRICK_STAIRS = register(new DioriteBrickStairsBlock());
+	public static final Block DIORITE_BRICK_SLAB = register(new DioriteBrickSlabBlock());
+	public static final Block DIORITE_TILE_SLAB = register(new DioriteTileSlabBlock());
+	public static final Block DIORITE_TILE_STAIRS = register(new DioriteTileStairsBlock());
 
 	private static Block register(Block block) {
 		REGISTRY.add(block);

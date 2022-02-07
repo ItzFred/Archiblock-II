@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "archiblock_two:blocks/dioritetop",
+    "up": "archiblock_two:blocks/dioritetop",
+    "north": "archiblock_two:blocks/dioritepillar",
+    "east": "archiblock_two:blocks/dioritepillar",
+    "south": "archiblock_two:blocks/dioritepillar",
+    "west": "archiblock_two:blocks/dioritepillar",
+    "particle": "archiblock_two:blocks/dioritetop"
+  }
+}

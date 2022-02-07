@@ -17,10 +17,10 @@ import net.minecraft.core.BlockPos;
 import java.util.List;
 import java.util.Collections;
 
-public class AndesiteBricksBlock extends Block {
-	public AndesiteBricksBlock() {
+public class CutDioriteBlock extends Block {
+	public CutDioriteBlock() {
 		super(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.STONE).strength(1.5f, 6f).requiresCorrectToolForDrops());
-		setRegistryName("andesite_bricks");
+		setRegistryName("cut_diorite");
 	}
 
 	@Override

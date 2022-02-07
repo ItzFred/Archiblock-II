@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:diorite_tiles"
+    },
+    "1": {
+      "item": "archiblock_two:diorite_tiles"
+    },
+    "2": {
+      "item": "archiblock_two:diorite_tiles"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:diorite_tile_slab",
+    "count": 6
+  }
+}

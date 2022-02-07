@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "archiblock_two:cut_diorite"
+  },
+  "result": "archiblock_two:diorite_tiles"
+}

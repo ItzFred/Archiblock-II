@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "archiblock_two:andesite_block",
+    "archiblock_two:andesite_bricks",
+    "archiblock_two:cut_diorite",
+    "archiblock_two:diorite_bricks",
+    "archiblock_two:diorite_tiles",
+    "archiblock_two:diorite_pillar",
+    "archiblock_two:fancy_diorite_pillar",
+    "archiblock_two:chiselled_diorite",
+    "archiblock_two:diorite_brick_stairs",
+    "archiblock_two:diorite_brick_slab",
+    "archiblock_two:diorite_tile_slab",
+    "archiblock_two:diorite_tile_stairs"
+  ]
+}

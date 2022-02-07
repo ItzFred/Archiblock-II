@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CutDiorite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CutDiorite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CutDiorite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CutDiorite"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DioriteTiles"
+    },
+    "name": "diorite_tiles_r",
+    "namespace": "mod"
+  }
+}
