@@ -7,20 +7,20 @@
   ],
   "key": {
     "0": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:cut_obsidian"
     },
     "1": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:cut_obsidian"
     },
     "2": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:cut_obsidian"
     },
     "3": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:cut_obsidian"
     }
   },
   "result": {
-    "item": "archiblock_two:deleted_mod_element",
+    "item": "archiblock_two:obsidian_bricks",
     "count": 4
   }
 }
