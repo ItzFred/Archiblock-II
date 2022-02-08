@@ -3,14 +3,14 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:slanted_clay_shingles"
     },
     {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:slanted_clay_shingles"
     }
   ],
   "result": {
-    "item": "archiblock_two:deleted_mod_element",
+    "item": "archiblock_two:slanted_shingles_side",
     "count": 1
   }
 }

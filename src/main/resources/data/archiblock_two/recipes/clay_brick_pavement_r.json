@@ -6,11 +6,11 @@
   ],
   "key": {
     "0": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:clay_brick_tiles"
     }
   },
   "result": {
-    "item": "archiblock_two:deleted_mod_element",
+    "item": "archiblock_two:clay_brick_pavement",
     "count": 1
   }
 }
