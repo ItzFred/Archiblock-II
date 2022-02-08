@@ -51,10 +51,12 @@ import net.mcreator.archiblocktwo.block.GraniteBrickStairsBlock;
 import net.mcreator.archiblocktwo.block.GraniteBrickSlabBlock;
 import net.mcreator.archiblocktwo.block.FancyDioritePillarBlock;
 import net.mcreator.archiblocktwo.block.DioriteTilesBlock;
+import net.mcreator.archiblocktwo.block.DioriteTileWallBlock;
 import net.mcreator.archiblocktwo.block.DioriteTileStairsBlock;
 import net.mcreator.archiblocktwo.block.DioriteTileSlabBlock;
 import net.mcreator.archiblocktwo.block.DioritePillarBlock;
 import net.mcreator.archiblocktwo.block.DioriteBricksBlock;
+import net.mcreator.archiblocktwo.block.DioriteBrickWallBlock;
 import net.mcreator.archiblocktwo.block.DioriteBrickStairsBlock;
 import net.mcreator.archiblocktwo.block.DioriteBrickSlabBlock;
 import net.mcreator.archiblocktwo.block.CyanSpoolBlock;
@@ -191,6 +193,8 @@ public class ArchiblockTwoModBlocks {
 	public static final Block CHISELLED_OBSIDIAN_STAIRS = register(new ChiselledObsidianStairsBlock());
 	public static final Block CHISELLED_OBSIDIAN_SLAB = register(new ChiselledObsidianSlabBlock());
 	public static final Block CHISELLED_OBSIDIAN_WALL = register(new ChiselledObsidianWallBlock());
+	public static final Block DIORITE_TILE_WALL = register(new DioriteTileWallBlock());
+	public static final Block DIORITE_BRICK_WALL = register(new DioriteBrickWallBlock());
 
 	private static Block register(Block block) {
 		REGISTRY.add(block);

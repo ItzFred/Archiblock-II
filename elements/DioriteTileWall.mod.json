@@ -2,12 +2,12 @@
   "_fv": 24,
   "_type": "block",
   "definition": {
-    "texture": "chiselledobsidian1",
-    "textureTop": "",
-    "textureLeft": "",
-    "textureFront": "",
-    "textureRight": "",
-    "textureBack": "",
+    "texture": "dioritepavement",
+    "textureTop": "andesiteblock",
+    "textureLeft": "andesiteblock",
+    "textureFront": "andesiteblock",
+    "textureRight": "andesiteblock",
+    "textureBack": "andesiteblock",
     "renderType": 11,
     "customModelName": "Single texture",
     "rotationMode": 0,
@@ -33,10 +33,10 @@
         "subtract": false
       }
     ],
-    "name": "Chiselled Obsidian Wall",
+    "name": "Diorite Tile Wall",
     "specialInfo": [],
-    "hardness": 50.0,
-    "resistance": 10.0,
+    "hardness": 1.5,
+    "resistance": 6.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
@@ -62,7 +62,7 @@
     "emittedRedstonePower": {
       "fixedValue": 15.0
     },
-    "colorOnMap": "OBSIDIAN",
+    "colorOnMap": "STONE",
     "creativePickItem": {
       "value": ""
     },
@@ -97,7 +97,7 @@
     },
     "luminance": 0,
     "unbreakable": false,
-    "breakHarvestLevel": 3,
+    "breakHarvestLevel": 0,
     "spawnParticles": false,
     "particleToSpawn": {
       "value": "EXPLOSION_NORMAL"

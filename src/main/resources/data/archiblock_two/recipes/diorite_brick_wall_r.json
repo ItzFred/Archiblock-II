@@ -1,0 +1,9 @@
+{
+  "group": "diorite_brick_wall",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:diorite"
+  },
+  "result": "archiblock_two:diorite_brick_wall"
+}

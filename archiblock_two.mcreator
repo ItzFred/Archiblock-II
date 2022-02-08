@@ -2563,6 +2563,96 @@
       "locked_code": false,
       "registry_name": "obsidian_brick_wall_r_3",
       "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "DioriteTileWall",
+      "type": "block",
+      "sortid": 268,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_tile_wall",
+      "path": "~/Stone Type Blocks/Diorite"
+    },
+    {
+      "name": "DioriteBrickWall",
+      "type": "block",
+      "sortid": 269,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_brick_wall",
+      "path": "~/Stone Type Blocks/Diorite"
+    },
+    {
+      "name": "DioriteBrickWallR",
+      "type": "recipe",
+      "sortid": 270,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_brick_wall_r",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "DioriteBrickWallR1",
+      "type": "recipe",
+      "sortid": 271,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_brick_wall_r_1",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "DioriteBrickWallR2",
+      "type": "recipe",
+      "sortid": 272,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_brick_wall_r_2",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "DioriteBrickWallR3",
+      "type": "recipe",
+      "sortid": 273,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_brick_wall_r_3",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "DioriteTileWallR",
+      "type": "recipe",
+      "sortid": 274,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_tile_wall_r",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "DioriteTileWallR1",
+      "type": "recipe",
+      "sortid": 275,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_tile_wall_r_1",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "DioriteTileWallR2",
+      "type": "recipe",
+      "sortid": 276,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_tile_wall_r_2",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "DioriteTileWallR3",
+      "type": "recipe",
+      "sortid": 277,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_tile_wall_r_3",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
     }
   ],
   "variable_elements": [],
@@ -2581,11 +2671,12 @@
       "block.archiblock_two.chiselled_obsidian_stairs": "Chiselled Obsidian Stairs",
       "block.archiblock_two.brown_spool": "Brown Spool",
       "block.archiblock_two.diorite_tiles": "Diorite Tiles",
+      "block.archiblock_two.diorite_brick_wall": "Diorite Brick Wall",
       "block.archiblock_two.andesite_block": "Cut Andesite",
       "block.archiblock_two.mossy_small_stone_bricks": "Mossy Small Stone Bricks",
-      "block.archiblock_two.cyan_spool": "Cyan Spool",
-      "block.archiblock_two.slanted_shingles_side": "Slanted Clay Shingles Side",
       "block.archiblock_two.cut_obsidian": "Cut Obsidian",
+      "block.archiblock_two.slanted_shingles_side": "Slanted Clay Shingles Side",
+      "block.archiblock_two.cyan_spool": "Cyan Spool",
       "block.archiblock_two.clay_shingles_slab": "Clay Shingles Slab",
       "block.archiblock_two.andesite_tiles": "Andesite Tiles",
       "block.archiblock_two.small_obsidian_bricks": "Small Obsidian Bricks",
@@ -2594,6 +2685,7 @@
       "block.archiblock_two.diorite_bricks": "Diorite Bricks",
       "block.archiblock_two.diorite_brick_slab": "Diorite Brick Slab",
       "block.archiblock_two.andesite_brick_slab": "Andesite Brick Slab",
+      "block.archiblock_two.diorite_tile_wall": "Diorite Tile Wall",
       "block.archiblock_two.cut_granite_slab": "Cut Granite Slab",
       "block.archiblock_two.lime_spool": "Lime Spool",
       "block.archiblock_two.granite_brick_stairs": "Granite Brick Stairs",

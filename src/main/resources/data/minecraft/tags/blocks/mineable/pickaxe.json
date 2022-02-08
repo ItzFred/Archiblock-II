@@ -70,6 +70,8 @@
     "archiblock_two:obsidian_brick_wall",
     "archiblock_two:chiselled_obsidian_stairs",
     "archiblock_two:chiselled_obsidian_slab",
-    "archiblock_two:chiselled_obsidian_wall"
+    "archiblock_two:chiselled_obsidian_wall",
+    "archiblock_two:diorite_tile_wall",
+    "archiblock_two:diorite_brick_wall"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "parent": "block/template_wall_post",
   "textures": {
-    "wall": "archiblock_two:blocks/chiselledobsidian",
-    "particle": "archiblock_two:blocks/chiselledobsidian"
+    "wall": "archiblock_two:blocks/chiselledobsidian1",
+    "particle": "archiblock_two:blocks/chiselledobsidian1"
   }
 }

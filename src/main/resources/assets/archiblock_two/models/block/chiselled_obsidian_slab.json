@@ -1,8 +1,8 @@
 {
   "parent": "block/slab",
   "textures": {
-    "bottom": "archiblock_two:blocks/chiselledobsidian",
-    "top": "archiblock_two:blocks/chiselledobsidian",
-    "side": "archiblock_two:blocks/chiselledobsidian"
+    "bottom": "archiblock_two:blocks/chiselledobsidian1",
+    "top": "archiblock_two:blocks/chiselledobsidian1",
+    "side": "archiblock_two:blocks/chiselledobsidian1"
   }
 }

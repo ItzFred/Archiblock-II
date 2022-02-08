@@ -16,6 +16,18 @@
       },
       {
         "value": "CUSTOM:GraniteBrickWall"
+      },
+      {
+        "value": "CUSTOM:DioriteTileWall"
+      },
+      {
+        "value": "CUSTOM:DioriteBrickWall"
+      },
+      {
+        "value": "CUSTOM:ChiselledObsidianWall"
+      },
+      {
+        "value": "CUSTOM:ObsidianBrickWall"
       }
     ],
     "functions": [],
