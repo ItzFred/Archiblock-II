@@ -1,0 +1,9 @@
+{
+  "group": "chiselled_obsidian_slab",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "archiblock_two:chiselled_obsidian"
+  },
+  "result": "archiblock_two:chiselled_obsidian_slab"
+}

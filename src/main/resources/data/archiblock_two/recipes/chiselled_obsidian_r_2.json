@@ -1,0 +1,13 @@
+{
+  "group": "chiselled_obsidian",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "archiblock_two:cut_obsidian"
+    }
+  ],
+  "result": {
+    "item": "archiblock_two:chiselled_obsidian",
+    "count": 1
+  }
+}

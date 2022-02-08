@@ -103,6 +103,23 @@ public class ArchiblockTwoModItems {
 	public static final Item CUT_STONE_STAIRS = register(ArchiblockTwoModBlocks.CUT_STONE_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CUT_STONE_SLAB = register(ArchiblockTwoModBlocks.CUT_STONE_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CUT_STONE_WALL = register(ArchiblockTwoModBlocks.CUT_STONE_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CUT_OBSIDIAN = register(ArchiblockTwoModBlocks.CUT_OBSIDIAN, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item OBSIDIAN_BRICKS = register(ArchiblockTwoModBlocks.OBSIDIAN_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMALL_OBSIDIAN_BRICKS = register(ArchiblockTwoModBlocks.SMALL_OBSIDIAN_BRICKS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item OBSIDIAN_TILES = register(ArchiblockTwoModBlocks.OBSIDIAN_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_OBSIDIAN = register(ArchiblockTwoModBlocks.CHISELLED_OBSIDIAN, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item OBSIDIAN_PILLAR = register(ArchiblockTwoModBlocks.OBSIDIAN_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item OBSIDIAN_BRICK_STAIRS = register(ArchiblockTwoModBlocks.OBSIDIAN_BRICK_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item OBSIDIAN_BRICK_SLAB = register(ArchiblockTwoModBlocks.OBSIDIAN_BRICK_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item OBSIDIAN_BRICK_WALL = register(ArchiblockTwoModBlocks.OBSIDIAN_BRICK_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_OBSIDIAN_STAIRS = register(ArchiblockTwoModBlocks.CHISELLED_OBSIDIAN_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_OBSIDIAN_SLAB = register(ArchiblockTwoModBlocks.CHISELLED_OBSIDIAN_SLAB,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_OBSIDIAN_WALL = register(ArchiblockTwoModBlocks.CHISELLED_OBSIDIAN_WALL,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

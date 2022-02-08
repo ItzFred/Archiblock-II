@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 6,
+    "group": "chiselled_obsidian_slab",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ChiselledObsidian"
+      },
+      {
+        "value": "CUSTOM:ChiselledObsidian"
+      },
+      {
+        "value": "CUSTOM:ChiselledObsidian"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ChiselledObsidianSlab"
+    },
+    "name": "chiselled_obsidian_slab_r_3",
+    "namespace": "mod"
+  }
+}

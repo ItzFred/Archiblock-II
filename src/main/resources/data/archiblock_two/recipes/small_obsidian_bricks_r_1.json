@@ -1,0 +1,9 @@
+{
+  "group": "small_obsidian_bricks",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "archiblock_two:cut_obsidian"
+  },
+  "result": "archiblock_two:small_obsidian_bricks"
+}

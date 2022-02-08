@@ -58,6 +58,18 @@
     "archiblock_two:mossy_stone_tiles",
     "archiblock_two:cut_stone_stairs",
     "archiblock_two:cut_stone_slab",
-    "archiblock_two:cut_stone_wall"
+    "archiblock_two:cut_stone_wall",
+    "archiblock_two:cut_obsidian",
+    "archiblock_two:obsidian_bricks",
+    "archiblock_two:small_obsidian_bricks",
+    "archiblock_two:obsidian_tiles",
+    "archiblock_two:chiselled_obsidian",
+    "archiblock_two:obsidian_pillar",
+    "archiblock_two:obsidian_brick_stairs",
+    "archiblock_two:obsidian_brick_slab",
+    "archiblock_two:obsidian_brick_wall",
+    "archiblock_two:chiselled_obsidian_stairs",
+    "archiblock_two:chiselled_obsidian_slab",
+    "archiblock_two:chiselled_obsidian_wall"
   ]
 }

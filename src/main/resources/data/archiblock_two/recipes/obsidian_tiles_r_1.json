@@ -1,0 +1,9 @@
+{
+  "group": "obsidian_tiles",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "archiblock_two:cut_obsidian"
+  },
+  "result": "archiblock_two:obsidian_tiles"
+}
