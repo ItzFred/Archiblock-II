@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "archiblock_two:block/pink_rose_bush"
+    },
+    "half=lower": {
+      "model": "archiblock_two:block/pink_rose_bush_bottom"
+    }
+  }
+}
