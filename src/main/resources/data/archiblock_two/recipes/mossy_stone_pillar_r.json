@@ -1,0 +1,19 @@
+{
+  "group": "mossy_stone_pillar",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:stone_pillar"
+    },
+    "1": {
+      "item": "minecraft:vine"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:deleted_mod_element",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "group": "cut_stone_slab",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:cut_stone"
+    },
+    "1": {
+      "item": "archiblock_two:cut_stone"
+    },
+    "2": {
+      "item": "archiblock_two:cut_stone"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:deleted_mod_element",
+    "count": 6
+  }
+}

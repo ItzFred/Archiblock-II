@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "obsidian_bricks",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CutObsidian"
+      },
+      {
+        "value": "CUSTOM:CutObsidian"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CutObsidian"
+      },
+      {
+        "value": "CUSTOM:CutObsidian"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ObsidianBricks"
+    },
+    "name": "obsidian_bricks_r_2",
+    "namespace": "mod"
+  }
+}

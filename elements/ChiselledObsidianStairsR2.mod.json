@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "chiselled_obsidian_stairs",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ChiselledObsidian"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ChiselledObsidian"
+      },
+      {
+        "value": "CUSTOM:ChiselledObsidian"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ChiselledObsidian"
+      },
+      {
+        "value": "CUSTOM:ChiselledObsidian"
+      },
+      {
+        "value": "CUSTOM:ChiselledObsidian"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ChiselledObsidianStairs"
+    },
+    "name": "chiselled_obsidian_stairs_r_2",
+    "namespace": "mod"
+  }
+}

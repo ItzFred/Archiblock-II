@@ -1663,6 +1663,996 @@
       "locked_code": false,
       "registry_name": "clay_brick_block",
       "path": "~/OtherBlocks/Bricks"
+    },
+    {
+      "name": "ObsidianBrickWallR",
+      "type": "recipe",
+      "sortid": 264,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_brick_wall_r",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "ObsidianBrickStairs",
+      "type": "block",
+      "sortid": 238,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_brick_stairs",
+      "path": "~/Stone Type Blocks/Obsidian"
+    },
+    {
+      "name": "ObsidianBrickSlabR2",
+      "type": "recipe",
+      "sortid": 262,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_brick_slab_r_2",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "CrackedStoneTilesR",
+      "type": "recipe",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_stone_tiles_r",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "ObsidianBrickSlabR3",
+      "type": "recipe",
+      "sortid": 263,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_brick_slab_r_3",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "CutStoneWall",
+      "type": "block",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_stone_wall",
+      "path": "~/Stone Type Blocks/Stone"
+    },
+    {
+      "name": "SmallObsidianBricksR1",
+      "type": "recipe",
+      "sortid": 229,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_obsidian_bricks_r_1",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "SmallObsidianBricksR3",
+      "type": "recipe",
+      "sortid": 231,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_obsidian_bricks_r_3",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "ChiselledObsidianStairs",
+      "type": "block",
+      "sortid": 241,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_obsidian_stairs",
+      "path": "~/Stone Type Blocks/Obsidian"
+    },
+    {
+      "name": "ChiselledObsidianSlabR1",
+      "type": "recipe",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_obsidian_slab_r_1",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "SmallObsidianBricksR2",
+      "type": "recipe",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_obsidian_bricks_r_2",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "ChiselledObsidianSlabR3",
+      "type": "recipe",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_obsidian_slab_r_3",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "ChiselledObsidianSlabR2",
+      "type": "recipe",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_obsidian_slab_r_2",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "CutStoneStairsR2",
+      "type": "recipe",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_stone_stairs_r_2",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "CutStoneR",
+      "type": "recipe",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_stone_r",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "CutStoneStairsR1",
+      "type": "recipe",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_stone_stairs_r_1",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "ObsidianBricksR",
+      "type": "recipe",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_bricks_r",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "ObsidianBrickWall",
+      "type": "block",
+      "sortid": 240,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_brick_wall",
+      "path": "~/Stone Type Blocks/Obsidian"
+    },
+    {
+      "name": "StoneTilesR",
+      "type": "recipe",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_tiles_r",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "ObsidianBrickStairsR1",
+      "type": "recipe",
+      "sortid": 257,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_brick_stairs_r_1",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "CutStoneSlabR",
+      "type": "recipe",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_stone_slab_r",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "ChiselledObsidianR",
+      "type": "recipe",
+      "sortid": 232,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_obsidian_r",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "ObsidianPillar",
+      "type": "block",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_pillar",
+      "path": "~/Stone Type Blocks/Obsidian"
+    },
+    {
+      "name": "MossyCutStoneR",
+      "type": "recipe",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mossy_cut_stone_r",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "ObsidianTilesR1",
+      "type": "recipe",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_tiles_r_1",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "ObsidianTilesR2",
+      "type": "recipe",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_tiles_r_2",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "ObsidianBrickStairsR3",
+      "type": "recipe",
+      "sortid": 259,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_brick_stairs_r_3",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "ObsidianTilesR3",
+      "type": "recipe",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_tiles_r_3",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "ObsidianBrickStairsR2",
+      "type": "recipe",
+      "sortid": 258,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_brick_stairs_r_2",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "ChiselledObsidianStairsR",
+      "type": "recipe",
+      "sortid": 244,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_obsidian_stairs_r",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "ChiselledObsidianSlab",
+      "type": "block",
+      "sortid": 242,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_obsidian_slab",
+      "path": "~/Stone Type Blocks/Obsidian"
+    },
+    {
+      "name": "StoneTilesR2",
+      "type": "recipe",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_tiles_r_2",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "SmallObsidianBricks",
+      "type": "block",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_obsidian_bricks",
+      "path": "~/Stone Type Blocks/Obsidian"
+    },
+    {
+      "name": "ObsidianTilesR",
+      "type": "recipe",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_tiles_r",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "CrackedStonePillarR2",
+      "type": "recipe",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_stone_pillar_r_2",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "CrackedStonePillarR1",
+      "type": "recipe",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_stone_pillar_r_1",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "CutObsidianR1",
+      "type": "recipe",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_obsidian_r_1",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "DioriteBrickWallR",
+      "type": "recipe",
+      "sortid": 270,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_brick_wall_r",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "ChiselledObsidianWallR3",
+      "type": "recipe",
+      "sortid": 255,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_obsidian_wall_r_3",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "ChiselledObsidianWallR2",
+      "type": "recipe",
+      "sortid": 254,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_obsidian_wall_r_2",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "ChiselledObsidianWallR1",
+      "type": "recipe",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_obsidian_wall_r_1",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "ChiselledObsidianR1",
+      "type": "recipe",
+      "sortid": 233,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_obsidian_r_1",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "ObsidianPillarR1",
+      "type": "recipe",
+      "sortid": 236,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_pillar_r_1",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "ObsidianPillarR2",
+      "type": "recipe",
+      "sortid": 237,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_pillar_r_2",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "SmallStoneBricks",
+      "type": "block",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_stone_bricks",
+      "path": "~/Stone Type Blocks/Stone"
+    },
+    {
+      "name": "DioriteTileWallR",
+      "type": "recipe",
+      "sortid": 274,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_tile_wall_r",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "DioriteBrickWall",
+      "type": "block",
+      "sortid": 269,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_brick_wall",
+      "path": "~/Stone Type Blocks/Diorite"
+    },
+    {
+      "name": "StoneTilesR1",
+      "type": "recipe",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_tiles_r_1",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "ChiselledObsidianWallR",
+      "type": "recipe",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_obsidian_wall_r",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "CrackedStoneTilesR1",
+      "type": "recipe",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_stone_tiles_r_1",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "MossySmallStoneBricksR",
+      "type": "recipe",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mossy_small_stone_bricks_r",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "CrackedStoneTilesR2",
+      "type": "recipe",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_stone_tiles_r_2",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "ChiselledObsidianR2",
+      "type": "recipe",
+      "sortid": 234,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_obsidian_r_2",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "ObsidianBrickSlab",
+      "type": "block",
+      "sortid": 239,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_brick_slab",
+      "path": "~/Stone Type Blocks/Obsidian"
+    },
+    {
+      "name": "CutStone",
+      "type": "block",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_stone",
+      "path": "~/Stone Type Blocks/Stone"
+    },
+    {
+      "name": "MossySmallStoneBricks",
+      "type": "block",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mossy_small_stone_bricks",
+      "path": "~/Stone Type Blocks/Stone"
+    },
+    {
+      "name": "DioriteBrickWallR3",
+      "type": "recipe",
+      "sortid": 273,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_brick_wall_r_3",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "ChiselledObsidian",
+      "type": "block",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_obsidian",
+      "path": "~/Stone Type Blocks/Obsidian"
+    },
+    {
+      "name": "DioriteBrickWallR2",
+      "type": "recipe",
+      "sortid": 272,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_brick_wall_r_2",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "DioriteBrickWallR1",
+      "type": "recipe",
+      "sortid": 271,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_brick_wall_r_1",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "CrackedCutStoneR",
+      "type": "recipe",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_cut_stone_r",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "DioriteTileWall",
+      "type": "block",
+      "sortid": 268,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_tile_wall",
+      "path": "~/Stone Type Blocks/Diorite"
+    },
+    {
+      "name": "CrackedStonePillar",
+      "type": "block",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_stone_pillar",
+      "path": "~/Stone Type Blocks/Stone"
+    },
+    {
+      "name": "CrackedCutStone",
+      "type": "block",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_cut_stone",
+      "path": "~/Stone Type Blocks/Stone"
+    },
+    {
+      "name": "SmallObsidianBricksR",
+      "type": "recipe",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_obsidian_bricks_r",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "MossyCrackedStone",
+      "type": "block",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mossy_cracked_stone",
+      "path": "~/Stone Type Blocks/Stone"
+    },
+    {
+      "name": "CutStoneWallR2",
+      "type": "recipe",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_stone_wall_r_2",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "CrackedStoneTiles",
+      "type": "block",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_stone_tiles",
+      "path": "~/Stone Type Blocks/Stone"
+    },
+    {
+      "name": "CutStoneWallR1",
+      "type": "recipe",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_stone_wall_r_1",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "ObsidianBricksR2",
+      "type": "recipe",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_bricks_r_2",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "ObsidianBricksR1",
+      "type": "recipe",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_bricks_r_1",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "ChiselledObsidianStairsR1",
+      "type": "recipe",
+      "sortid": 245,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_obsidian_stairs_r_1",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "ChiselledObsidianStairsR2",
+      "type": "recipe",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_obsidian_stairs_r_2",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "ChiselledObsidianStairsR3",
+      "type": "recipe",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_obsidian_stairs_r_3",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "CutObsidianR",
+      "type": "recipe",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_obsidian_r",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "CutStoneStairs",
+      "type": "block",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_stone_stairs",
+      "path": "~/Stone Type Blocks/Stone"
+    },
+    {
+      "name": "CutStoneSlabR1",
+      "type": "recipe",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_stone_slab_r_1",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "CutStoneSlabR2",
+      "type": "recipe",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_stone_slab_r_2",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "ObsidianBrickStairsR",
+      "type": "recipe",
+      "sortid": 256,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_brick_stairs_r",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "StonePillarR2",
+      "type": "recipe",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillar_r_2",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "StonePillarR1",
+      "type": "recipe",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillar_r_1",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "CrackedCutStoneR1",
+      "type": "recipe",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_cut_stone_r_1",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "StoneTiles",
+      "type": "block",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_tiles",
+      "path": "~/Stone Type Blocks/Stone"
+    },
+    {
+      "name": "SmallStoneBricksR2",
+      "type": "recipe",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_stone_bricks_r_2",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "ObsidianBrickWallR1",
+      "type": "recipe",
+      "sortid": 265,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_brick_wall_r_1",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "CrackedStonePillarR",
+      "type": "recipe",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_stone_pillar_r",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "ObsidianBrickWallR3",
+      "type": "recipe",
+      "sortid": 267,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_brick_wall_r_3",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "SmallStoneBricksR1",
+      "type": "recipe",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_stone_bricks_r_1",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "ObsidianBrickWallR2",
+      "type": "recipe",
+      "sortid": 266,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_brick_wall_r_2",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "ObsidianPillarR",
+      "type": "recipe",
+      "sortid": 235,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_pillar_r",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "ChiselledObsidianWall",
+      "type": "block",
+      "sortid": 243,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_obsidian_wall",
+      "path": "~/Stone Type Blocks/Obsidian"
+    },
+    {
+      "name": "ChiselledObsidianSlabR",
+      "type": "recipe",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_obsidian_slab_r",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "CutObsidian",
+      "type": "block",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_obsidian",
+      "path": "~/Stone Type Blocks/Obsidian"
+    },
+    {
+      "name": "ObsidianBrickSlabR",
+      "type": "recipe",
+      "sortid": 260,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_brick_slab_r",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "MossyStoneTiles",
+      "type": "block",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mossy_stone_tiles",
+      "path": "~/Stone Type Blocks/Stone"
+    },
+    {
+      "name": "ObsidianBricks",
+      "type": "block",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_bricks",
+      "path": "~/Stone Type Blocks/Obsidian"
+    },
+    {
+      "name": "StonePillar",
+      "type": "block",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillar",
+      "path": "~/Stone Type Blocks/Stone"
+    },
+    {
+      "name": "MossyStoneTilesR",
+      "type": "recipe",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mossy_stone_tiles_r",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "DioriteTileWallR3",
+      "type": "recipe",
+      "sortid": 277,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_tile_wall_r_3",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "DioriteTileWallR2",
+      "type": "recipe",
+      "sortid": 276,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_tile_wall_r_2",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "DioriteTileWallR1",
+      "type": "recipe",
+      "sortid": 275,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_tile_wall_r_1",
+      "path": "~/Stone Type Blocks/Diorite/Recipes"
+    },
+    {
+      "name": "CutStoneWallR",
+      "type": "recipe",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_stone_wall_r",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "ObsidianTiles",
+      "type": "block",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_tiles",
+      "path": "~/Stone Type Blocks/Obsidian"
+    },
+    {
+      "name": "StonePillarR",
+      "type": "recipe",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillar_r",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "SmallStoneBricksR",
+      "type": "recipe",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_stone_bricks_r",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "MossyStonePillarR",
+      "type": "recipe",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mossy_stone_pillar_r",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "ObsidianBrickSlabR1",
+      "type": "recipe",
+      "sortid": 261,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_brick_slab_r_1",
+      "path": "~/Stone Type Blocks/Obsidian/Recipes"
+    },
+    {
+      "name": "MossyStonePillar",
+      "type": "block",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mossy_stone_pillar",
+      "path": "~/Stone Type Blocks/Stone"
+    },
+    {
+      "name": "CutStoneStairsR",
+      "type": "recipe",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_stone_stairs_r",
+      "path": "~/Stone Type Blocks/Stone/Recipes"
+    },
+    {
+      "name": "CutStoneSlab",
+      "type": "block",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_stone_slab",
+      "path": "~/Stone Type Blocks/Stone"
     }
   ],
   "variable_elements": [],
@@ -1751,6 +2741,15 @@
         "name": "OtherBlocks",
         "children": [
           {
+            "name": "Spool",
+            "children": [
+              {
+                "name": "Recipes",
+                "children": []
+              }
+            ]
+          },
+          {
             "name": "Bricks",
             "children": [
               {
@@ -1762,21 +2761,21 @@
         ]
       },
       {
-        "name": "Spool",
-        "children": [
-          {
-            "name": "Recipes",
-            "children": []
-          }
-        ]
-      },
-      {
         "name": "Tags",
         "children": []
       },
       {
         "name": "Stone Type Blocks",
         "children": [
+          {
+            "name": "Obsidian",
+            "children": [
+              {
+                "name": "Recipes",
+                "children": []
+              }
+            ]
+          },
           {
             "name": "Diorite",
             "children": [
@@ -1800,6 +2799,15 @@
             "children": [
               {
                 "name": "Recipe",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Stone",
+            "children": [
+              {
+                "name": "Recipes",
                 "children": []
               }
             ]

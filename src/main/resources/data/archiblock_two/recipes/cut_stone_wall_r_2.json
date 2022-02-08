@@ -1,0 +1,32 @@
+{
+  "group": "cut_stone_wall",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:cut_stone"
+    },
+    "1": {
+      "item": "archiblock_two:cut_stone"
+    },
+    "2": {
+      "item": "archiblock_two:cut_stone"
+    },
+    "3": {
+      "item": "archiblock_two:cut_stone"
+    },
+    "4": {
+      "item": "archiblock_two:cut_stone"
+    },
+    "5": {
+      "item": "archiblock_two:cut_stone"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:cut_stone_wall",
+    "count": 6
+  }
+}

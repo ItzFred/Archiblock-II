@@ -1,0 +1,33 @@
+{
+  "group": "chiselled_obsidian_stairs",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:chiselled_obsidian"
+    },
+    "3": {
+      "item": "archiblock_two:chiselled_obsidian"
+    },
+    "4": {
+      "item": "archiblock_two:chiselled_obsidian"
+    },
+    "6": {
+      "item": "archiblock_two:chiselled_obsidian"
+    },
+    "7": {
+      "item": "archiblock_two:chiselled_obsidian"
+    },
+    "8": {
+      "item": "archiblock_two:chiselled_obsidian"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:chiselled_obsidian_stairs",
+    "count": 3
+  }
+}

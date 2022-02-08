@@ -1,0 +1,9 @@
+{
+  "group": "diorite_tile_wall",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "archiblock_two:cut_diorite"
+  },
+  "result": "archiblock_two:diorite_tile_wall"
+}

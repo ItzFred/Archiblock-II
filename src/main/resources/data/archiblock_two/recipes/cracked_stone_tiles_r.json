@@ -1,0 +1,9 @@
+{
+  "group": "cracked_stone_tiles",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:stone"
+  },
+  "result": "archiblock_two:deleted_mod_element"
+}

@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "diorite_tile_wall",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:CutDiorite"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:DioriteTileWall"
+    },
+    "name": "diorite_tile_wall_r_1",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "small_stone_bricks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:cut_stone"
+    },
+    "1": {
+      "item": "archiblock_two:cut_stone"
+    },
+    "2": {
+      "item": "archiblock_two:cut_stone"
+    },
+    "3": {
+      "item": "archiblock_two:cut_stone"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:small_stone_bricks",
+    "count": 4
+  }
+}

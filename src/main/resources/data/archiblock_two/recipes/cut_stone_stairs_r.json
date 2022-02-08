@@ -1,0 +1,9 @@
+{
+  "group": "cut_stone_stairs",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:stone"
+  },
+  "result": "archiblock_two:cut_stone_stairs"
+}

@@ -1,0 +1,9 @@
+{
+  "group": "obsidian_pillar",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:obsidian"
+  },
+  "result": "archiblock_two:obsidian_pillar"
+}

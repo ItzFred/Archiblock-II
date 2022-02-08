@@ -1,0 +1,9 @@
+{
+  "group": "obsidian_bricks",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:obsidian"
+  },
+  "result": "archiblock_two:deleted_mod_element"
+}

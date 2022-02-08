@@ -1,0 +1,9 @@
+{
+  "group": "obsidian_brick_stairs",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:obsidian"
+  },
+  "result": "archiblock_two:obsidian_brick_stairs"
+}
