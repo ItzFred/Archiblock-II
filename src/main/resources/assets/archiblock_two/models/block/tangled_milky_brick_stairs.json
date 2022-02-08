@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "archiblock_two:blocks/milkybrickmossy",
+    "top": "archiblock_two:blocks/milkybrickmossy",
+    "side": "archiblock_two:blocks/milkybrickmossy"
+  }
+}

@@ -3,7 +3,7 @@
   "type": "minecraft:stonecutting",
   "count": 2,
   "ingredient": {
-    "item": "archiblock_two:deleted_mod_element"
+    "item": "archiblock_two:chiselled_obsidian"
   },
-  "result": "archiblock_two:deleted_mod_element"
+  "result": "archiblock_two:chiselled_obsidian_slab"
 }

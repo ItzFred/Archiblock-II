@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "archiblock_two:block/tangled_milky_shingles_block",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "archiblock_two:block/tangled_milky_shingles_block"
+    },
+    "axis=z": {
+      "model": "archiblock_two:block/tangled_milky_shingles_block",
+      "x": 90
+    }
+  }
+}

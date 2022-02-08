@@ -1,6 +1,8 @@
 {
   "replace": false,
   "values": [
+    "archiblock_two:gray_spool",
+    "archiblock_two:light_gray_spool",
     "archiblock_two:red_spool",
     "archiblock_two:orange_spool",
     "archiblock_two:yellow_spool",
@@ -14,8 +16,6 @@
     "archiblock_two:lime_spool",
     "archiblock_two:green_spool",
     "archiblock_two:brown_spool",
-    "archiblock_two:black_spool",
-    "archiblock_two:gray_spool",
-    "archiblock_two:light_gray_spool"
+    "archiblock_two:black_spool"
   ]
 }

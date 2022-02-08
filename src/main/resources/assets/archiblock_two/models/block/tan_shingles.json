@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "archiblock_two:blocks/tanshingles",
+    "up": "archiblock_two:blocks/tanshingles",
+    "north": "archiblock_two:blocks/tanshingles2",
+    "east": "archiblock_two:blocks/tanshingles3",
+    "south": "archiblock_two:blocks/tanshingles2",
+    "west": "archiblock_two:blocks/tanshingles3",
+    "particle": "archiblock_two:blocks/tanshingles"
+  }
+}

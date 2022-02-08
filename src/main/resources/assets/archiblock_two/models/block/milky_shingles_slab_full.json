@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "archiblock_two:blocks/milkyshingles2",
+    "top": "archiblock_two:blocks/milkyshingles2",
+    "side": "archiblock_two:blocks/milkyshingles1"
+  }
+}

@@ -8,26 +8,26 @@
   ],
   "key": {
     "0": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:cut_stone"
     },
     "3": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:cut_stone"
     },
     "4": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:cut_stone"
     },
     "6": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:cut_stone"
     },
     "7": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:cut_stone"
     },
     "8": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:cut_stone"
     }
   },
   "result": {
-    "item": "archiblock_two:deleted_mod_element",
+    "item": "archiblock_two:cut_stone_stairs",
     "count": 3
   }
 }

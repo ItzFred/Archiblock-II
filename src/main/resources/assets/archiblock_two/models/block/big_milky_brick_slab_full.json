@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "archiblock_two:blocks/milkybricks",
+    "top": "archiblock_two:blocks/milkybricks",
+    "side": "archiblock_two:blocks/milkybricks"
+  }
+}

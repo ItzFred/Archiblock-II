@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "archiblock_two:block/small_milky_tile_wall"
+    },
+    "type=top": {
+      "model": "archiblock_two:block/small_milky_tile_wall_top"
+    },
+    "type=double": {
+      "model": "archiblock_two:block/small_milky_tile_wall_full"
+    }
+  }
+}

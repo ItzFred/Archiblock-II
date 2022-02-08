@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "archiblock_two:blocks/tantiling",
+    "top": "archiblock_two:blocks/tantiling",
+    "side": "archiblock_two:blocks/tantiling"
+  }
+}

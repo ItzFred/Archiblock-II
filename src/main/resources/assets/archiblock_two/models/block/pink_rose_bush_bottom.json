@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "archiblock_two:blocks/pinkrosebottom",
+    "particle": "archiblock_two:blocks/pinkrosebottom"
+  }
+}

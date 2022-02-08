@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "archiblock_two:blocks/clayshinglesfront1",
+    "up": "archiblock_two:blocks/clayshinglesfront1",
+    "north": "archiblock_two:blocks/brickshinglestangled",
+    "east": "archiblock_two:blocks/rotatedshingleside",
+    "south": "archiblock_two:blocks/brickshinglestangled",
+    "west": "archiblock_two:blocks/rotatedshingleside",
+    "particle": "archiblock_two:blocks/clayshinglesfront1"
+  }
+}

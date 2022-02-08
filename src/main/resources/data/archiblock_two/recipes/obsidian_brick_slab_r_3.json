@@ -6,17 +6,17 @@
   ],
   "key": {
     "0": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:obsidian_bricks"
     },
     "1": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:obsidian_bricks"
     },
     "2": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:obsidian_bricks"
     }
   },
   "result": {
-    "item": "archiblock_two:deleted_mod_element",
+    "item": "archiblock_two:obsidian_brick_slab",
     "count": 6
   }
 }
