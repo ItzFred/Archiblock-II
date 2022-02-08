@@ -6,11 +6,11 @@
   ],
   "key": {
     "0": {
-      "item": "archiblock_two:cut_stone"
+      "item": "archiblock_two:deleted_mod_element"
     }
   },
   "result": {
-    "item": "archiblock_two:stone_tiles",
+    "item": "archiblock_two:deleted_mod_element",
     "count": 1
   }
 }

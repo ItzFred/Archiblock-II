@@ -2769,7 +2769,7 @@
         "name": "OtherBlocks",
         "children": [
           {
-            "name": "Bricks",
+            "name": "Spool",
             "children": [
               {
                 "name": "Recipes",
@@ -2778,7 +2778,7 @@
             ]
           },
           {
-            "name": "Spool",
+            "name": "Bricks",
             "children": [
               {
                 "name": "Recipes",
@@ -2795,6 +2795,15 @@
       {
         "name": "Stone Type Blocks",
         "children": [
+          {
+            "name": "Obsidian",
+            "children": [
+              {
+                "name": "Recipes",
+                "children": []
+              }
+            ]
+          },
           {
             "name": "Diorite",
             "children": [
@@ -2824,15 +2833,6 @@
           },
           {
             "name": "Stone",
-            "children": [
-              {
-                "name": "Recipes",
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Obsidian",
             "children": [
               {
                 "name": "Recipes",

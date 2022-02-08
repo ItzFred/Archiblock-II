@@ -3,14 +3,14 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "archiblock_two:cut_stone"
+      "item": "archiblock_two:deleted_mod_element"
     },
     {
       "item": "minecraft:vine"
     }
   ],
   "result": {
-    "item": "archiblock_two:mossy_cracked_stone",
+    "item": "archiblock_two:deleted_mod_element",
     "count": 1
   }
 }
