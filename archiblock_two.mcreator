@@ -57,7 +57,7 @@
     {
       "name": "ArchiblockIITab",
       "type": "tab",
-      "sortid": 109,
+      "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "registry_name": "archiblock_ii_tab"
@@ -65,7 +65,7 @@
     {
       "name": "AndesiteBlockR",
       "type": "recipe",
-      "sortid": 110,
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_block_r",
@@ -74,7 +74,7 @@
     {
       "name": "AndesiteBricksR",
       "type": "recipe",
-      "sortid": 111,
+      "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_bricks_r",
@@ -83,7 +83,7 @@
     {
       "name": "AndesiteBlockR1",
       "type": "recipe",
-      "sortid": 112,
+      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_block_r_1",
@@ -92,7 +92,7 @@
     {
       "name": "AndesiteBricksR1",
       "type": "recipe",
-      "sortid": 113,
+      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_bricks_r_1",
@@ -101,7 +101,7 @@
     {
       "name": "AndesiteBricksR2",
       "type": "recipe",
-      "sortid": 114,
+      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_bricks_r_2",
@@ -110,7 +110,7 @@
     {
       "name": "AndesiteSmallBricksR",
       "type": "recipe",
-      "sortid": 115,
+      "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_small_bricks_r",
@@ -119,7 +119,7 @@
     {
       "name": "AndesiteSmallBricksR1",
       "type": "recipe",
-      "sortid": 116,
+      "sortid": 14,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_small_bricks_r_1",
@@ -128,7 +128,7 @@
     {
       "name": "AndesiteSmallBricksR2",
       "type": "recipe",
-      "sortid": 117,
+      "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_small_bricks_r_2",
@@ -137,7 +137,7 @@
     {
       "name": "AndesiteSmallBricksR3",
       "type": "recipe",
-      "sortid": 118,
+      "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_small_bricks_r_3",
@@ -146,7 +146,7 @@
     {
       "name": "AndesiteTilesR",
       "type": "recipe",
-      "sortid": 119,
+      "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_tiles_r",
@@ -155,7 +155,7 @@
     {
       "name": "AndesiteTilesR1",
       "type": "recipe",
-      "sortid": 120,
+      "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_tiles_r_1",
@@ -164,7 +164,7 @@
     {
       "name": "AndesiteTilesR2",
       "type": "recipe",
-      "sortid": 121,
+      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_tiles_r_2",
@@ -173,7 +173,7 @@
     {
       "name": "AndesitePillarR",
       "type": "recipe",
-      "sortid": 122,
+      "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_pillar_r",
@@ -182,7 +182,7 @@
     {
       "name": "AndesitePillarR1",
       "type": "recipe",
-      "sortid": 123,
+      "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_pillar_r_1",
@@ -191,7 +191,7 @@
     {
       "name": "AndesitePillarR2",
       "type": "recipe",
-      "sortid": 124,
+      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_pillar_r_2",
@@ -200,7 +200,7 @@
     {
       "name": "ChiselledAndesiteR",
       "type": "recipe",
-      "sortid": 125,
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_andesite_r",
@@ -209,7 +209,7 @@
     {
       "name": "ChiselledAndesiteR2",
       "type": "recipe",
-      "sortid": 126,
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_andesite_r_2",
@@ -218,7 +218,7 @@
     {
       "name": "ChiselledAndesiteR1",
       "type": "recipe",
-      "sortid": 127,
+      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_andesite_r_1",
@@ -227,7 +227,7 @@
     {
       "name": "AndesiteBlockStairs",
       "type": "block",
-      "sortid": 7,
+      "sortid": 26,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_block_stairs",
@@ -236,7 +236,7 @@
     {
       "name": "AndesiteBlockSlab",
       "type": "block",
-      "sortid": 8,
+      "sortid": 27,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_block_slab",
@@ -245,7 +245,7 @@
     {
       "name": "AndesiteBrickStairs",
       "type": "block",
-      "sortid": 9,
+      "sortid": 28,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_brick_stairs",
@@ -254,7 +254,7 @@
     {
       "name": "AndesiteBrickSlab",
       "type": "block",
-      "sortid": 10,
+      "sortid": 29,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_brick_slab",
@@ -263,7 +263,7 @@
     {
       "name": "AndesiteBlockStairsR",
       "type": "recipe",
-      "sortid": 128,
+      "sortid": 30,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_block_stairs_r",
@@ -272,7 +272,7 @@
     {
       "name": "AndesiteBlockStairsR1",
       "type": "recipe",
-      "sortid": 129,
+      "sortid": 31,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_block_stairs_r_1",
@@ -281,7 +281,7 @@
     {
       "name": "AndesiteBlockStairsR2",
       "type": "recipe",
-      "sortid": 130,
+      "sortid": 32,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_block_stairs_r_2",
@@ -290,7 +290,7 @@
     {
       "name": "AndesiteBlockSlabR",
       "type": "recipe",
-      "sortid": 131,
+      "sortid": 33,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_block_slab_r",
@@ -299,7 +299,7 @@
     {
       "name": "AndesiteBlockSlabR1",
       "type": "recipe",
-      "sortid": 132,
+      "sortid": 34,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_block_slab_r_1",
@@ -308,7 +308,7 @@
     {
       "name": "AndesiteBlockSlabR2",
       "type": "recipe",
-      "sortid": 133,
+      "sortid": 35,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_block_slab_r_2",
@@ -317,7 +317,7 @@
     {
       "name": "AndesiteBrickStairsR",
       "type": "recipe",
-      "sortid": 134,
+      "sortid": 36,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_brick_stairs_r",
@@ -326,7 +326,7 @@
     {
       "name": "AndesiteBrickStairsR1",
       "type": "recipe",
-      "sortid": 135,
+      "sortid": 37,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_brick_stairs_r_1",
@@ -335,7 +335,7 @@
     {
       "name": "AndesiteBrickStairsR2",
       "type": "recipe",
-      "sortid": 136,
+      "sortid": 38,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_brick_stairs_r_2",
@@ -344,7 +344,7 @@
     {
       "name": "AndesiteBrickStairsR3",
       "type": "recipe",
-      "sortid": 137,
+      "sortid": 39,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_brick_stairs_r_3",
@@ -353,7 +353,7 @@
     {
       "name": "AndesiteBrickSlabR",
       "type": "recipe",
-      "sortid": 138,
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_brick_slab_r",
@@ -362,7 +362,7 @@
     {
       "name": "AndesiteBrickSlabR1",
       "type": "recipe",
-      "sortid": 139,
+      "sortid": 41,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_brick_slab_r_1",
@@ -371,7 +371,7 @@
     {
       "name": "AndesiteBrickSlabR2",
       "type": "recipe",
-      "sortid": 140,
+      "sortid": 42,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_brick_slab_r_2",
@@ -380,7 +380,7 @@
     {
       "name": "AndesiteBrickSlabR3",
       "type": "recipe",
-      "sortid": 141,
+      "sortid": 43,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_brick_slab_r_3",
@@ -389,7 +389,7 @@
     {
       "name": "AndesiteBlockWall",
       "type": "block",
-      "sortid": 11,
+      "sortid": 44,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_block_wall",
@@ -398,7 +398,7 @@
     {
       "name": "AndesiteBrickWall",
       "type": "block",
-      "sortid": 12,
+      "sortid": 45,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_brick_wall",
@@ -407,7 +407,7 @@
     {
       "name": "AndesiteBlockWallR",
       "type": "recipe",
-      "sortid": 142,
+      "sortid": 46,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_block_wall_r",
@@ -416,7 +416,7 @@
     {
       "name": "AndesiteBlockWallR1",
       "type": "recipe",
-      "sortid": 143,
+      "sortid": 47,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_block_wall_r_1",
@@ -425,7 +425,7 @@
     {
       "name": "AndesiteBlockWallR2",
       "type": "recipe",
-      "sortid": 144,
+      "sortid": 48,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_block_wall_r_2",
@@ -434,7 +434,7 @@
     {
       "name": "AndesiteBrickWallR",
       "type": "recipe",
-      "sortid": 145,
+      "sortid": 49,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_brick_wall_r",
@@ -443,7 +443,7 @@
     {
       "name": "AndesiteBrickWallR1",
       "type": "recipe",
-      "sortid": 146,
+      "sortid": 50,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_brick_wall_r_1",
@@ -452,7 +452,7 @@
     {
       "name": "AndesiteBrickWallR2",
       "type": "recipe",
-      "sortid": 147,
+      "sortid": 51,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_brick_wall_r_2",
@@ -461,7 +461,7 @@
     {
       "name": "AndesiteBrickWallR3",
       "type": "recipe",
-      "sortid": 148,
+      "sortid": 52,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_brick_wall_r_3",
@@ -470,7 +470,7 @@
     {
       "name": "Walls",
       "type": "tag",
-      "sortid": 149,
+      "sortid": 53,
       "compiles": true,
       "locked_code": false,
       "registry_name": "walls",
@@ -479,7 +479,7 @@
     {
       "name": "StairsTag",
       "type": "tag",
-      "sortid": 150,
+      "sortid": 54,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stairs_tag",
@@ -488,7 +488,7 @@
     {
       "name": "SlabsTag",
       "type": "tag",
-      "sortid": 151,
+      "sortid": 55,
       "compiles": true,
       "locked_code": false,
       "registry_name": "slabs_tag",
@@ -497,7 +497,7 @@
     {
       "name": "CutGranite",
       "type": "block",
-      "sortid": 15,
+      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_granite",
@@ -506,7 +506,7 @@
     {
       "name": "GraniteBricks",
       "type": "block",
-      "sortid": 16,
+      "sortid": 57,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_bricks",
@@ -515,7 +515,7 @@
     {
       "name": "GraniteTiles",
       "type": "block",
-      "sortid": 17,
+      "sortid": 58,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_tiles",
@@ -524,7 +524,7 @@
     {
       "name": "ChiselledGranite",
       "type": "block",
-      "sortid": 18,
+      "sortid": 59,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_granite",
@@ -533,7 +533,7 @@
     {
       "name": "GranitePillar",
       "type": "block",
-      "sortid": 19,
+      "sortid": 60,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_pillar",
@@ -542,7 +542,7 @@
     {
       "name": "GraniteCutPillar",
       "type": "block",
-      "sortid": 20,
+      "sortid": 61,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_cut_pillar",
@@ -551,7 +551,7 @@
     {
       "name": "GraniteSmallBricks",
       "type": "block",
-      "sortid": 21,
+      "sortid": 62,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_small_bricks",
@@ -560,7 +560,7 @@
     {
       "name": "CutGraniteStairs",
       "type": "block",
-      "sortid": 22,
+      "sortid": 63,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_granite_stairs",
@@ -569,7 +569,7 @@
     {
       "name": "CutGraniteSlab",
       "type": "block",
-      "sortid": 23,
+      "sortid": 64,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_granite_slab",
@@ -578,7 +578,7 @@
     {
       "name": "CutGraniteWall",
       "type": "block",
-      "sortid": 24,
+      "sortid": 65,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_granite_wall",
@@ -587,7 +587,7 @@
     {
       "name": "GraniteBrickStairs",
       "type": "block",
-      "sortid": 25,
+      "sortid": 66,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_brick_stairs",
@@ -596,7 +596,7 @@
     {
       "name": "GraniteBrickSlab",
       "type": "block",
-      "sortid": 26,
+      "sortid": 67,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_brick_slab",
@@ -605,7 +605,7 @@
     {
       "name": "GraniteBrickWall",
       "type": "block",
-      "sortid": 27,
+      "sortid": 68,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_brick_wall",
@@ -614,7 +614,7 @@
     {
       "name": "CutGraniteR",
       "type": "recipe",
-      "sortid": 152,
+      "sortid": 69,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_granite_r",
@@ -623,7 +623,7 @@
     {
       "name": "CutGraniteR1",
       "type": "recipe",
-      "sortid": 153,
+      "sortid": 70,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_granite_r_1",
@@ -632,7 +632,7 @@
     {
       "name": "CutGraniteStairsR",
       "type": "recipe",
-      "sortid": 154,
+      "sortid": 71,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_granite_stairs_r",
@@ -641,7 +641,7 @@
     {
       "name": "CutGraniteStairsR1",
       "type": "recipe",
-      "sortid": 155,
+      "sortid": 72,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_granite_stairs_r_1",
@@ -650,7 +650,7 @@
     {
       "name": "CutGraniteStairsR2",
       "type": "recipe",
-      "sortid": 156,
+      "sortid": 73,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_granite_stairs_r_2",
@@ -659,7 +659,7 @@
     {
       "name": "CutGraniteSlabR",
       "type": "recipe",
-      "sortid": 157,
+      "sortid": 74,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_granite_slab_r",
@@ -668,7 +668,7 @@
     {
       "name": "CutGraniteSlabR1",
       "type": "recipe",
-      "sortid": 158,
+      "sortid": 75,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_granite_slab_r_1",
@@ -677,7 +677,7 @@
     {
       "name": "CutGraniteSlabR2",
       "type": "recipe",
-      "sortid": 159,
+      "sortid": 76,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_granite_slab_r_2",
@@ -686,7 +686,7 @@
     {
       "name": "CutGraniteWallR",
       "type": "recipe",
-      "sortid": 160,
+      "sortid": 77,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_granite_wall_r",
@@ -695,7 +695,7 @@
     {
       "name": "CutGraniteWallR1",
       "type": "recipe",
-      "sortid": 161,
+      "sortid": 78,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_granite_wall_r_1",
@@ -704,7 +704,7 @@
     {
       "name": "CutGraniteWallR2",
       "type": "recipe",
-      "sortid": 162,
+      "sortid": 79,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_granite_wall_r_2",
@@ -713,7 +713,7 @@
     {
       "name": "GraniteBricksR",
       "type": "recipe",
-      "sortid": 163,
+      "sortid": 80,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_bricks_r",
@@ -722,7 +722,7 @@
     {
       "name": "GraniteBricksR1",
       "type": "recipe",
-      "sortid": 164,
+      "sortid": 81,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_bricks_r_1",
@@ -731,7 +731,7 @@
     {
       "name": "GraniteBricksR2",
       "type": "recipe",
-      "sortid": 165,
+      "sortid": 82,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_bricks_r_2",
@@ -740,7 +740,7 @@
     {
       "name": "GraniteSmallBricksR",
       "type": "recipe",
-      "sortid": 166,
+      "sortid": 83,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_small_bricks_r",
@@ -749,7 +749,7 @@
     {
       "name": "GraniteSmallBricksR1",
       "type": "recipe",
-      "sortid": 167,
+      "sortid": 84,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_small_bricks_r_1",
@@ -758,7 +758,7 @@
     {
       "name": "GraniteSmallBricksR2",
       "type": "recipe",
-      "sortid": 168,
+      "sortid": 85,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_small_bricks_r_2",
@@ -767,7 +767,7 @@
     {
       "name": "GraniteSmallBricksR3",
       "type": "recipe",
-      "sortid": 169,
+      "sortid": 86,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_small_bricks_r_3",
@@ -776,7 +776,7 @@
     {
       "name": "GraniteTilesR",
       "type": "recipe",
-      "sortid": 170,
+      "sortid": 87,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_tiles_r",
@@ -785,7 +785,7 @@
     {
       "name": "GraniteTilesR1",
       "type": "recipe",
-      "sortid": 171,
+      "sortid": 88,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_tiles_r_1",
@@ -794,7 +794,7 @@
     {
       "name": "GraniteTilesR2",
       "type": "recipe",
-      "sortid": 172,
+      "sortid": 89,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_tiles_r_2",
@@ -803,7 +803,7 @@
     {
       "name": "GranitePillarR",
       "type": "recipe",
-      "sortid": 173,
+      "sortid": 90,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_pillar_r",
@@ -812,7 +812,7 @@
     {
       "name": "GranitePillarR2",
       "type": "recipe",
-      "sortid": 174,
+      "sortid": 91,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_pillar_r_2",
@@ -821,7 +821,7 @@
     {
       "name": "GranitePillarR3",
       "type": "recipe",
-      "sortid": 175,
+      "sortid": 92,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_pillar_r_3",
@@ -830,7 +830,7 @@
     {
       "name": "GraniteCutPillarR",
       "type": "recipe",
-      "sortid": 176,
+      "sortid": 93,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_cut_pillar_r",
@@ -839,7 +839,7 @@
     {
       "name": "GraniteCutPillarR1",
       "type": "recipe",
-      "sortid": 177,
+      "sortid": 94,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_cut_pillar_r_1",
@@ -848,7 +848,7 @@
     {
       "name": "ChiselledGraniteR",
       "type": "recipe",
-      "sortid": 178,
+      "sortid": 95,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_granite_r",
@@ -857,7 +857,7 @@
     {
       "name": "ChiselledGraniteR1",
       "type": "recipe",
-      "sortid": 179,
+      "sortid": 96,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_granite_r_1",
@@ -866,7 +866,7 @@
     {
       "name": "ChiselledGraniteR2",
       "type": "recipe",
-      "sortid": 180,
+      "sortid": 97,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_granite_r_2",
@@ -875,7 +875,7 @@
     {
       "name": "GraniteBrickStairsR",
       "type": "recipe",
-      "sortid": 181,
+      "sortid": 98,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_brick_stairs_r",
@@ -884,7 +884,7 @@
     {
       "name": "GraniteBrickStairsR1",
       "type": "recipe",
-      "sortid": 182,
+      "sortid": 99,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_brick_stairs_r_1",
@@ -893,7 +893,7 @@
     {
       "name": "GraniteBrickStairsR3",
       "type": "recipe",
-      "sortid": 183,
+      "sortid": 100,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_brick_stairs_r_3",
@@ -902,7 +902,7 @@
     {
       "name": "GraniteBrickStairsR2",
       "type": "recipe",
-      "sortid": 184,
+      "sortid": 101,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_brick_stairs_r_2",
@@ -911,7 +911,7 @@
     {
       "name": "GraniteBrickSlabR",
       "type": "recipe",
-      "sortid": 185,
+      "sortid": 102,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_brick_slab_r",
@@ -920,7 +920,7 @@
     {
       "name": "GraniteBrickSlabR1",
       "type": "recipe",
-      "sortid": 186,
+      "sortid": 103,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_brick_slab_r_1",
@@ -929,7 +929,7 @@
     {
       "name": "GraniteBrickSlabR2",
       "type": "recipe",
-      "sortid": 187,
+      "sortid": 104,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_brick_slab_r_2",
@@ -938,7 +938,7 @@
     {
       "name": "GraniteBrickSlabR3",
       "type": "recipe",
-      "sortid": 188,
+      "sortid": 105,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_brick_slab_r_3",
@@ -947,7 +947,7 @@
     {
       "name": "GraniteBrickWallR",
       "type": "recipe",
-      "sortid": 189,
+      "sortid": 106,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_brick_wall_r",
@@ -956,7 +956,7 @@
     {
       "name": "GraniteBrickWallR1",
       "type": "recipe",
-      "sortid": 190,
+      "sortid": 107,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_brick_wall_r_1",
@@ -965,7 +965,7 @@
     {
       "name": "GraniteBrickWallR2",
       "type": "recipe",
-      "sortid": 191,
+      "sortid": 108,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_brick_wall_r_2",
@@ -974,7 +974,7 @@
     {
       "name": "GraniteBrickWallR3",
       "type": "recipe",
-      "sortid": 192,
+      "sortid": 109,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_brick_wall_r_3",
@@ -983,7 +983,7 @@
     {
       "name": "CutDiorite",
       "type": "block",
-      "sortid": 28,
+      "sortid": 110,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_diorite",
@@ -992,7 +992,7 @@
     {
       "name": "DioriteBricks",
       "type": "block",
-      "sortid": 29,
+      "sortid": 111,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_bricks",
@@ -1001,7 +1001,7 @@
     {
       "name": "DioriteTiles",
       "type": "block",
-      "sortid": 30,
+      "sortid": 112,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_tiles",
@@ -1010,7 +1010,7 @@
     {
       "name": "DioritePillar",
       "type": "block",
-      "sortid": 31,
+      "sortid": 113,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_pillar",
@@ -1019,7 +1019,7 @@
     {
       "name": "FancyDioritePillar",
       "type": "block",
-      "sortid": 32,
+      "sortid": 114,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fancy_diorite_pillar",
@@ -1028,7 +1028,7 @@
     {
       "name": "ChiselledDiorite",
       "type": "block",
-      "sortid": 33,
+      "sortid": 115,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_diorite",
@@ -1037,7 +1037,7 @@
     {
       "name": "CutDioriteR",
       "type": "recipe",
-      "sortid": 193,
+      "sortid": 116,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_diorite_r",
@@ -1046,7 +1046,7 @@
     {
       "name": "DioriteBricksR",
       "type": "recipe",
-      "sortid": 194,
+      "sortid": 117,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_bricks_r",
@@ -1055,7 +1055,7 @@
     {
       "name": "DioriteTilesR",
       "type": "recipe",
-      "sortid": 195,
+      "sortid": 118,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_tiles_r",
@@ -1064,7 +1064,7 @@
     {
       "name": "DioriteBrickStairs",
       "type": "block",
-      "sortid": 34,
+      "sortid": 119,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_brick_stairs",
@@ -1073,7 +1073,7 @@
     {
       "name": "DioriteBrickSlab",
       "type": "block",
-      "sortid": 35,
+      "sortid": 120,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_brick_slab",
@@ -1082,7 +1082,7 @@
     {
       "name": "DioriteTileSlab",
       "type": "block",
-      "sortid": 38,
+      "sortid": 121,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_tile_slab",
@@ -1091,7 +1091,7 @@
     {
       "name": "DioriteTileStairs",
       "type": "block",
-      "sortid": 37,
+      "sortid": 122,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_tile_stairs",
@@ -1100,7 +1100,7 @@
     {
       "name": "DioriteBricksR2",
       "type": "recipe",
-      "sortid": 196,
+      "sortid": 123,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_bricks_r_2",
@@ -1109,7 +1109,7 @@
     {
       "name": "DioriteTilesR2",
       "type": "recipe",
-      "sortid": 197,
+      "sortid": 124,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_tiles_r_2",
@@ -1118,7 +1118,7 @@
     {
       "name": "DioritePillarR",
       "type": "recipe",
-      "sortid": 198,
+      "sortid": 125,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_pillar_r",
@@ -1127,7 +1127,7 @@
     {
       "name": "DioritePillar2R",
       "type": "recipe",
-      "sortid": 199,
+      "sortid": 126,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_pillar_2_r",
@@ -1136,7 +1136,7 @@
     {
       "name": "ChiselledDioriteR",
       "type": "recipe",
-      "sortid": 200,
+      "sortid": 127,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_diorite_r",
@@ -1145,7 +1145,7 @@
     {
       "name": "ChiselledDioriteR2",
       "type": "recipe",
-      "sortid": 201,
+      "sortid": 128,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_diorite_r_2",
@@ -1154,7 +1154,7 @@
     {
       "name": "DioritePillarR2",
       "type": "recipe",
-      "sortid": 202,
+      "sortid": 129,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_pillar_r_2",
@@ -1163,7 +1163,7 @@
     {
       "name": "DioritePillar2R2",
       "type": "recipe",
-      "sortid": 203,
+      "sortid": 130,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_pillar_2_r_2",
@@ -1172,7 +1172,7 @@
     {
       "name": "DioriteBricksSlabR",
       "type": "recipe",
-      "sortid": 204,
+      "sortid": 131,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_bricks_slab_r",
@@ -1181,7 +1181,7 @@
     {
       "name": "DioriteBricksStairsR",
       "type": "recipe",
-      "sortid": 205,
+      "sortid": 132,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_bricks_stairs_r",
@@ -1190,7 +1190,7 @@
     {
       "name": "DioriteTileStairsR",
       "type": "recipe",
-      "sortid": 206,
+      "sortid": 133,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_tile_stairs_r",
@@ -1199,7 +1199,7 @@
     {
       "name": "DioriteTileSlabR",
       "type": "recipe",
-      "sortid": 207,
+      "sortid": 134,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_tile_slab_r",
@@ -1208,7 +1208,7 @@
     {
       "name": "Sus",
       "type": "musicdisc",
-      "sortid": 108,
+      "sortid": 135,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sus",
@@ -1217,295 +1217,263 @@
     {
       "name": "GreenSpoolR",
       "type": "recipe",
-      "sortid": 208,
+      "sortid": 162,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "green_spool_r",
-      "path": "~/OtherBlocks/Spool/Recipes"
+      "registry_name": "green_spool_r"
     },
     {
       "name": "CyanSpool",
       "type": "block",
-      "sortid": 74,
+      "sortid": 44,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "cyan_spool",
-      "path": "~/OtherBlocks/Spool"
+      "registry_name": "cyan_spool"
     },
     {
       "name": "LightBlueSpool",
       "type": "block",
-      "sortid": 75,
+      "sortid": 45,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "light_blue_spool",
-      "path": "~/OtherBlocks/Spool"
+      "registry_name": "light_blue_spool"
     },
     {
       "name": "MagentaSpool",
       "type": "block",
-      "sortid": 71,
+      "sortid": 41,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "magenta_spool",
-      "path": "~/OtherBlocks/Spool"
+      "registry_name": "magenta_spool"
     },
     {
       "name": "OrangeSpoolR",
       "type": "recipe",
-      "sortid": 209,
+      "sortid": 154,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "orange_spool_r",
-      "path": "~/OtherBlocks/Spool/Recipes"
+      "registry_name": "orange_spool_r"
     },
     {
       "name": "RedSpoolR",
       "type": "recipe",
-      "sortid": 210,
+      "sortid": 155,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "red_spool_r",
-      "path": "~/OtherBlocks/Spool/Recipes"
+      "registry_name": "red_spool_r"
     },
     {
       "name": "BlueSpool",
       "type": "block",
-      "sortid": 73,
+      "sortid": 43,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "blue_spool",
-      "path": "~/OtherBlocks/Spool"
+      "registry_name": "blue_spool"
     },
     {
       "name": "LimeSpool",
       "type": "block",
-      "sortid": 76,
+      "sortid": 46,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "lime_spool",
-      "path": "~/OtherBlocks/Spool"
+      "registry_name": "lime_spool"
     },
     {
       "name": "PurpleWool",
       "type": "recipe",
-      "sortid": 211,
+      "sortid": 156,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "purple_wool",
-      "path": "~/OtherBlocks/Spool/Recipes"
+      "registry_name": "purple_wool"
     },
     {
       "name": "BlackSpoolR",
       "type": "recipe",
-      "sortid": 212,
+      "sortid": 165,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "black_spool_r",
-      "path": "~/OtherBlocks/Spool/Recipes"
+      "registry_name": "black_spool_r"
     },
     {
       "name": "PinkSpool",
       "type": "block",
-      "sortid": 70,
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "pink_spool",
-      "path": "~/OtherBlocks/Spool"
+      "registry_name": "pink_spool"
     },
     {
       "name": "BrownSpool",
       "type": "block",
-      "sortid": 78,
+      "sortid": 48,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "brown_spool",
-      "path": "~/OtherBlocks/Spool"
+      "registry_name": "brown_spool"
     },
     {
       "name": "GreenSpool",
       "type": "block",
-      "sortid": 77,
+      "sortid": 47,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "green_spool",
-      "path": "~/OtherBlocks/Spool"
+      "registry_name": "green_spool"
     },
     {
       "name": "PurpleSpool",
       "type": "block",
-      "sortid": 72,
+      "sortid": 42,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "purple_spool",
-      "path": "~/OtherBlocks/Spool"
+      "registry_name": "purple_spool"
     },
     {
       "name": "WhiteSpool",
       "type": "block",
-      "sortid": 69,
+      "sortid": 39,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "white_spool",
-      "path": "~/OtherBlocks/Spool"
+      "registry_name": "white_spool"
     },
     {
       "name": "YellowSpoolR",
       "type": "recipe",
-      "sortid": 213,
+      "sortid": 153,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "yellow_spool_r",
-      "path": "~/OtherBlocks/Spool/Recipes"
+      "registry_name": "yellow_spool_r"
     },
     {
       "name": "CyanSpoolR",
       "type": "recipe",
-      "sortid": 214,
+      "sortid": 160,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "cyan_spool_r",
-      "path": "~/OtherBlocks/Spool/Recipes"
+      "registry_name": "cyan_spool_r"
     },
     {
       "name": "PinkSpoolR",
       "type": "recipe",
-      "sortid": 215,
+      "sortid": 158,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "pink_spool_r",
-      "path": "~/OtherBlocks/Spool/Recipes"
+      "registry_name": "pink_spool_r"
     },
     {
       "name": "OrangeSpool",
       "type": "block",
-      "sortid": 67,
+      "sortid": 37,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "orange_spool",
-      "path": "~/OtherBlocks/Spool"
+      "registry_name": "orange_spool"
     },
     {
       "name": "YellowSpool",
       "type": "block",
-      "sortid": 68,
+      "sortid": 38,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "yellow_spool",
-      "path": "~/OtherBlocks/Spool"
+      "registry_name": "yellow_spool"
     },
     {
       "name": "LightBlueSpoolR",
       "type": "recipe",
-      "sortid": 216,
+      "sortid": 159,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "light_blue_spool_r",
-      "path": "~/OtherBlocks/Spool/Recipes"
+      "registry_name": "light_blue_spool_r"
     },
     {
       "name": "LightGraySpoolR",
       "type": "recipe",
-      "sortid": 217,
+      "sortid": 167,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "light_gray_spool_r",
-      "path": "~/OtherBlocks/Spool/Recipes"
+      "registry_name": "light_gray_spool_r"
     },
     {
       "name": "BrownSpoolR",
       "type": "recipe",
-      "sortid": 218,
+      "sortid": 164,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "brown_spool_r",
-      "path": "~/OtherBlocks/Spool/Recipes"
+      "registry_name": "brown_spool_r"
     },
     {
       "name": "LightGraySpool",
       "type": "block",
-      "sortid": 14,
+      "sortid": 51,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "light_gray_spool",
-      "path": "~/OtherBlocks/Spool"
+      "registry_name": "light_gray_spool"
     },
     {
       "name": "LimeSpoolR",
       "type": "recipe",
-      "sortid": 219,
+      "sortid": 163,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "lime_spool_r",
-      "path": "~/OtherBlocks/Spool/Recipes"
+      "registry_name": "lime_spool_r"
     },
     {
       "name": "MagentaSpoolR",
       "type": "recipe",
-      "sortid": 220,
+      "sortid": 157,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "magenta_spool_r",
-      "path": "~/OtherBlocks/Spool/Recipes"
+      "registry_name": "magenta_spool_r"
     },
     {
       "name": "BlueSpoolR",
       "type": "recipe",
-      "sortid": 221,
+      "sortid": 161,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "blue_spool_r",
-      "path": "~/OtherBlocks/Spool/Recipes"
+      "registry_name": "blue_spool_r"
     },
     {
       "name": "GraySpool",
       "type": "block",
-      "sortid": 13,
+      "sortid": 50,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "gray_spool",
-      "path": "~/OtherBlocks/Spool"
+      "registry_name": "gray_spool"
     },
     {
       "name": "WhiteSpoolR",
       "type": "recipe",
-      "sortid": 222,
+      "sortid": 152,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "white_spool_r",
-      "path": "~/OtherBlocks/Spool/Recipes"
+      "registry_name": "white_spool_r"
     },
     {
       "name": "BlackSpool",
       "type": "block",
-      "sortid": 79,
+      "sortid": 49,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "black_spool",
-      "path": "~/OtherBlocks/Spool"
+      "registry_name": "black_spool"
     },
     {
       "name": "GraySpoolR",
       "type": "recipe",
-      "sortid": 223,
+      "sortid": 166,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "gray_spool_r",
-      "path": "~/OtherBlocks/Spool/Recipes"
+      "registry_name": "gray_spool_r"
     },
     {
       "name": "RedSpool",
       "type": "block",
-      "sortid": 66,
+      "sortid": 36,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "red_spool",
-      "path": "~/OtherBlocks/Spool"
+      "registry_name": "red_spool"
     },
     {
       "name": "ClayBrickPavementR",
       "type": "recipe",
-      "sortid": 224,
+      "sortid": 145,
       "compiles": true,
       "locked_code": false,
       "registry_name": "clay_brick_pavement_r",
@@ -1514,7 +1482,7 @@
     {
       "name": "ClayShinglesR",
       "type": "recipe",
-      "sortid": 225,
+      "sortid": 147,
       "compiles": true,
       "locked_code": false,
       "registry_name": "clay_shingles_r",
@@ -1523,7 +1491,7 @@
     {
       "name": "ClayShinglesSlab",
       "type": "block",
-      "sortid": 86,
+      "sortid": 148,
       "compiles": true,
       "locked_code": false,
       "registry_name": "clay_shingles_slab",
@@ -1532,7 +1500,7 @@
     {
       "name": "SlantedClayShinglesR",
       "type": "recipe",
-      "sortid": 226,
+      "sortid": 151,
       "compiles": true,
       "locked_code": false,
       "registry_name": "slanted_clay_shingles_r",
@@ -1541,7 +1509,7 @@
     {
       "name": "BigClayBricks",
       "type": "block",
-      "sortid": 80,
+      "sortid": 136,
       "compiles": true,
       "locked_code": false,
       "registry_name": "big_clay_bricks",
@@ -1550,7 +1518,7 @@
     {
       "name": "SlantedShinglesSideR",
       "type": "recipe",
-      "sortid": 227,
+      "sortid": 153,
       "compiles": true,
       "locked_code": false,
       "registry_name": "slanted_shingles_side_r",
@@ -1559,7 +1527,7 @@
     {
       "name": "ClayBrickTiles",
       "type": "block",
-      "sortid": 81,
+      "sortid": 138,
       "compiles": true,
       "locked_code": false,
       "registry_name": "clay_brick_tiles",
@@ -1568,7 +1536,7 @@
     {
       "name": "SmallClayBrickTiles",
       "type": "block",
-      "sortid": 83,
+      "sortid": 140,
       "compiles": true,
       "locked_code": false,
       "registry_name": "small_clay_brick_tiles",
@@ -1577,7 +1545,7 @@
     {
       "name": "BigClayBricksR",
       "type": "recipe",
-      "sortid": 228,
+      "sortid": 141,
       "compiles": true,
       "locked_code": false,
       "registry_name": "big_clay_bricks_r",
@@ -1586,7 +1554,7 @@
     {
       "name": "ClayBrickBlockR",
       "type": "recipe",
-      "sortid": 229,
+      "sortid": 142,
       "compiles": true,
       "locked_code": false,
       "registry_name": "clay_brick_block_r",
@@ -1595,7 +1563,7 @@
     {
       "name": "SlantedClayShingles",
       "type": "block",
-      "sortid": 87,
+      "sortid": 150,
       "compiles": true,
       "locked_code": false,
       "registry_name": "slanted_clay_shingles",
@@ -1604,7 +1572,7 @@
     {
       "name": "SmallClayBrickTilesR",
       "type": "recipe",
-      "sortid": 230,
+      "sortid": 144,
       "compiles": true,
       "locked_code": false,
       "registry_name": "small_clay_brick_tiles_r",
@@ -1613,7 +1581,7 @@
     {
       "name": "ClayShingles",
       "type": "block",
-      "sortid": 85,
+      "sortid": 146,
       "compiles": true,
       "locked_code": false,
       "registry_name": "clay_shingles",
@@ -1622,7 +1590,7 @@
     {
       "name": "SlantedShinglesSide",
       "type": "block",
-      "sortid": 88,
+      "sortid": 152,
       "compiles": true,
       "locked_code": false,
       "registry_name": "slanted_shingles_side",
@@ -1631,7 +1599,7 @@
     {
       "name": "ClayBrickTilesR",
       "type": "recipe",
-      "sortid": 231,
+      "sortid": 143,
       "compiles": true,
       "locked_code": false,
       "registry_name": "clay_brick_tiles_r",
@@ -1640,7 +1608,7 @@
     {
       "name": "ClayShinglesSlabR",
       "type": "recipe",
-      "sortid": 232,
+      "sortid": 149,
       "compiles": true,
       "locked_code": false,
       "registry_name": "clay_shingles_slab_r",
@@ -1649,7 +1617,7 @@
     {
       "name": "ClayBrickPavement",
       "type": "block",
-      "sortid": 84,
+      "sortid": 139,
       "compiles": true,
       "locked_code": false,
       "registry_name": "clay_brick_pavement",
@@ -1658,7 +1626,7 @@
     {
       "name": "ClayBrickBlock",
       "type": "block",
-      "sortid": 82,
+      "sortid": 137,
       "compiles": true,
       "locked_code": false,
       "registry_name": "clay_brick_block",
@@ -1667,7 +1635,7 @@
     {
       "name": "ObsidianBrickWallR",
       "type": "recipe",
-      "sortid": 233,
+      "sortid": 264,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_brick_wall_r",
@@ -1676,7 +1644,7 @@
     {
       "name": "ObsidianBrickStairs",
       "type": "block",
-      "sortid": 60,
+      "sortid": 238,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_brick_stairs",
@@ -1685,7 +1653,7 @@
     {
       "name": "ObsidianBrickSlabR2",
       "type": "recipe",
-      "sortid": 234,
+      "sortid": 262,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_brick_slab_r_2",
@@ -1694,7 +1662,7 @@
     {
       "name": "CrackedStoneTilesR",
       "type": "recipe",
-      "sortid": 235,
+      "sortid": 202,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cracked_stone_tiles_r",
@@ -1703,7 +1671,7 @@
     {
       "name": "ObsidianBrickSlabR3",
       "type": "recipe",
-      "sortid": 236,
+      "sortid": 263,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_brick_slab_r_3",
@@ -1712,7 +1680,7 @@
     {
       "name": "CutStoneWall",
       "type": "block",
-      "sortid": 53,
+      "sortid": 181,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_stone_wall",
@@ -1721,7 +1689,7 @@
     {
       "name": "SmallObsidianBricksR1",
       "type": "recipe",
-      "sortid": 237,
+      "sortid": 229,
       "compiles": true,
       "locked_code": false,
       "registry_name": "small_obsidian_bricks_r_1",
@@ -1730,7 +1698,7 @@
     {
       "name": "SmallObsidianBricksR3",
       "type": "recipe",
-      "sortid": 238,
+      "sortid": 231,
       "compiles": true,
       "locked_code": false,
       "registry_name": "small_obsidian_bricks_r_3",
@@ -1739,7 +1707,7 @@
     {
       "name": "ChiselledObsidianStairs",
       "type": "block",
-      "sortid": 63,
+      "sortid": 241,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_obsidian_stairs",
@@ -1748,7 +1716,7 @@
     {
       "name": "ChiselledObsidianSlabR1",
       "type": "recipe",
-      "sortid": 239,
+      "sortid": 248,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_obsidian_slab_r_1",
@@ -1757,7 +1725,7 @@
     {
       "name": "SmallObsidianBricksR2",
       "type": "recipe",
-      "sortid": 240,
+      "sortid": 230,
       "compiles": true,
       "locked_code": false,
       "registry_name": "small_obsidian_bricks_r_2",
@@ -1766,7 +1734,7 @@
     {
       "name": "ChiselledObsidianSlabR3",
       "type": "recipe",
-      "sortid": 241,
+      "sortid": 250,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_obsidian_slab_r_3",
@@ -1775,7 +1743,7 @@
     {
       "name": "ChiselledObsidianSlabR2",
       "type": "recipe",
-      "sortid": 242,
+      "sortid": 249,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_obsidian_slab_r_2",
@@ -1784,7 +1752,7 @@
     {
       "name": "CutStoneStairsR2",
       "type": "recipe",
-      "sortid": 243,
+      "sortid": 188,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_stone_stairs_r_2",
@@ -1793,7 +1761,7 @@
     {
       "name": "CutStoneR",
       "type": "recipe",
-      "sortid": 244,
+      "sortid": 182,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_stone_r",
@@ -1802,7 +1770,7 @@
     {
       "name": "CutStoneStairsR1",
       "type": "recipe",
-      "sortid": 245,
+      "sortid": 187,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_stone_stairs_r_1",
@@ -1811,7 +1779,7 @@
     {
       "name": "ObsidianBricksR",
       "type": "recipe",
-      "sortid": 246,
+      "sortid": 221,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_bricks_r",
@@ -1820,7 +1788,7 @@
     {
       "name": "ObsidianBrickWall",
       "type": "block",
-      "sortid": 62,
+      "sortid": 240,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_brick_wall",
@@ -1829,7 +1797,7 @@
     {
       "name": "StoneTilesR",
       "type": "recipe",
-      "sortid": 247,
+      "sortid": 199,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stone_tiles_r",
@@ -1838,7 +1806,7 @@
     {
       "name": "ObsidianBrickStairsR1",
       "type": "recipe",
-      "sortid": 248,
+      "sortid": 257,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_brick_stairs_r_1",
@@ -1847,7 +1815,7 @@
     {
       "name": "CutStoneSlabR",
       "type": "recipe",
-      "sortid": 249,
+      "sortid": 189,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_stone_slab_r",
@@ -1856,7 +1824,7 @@
     {
       "name": "ChiselledObsidianR",
       "type": "recipe",
-      "sortid": 250,
+      "sortid": 232,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_obsidian_r",
@@ -1865,7 +1833,7 @@
     {
       "name": "ObsidianPillar",
       "type": "block",
-      "sortid": 59,
+      "sortid": 218,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_pillar",
@@ -1874,7 +1842,7 @@
     {
       "name": "MossyCutStoneR",
       "type": "recipe",
-      "sortid": 251,
+      "sortid": 183,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mossy_cut_stone_r",
@@ -1883,7 +1851,7 @@
     {
       "name": "ObsidianTilesR1",
       "type": "recipe",
-      "sortid": 252,
+      "sortid": 225,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_tiles_r_1",
@@ -1892,7 +1860,7 @@
     {
       "name": "ObsidianTilesR2",
       "type": "recipe",
-      "sortid": 253,
+      "sortid": 226,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_tiles_r_2",
@@ -1901,7 +1869,7 @@
     {
       "name": "ObsidianBrickStairsR3",
       "type": "recipe",
-      "sortid": 254,
+      "sortid": 259,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_brick_stairs_r_3",
@@ -1910,7 +1878,7 @@
     {
       "name": "ObsidianTilesR3",
       "type": "recipe",
-      "sortid": 255,
+      "sortid": 227,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_tiles_r_3",
@@ -1919,7 +1887,7 @@
     {
       "name": "ObsidianBrickStairsR2",
       "type": "recipe",
-      "sortid": 256,
+      "sortid": 258,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_brick_stairs_r_2",
@@ -1928,7 +1896,7 @@
     {
       "name": "ChiselledObsidianStairsR",
       "type": "recipe",
-      "sortid": 257,
+      "sortid": 244,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_obsidian_stairs_r",
@@ -1937,7 +1905,7 @@
     {
       "name": "ChiselledObsidianSlab",
       "type": "block",
-      "sortid": 64,
+      "sortid": 242,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_obsidian_slab",
@@ -1946,7 +1914,7 @@
     {
       "name": "StoneTilesR2",
       "type": "recipe",
-      "sortid": 258,
+      "sortid": 201,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stone_tiles_r_2",
@@ -1955,7 +1923,7 @@
     {
       "name": "SmallObsidianBricks",
       "type": "block",
-      "sortid": 56,
+      "sortid": 215,
       "compiles": true,
       "locked_code": false,
       "registry_name": "small_obsidian_bricks",
@@ -1964,7 +1932,7 @@
     {
       "name": "ObsidianTilesR",
       "type": "recipe",
-      "sortid": 259,
+      "sortid": 224,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_tiles_r",
@@ -1973,7 +1941,7 @@
     {
       "name": "CrackedStonePillarR2",
       "type": "recipe",
-      "sortid": 260,
+      "sortid": 211,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cracked_stone_pillar_r_2",
@@ -1982,7 +1950,7 @@
     {
       "name": "CrackedStonePillarR1",
       "type": "recipe",
-      "sortid": 261,
+      "sortid": 210,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cracked_stone_pillar_r_1",
@@ -1991,7 +1959,7 @@
     {
       "name": "CutObsidianR1",
       "type": "recipe",
-      "sortid": 262,
+      "sortid": 220,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_obsidian_r_1",
@@ -2000,7 +1968,7 @@
     {
       "name": "DioriteBrickWallR",
       "type": "recipe",
-      "sortid": 263,
+      "sortid": 270,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_brick_wall_r",
@@ -2009,7 +1977,7 @@
     {
       "name": "ChiselledObsidianWallR3",
       "type": "recipe",
-      "sortid": 264,
+      "sortid": 255,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_obsidian_wall_r_3",
@@ -2018,7 +1986,7 @@
     {
       "name": "ChiselledObsidianWallR2",
       "type": "recipe",
-      "sortid": 265,
+      "sortid": 254,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_obsidian_wall_r_2",
@@ -2027,7 +1995,7 @@
     {
       "name": "ChiselledObsidianWallR1",
       "type": "recipe",
-      "sortid": 266,
+      "sortid": 253,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_obsidian_wall_r_1",
@@ -2036,7 +2004,7 @@
     {
       "name": "ChiselledObsidianR1",
       "type": "recipe",
-      "sortid": 267,
+      "sortid": 233,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_obsidian_r_1",
@@ -2045,7 +2013,7 @@
     {
       "name": "ObsidianPillarR1",
       "type": "recipe",
-      "sortid": 268,
+      "sortid": 236,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_pillar_r_1",
@@ -2054,7 +2022,7 @@
     {
       "name": "ObsidianPillarR2",
       "type": "recipe",
-      "sortid": 269,
+      "sortid": 237,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_pillar_r_2",
@@ -2063,7 +2031,7 @@
     {
       "name": "SmallStoneBricks",
       "type": "block",
-      "sortid": 41,
+      "sortid": 169,
       "compiles": true,
       "locked_code": false,
       "registry_name": "small_stone_bricks",
@@ -2072,7 +2040,7 @@
     {
       "name": "DioriteTileWallR",
       "type": "recipe",
-      "sortid": 270,
+      "sortid": 274,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_tile_wall_r",
@@ -2081,7 +2049,7 @@
     {
       "name": "DioriteBrickWall",
       "type": "block",
-      "sortid": 36,
+      "sortid": 269,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_brick_wall",
@@ -2090,7 +2058,7 @@
     {
       "name": "StoneTilesR1",
       "type": "recipe",
-      "sortid": 271,
+      "sortid": 200,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stone_tiles_r_1",
@@ -2099,7 +2067,7 @@
     {
       "name": "ChiselledObsidianWallR",
       "type": "recipe",
-      "sortid": 272,
+      "sortid": 252,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_obsidian_wall_r",
@@ -2108,7 +2076,7 @@
     {
       "name": "CrackedStoneTilesR1",
       "type": "recipe",
-      "sortid": 273,
+      "sortid": 203,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cracked_stone_tiles_r_1",
@@ -2117,7 +2085,7 @@
     {
       "name": "MossySmallStoneBricksR",
       "type": "recipe",
-      "sortid": 274,
+      "sortid": 198,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mossy_small_stone_bricks_r",
@@ -2126,7 +2094,7 @@
     {
       "name": "CrackedStoneTilesR2",
       "type": "recipe",
-      "sortid": 275,
+      "sortid": 204,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cracked_stone_tiles_r_2",
@@ -2135,7 +2103,7 @@
     {
       "name": "ChiselledObsidianR2",
       "type": "recipe",
-      "sortid": 276,
+      "sortid": 234,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_obsidian_r_2",
@@ -2144,7 +2112,7 @@
     {
       "name": "ObsidianBrickSlab",
       "type": "block",
-      "sortid": 61,
+      "sortid": 239,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_brick_slab",
@@ -2153,7 +2121,7 @@
     {
       "name": "CutStone",
       "type": "block",
-      "sortid": 40,
+      "sortid": 168,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_stone",
@@ -2162,7 +2130,7 @@
     {
       "name": "MossySmallStoneBricks",
       "type": "block",
-      "sortid": 46,
+      "sortid": 174,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mossy_small_stone_bricks",
@@ -2171,7 +2139,7 @@
     {
       "name": "DioriteBrickWallR3",
       "type": "recipe",
-      "sortid": 277,
+      "sortid": 273,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_brick_wall_r_3",
@@ -2180,7 +2148,7 @@
     {
       "name": "ChiselledObsidian",
       "type": "block",
-      "sortid": 58,
+      "sortid": 217,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_obsidian",
@@ -2189,7 +2157,7 @@
     {
       "name": "DioriteBrickWallR2",
       "type": "recipe",
-      "sortid": 278,
+      "sortid": 272,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_brick_wall_r_2",
@@ -2198,7 +2166,7 @@
     {
       "name": "DioriteBrickWallR1",
       "type": "recipe",
-      "sortid": 279,
+      "sortid": 271,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_brick_wall_r_1",
@@ -2207,7 +2175,7 @@
     {
       "name": "CrackedCutStoneR",
       "type": "recipe",
-      "sortid": 280,
+      "sortid": 184,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cracked_cut_stone_r",
@@ -2216,7 +2184,7 @@
     {
       "name": "DioriteTileWall",
       "type": "block",
-      "sortid": 39,
+      "sortid": 268,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_tile_wall",
@@ -2225,7 +2193,7 @@
     {
       "name": "CrackedStonePillar",
       "type": "block",
-      "sortid": 47,
+      "sortid": 175,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cracked_stone_pillar",
@@ -2234,7 +2202,7 @@
     {
       "name": "CrackedCutStone",
       "type": "block",
-      "sortid": 44,
+      "sortid": 172,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cracked_cut_stone",
@@ -2243,7 +2211,7 @@
     {
       "name": "SmallObsidianBricksR",
       "type": "recipe",
-      "sortid": 281,
+      "sortid": 228,
       "compiles": true,
       "locked_code": false,
       "registry_name": "small_obsidian_bricks_r",
@@ -2252,7 +2220,7 @@
     {
       "name": "MossyCrackedStone",
       "type": "block",
-      "sortid": 45,
+      "sortid": 173,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mossy_cracked_stone",
@@ -2261,7 +2229,7 @@
     {
       "name": "CutStoneWallR2",
       "type": "recipe",
-      "sortid": 282,
+      "sortid": 194,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_stone_wall_r_2",
@@ -2270,7 +2238,7 @@
     {
       "name": "CrackedStoneTiles",
       "type": "block",
-      "sortid": 49,
+      "sortid": 177,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cracked_stone_tiles",
@@ -2279,7 +2247,7 @@
     {
       "name": "CutStoneWallR1",
       "type": "recipe",
-      "sortid": 283,
+      "sortid": 193,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_stone_wall_r_1",
@@ -2288,7 +2256,7 @@
     {
       "name": "ObsidianBricksR2",
       "type": "recipe",
-      "sortid": 284,
+      "sortid": 223,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_bricks_r_2",
@@ -2297,7 +2265,7 @@
     {
       "name": "ObsidianBricksR1",
       "type": "recipe",
-      "sortid": 285,
+      "sortid": 222,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_bricks_r_1",
@@ -2306,7 +2274,7 @@
     {
       "name": "ChiselledObsidianStairsR1",
       "type": "recipe",
-      "sortid": 286,
+      "sortid": 245,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_obsidian_stairs_r_1",
@@ -2315,7 +2283,7 @@
     {
       "name": "ChiselledObsidianStairsR2",
       "type": "recipe",
-      "sortid": 287,
+      "sortid": 246,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_obsidian_stairs_r_2",
@@ -2324,7 +2292,7 @@
     {
       "name": "ChiselledObsidianStairsR3",
       "type": "recipe",
-      "sortid": 288,
+      "sortid": 251,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_obsidian_stairs_r_3",
@@ -2333,7 +2301,7 @@
     {
       "name": "CutObsidianR",
       "type": "recipe",
-      "sortid": 289,
+      "sortid": 219,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_obsidian_r",
@@ -2342,7 +2310,7 @@
     {
       "name": "CutStoneStairs",
       "type": "block",
-      "sortid": 51,
+      "sortid": 179,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_stone_stairs",
@@ -2351,7 +2319,7 @@
     {
       "name": "CutStoneSlabR1",
       "type": "recipe",
-      "sortid": 290,
+      "sortid": 190,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_stone_slab_r_1",
@@ -2360,7 +2328,7 @@
     {
       "name": "CutStoneSlabR2",
       "type": "recipe",
-      "sortid": 291,
+      "sortid": 191,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_stone_slab_r_2",
@@ -2369,7 +2337,7 @@
     {
       "name": "ObsidianBrickStairsR",
       "type": "recipe",
-      "sortid": 292,
+      "sortid": 256,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_brick_stairs_r",
@@ -2378,7 +2346,7 @@
     {
       "name": "StonePillarR2",
       "type": "recipe",
-      "sortid": 293,
+      "sortid": 208,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stone_pillar_r_2",
@@ -2387,7 +2355,7 @@
     {
       "name": "StonePillarR1",
       "type": "recipe",
-      "sortid": 294,
+      "sortid": 207,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stone_pillar_r_1",
@@ -2396,7 +2364,7 @@
     {
       "name": "CrackedCutStoneR1",
       "type": "recipe",
-      "sortid": 295,
+      "sortid": 185,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cracked_cut_stone_r_1",
@@ -2405,7 +2373,7 @@
     {
       "name": "StoneTiles",
       "type": "block",
-      "sortid": 43,
+      "sortid": 171,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stone_tiles",
@@ -2414,7 +2382,7 @@
     {
       "name": "SmallStoneBricksR2",
       "type": "recipe",
-      "sortid": 296,
+      "sortid": 197,
       "compiles": true,
       "locked_code": false,
       "registry_name": "small_stone_bricks_r_2",
@@ -2423,7 +2391,7 @@
     {
       "name": "ObsidianBrickWallR1",
       "type": "recipe",
-      "sortid": 297,
+      "sortid": 265,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_brick_wall_r_1",
@@ -2432,7 +2400,7 @@
     {
       "name": "CrackedStonePillarR",
       "type": "recipe",
-      "sortid": 298,
+      "sortid": 209,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cracked_stone_pillar_r",
@@ -2441,7 +2409,7 @@
     {
       "name": "ObsidianBrickWallR3",
       "type": "recipe",
-      "sortid": 299,
+      "sortid": 267,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_brick_wall_r_3",
@@ -2450,7 +2418,7 @@
     {
       "name": "SmallStoneBricksR1",
       "type": "recipe",
-      "sortid": 300,
+      "sortid": 196,
       "compiles": true,
       "locked_code": false,
       "registry_name": "small_stone_bricks_r_1",
@@ -2459,7 +2427,7 @@
     {
       "name": "ObsidianBrickWallR2",
       "type": "recipe",
-      "sortid": 301,
+      "sortid": 266,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_brick_wall_r_2",
@@ -2468,7 +2436,7 @@
     {
       "name": "ObsidianPillarR",
       "type": "recipe",
-      "sortid": 302,
+      "sortid": 235,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_pillar_r",
@@ -2477,7 +2445,7 @@
     {
       "name": "ChiselledObsidianWall",
       "type": "block",
-      "sortid": 65,
+      "sortid": 243,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_obsidian_wall",
@@ -2486,7 +2454,7 @@
     {
       "name": "ChiselledObsidianSlabR",
       "type": "recipe",
-      "sortid": 303,
+      "sortid": 247,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_obsidian_slab_r",
@@ -2495,7 +2463,7 @@
     {
       "name": "CutObsidian",
       "type": "block",
-      "sortid": 54,
+      "sortid": 213,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_obsidian",
@@ -2504,7 +2472,7 @@
     {
       "name": "ObsidianBrickSlabR",
       "type": "recipe",
-      "sortid": 304,
+      "sortid": 260,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_brick_slab_r",
@@ -2513,7 +2481,7 @@
     {
       "name": "MossyStoneTiles",
       "type": "block",
-      "sortid": 50,
+      "sortid": 178,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mossy_stone_tiles",
@@ -2522,7 +2490,7 @@
     {
       "name": "ObsidianBricks",
       "type": "block",
-      "sortid": 55,
+      "sortid": 214,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_bricks",
@@ -2531,7 +2499,7 @@
     {
       "name": "StonePillar",
       "type": "block",
-      "sortid": 42,
+      "sortid": 170,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stone_pillar",
@@ -2540,7 +2508,7 @@
     {
       "name": "MossyStoneTilesR",
       "type": "recipe",
-      "sortid": 305,
+      "sortid": 205,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mossy_stone_tiles_r",
@@ -2549,7 +2517,7 @@
     {
       "name": "DioriteTileWallR3",
       "type": "recipe",
-      "sortid": 306,
+      "sortid": 277,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_tile_wall_r_3",
@@ -2558,7 +2526,7 @@
     {
       "name": "DioriteTileWallR2",
       "type": "recipe",
-      "sortid": 307,
+      "sortid": 276,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_tile_wall_r_2",
@@ -2567,7 +2535,7 @@
     {
       "name": "DioriteTileWallR1",
       "type": "recipe",
-      "sortid": 308,
+      "sortid": 275,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_tile_wall_r_1",
@@ -2576,7 +2544,7 @@
     {
       "name": "CutStoneWallR",
       "type": "recipe",
-      "sortid": 309,
+      "sortid": 192,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_stone_wall_r",
@@ -2585,7 +2553,7 @@
     {
       "name": "ObsidianTiles",
       "type": "block",
-      "sortid": 57,
+      "sortid": 216,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_tiles",
@@ -2594,7 +2562,7 @@
     {
       "name": "StonePillarR",
       "type": "recipe",
-      "sortid": 310,
+      "sortid": 206,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stone_pillar_r",
@@ -2603,7 +2571,7 @@
     {
       "name": "SmallStoneBricksR",
       "type": "recipe",
-      "sortid": 311,
+      "sortid": 195,
       "compiles": true,
       "locked_code": false,
       "registry_name": "small_stone_bricks_r",
@@ -2612,7 +2580,7 @@
     {
       "name": "MossyStonePillarR",
       "type": "recipe",
-      "sortid": 312,
+      "sortid": 212,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mossy_stone_pillar_r",
@@ -2621,7 +2589,7 @@
     {
       "name": "ObsidianBrickSlabR1",
       "type": "recipe",
-      "sortid": 313,
+      "sortid": 261,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_brick_slab_r_1",
@@ -2630,7 +2598,7 @@
     {
       "name": "MossyStonePillar",
       "type": "block",
-      "sortid": 48,
+      "sortid": 176,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mossy_stone_pillar",
@@ -2639,7 +2607,7 @@
     {
       "name": "CutStoneStairsR",
       "type": "recipe",
-      "sortid": 314,
+      "sortid": 186,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_stone_stairs_r",
@@ -2648,7 +2616,7 @@
     {
       "name": "CutStoneSlab",
       "type": "block",
-      "sortid": 52,
+      "sortid": 180,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_stone_slab",
@@ -2661,6 +2629,24 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "rose",
+      "path": "~/OtherBlocks/Roses"
+    },
+    {
+      "name": "PinkRose",
+      "type": "plant",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_rose",
+      "path": "~/OtherBlocks/Roses"
+    },
+    {
+      "name": "ButtermilkRoseShrub",
+      "type": "plant",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "buttermilk_rose_shrub",
       "path": "~/OtherBlocks/Roses"
     },
     {
@@ -2682,57 +2668,21 @@
       "path": "~/OtherBlocks/Roses"
     },
     {
-      "name": "ButtermilkRoseBush",
-      "type": "plant",
-      "sortid": 103,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "buttermilk_rose_bush",
-      "path": "~/OtherBlocks/Roses"
-    },
-    {
-      "name": "ButtermilkRoseShrub",
-      "type": "plant",
-      "sortid": 104,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "buttermilk_rose_shrub",
-      "path": "~/OtherBlocks/Roses"
-    },
-    {
-      "name": "BlushRose",
-      "type": "plant",
-      "sortid": 96,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "blush_rose",
-      "path": "~/OtherBlocks/Roses"
-    },
-    {
-      "name": "BlushRoseBush",
-      "type": "plant",
-      "sortid": 98,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "blush_rose_bush",
-      "path": "~/OtherBlocks/Roses"
-    },
-    {
-      "name": "BlushRoseShrub",
-      "type": "plant",
-      "sortid": 97,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "blush_rose_shrub",
-      "path": "~/OtherBlocks/Roses"
-    },
-    {
       "name": "ScarletRose",
       "type": "plant",
       "sortid": 93,
       "compiles": true,
       "locked_code": false,
       "registry_name": "scarlet_rose",
+      "path": "~/OtherBlocks/Roses"
+    },
+    {
+      "name": "OliveRoseShrub",
+      "type": "plant",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "olive_rose_shrub",
       "path": "~/OtherBlocks/Roses"
     },
     {
@@ -2754,21 +2704,39 @@
       "path": "~/OtherBlocks/Roses"
     },
     {
-      "name": "PinkRose",
-      "type": "plant",
-      "sortid": 99,
+      "name": "TangledClayBricks",
+      "type": "block",
+      "sortid": 89,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "pink_rose",
+      "registry_name": "tangled_clay_bricks",
+      "path": "~/OtherBlocks/Bricks"
+    },
+    {
+      "name": "BlushRose",
+      "type": "plant",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blush_rose",
       "path": "~/OtherBlocks/Roses"
     },
     {
-      "name": "PinkRoseShrub",
+      "name": "BlushRoseShrub",
       "type": "plant",
-      "sortid": 100,
+      "sortid": 97,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "pink_rose_shrub",
+      "registry_name": "blush_rose_shrub",
+      "path": "~/OtherBlocks/Roses"
+    },
+    {
+      "name": "ButtermilkRoseBush",
+      "type": "plant",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "buttermilk_rose_bush",
       "path": "~/OtherBlocks/Roses"
     },
     {
@@ -2790,6 +2758,15 @@
       "path": "~/OtherBlocks/Roses"
     },
     {
+      "name": "PinkRoseShrub",
+      "type": "plant",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_rose_shrub",
+      "path": "~/OtherBlocks/Roses"
+    },
+    {
       "name": "OliveRoseBush",
       "type": "plant",
       "sortid": 107,
@@ -2799,22 +2776,13 @@
       "path": "~/OtherBlocks/Roses"
     },
     {
-      "name": "OliveRoseShrub",
+      "name": "BlushRoseBush",
       "type": "plant",
-      "sortid": 106,
+      "sortid": 98,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "olive_rose_shrub",
+      "registry_name": "blush_rose_bush",
       "path": "~/OtherBlocks/Roses"
-    },
-    {
-      "name": "TangledClayBricks",
-      "type": "block",
-      "sortid": 89,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "tangled_clay_bricks",
-      "path": "~/OtherBlocks/Bricks"
     },
     {
       "name": "BlossomingClayBricks",
