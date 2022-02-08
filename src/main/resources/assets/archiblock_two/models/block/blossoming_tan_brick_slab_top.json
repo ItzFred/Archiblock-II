@@ -1,8 +1,0 @@
-{
-  "parent": "block/slab_top",
-  "textures": {
-    "bottom": "archiblock_two:blocks/tanshinglesblossoming",
-    "top": "archiblock_two:blocks/tanshinglesblossoming",
-    "side": "archiblock_two:blocks/tanshinglesblossoming"
-  }
-}

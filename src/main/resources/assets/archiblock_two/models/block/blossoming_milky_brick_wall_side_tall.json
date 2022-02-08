@@ -1,7 +1,0 @@
-{
-  "parent": "block/template_wall_side_tall",
-  "textures": {
-    "wall": "archiblock_two:blocks/milkybrickblossoming",
-    "particle": "archiblock_two:blocks/milkybrickblossoming"
-  }
-}

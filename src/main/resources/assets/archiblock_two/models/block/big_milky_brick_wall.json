@@ -1,7 +1,0 @@
-{
-  "parent": "block/template_wall_side",
-  "textures": {
-    "wall": "archiblock_two:blocks/milkybricks",
-    "particle": "archiblock_two:blocks/milkybricks"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_bottom_top",
-  "textures": {
-    "bottom": "archiblock_two:blocks/bigclaybricks",
-    "top": "archiblock_two:blocks/bigclaybricks",
-    "side": "archiblock_two:blocks/bigclaybricks"
-  }
-}

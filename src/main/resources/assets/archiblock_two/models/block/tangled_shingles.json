@@ -1,8 +1,0 @@
-{
-  "parent": "block/slab",
-  "textures": {
-    "bottom": "archiblock_two:blocks/brickshinglestangled",
-    "top": "archiblock_two:blocks/brickshinglestangled",
-    "side": "archiblock_two:blocks/clayshinglesfront1"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "parent": "block/inner_stairs",
-  "textures": {
-    "bottom": "archiblock_two:blocks/tantiles",
-    "top": "archiblock_two:blocks/tantiles",
-    "side": "archiblock_two:blocks/tantiles"
-  }
-}

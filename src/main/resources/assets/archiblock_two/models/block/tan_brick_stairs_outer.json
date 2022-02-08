@@ -1,8 +1,0 @@
-{
-  "parent": "block/outer_stairs",
-  "textures": {
-    "bottom": "archiblock_two:blocks/tanbricks",
-    "top": "archiblock_two:blocks/tanbricks",
-    "side": "archiblock_two:blocks/tanbricks"
-  }
-}

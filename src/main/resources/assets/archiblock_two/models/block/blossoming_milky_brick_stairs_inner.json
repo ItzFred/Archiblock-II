@@ -1,8 +1,0 @@
-{
-  "parent": "block/inner_stairs",
-  "textures": {
-    "bottom": "archiblock_two:blocks/milkybrickblossoming",
-    "top": "archiblock_two:blocks/milkybrickblossoming",
-    "side": "archiblock_two:blocks/milkybrickblossoming"
-  }
-}
