@@ -72,6 +72,15 @@
     "archiblock_two:chiselled_obsidian_slab",
     "archiblock_two:chiselled_obsidian_wall",
     "archiblock_two:diorite_tile_wall",
-    "archiblock_two:diorite_brick_wall"
+    "archiblock_two:diorite_brick_wall",
+    "archiblock_two:topaz_granite_ore",
+    "archiblock_two:topaz_stone_ore",
+    "archiblock_two:topaz_block",
+    "archiblock_two:topaz_tiles",
+    "archiblock_two:topaz_pillars",
+    "archiblock_two:ruby_ore",
+    "archiblock_two:ruby_block",
+    "archiblock_two:ruby_tiles",
+    "archiblock_two:ruby_pillar"
   ]
 }

@@ -1,0 +1,42 @@
+{
+  "group": "ruby_block",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:ruby"
+    },
+    "1": {
+      "item": "archiblock_two:ruby"
+    },
+    "2": {
+      "item": "archiblock_two:ruby"
+    },
+    "3": {
+      "item": "archiblock_two:ruby"
+    },
+    "4": {
+      "item": "archiblock_two:ruby"
+    },
+    "5": {
+      "item": "archiblock_two:ruby"
+    },
+    "6": {
+      "item": "archiblock_two:ruby"
+    },
+    "7": {
+      "item": "archiblock_two:ruby"
+    },
+    "8": {
+      "item": "archiblock_two:ruby"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:ruby_block",
+    "count": 1
+  }
+}

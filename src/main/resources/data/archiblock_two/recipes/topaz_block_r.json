@@ -1,0 +1,42 @@
+{
+  "group": "topaz_block",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:topaz"
+    },
+    "1": {
+      "item": "archiblock_two:topaz"
+    },
+    "2": {
+      "item": "archiblock_two:topaz"
+    },
+    "3": {
+      "item": "archiblock_two:topaz"
+    },
+    "4": {
+      "item": "archiblock_two:topaz"
+    },
+    "5": {
+      "item": "archiblock_two:topaz"
+    },
+    "6": {
+      "item": "archiblock_two:topaz"
+    },
+    "7": {
+      "item": "archiblock_two:topaz"
+    },
+    "8": {
+      "item": "archiblock_two:topaz"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:topaz_block",
+    "count": 1
+  }
+}

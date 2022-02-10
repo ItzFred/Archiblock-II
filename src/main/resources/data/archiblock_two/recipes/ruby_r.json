@@ -1,0 +1,13 @@
+{
+  "group": "ruby",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "archiblock_two:ruby_block"
+    }
+  ],
+  "result": {
+    "item": "archiblock_two:ruby",
+    "count": 9
+  }
+}

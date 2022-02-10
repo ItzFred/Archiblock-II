@@ -13,7 +13,9 @@ import net.minecraft.world.item.Item;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.BlockItem;
 
+import net.mcreator.archiblocktwo.item.TopazItem;
 import net.mcreator.archiblocktwo.item.SusItem;
+import net.mcreator.archiblocktwo.item.RubyItem;
 
 import java.util.List;
 import java.util.ArrayList;
@@ -65,6 +67,24 @@ public class ArchiblockTwoModItems {
 	public static final Item GRANITE_BRICK_STAIRS = register(ArchiblockTwoModBlocks.GRANITE_BRICK_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item GRANITE_BRICK_SLAB = register(ArchiblockTwoModBlocks.GRANITE_BRICK_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item GRANITE_BRICK_WALL = register(ArchiblockTwoModBlocks.GRANITE_BRICK_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ROSE = register(ArchiblockTwoModBlocks.ROSE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ROSE_SHRUB = register(ArchiblockTwoModBlocks.ROSE_SHRUB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SCARLET_ROSE = register(ArchiblockTwoModBlocks.SCARLET_ROSE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SCARLET_ROSE_BUSH = register(ArchiblockTwoModBlocks.SCARLET_ROSE_BUSH, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SCARLET_ROSE_SHRUB = register(ArchiblockTwoModBlocks.SCARLET_ROSE_SHRUB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item BLUSH_ROSE = register(ArchiblockTwoModBlocks.BLUSH_ROSE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item BLUSH_ROSE_SHRUB = register(ArchiblockTwoModBlocks.BLUSH_ROSE_SHRUB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item BLUSH_ROSE_BUSH = register(ArchiblockTwoModBlocks.BLUSH_ROSE_BUSH, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item PINK_ROSE = register(ArchiblockTwoModBlocks.PINK_ROSE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item PINK_ROSE_SHRUB = register(ArchiblockTwoModBlocks.PINK_ROSE_SHRUB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item PINK_ROSE_BUSH = register(ArchiblockTwoModBlocks.PINK_ROSE_BUSH, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item BUTTERMILK_ROSE = register(ArchiblockTwoModBlocks.BUTTERMILK_ROSE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item BUTTERMILK_ROSE_BUSH = register(ArchiblockTwoModBlocks.BUTTERMILK_ROSE_BUSH, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item BUTTERMILK_ROSE_SHRUB = register(ArchiblockTwoModBlocks.BUTTERMILK_ROSE_SHRUB,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item OLIVE_ROSE = register(ArchiblockTwoModBlocks.OLIVE_ROSE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item OLIVE_ROSE_SHRUB = register(ArchiblockTwoModBlocks.OLIVE_ROSE_SHRUB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item OLIVE_ROSE_BUSH = register(ArchiblockTwoModBlocks.OLIVE_ROSE_BUSH, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CUT_DIORITE = register(ArchiblockTwoModBlocks.CUT_DIORITE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item DIORITE_BRICKS = register(ArchiblockTwoModBlocks.DIORITE_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item DIORITE_TILES = register(ArchiblockTwoModBlocks.DIORITE_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
@@ -122,6 +142,17 @@ public class ArchiblockTwoModItems {
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item DIORITE_TILE_WALL = register(ArchiblockTwoModBlocks.DIORITE_TILE_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item DIORITE_BRICK_WALL = register(ArchiblockTwoModBlocks.DIORITE_BRICK_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TOPAZ_GRANITE_ORE = register(ArchiblockTwoModBlocks.TOPAZ_GRANITE_ORE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TOPAZ_STONE_ORE = register(ArchiblockTwoModBlocks.TOPAZ_STONE_ORE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TOPAZ_BLOCK = register(ArchiblockTwoModBlocks.TOPAZ_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TOPAZ_TILES = register(ArchiblockTwoModBlocks.TOPAZ_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TOPAZ_PILLARS = register(ArchiblockTwoModBlocks.TOPAZ_PILLARS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TOPAZ = register(new TopazItem());
+	public static final Item RUBY = register(new RubyItem());
+	public static final Item RUBY_ORE = register(ArchiblockTwoModBlocks.RUBY_ORE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item RUBY_BLOCK = register(ArchiblockTwoModBlocks.RUBY_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item RUBY_TILES = register(ArchiblockTwoModBlocks.RUBY_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item RUBY_PILLAR = register(ArchiblockTwoModBlocks.RUBY_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);
