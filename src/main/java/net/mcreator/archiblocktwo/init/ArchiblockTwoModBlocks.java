@@ -19,6 +19,10 @@ import net.mcreator.archiblocktwo.block.TopazStoneOreBlock;
 import net.mcreator.archiblocktwo.block.TopazPillarsBlock;
 import net.mcreator.archiblocktwo.block.TopazGraniteOreBlock;
 import net.mcreator.archiblocktwo.block.TopazBlockBlock;
+import net.mcreator.archiblocktwo.block.SugiliteTilesBlock;
+import net.mcreator.archiblocktwo.block.SugilitePillarBlock;
+import net.mcreator.archiblocktwo.block.SugiliteOreBlock;
+import net.mcreator.archiblocktwo.block.SugiliteBlockBlock;
 import net.mcreator.archiblocktwo.block.StoneTilesBlock;
 import net.mcreator.archiblocktwo.block.StonePillarBlock;
 import net.mcreator.archiblocktwo.block.SmallStoneBricksBlock;
@@ -29,6 +33,11 @@ import net.mcreator.archiblocktwo.block.SlantedClayShinglesBlock;
 import net.mcreator.archiblocktwo.block.ScarletRoseShrubBlock;
 import net.mcreator.archiblocktwo.block.ScarletRoseBushBlock;
 import net.mcreator.archiblocktwo.block.ScarletRoseBlock;
+import net.mcreator.archiblocktwo.block.SapphireTilesBlock;
+import net.mcreator.archiblocktwo.block.SapphirePillarBlock;
+import net.mcreator.archiblocktwo.block.SapphireOreBlock;
+import net.mcreator.archiblocktwo.block.SapphireDioriteOreBlock;
+import net.mcreator.archiblocktwo.block.SapphireBlockBlock;
 import net.mcreator.archiblocktwo.block.RubyTilesBlock;
 import net.mcreator.archiblocktwo.block.RubyPillarBlock;
 import net.mcreator.archiblocktwo.block.RubyOreBlock;
@@ -247,6 +256,15 @@ public class ArchiblockTwoModBlocks {
 	public static final Block RUBY_BLOCK = register(new RubyBlockBlock());
 	public static final Block RUBY_TILES = register(new RubyTilesBlock());
 	public static final Block RUBY_PILLAR = register(new RubyPillarBlock());
+	public static final Block SAPPHIRE_DIORITE_ORE = register(new SapphireDioriteOreBlock());
+	public static final Block SAPPHIRE_ORE = register(new SapphireOreBlock());
+	public static final Block SAPPHIRE_BLOCK = register(new SapphireBlockBlock());
+	public static final Block SAPPHIRE_TILES = register(new SapphireTilesBlock());
+	public static final Block SAPPHIRE_PILLAR = register(new SapphirePillarBlock());
+	public static final Block SUGILITE_ORE = register(new SugiliteOreBlock());
+	public static final Block SUGILITE_BLOCK = register(new SugiliteBlockBlock());
+	public static final Block SUGILITE_TILES = register(new SugiliteTilesBlock());
+	public static final Block SUGILITE_PILLAR = register(new SugilitePillarBlock());
 
 	private static Block register(Block block) {
 		REGISTRY.add(block);

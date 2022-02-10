@@ -3042,6 +3042,177 @@
       "locked_code": false,
       "registry_name": "ruby_pillar_r",
       "path": "~/OtherBlocks/Gems/Ruby/Recipes"
+    },
+    {
+      "name": "SapphireDioriteOre",
+      "type": "block",
+      "sortid": 300,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_diorite_ore",
+      "path": "~/OtherBlocks/Gems/Sapphire"
+    },
+    {
+      "name": "SapphireOre",
+      "type": "block",
+      "sortid": 301,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_ore",
+      "path": "~/OtherBlocks/Gems/Sapphire"
+    },
+    {
+      "name": "SapphireBlock",
+      "type": "block",
+      "sortid": 302,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_block",
+      "path": "~/OtherBlocks/Gems/Sapphire"
+    },
+    {
+      "name": "SapphireTiles",
+      "type": "block",
+      "sortid": 303,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_tiles",
+      "path": "~/OtherBlocks/Gems/Sapphire"
+    },
+    {
+      "name": "SapphirePillar",
+      "type": "block",
+      "sortid": 304,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_pillar",
+      "path": "~/OtherBlocks/Gems/Sapphire"
+    },
+    {
+      "name": "Sapphire",
+      "type": "item",
+      "sortid": 305,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire",
+      "path": "~/OtherBlocks/Gems/Sapphire"
+    },
+    {
+      "name": "SapphireR",
+      "type": "recipe",
+      "sortid": 306,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_r",
+      "path": "~/OtherBlocks/Gems/Sapphire/Recipes"
+    },
+    {
+      "name": "SapphireBlockR",
+      "type": "recipe",
+      "sortid": 307,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_block_r",
+      "path": "~/OtherBlocks/Gems/Sapphire/Recipes"
+    },
+    {
+      "name": "SapphireTilesR",
+      "type": "recipe",
+      "sortid": 308,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_tiles_r",
+      "path": "~/OtherBlocks/Gems/Sapphire/Recipes"
+    },
+    {
+      "name": "SapphirePillarR",
+      "type": "recipe",
+      "sortid": 309,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_pillar_r",
+      "path": "~/OtherBlocks/Gems/Sapphire/Recipes"
+    },
+    {
+      "name": "SugiliteOre",
+      "type": "block",
+      "sortid": 310,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sugilite_ore",
+      "path": "~/OtherBlocks/Gems/Sugilite"
+    },
+    {
+      "name": "Sugilite",
+      "type": "item",
+      "sortid": 311,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sugilite",
+      "path": "~/OtherBlocks/Gems/Sugilite"
+    },
+    {
+      "name": "SugiliteBlock",
+      "type": "block",
+      "sortid": 312,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sugilite_block",
+      "path": "~/OtherBlocks/Gems/Sugilite"
+    },
+    {
+      "name": "SugiliteTiles",
+      "type": "block",
+      "sortid": 313,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sugilite_tiles",
+      "path": "~/OtherBlocks/Gems/Sugilite"
+    },
+    {
+      "name": "SugilitePillar",
+      "type": "block",
+      "sortid": 314,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sugilite_pillar",
+      "path": "~/OtherBlocks/Gems/Sugilite"
+    },
+    {
+      "name": "SugiliteR",
+      "type": "recipe",
+      "sortid": 315,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sugilite_r",
+      "path": "~/OtherBlocks/Gems/Sugilite/Recipes"
+    },
+    {
+      "name": "SugiliteBlockR",
+      "type": "recipe",
+      "sortid": 316,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sugilite_block_r",
+      "path": "~/OtherBlocks/Gems/Sugilite/Recipes"
+    },
+    {
+      "name": "SugiliteTilesR",
+      "type": "recipe",
+      "sortid": 317,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sugilite_tiles_r",
+      "path": "~/OtherBlocks/Gems/Sugilite/Recipes"
+    },
+    {
+      "name": "SugilitePillarR",
+      "type": "recipe",
+      "sortid": 318,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sugilite_pillar_r",
+      "path": "~/OtherBlocks/Gems/Sugilite/Recipes"
     }
   ],
   "variable_elements": [],
@@ -3073,17 +3244,20 @@
       "block.archiblock_two.ruby_tiles": "Ruby Tiles",
       "block.archiblock_two.cut_granite_slab": "Cut Granite Slab",
       "block.archiblock_two.rose": "Rose",
+      "block.archiblock_two.sugilite_tiles": "Sugilite Tiles",
       "block.archiblock_two.magenta_spool": "Magenta Spool",
       "block.archiblock_two.gray_spool": "Gray Spool",
       "block.archiblock_two.obsidian_pillar": "Obsidian Pillar",
+      "item.archiblock_two.sapphire": "Sapphire",
       "block.archiblock_two.diorite_tile_slab": "Diorite Tile Slab",
       "block.archiblock_two.diorite_pillar": "Diorite Pillar",
-      "block.archiblock_two.mossy_stone_tiles": "Mossy Stone Tiles",
+      "block.archiblock_two.sugilite_pillar": "Sugilite Pillar",
       "block.archiblock_two.chiselled_obsidian": "Chiselled Obsidian",
+      "block.archiblock_two.mossy_stone_tiles": "Mossy Stone Tiles",
       "block.archiblock_two.pink_spool": "Pink Spool",
       "block.archiblock_two.pink_rose": "Pink Rose",
-      "block.archiblock_two.andesite_brick_stairs": "Andesite Brick Stairs",
       "block.archiblock_two.obsidian_tiles": "Obsidian Tiles",
+      "block.archiblock_two.andesite_brick_stairs": "Andesite Brick Stairs",
       "block.archiblock_two.olive_rose_shrub": "Chartreuse Rose Shrub",
       "block.archiblock_two.olive_rose_bush": "Chartreuse Rose Bush",
       "block.archiblock_two.white_spool": "White Spool",
@@ -3091,6 +3265,7 @@
       "block.archiblock_two.andesite_pillar": "Andesite Pillar",
       "block.archiblock_two.cracked_cut_stone": "Cracked Cut Stone",
       "block.archiblock_two.black_spool": "Black Spool",
+      "item.archiblock_two.sugilite": "Sugilite",
       "block.archiblock_two.andesite_block_wall": "Andesite Block Wall",
       "block.archiblock_two.mossy_cracked_stone": "Mossy Cut Stone",
       "block.archiblock_two.red_spool": "Red Spool",
@@ -3103,8 +3278,10 @@
       "block.archiblock_two.pink_rose_shrub": "Pink Rose Shrub",
       "block.archiblock_two.cut_granite_wall": "Cut Granite Wall",
       "block.archiblock_two.buttermilk_rose": "Buttermilk Rose",
+      "block.archiblock_two.sapphire_ore": "Sapphire Diorite Ore",
       "block.archiblock_two.light_blue_spool": "Light Blue Spool",
       "block.archiblock_two.big_clay_bricks": "Big Clay Bricks",
+      "block.archiblock_two.sapphire_block": "Sapphire Block",
       "block.archiblock_two.andesite_brick_wall": "Andesite Brick Wall",
       "block.archiblock_two.topaz_block": "Topaz Block",
       "item.archiblock_two.sus": "Pandora Anamiya - Ass",
@@ -3116,11 +3293,14 @@
       "block.archiblock_two.olive_rose": "Chartreuse Rose",
       "block.archiblock_two.chiselled_obsidian_slab": "Chiselled Obsidian Slab",
       "block.archiblock_two.obsidian_bricks": "Obsidian Bricks",
+      "block.archiblock_two.sapphire_tiles": "Sapphire Tiles",
       "block.archiblock_two.topaz_tiles": "Topaz Tiles",
       "block.archiblock_two.cut_diorite": "Cut Diorite",
       "item.archiblock_two.sus.desc": "pandora when she sees dori, libido, zadkiel, ira, yingtao, etora and doremy",
       "block.archiblock_two.ruby_ore": "Ruby Ore",
+      "block.archiblock_two.sugilite_ore": "Sugilite Ore",
       "block.archiblock_two.chiselled_obsidian_stairs": "Chiselled Obsidian Stairs",
+      "block.archiblock_two.sapphire_pillar": "Sapphire Pillar",
       "block.archiblock_two.diorite_tiles": "Diorite Tiles",
       "block.archiblock_two.diorite_brick_wall": "Diorite Brick Wall",
       "block.archiblock_two.slanted_shingles_side": "Slanted Clay Shingles Side",
@@ -3167,6 +3347,7 @@
       "block.archiblock_two.chiselled_obsidian_wall": "Chiselled Obsidian Wall",
       "block.archiblock_two.scarlet_rose_shrub": "Scarlet Rose Shrub",
       "block.archiblock_two.purple_spool": "Purple Spool",
+      "block.archiblock_two.sugilite_block": "Sugilite Block",
       "block.archiblock_two.granite_cut_pillar": "Granite Cut Pillar",
       "block.archiblock_two.small_clay_brick_tiles": "Small Clay Brick Tiles",
       "block.archiblock_two.granite_brick_wall": "Granite Brick Wall",
@@ -3174,6 +3355,7 @@
       "block.archiblock_two.ruby_block": "Ruby Block",
       "block.archiblock_two.obsidian_brick_stairs": "Obsidian Brick Stairs",
       "block.archiblock_two.buttermilk_rose_bush": "Buttermilk Rose Bush",
+      "block.archiblock_two.sapphire_diorite_ore": "Sapphire Diorite Ore",
       "block.archiblock_two.andesite_small_bricks": "Andesite Small Bricks",
       "block.archiblock_two.green_spool": "Green Spool",
       "block.archiblock_two.topaz_pillars": "Topaz Pillar"
@@ -3230,11 +3412,21 @@
               },
               {
                 "name": "Sapphire",
-                "children": []
+                "children": [
+                  {
+                    "name": "Recipes",
+                    "children": []
+                  }
+                ]
               },
               {
                 "name": "Sugilite",
-                "children": []
+                "children": [
+                  {
+                    "name": "Recipes",
+                    "children": []
+                  }
+                ]
               }
             ]
           }

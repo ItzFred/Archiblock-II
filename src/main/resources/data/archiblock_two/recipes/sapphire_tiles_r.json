@@ -1,0 +1,26 @@
+{
+  "group": "sapphire_tiles",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:sapphire_block"
+    },
+    "1": {
+      "item": "archiblock_two:sapphire_block"
+    },
+    "2": {
+      "item": "archiblock_two:sapphire_block"
+    },
+    "3": {
+      "item": "archiblock_two:sapphire_block"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:sapphire_tiles",
+    "count": 4
+  }
+}

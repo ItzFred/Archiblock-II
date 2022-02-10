@@ -81,6 +81,11 @@
     "archiblock_two:ruby_ore",
     "archiblock_two:ruby_block",
     "archiblock_two:ruby_tiles",
-    "archiblock_two:ruby_pillar"
+    "archiblock_two:ruby_pillar",
+    "archiblock_two:sapphire_diorite_ore",
+    "archiblock_two:sapphire_ore",
+    "archiblock_two:sapphire_block",
+    "archiblock_two:sapphire_tiles",
+    "archiblock_two:sapphire_pillar"
   ]
 }

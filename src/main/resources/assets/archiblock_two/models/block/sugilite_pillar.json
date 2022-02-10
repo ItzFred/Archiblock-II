@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "archiblock_two:blocks/sugilitepillartop",
+    "up": "archiblock_two:blocks/sugilitepillartop",
+    "north": "archiblock_two:blocks/sugilitepillarside",
+    "east": "archiblock_two:blocks/sugilitepillarside",
+    "south": "archiblock_two:blocks/sugilitepillarside",
+    "west": "archiblock_two:blocks/sugilitepillarside",
+    "particle": "archiblock_two:blocks/sugilitepillartop"
+  }
+}

@@ -34,5 +34,32 @@ public class TopazGraniteOreAdditionalGenerationConditionProcedure {
 				}
 			}
 		}
+		if ((world.getBlockState(new BlockPos((int) (x + 1), (int) y, (int) z))).getBlock() == Blocks.DIORITE
+				|| (world.getBlockState(new BlockPos((int) (x + 1), (int) y, (int) z))).getBlock() == ArchiblockTwoModBlocks.SAPPHIRE_DIORITE_ORE) {
+			if ((world.getBlockState(new BlockPos((int) (x - 1), (int) y, (int) z))).getBlock() == Blocks.DIORITE
+					|| (world.getBlockState(new BlockPos((int) (x - 1), (int) y, (int) z)))
+							.getBlock() == ArchiblockTwoModBlocks.SAPPHIRE_DIORITE_ORE) {
+				if ((world.getBlockState(new BlockPos((int) x, (int) (y + 1), (int) z))).getBlock() == Blocks.DIORITE
+						|| (world.getBlockState(new BlockPos((int) x, (int) (y + 1), (int) z)))
+								.getBlock() == ArchiblockTwoModBlocks.SAPPHIRE_DIORITE_ORE) {
+					if ((world.getBlockState(new BlockPos((int) x, (int) (y - 1), (int) z))).getBlock() == Blocks.DIORITE
+							|| (world.getBlockState(new BlockPos((int) x, (int) (y - 1), (int) z)))
+									.getBlock() == ArchiblockTwoModBlocks.SAPPHIRE_DIORITE_ORE) {
+						if ((world.getBlockState(new BlockPos((int) x, (int) y, (int) (z + 1)))).getBlock() == Blocks.DIORITE
+								|| (world.getBlockState(new BlockPos((int) x, (int) y, (int) (z + 1))))
+										.getBlock() == ArchiblockTwoModBlocks.SAPPHIRE_DIORITE_ORE) {
+							if ((world.getBlockState(new BlockPos((int) x, (int) y, (int) (z - 1)))).getBlock() == Blocks.DIORITE
+									|| (world.getBlockState(new BlockPos((int) x, (int) y, (int) (z - 1))))
+											.getBlock() == ArchiblockTwoModBlocks.SAPPHIRE_DIORITE_ORE) {
+								if (Math.random() > 0.8) {
+									world.setBlock(new BlockPos((int) x, (int) y, (int) z),
+											ArchiblockTwoModBlocks.SAPPHIRE_DIORITE_ORE.defaultBlockState(), 3);
+								}
+							}
+						}
+					}
+				}
+			}
+		}
 	}
 }

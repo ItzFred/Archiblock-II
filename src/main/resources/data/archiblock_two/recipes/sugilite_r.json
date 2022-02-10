@@ -1,0 +1,13 @@
+{
+  "group": "sugilite",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "archiblock_two:sugilite_block"
+    }
+  ],
+  "result": {
+    "item": "archiblock_two:sugilite",
+    "count": 9
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "group": "sugilite_pillar",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:sugilite_block"
+    },
+    "1": {
+      "item": "archiblock_two:sugilite_block"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:sugilite_pillar",
+    "count": 2
+  }
+}

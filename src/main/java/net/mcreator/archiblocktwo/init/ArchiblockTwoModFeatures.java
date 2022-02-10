@@ -18,6 +18,9 @@ import net.minecraft.core.Registry;
 
 import net.mcreator.archiblocktwo.world.features.ores.TopazStoneOreFeature;
 import net.mcreator.archiblocktwo.world.features.ores.TopazGraniteOreFeature;
+import net.mcreator.archiblocktwo.world.features.ores.SugiliteOreFeature;
+import net.mcreator.archiblocktwo.world.features.ores.SapphireOreFeature;
+import net.mcreator.archiblocktwo.world.features.ores.SapphireDioriteOreFeature;
 import net.mcreator.archiblocktwo.world.features.ores.RubyOreFeature;
 import net.mcreator.archiblocktwo.world.features.ChunkAnalyzerFeature;
 
@@ -37,6 +40,12 @@ public class ArchiblockTwoModFeatures {
 				ChunkAnalyzerFeature.GENERATE_BIOMES, ChunkAnalyzerFeature.CONFIGURED_FEATURE));
 		REGISTRY.put(RubyOreFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES, RubyOreFeature.GENERATE_BIOMES,
 				RubyOreFeature.CONFIGURED_FEATURE));
+		REGISTRY.put(SapphireDioriteOreFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES,
+				SapphireDioriteOreFeature.GENERATE_BIOMES, SapphireDioriteOreFeature.CONFIGURED_FEATURE));
+		REGISTRY.put(SapphireOreFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES,
+				SapphireOreFeature.GENERATE_BIOMES, SapphireOreFeature.CONFIGURED_FEATURE));
+		REGISTRY.put(SugiliteOreFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES,
+				SugiliteOreFeature.GENERATE_BIOMES, SugiliteOreFeature.CONFIGURED_FEATURE));
 	}
 
 	@SubscribeEvent
