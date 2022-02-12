@@ -1266,7 +1266,7 @@
       "name": "BlueSpool",
       "type": "block",
       "sortid": 43,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "blue_spool"
     },
@@ -1306,7 +1306,7 @@
       "name": "BrownSpool",
       "type": "block",
       "sortid": 48,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "brown_spool"
     },
@@ -1450,7 +1450,7 @@
       "name": "BlackSpool",
       "type": "block",
       "sortid": 49,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "black_spool"
     },
@@ -2716,7 +2716,7 @@
       "name": "BlushRose",
       "type": "plant",
       "sortid": 96,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "blush_rose",
       "path": "~/OtherBlocks/Roses"
@@ -2725,7 +2725,7 @@
       "name": "BlushRoseShrub",
       "type": "plant",
       "sortid": 97,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "blush_rose_shrub",
       "path": "~/OtherBlocks/Roses"
@@ -2779,7 +2779,7 @@
       "name": "BlushRoseBush",
       "type": "plant",
       "sortid": 98,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "blush_rose_bush",
       "path": "~/OtherBlocks/Roses"
@@ -2788,7 +2788,7 @@
       "name": "BlossomingClayBricks",
       "type": "block",
       "sortid": 90,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "blossoming_clay_bricks",
       "path": "~/OtherBlocks/Bricks"
