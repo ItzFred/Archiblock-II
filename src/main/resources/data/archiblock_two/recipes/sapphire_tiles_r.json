@@ -7,20 +7,20 @@
   ],
   "key": {
     "0": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:sapphire_block"
     },
     "1": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:sapphire_block"
     },
     "2": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:sapphire_block"
     },
     "3": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:sapphire_block"
     }
   },
   "result": {
-    "item": "archiblock_two:deleted_mod_element",
+    "item": "archiblock_two:sapphire_tiles",
     "count": 4
   }
 }

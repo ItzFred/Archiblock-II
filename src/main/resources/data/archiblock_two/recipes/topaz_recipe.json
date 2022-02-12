@@ -3,11 +3,11 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:topaz_block"
     }
   ],
   "result": {
-    "item": "archiblock_two:deleted_mod_element",
+    "item": "archiblock_two:topaz",
     "count": 9
   }
 }

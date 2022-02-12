@@ -8,11 +8,21 @@ import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.event.RegistryEvent;
+import net.minecraftforge.client.event.ColorHandlerEvent;
 import net.minecraftforge.api.distmarker.Dist;
 
 import net.minecraft.world.level.block.Block;
 
 import net.mcreator.archiblocktwo.block.YellowSpoolBlock;
+import net.mcreator.archiblocktwo.block.WovenFiberStairsBlock;
+import net.mcreator.archiblocktwo.block.WovenFiberSlabBlock;
+import net.mcreator.archiblocktwo.block.WovenFiberBlockBlock;
+import net.mcreator.archiblocktwo.block.WovenBasketSandBlock;
+import net.mcreator.archiblocktwo.block.WovenBasketPodzolBlock;
+import net.mcreator.archiblocktwo.block.WovenBasketMyceliumBlock;
+import net.mcreator.archiblocktwo.block.WovenBasketGrassBlock;
+import net.mcreator.archiblocktwo.block.WovenBasketDirtBlock;
+import net.mcreator.archiblocktwo.block.WovenBasketBlock;
 import net.mcreator.archiblocktwo.block.WhiteSpoolBlock;
 import net.mcreator.archiblocktwo.block.TopazTilesBlock;
 import net.mcreator.archiblocktwo.block.TopazStoneOreBlock;
@@ -265,6 +275,15 @@ public class ArchiblockTwoModBlocks {
 	public static final Block SUGILITE_BLOCK = register(new SugiliteBlockBlock());
 	public static final Block SUGILITE_TILES = register(new SugiliteTilesBlock());
 	public static final Block SUGILITE_PILLAR = register(new SugilitePillarBlock());
+	public static final Block WOVEN_FIBER_BLOCK = register(new WovenFiberBlockBlock());
+	public static final Block WOVEN_FIBER_STAIRS = register(new WovenFiberStairsBlock());
+	public static final Block WOVEN_FIBER_SLAB = register(new WovenFiberSlabBlock());
+	public static final Block WOVEN_BASKET = register(new WovenBasketBlock());
+	public static final Block WOVEN_BASKET_DIRT = register(new WovenBasketDirtBlock());
+	public static final Block WOVEN_BASKET_GRASS = register(new WovenBasketGrassBlock());
+	public static final Block WOVEN_BASKET_MYCELIUM = register(new WovenBasketMyceliumBlock());
+	public static final Block WOVEN_BASKET_PODZOL = register(new WovenBasketPodzolBlock());
+	public static final Block WOVEN_BASKET_SAND = register(new WovenBasketSandBlock());
 
 	private static Block register(Block block) {
 		REGISTRY.add(block);
@@ -299,6 +318,17 @@ public class ArchiblockTwoModBlocks {
 			OliveRoseBushBlock.registerRenderLayer();
 			SlantedClayShinglesBlock.registerRenderLayer();
 			SlantedShinglesSideBlock.registerRenderLayer();
+			WovenBasketBlock.registerRenderLayer();
+			WovenBasketDirtBlock.registerRenderLayer();
+			WovenBasketGrassBlock.registerRenderLayer();
+			WovenBasketMyceliumBlock.registerRenderLayer();
+			WovenBasketPodzolBlock.registerRenderLayer();
+			WovenBasketSandBlock.registerRenderLayer();
+		}
+
+		@SubscribeEvent
+		public static void blockColorLoad(ColorHandlerEvent.Block event) {
+			WovenBasketGrassBlock.blockColorLoad(event);
 		}
 	}
 }

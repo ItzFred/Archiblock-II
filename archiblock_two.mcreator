@@ -1220,7 +1220,8 @@
       "sortid": 162,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "green_spool_r"
+      "registry_name": "green_spool_r",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "CyanSpool",
@@ -1228,7 +1229,8 @@
       "sortid": 44,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "cyan_spool"
+      "registry_name": "cyan_spool",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "LightBlueSpool",
@@ -1236,7 +1238,8 @@
       "sortid": 45,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "light_blue_spool"
+      "registry_name": "light_blue_spool",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "MagentaSpool",
@@ -1244,7 +1247,8 @@
       "sortid": 41,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "magenta_spool"
+      "registry_name": "magenta_spool",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "OrangeSpoolR",
@@ -1252,7 +1256,8 @@
       "sortid": 154,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "orange_spool_r"
+      "registry_name": "orange_spool_r",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "RedSpoolR",
@@ -1260,7 +1265,8 @@
       "sortid": 155,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "red_spool_r"
+      "registry_name": "red_spool_r",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "BlueSpool",
@@ -1268,7 +1274,8 @@
       "sortid": 43,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "blue_spool"
+      "registry_name": "blue_spool",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "LimeSpool",
@@ -1276,7 +1283,8 @@
       "sortid": 46,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "lime_spool"
+      "registry_name": "lime_spool",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "PurpleWool",
@@ -1284,7 +1292,8 @@
       "sortid": 156,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "purple_wool"
+      "registry_name": "purple_wool",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "BlackSpoolR",
@@ -1292,7 +1301,8 @@
       "sortid": 165,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "black_spool_r"
+      "registry_name": "black_spool_r",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "PinkSpool",
@@ -1300,7 +1310,8 @@
       "sortid": 40,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "pink_spool"
+      "registry_name": "pink_spool",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "BrownSpool",
@@ -1308,7 +1319,8 @@
       "sortid": 48,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "brown_spool"
+      "registry_name": "brown_spool",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "GreenSpool",
@@ -1316,7 +1328,8 @@
       "sortid": 47,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "green_spool"
+      "registry_name": "green_spool",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "PurpleSpool",
@@ -1324,7 +1337,8 @@
       "sortid": 42,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "purple_spool"
+      "registry_name": "purple_spool",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "WhiteSpool",
@@ -1332,7 +1346,8 @@
       "sortid": 39,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "white_spool"
+      "registry_name": "white_spool",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "YellowSpoolR",
@@ -1340,7 +1355,8 @@
       "sortid": 153,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "yellow_spool_r"
+      "registry_name": "yellow_spool_r",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "CyanSpoolR",
@@ -1348,7 +1364,8 @@
       "sortid": 160,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "cyan_spool_r"
+      "registry_name": "cyan_spool_r",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "PinkSpoolR",
@@ -1356,7 +1373,8 @@
       "sortid": 158,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "pink_spool_r"
+      "registry_name": "pink_spool_r",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "OrangeSpool",
@@ -1364,7 +1382,8 @@
       "sortid": 37,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "orange_spool"
+      "registry_name": "orange_spool",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "YellowSpool",
@@ -1372,7 +1391,8 @@
       "sortid": 38,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "yellow_spool"
+      "registry_name": "yellow_spool",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "LightBlueSpoolR",
@@ -1380,7 +1400,8 @@
       "sortid": 159,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "light_blue_spool_r"
+      "registry_name": "light_blue_spool_r",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "LightGraySpoolR",
@@ -1388,7 +1409,8 @@
       "sortid": 167,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "light_gray_spool_r"
+      "registry_name": "light_gray_spool_r",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "BrownSpoolR",
@@ -1396,7 +1418,8 @@
       "sortid": 164,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "brown_spool_r"
+      "registry_name": "brown_spool_r",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "LightGraySpool",
@@ -1404,7 +1427,8 @@
       "sortid": 51,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "light_gray_spool"
+      "registry_name": "light_gray_spool",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "LimeSpoolR",
@@ -1412,7 +1436,8 @@
       "sortid": 163,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "lime_spool_r"
+      "registry_name": "lime_spool_r",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "MagentaSpoolR",
@@ -1420,7 +1445,8 @@
       "sortid": 157,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "magenta_spool_r"
+      "registry_name": "magenta_spool_r",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "BlueSpoolR",
@@ -1428,7 +1454,8 @@
       "sortid": 161,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "blue_spool_r"
+      "registry_name": "blue_spool_r",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "GraySpool",
@@ -1436,7 +1463,8 @@
       "sortid": 50,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "gray_spool"
+      "registry_name": "gray_spool",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "WhiteSpoolR",
@@ -1444,7 +1472,8 @@
       "sortid": 152,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "white_spool_r"
+      "registry_name": "white_spool_r",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "BlackSpool",
@@ -1452,7 +1481,8 @@
       "sortid": 49,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "black_spool"
+      "registry_name": "black_spool",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "GraySpoolR",
@@ -1460,7 +1490,8 @@
       "sortid": 166,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "gray_spool_r"
+      "registry_name": "gray_spool_r",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "RedSpool",
@@ -1468,7 +1499,8 @@
       "sortid": 36,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "red_spool"
+      "registry_name": "red_spool",
+      "path": "~/OtherBlocks/Spool"
     },
     {
       "name": "ClayBrickPavementR",
@@ -2776,15 +2808,6 @@
       "path": "~/OtherBlocks/Roses"
     },
     {
-      "name": "BlossomingClayBricks",
-      "type": "block",
-      "sortid": 90,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "blossoming_clay_bricks",
-      "path": "~/OtherBlocks/Bricks"
-    },
-    {
       "name": "SapphireTilesR",
       "type": "recipe",
       "sortid": 308,
@@ -3190,6 +3213,168 @@
         ]
       },
       "path": "~/OtherBlocks/Gems/Topaz"
+    },
+    {
+      "name": "WovenFiberBlock",
+      "type": "block",
+      "sortid": 319,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_fiber_block",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenFiberStairs",
+      "type": "block",
+      "sortid": 320,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_fiber_stairs",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenFiberSlab",
+      "type": "block",
+      "sortid": 321,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_fiber_slab",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenBasket",
+      "type": "block",
+      "sortid": 322,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_basket",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenBasketDirt",
+      "type": "block",
+      "sortid": 323,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_basket_dirt",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenBasketGrass",
+      "type": "block",
+      "sortid": 324,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_basket_grass",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenBasketMycelium",
+      "type": "block",
+      "sortid": 325,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_basket_mycelium",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenBasketPodzol",
+      "type": "block",
+      "sortid": 326,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_basket_podzol",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenBasketSand",
+      "type": "block",
+      "sortid": 327,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_basket_sand",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenFiberBlockR",
+      "type": "recipe",
+      "sortid": 328,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_fiber_block_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenFiberStairsR",
+      "type": "recipe",
+      "sortid": 329,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_fiber_stairs_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenFiberSlabR",
+      "type": "recipe",
+      "sortid": 330,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_fiber_slab_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenBasketR",
+      "type": "recipe",
+      "sortid": 331,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_basket_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenBasketDirtR",
+      "type": "recipe",
+      "sortid": 332,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_basket_dirt_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenBasketGrassR",
+      "type": "recipe",
+      "sortid": 333,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_basket_grass_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenFiberPodzolR",
+      "type": "recipe",
+      "sortid": 334,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_fiber_podzol_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenFiberMyceliumR",
+      "type": "recipe",
+      "sortid": 335,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_fiber_mycelium_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenFiberSandR",
+      "type": "recipe",
+      "sortid": 336,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_fiber_sand_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
     }
   ],
   "variable_elements": [],
@@ -3211,25 +3396,31 @@
       "block.archiblock_two.andesite_block": "Cut Andesite",
       "block.archiblock_two.cyan_spool": "Cyan Spool",
       "block.archiblock_two.cut_obsidian": "Cut Obsidian",
-      "block.archiblock_two.scarlet_rose_bush": "Scarlet Rose Bush",
       "block.archiblock_two.clay_shingles_slab": "Clay Shingles",
+      "block.archiblock_two.scarlet_rose_bush": "Scarlet Rose Bush",
       "block.archiblock_two.andesite_tiles": "Andesite Tiles",
+      "block.archiblock_two.ruby_pillar": "Ruby Pillar",
       "block.archiblock_two.cut_granite_stairs": "Cut Granite Stairs",
       "block.archiblock_two.diorite_brick_slab": "Diorite Brick Slab",
       "block.archiblock_two.andesite_brick_slab": "Andesite Brick Slab",
+      "block.archiblock_two.ruby_tiles": "Ruby Tiles",
       "block.archiblock_two.cut_granite_slab": "Cut Granite Slab",
       "block.archiblock_two.rose": "Rose",
+      "block.archiblock_two.sugilite_tiles": "Sugilite Tiles",
       "block.archiblock_two.magenta_spool": "Magenta Spool",
       "block.archiblock_two.gray_spool": "Gray Spool",
       "block.archiblock_two.obsidian_pillar": "Obsidian Pillar",
+      "item.archiblock_two.sapphire": "Sapphire",
       "block.archiblock_two.diorite_tile_slab": "Diorite Tile Slab",
       "block.archiblock_two.diorite_pillar": "Diorite Pillar",
+      "block.archiblock_two.sugilite_pillar": "Sugilite Pillar",
       "block.archiblock_two.chiselled_obsidian": "Chiselled Obsidian",
       "block.archiblock_two.mossy_stone_tiles": "Mossy Stone Tiles",
+      "block.archiblock_two.woven_basket": "Woven Basket",
       "block.archiblock_two.pink_spool": "Pink Spool",
       "block.archiblock_two.pink_rose": "Pink Rose",
-      "block.archiblock_two.obsidian_tiles": "Obsidian Tiles",
       "block.archiblock_two.andesite_brick_stairs": "Andesite Brick Stairs",
+      "block.archiblock_two.obsidian_tiles": "Obsidian Tiles",
       "block.archiblock_two.olive_rose_shrub": "Chartreuse Rose Shrub",
       "block.archiblock_two.olive_rose_bush": "Chartreuse Rose Bush",
       "block.archiblock_two.white_spool": "White Spool",
@@ -3237,8 +3428,12 @@
       "block.archiblock_two.andesite_pillar": "Andesite Pillar",
       "block.archiblock_two.cracked_cut_stone": "Cracked Cut Stone",
       "block.archiblock_two.black_spool": "Black Spool",
+      "block.archiblock_two.woven_fiber_slab": "Woven Fiber Slab",
+      "item.archiblock_two.sugilite": "Sugilite",
       "block.archiblock_two.andesite_block_wall": "Andesite Block Wall",
+      "block.archiblock_two.woven_fiber_block": "Woven Fiber Block",
       "block.archiblock_two.mossy_cracked_stone": "Mossy Cut Stone",
+      "block.archiblock_two.woven_basket_grass": "Grass Filled Woven Basket",
       "block.archiblock_two.red_spool": "Red Spool",
       "block.archiblock_two.blue_spool": "Blue Spool",
       "block.archiblock_two.andesite_bricks": "Andesite Bricks",
@@ -3249,26 +3444,40 @@
       "block.archiblock_two.pink_rose_shrub": "Pink Rose Shrub",
       "block.archiblock_two.cut_granite_wall": "Cut Granite Wall",
       "block.archiblock_two.buttermilk_rose": "Buttermilk Rose",
+      "block.archiblock_two.sapphire_ore": "Sapphire Diorite Ore",
       "block.archiblock_two.light_blue_spool": "Light Blue Spool",
       "block.archiblock_two.big_clay_bricks": "Big Clay Bricks",
+      "block.archiblock_two.sapphire_block": "Sapphire Block",
       "block.archiblock_two.andesite_brick_wall": "Andesite Brick Wall",
+      "block.archiblock_two.topaz_block": "Topaz Block",
       "item.archiblock_two.sus": "Pandora Anamiya - Ass",
       "block.archiblock_two.rose_shrub": "Rose Shrub",
       "block.archiblock_two.clay_brick_tiles": "Clay Brick Tiles",
+      "block.archiblock_two.woven_basket_mycelium": "Mycelium Filled Woven Basket",
       "block.archiblock_two.granite_pillar": "Granite Pillar",
+      "block.archiblock_two.topaz_stone_ore": "Topaz Ore",
       "block.archiblock_two.clay_brick_block": "Clay Brick Block",
       "block.archiblock_two.olive_rose": "Chartreuse Rose",
       "block.archiblock_two.chiselled_obsidian_slab": "Chiselled Obsidian Slab",
       "block.archiblock_two.obsidian_bricks": "Obsidian Bricks",
+      "block.archiblock_two.sapphire_tiles": "Sapphire Tiles",
+      "block.archiblock_two.topaz_tiles": "Topaz Tiles",
+      "block.archiblock_two.woven_basket_dirt": "Dirt Filled Woven Basket",
       "block.archiblock_two.cut_diorite": "Cut Diorite",
       "item.archiblock_two.sus.desc": "pandora when she sees dori, libido, zadkiel, ira, yingtao, etora and doremy",
+      "block.archiblock_two.ruby_ore": "Ruby Ore",
+      "block.archiblock_two.woven_basket_sand": "Sand Filled Woven Basket",
+      "block.archiblock_two.sugilite_ore": "Sugilite Ore",
       "block.archiblock_two.chiselled_obsidian_stairs": "Chiselled Obsidian Stairs",
+      "block.archiblock_two.woven_fiber_stairs": "Woven Fiber Stairs",
+      "block.archiblock_two.sapphire_pillar": "Sapphire Pillar",
       "block.archiblock_two.diorite_tiles": "Diorite Tiles",
       "block.archiblock_two.diorite_brick_wall": "Diorite Brick Wall",
       "block.archiblock_two.slanted_shingles_side": "Slanted Clay Shingles Side",
       "block.archiblock_two.small_obsidian_bricks": "Small Obsidian Bricks",
       "itemGroup.tabarchiblock_ii_tab": "Archiblock II ",
       "block.archiblock_two.diorite_bricks": "Diorite Bricks",
+      "item.archiblock_two.ruby": "Ruby",
       "block.archiblock_two.diorite_tile_wall": "Diorite Tile Wall",
       "block.archiblock_two.lime_spool": "Lime Spool",
       "block.archiblock_two.granite_brick_stairs": "Granite Brick Stairs",
@@ -3281,18 +3490,21 @@
       "block.archiblock_two.diorite_brick_stairs": "Diorite Brick Stairs",
       "block.archiblock_two.chiselled_andesite": "Chiselled Andesite",
       "block.archiblock_two.blush_rose": "Blush Rose",
+      "item.archiblock_two.topaz": "Topaz",
       "block.archiblock_two.cracked_stone_tiles": "Cracked Stone Tiles",
       "block.archiblock_two.small_stone_bricks": "Small Stone Bricks",
       "block.archiblock_two.fancy_diorite_pillar": "Carved Diorite Pillar",
       "block.archiblock_two.yellow_spool": "Yellow Spool",
       "block.archiblock_two.chiselled_diorite": "Chiselled Diorite",
       "block.archiblock_two.orange_spool": "Orange Spool",
+      "block.archiblock_two.woven_basket_podzol": "Podzol Filled Woven Basket",
       "block.archiblock_two.clay_brick_pavement": "Clay Brick Pavement",
       "block.archiblock_two.buttermilk_rose_shrub": "Buttermilk Rose Shrub",
       "block.archiblock_two.granite_bricks": "Granite Bricks",
       "block.archiblock_two.clay_shingles": "Block of Clay Shingles",
       "block.archiblock_two.cut_stone_wall": "Cut Stone Wall",
       "block.archiblock_two.obsidian_brick_slab": "Obsidian Brick Slab",
+      "block.archiblock_two.topaz_granite_ore": "Topaz Granite Ore",
       "block.archiblock_two.chiselled_granite": "Chiselled Granite",
       "block.archiblock_two.granite_tiles": "Granite Tiles",
       "block.archiblock_two.cracked_stone_pillar": "Cracked Stone Pillar",
@@ -3306,15 +3518,19 @@
       "block.archiblock_two.chiselled_obsidian_wall": "Chiselled Obsidian Wall",
       "block.archiblock_two.scarlet_rose_shrub": "Scarlet Rose Shrub",
       "block.archiblock_two.purple_spool": "Purple Spool",
+      "block.archiblock_two.sugilite_block": "Sugilite Block",
       "block.archiblock_two.granite_cut_pillar": "Granite Cut Pillar",
       "block.archiblock_two.small_clay_brick_tiles": "Small Clay Brick Tiles",
       "block.archiblock_two.granite_brick_wall": "Granite Brick Wall",
       "block.archiblock_two.granite_small_bricks": "Granite Small Bricks",
+      "block.archiblock_two.ruby_block": "Ruby Block",
       "block.archiblock_two.obsidian_brick_stairs": "Obsidian Brick Stairs",
       "block.archiblock_two.buttermilk_rose_bush": "Buttermilk Rose Bush",
       "block.archiblock_two.tangled_clay_bricks": "Tangled Big Clay Bricks",
+      "block.archiblock_two.sapphire_diorite_ore": "Sapphire Diorite Ore",
       "block.archiblock_two.andesite_small_bricks": "Andesite Small Bricks",
-      "block.archiblock_two.green_spool": "Green Spool"
+      "block.archiblock_two.green_spool": "Green Spool",
+      "block.archiblock_two.topaz_pillars": "Topaz Pillar"
     }
   },
   "foldersRoot": {
@@ -3383,6 +3599,15 @@
                     "children": []
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "name": "Woven Blocks",
+            "children": [
+              {
+                "name": "Recipes",
+                "children": []
               }
             ]
           }

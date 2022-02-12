@@ -166,6 +166,16 @@ public class ArchiblockTwoModItems {
 	public static final Item SUGILITE_BLOCK = register(ArchiblockTwoModBlocks.SUGILITE_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item SUGILITE_TILES = register(ArchiblockTwoModBlocks.SUGILITE_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item SUGILITE_PILLAR = register(ArchiblockTwoModBlocks.SUGILITE_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item WOVEN_FIBER_BLOCK = register(ArchiblockTwoModBlocks.WOVEN_FIBER_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item WOVEN_FIBER_STAIRS = register(ArchiblockTwoModBlocks.WOVEN_FIBER_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item WOVEN_FIBER_SLAB = register(ArchiblockTwoModBlocks.WOVEN_FIBER_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item WOVEN_BASKET = register(ArchiblockTwoModBlocks.WOVEN_BASKET, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item WOVEN_BASKET_DIRT = register(ArchiblockTwoModBlocks.WOVEN_BASKET_DIRT, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item WOVEN_BASKET_GRASS = register(ArchiblockTwoModBlocks.WOVEN_BASKET_GRASS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item WOVEN_BASKET_MYCELIUM = register(ArchiblockTwoModBlocks.WOVEN_BASKET_MYCELIUM,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item WOVEN_BASKET_PODZOL = register(ArchiblockTwoModBlocks.WOVEN_BASKET_PODZOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item WOVEN_BASKET_SAND = register(ArchiblockTwoModBlocks.WOVEN_BASKET_SAND, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

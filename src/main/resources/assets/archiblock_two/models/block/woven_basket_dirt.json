@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "archiblock_two:blocks/wovenblock",
+    "up": "archiblock_two:blocks/wovenbasketdirt",
+    "north": "archiblock_two:blocks/wovenbasketside",
+    "east": "archiblock_two:blocks/wovenbasketside",
+    "south": "archiblock_two:blocks/wovenbasketside",
+    "west": "archiblock_two:blocks/wovenbasketside",
+    "particle": "archiblock_two:blocks/wovenblock"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "archiblock_two:blocks/wovenblock",
+    "top": "archiblock_two:blocks/wovenblock",
+    "side": "archiblock_two:blocks/wovenblock"
+  }
+}
