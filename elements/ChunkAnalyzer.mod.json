@@ -1,0 +1,35 @@
+{
+  "_fv": 24,
+  "_type": "structure",
+  "definition": {
+    "structure": "actual-air-thxgeo",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 1000000,
+    "minCountPerChunk": 2,
+    "maxCountPerChunk": 4,
+    "spawnLocation": "Underground",
+    "spawnHeightOffset": 0,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "Blocks.VOID_AIR"
+      },
+      {
+        "value": "Blocks.CAVE_AIR"
+      },
+      {
+        "value": "Blocks.AIR"
+      }
+    ],
+    "restrictionBiomes": [],
+    "ignoreBlocks": "STRUCTURE_BLOCK",
+    "onStructureGenerated": {
+      "name": "AnalyzeChunk"
+    }
+  }
+}

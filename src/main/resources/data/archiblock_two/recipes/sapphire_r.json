@@ -1,0 +1,13 @@
+{
+  "group": "sapphire",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "archiblock_two:sapphire_block"
+    }
+  ],
+  "result": {
+    "item": "archiblock_two:sapphire",
+    "count": 9
+  }
+}
