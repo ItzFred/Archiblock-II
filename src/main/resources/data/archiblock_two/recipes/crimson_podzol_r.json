@@ -9,11 +9,11 @@
       "item": "minecraft:podzol"
     },
     "1": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:woven_crimson_basket"
     }
   },
   "result": {
-    "item": "archiblock_two:deleted_mod_element",
+    "item": "archiblock_two:crimson_basket_podzol",
     "count": 1
   }
 }

@@ -116,6 +116,7 @@ import net.mcreator.archiblocktwo.block.RawTwilightwaveBlockBlock;
 import net.mcreator.archiblocktwo.block.RawTwilightBlockBlock;
 import net.mcreator.archiblocktwo.block.RawLushTwilightBlockBlock;
 import net.mcreator.archiblocktwo.block.PurpleSpoolBlock;
+import net.mcreator.archiblocktwo.block.PitchdarkBlockBlock;
 import net.mcreator.archiblocktwo.block.PinkSpoolBlock;
 import net.mcreator.archiblocktwo.block.PinkRoseShrubBlock;
 import net.mcreator.archiblocktwo.block.PinkRoseBushBlock;
@@ -474,6 +475,7 @@ public class ArchiblockTwoModBlocks {
 	public static final Block RUBY_BRICKS = register(new RubyBricksBlock());
 	public static final Block SAPPHIRE_BRICKS = register(new SapphireBricksBlock());
 	public static final Block SUGILITE_BRICKS = register(new SugiliteBricksBlock());
+	public static final Block PITCHDARK_BLOCK = register(new PitchdarkBlockBlock());
 
 	private static Block register(Block block) {
 		REGISTRY.add(block);

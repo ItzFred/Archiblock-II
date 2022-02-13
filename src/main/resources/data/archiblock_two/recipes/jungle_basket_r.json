@@ -6,17 +6,17 @@
   ],
   "key": {
     "0": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:woven_jungle_block"
     },
     "2": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:woven_jungle_block"
     },
     "4": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:woven_jungle_block"
     }
   },
   "result": {
-    "item": "archiblock_two:deleted_mod_element",
+    "item": "archiblock_two:woven_jungle_basket",
     "count": 1
   }
 }

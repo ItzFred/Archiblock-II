@@ -2,24 +2,23 @@
 package net.mcreator.archiblocktwo.block;
 
 import net.minecraft.world.level.storage.loot.LootContext;
+import net.minecraft.world.level.material.MaterialColor;
 import net.minecraft.world.level.material.Material;
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.BlockGetter;
-import net.minecraft.world.item.TieredItem;
 import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.entity.player.Player;
 import net.minecraft.core.BlockPos;
 
 import java.util.List;
 import java.util.Collections;
 
-public class WovenCrimsonBlockBlock extends Block {
-	public WovenCrimsonBlockBlock() {
-		super(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.BAMBOO).strength(1f, 10f).requiresCorrectToolForDrops());
-		setRegistryName("woven_crimson_block");
+public class PitchdarkBlockBlock extends Block {
+	public PitchdarkBlockBlock() {
+		super(BlockBehaviour.Properties.of(Material.WOOL).sound(SoundType.SNOW).strength(1f, 3f));
+		setRegistryName("pitchdark_block");
 	}
 
 	@Override
@@ -28,10 +27,8 @@ public class WovenCrimsonBlockBlock extends Block {
 	}
 
 	@Override
-	public boolean canHarvestBlock(BlockState state, BlockGetter world, BlockPos pos, Player player) {
-		if (player.getInventory().getSelected().getItem()instanceof TieredItem tieredItem)
-			return tieredItem.getTier().getLevel() >= -1;
-		return false;
+	public MaterialColor defaultMaterialColor() {
+		return MaterialColor.COLOR_BLACK;
 	}
 
 	@Override

@@ -9,11 +9,11 @@
       "item": "minecraft:mycelium"
     },
     "1": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:woven_warped_basket"
     }
   },
   "result": {
-    "item": "archiblock_two:deleted_mod_element",
+    "item": "archiblock_two:warped_basket_mycelium",
     "count": 1
   }
 }
