@@ -1,0 +1,22 @@
+{
+  "group": "twilightwave_brick_slab",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:twilightwave_bricks"
+    },
+    "1": {
+      "item": "archiblock_two:twilightwave_bricks"
+    },
+    "2": {
+      "item": "archiblock_two:twilightwave_bricks"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:twilightwave_brick_slab",
+    "count": 6
+  }
+}

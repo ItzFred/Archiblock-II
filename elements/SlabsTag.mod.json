@@ -22,6 +22,18 @@
       },
       {
         "value": "CUSTOM:DioriteBrickSlab"
+      },
+      {
+        "value": "CUSTOM:ObsidianBrickSlab"
+      },
+      {
+        "value": "CUSTOM:CutStoneSlab"
+      },
+      {
+        "value": "CUSTOM:TwilightBrickSlab"
+      },
+      {
+        "value": "CUSTOM:LushTwilightBrickSlab"
       }
     ],
     "functions": [],

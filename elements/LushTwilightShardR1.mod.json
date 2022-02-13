@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 8,
+    "group": "lush_twilight_shard",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:TwilightShard"
+      },
+      {
+        "value": "CUSTOM:TwilightShard"
+      },
+      {
+        "value": "CUSTOM:TwilightShard"
+      },
+      {
+        "value": "CUSTOM:TwilightShard"
+      },
+      {
+        "value": "Items.BLAZE_POWDER"
+      },
+      {
+        "value": "CUSTOM:TwilightShard"
+      },
+      {
+        "value": "CUSTOM:TwilightShard"
+      },
+      {
+        "value": "CUSTOM:TwilightShard"
+      },
+      {
+        "value": "CUSTOM:TwilightShard"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LushTwilightShard"
+    },
+    "name": "lush_twilight_shard_r_1",
+    "namespace": "mod"
+  }
+}

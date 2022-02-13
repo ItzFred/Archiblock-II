@@ -86,6 +86,25 @@
     "archiblock_two:sapphire_ore",
     "archiblock_two:sapphire_block",
     "archiblock_two:sapphire_tiles",
-    "archiblock_two:sapphire_pillar"
+    "archiblock_two:sapphire_pillar",
+    "archiblock_two:raw_twilight_block",
+    "archiblock_two:twilight_bricks",
+    "archiblock_two:twilight_tiles",
+    "archiblock_two:chiselled_twilight_bricks",
+    "archiblock_two:twilight_pillar",
+    "archiblock_two:twilight_pillar_top",
+    "archiblock_two:twilight_brick_slab",
+    "archiblock_two:twilight_brick_stairs",
+    "archiblock_two:twilight_brick_wall",
+    "archiblock_two:raw_lush_twilight_block",
+    "archiblock_two:lush_twilight_bricks",
+    "archiblock_two:lush_twilight_tiles",
+    "archiblock_two:lush_twilight_pillar",
+    "archiblock_two:lush_twilight_pillar_top",
+    "archiblock_two:chiselled_lush_twilight_bricks",
+    "archiblock_two:lush_twilight_brick_slab",
+    "archiblock_two:lush_twilight_brick_stairs",
+    "archiblock_two:lush_twilight_brick_wall",
+    "archiblock_two:twilight_ore"
   ]
 }

@@ -1,0 +1,20 @@
+{
+  "group": "twilightwave_pillar",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:twilightwave_bricks"
+    },
+    "1": {
+      "item": "archiblock_two:twilightwave_bricks"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:deleted_mod_element",
+    "count": 2
+  }
+}

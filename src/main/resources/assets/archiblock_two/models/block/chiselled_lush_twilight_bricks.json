@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "archiblock_two:blocks/chiselledlushtwilight",
+    "particle": "archiblock_two:blocks/chiselledlushtwilight"
+  }
+}

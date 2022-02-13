@@ -1,0 +1,32 @@
+{
+  "group": "twilightwave_brick_wall",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:twilightwave_bricks"
+    },
+    "1": {
+      "item": "archiblock_two:twilightwave_bricks"
+    },
+    "2": {
+      "item": "archiblock_two:twilightwave_bricks"
+    },
+    "3": {
+      "item": "archiblock_two:twilightwave_bricks"
+    },
+    "4": {
+      "item": "archiblock_two:twilightwave_bricks"
+    },
+    "5": {
+      "item": "archiblock_two:twilightwave_bricks"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:twilightwave_brick_wall",
+    "count": 6
+  }
+}

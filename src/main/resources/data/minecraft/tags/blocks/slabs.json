@@ -1,11 +1,15 @@
 {
   "replace": false,
   "values": [
+    "archiblock_two:lush_twilight_brick_slab",
     "archiblock_two:granite_brick_slab",
     "archiblock_two:diorite_brick_slab",
+    "archiblock_two:cut_stone_slab",
     "archiblock_two:diorite_tile_slab",
     "archiblock_two:cut_granite_slab",
     "archiblock_two:andesite_brick_slab",
-    "archiblock_two:andesite_block_slab"
+    "archiblock_two:andesite_block_slab",
+    "archiblock_two:obsidian_brick_slab",
+    "archiblock_two:twilight_brick_slab"
   ]
 }

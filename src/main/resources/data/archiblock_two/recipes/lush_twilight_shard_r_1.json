@@ -1,0 +1,42 @@
+{
+  "group": "lush_twilight_shard",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:twilight_shard"
+    },
+    "1": {
+      "item": "archiblock_two:twilight_shard"
+    },
+    "2": {
+      "item": "archiblock_two:twilight_shard"
+    },
+    "3": {
+      "item": "archiblock_two:twilight_shard"
+    },
+    "4": {
+      "item": "minecraft:blaze_powder"
+    },
+    "5": {
+      "item": "archiblock_two:twilight_shard"
+    },
+    "6": {
+      "item": "archiblock_two:twilight_shard"
+    },
+    "7": {
+      "item": "archiblock_two:twilight_shard"
+    },
+    "8": {
+      "item": "archiblock_two:twilight_shard"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:lush_twilight_shard",
+    "count": 8
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "twilightwave_shard",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:deleted_mod_element"
+    },
+    "1": {
+      "item": "archiblock_two:deleted_mod_element"
+    },
+    "2": {
+      "item": "archiblock_two:deleted_mod_element"
+    },
+    "3": {
+      "item": "archiblock_two:deleted_mod_element"
+    },
+    "4": {
+      "item": "minecraft:glow_ink_sac"
+    },
+    "5": {
+      "item": "archiblock_two:deleted_mod_element"
+    },
+    "6": {
+      "item": "archiblock_two:deleted_mod_element"
+    },
+    "7": {
+      "item": "archiblock_two:deleted_mod_element"
+    },
+    "8": {
+      "item": "archiblock_two:deleted_mod_element"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:deleted_mod_element",
+    "count": 8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "lush_twilight_tiles",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:deleted_mod_element"
+    },
+    "1": {
+      "item": "archiblock_two:deleted_mod_element"
+    },
+    "2": {
+      "item": "archiblock_two:deleted_mod_element"
+    },
+    "3": {
+      "item": "archiblock_two:deleted_mod_element"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:deleted_mod_element",
+    "count": 4
+  }
+}

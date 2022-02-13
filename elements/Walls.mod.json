@@ -31,6 +31,12 @@
       },
       {
         "value": "CUSTOM:CutStoneWall"
+      },
+      {
+        "value": "CUSTOM:LushTwilightBrickWall"
+      },
+      {
+        "value": "CUSTOM:TwilightBrickWall"
       }
     ],
     "functions": [],

@@ -3383,6 +3383,573 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "archiblock_ii_nature"
+    },
+    {
+      "name": "TwilightShardR",
+      "type": "recipe",
+      "sortid": 344,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilight_shard_r",
+      "path": "~/OtherBlocks/Twilight/Normal/Recipes"
+    },
+    {
+      "name": "TwilightPillar",
+      "type": "block",
+      "sortid": 342,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilight_pillar",
+      "path": "~/OtherBlocks/Twilight/Normal"
+    },
+    {
+      "name": "LushTwilightBrickWallR",
+      "type": "recipe",
+      "sortid": 376,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lush_twilight_brick_wall_r",
+      "path": "~/OtherBlocks/Twilight/Lush/Recipes"
+    },
+    {
+      "name": "TwilightBrickStairs",
+      "type": "block",
+      "sortid": 350,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilight_brick_stairs",
+      "path": "~/OtherBlocks/Twilight/Normal"
+    },
+    {
+      "name": "TwilightwaveShardR1",
+      "type": "recipe",
+      "sortid": 398,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilightwave_shard_r_1",
+      "path": "~/OtherBlocks/Twilight/Twilightwave/Recipes"
+    },
+    {
+      "name": "ChiselledLushTwilightBricks",
+      "type": "block",
+      "sortid": 362,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_lush_twilight_bricks",
+      "path": "~/OtherBlocks/Twilight/Lush"
+    },
+    {
+      "name": "TwilightwavePillarTop",
+      "type": "block",
+      "sortid": 383,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilightwave_pillar_top",
+      "path": "~/OtherBlocks/Twilight/Twilightwave"
+    },
+    {
+      "name": "TwilightBrickWall",
+      "type": "block",
+      "sortid": 351,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilight_brick_wall",
+      "path": "~/OtherBlocks/Twilight/Normal"
+    },
+    {
+      "name": "LushTwilightTilesR",
+      "type": "recipe",
+      "sortid": 370,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lush_twilight_tiles_r",
+      "path": "~/OtherBlocks/Twilight/Lush/Recipes"
+    },
+    {
+      "name": "LushTwilightShard",
+      "type": "item",
+      "sortid": 366,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lush_twilight_shard",
+      "path": "~/OtherBlocks/Twilight/Lush"
+    },
+    {
+      "name": "LushTwilightPillarR",
+      "type": "recipe",
+      "sortid": 372,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lush_twilight_pillar_r",
+      "path": "~/OtherBlocks/Twilight/Lush/Recipes"
+    },
+    {
+      "name": "TwilightwaveBricksR",
+      "type": "recipe",
+      "sortid": 389,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilightwave_bricks_r",
+      "path": "~/OtherBlocks/Twilight/Twilightwave/Recipes"
+    },
+    {
+      "name": "LushTwilightPillarTop",
+      "type": "block",
+      "sortid": 361,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lush_twilight_pillar_top",
+      "path": "~/OtherBlocks/Twilight/Lush"
+    },
+    {
+      "name": "RawLushTwilightBlockR",
+      "type": "recipe",
+      "sortid": 368,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_lush_twilight_block_r",
+      "path": "~/OtherBlocks/Twilight/Lush/Recipes"
+    },
+    {
+      "name": "TwilightBrickSlab",
+      "type": "block",
+      "sortid": 349,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilight_brick_slab",
+      "path": "~/OtherBlocks/Twilight/Normal"
+    },
+    {
+      "name": "TwilightBricksR",
+      "type": "recipe",
+      "sortid": 346,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilight_bricks_r",
+      "path": "~/OtherBlocks/Twilight/Normal/Recipes"
+    },
+    {
+      "name": "LushTwilightPillarTopR",
+      "type": "recipe",
+      "sortid": 373,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lush_twilight_pillar_top_r",
+      "path": "~/OtherBlocks/Twilight/Lush/Recipes"
+    },
+    {
+      "name": "TwilightPillarR",
+      "type": "recipe",
+      "sortid": 352,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilight_pillar_r",
+      "path": "~/OtherBlocks/Twilight/Normal/Recipes"
+    },
+    {
+      "name": "LushTwilightTiles",
+      "type": "block",
+      "sortid": 359,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lush_twilight_tiles",
+      "path": "~/OtherBlocks/Twilight/Lush"
+    },
+    {
+      "name": "TwilightwaveBricks",
+      "type": "block",
+      "sortid": 379,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilightwave_bricks",
+      "path": "~/OtherBlocks/Twilight/Twilightwave"
+    },
+    {
+      "name": "LustTwilightShardR",
+      "type": "recipe",
+      "sortid": 367,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lust_twilight_shard_r",
+      "path": "~/OtherBlocks/Twilight/Lush/Recipes"
+    },
+    {
+      "name": "LushTwilightPillar",
+      "type": "block",
+      "sortid": 360,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lush_twilight_pillar",
+      "path": "~/OtherBlocks/Twilight/Lush"
+    },
+    {
+      "name": "TwilightBricks",
+      "type": "block",
+      "sortid": 339,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilight_bricks",
+      "path": "~/OtherBlocks/Twilight/Normal"
+    },
+    {
+      "name": "ChiselledLushTwilightR",
+      "type": "recipe",
+      "sortid": 371,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_lush_twilight_r",
+      "path": "~/OtherBlocks/Twilight/Lush/Recipes"
+    },
+    {
+      "name": "TwilightwaveTiles",
+      "type": "block",
+      "sortid": 380,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilightwave_tiles",
+      "path": "~/OtherBlocks/Twilight/Twilightwave"
+    },
+    {
+      "name": "TwilightwaveBrickSlab",
+      "type": "block",
+      "sortid": 385,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilightwave_brick_slab",
+      "path": "~/OtherBlocks/Twilight/Twilightwave"
+    },
+    {
+      "name": "TwilightBrickSlabR",
+      "type": "recipe",
+      "sortid": 354,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilight_brick_slab_r",
+      "path": "~/OtherBlocks/Twilight/Normal/Recipes"
+    },
+    {
+      "name": "TwilightwaveBrickSlabR",
+      "type": "recipe",
+      "sortid": 395,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilightwave_brick_slab_r",
+      "path": "~/OtherBlocks/Twilight/Twilightwave/Recipes"
+    },
+    {
+      "name": "TwilightwaveTilesR",
+      "type": "recipe",
+      "sortid": 390,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilightwave_tiles_r",
+      "path": "~/OtherBlocks/Twilight/Twilightwave/Recipes"
+    },
+    {
+      "name": "TwilightPillarTop",
+      "type": "block",
+      "sortid": 343,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilight_pillar_top",
+      "path": "~/OtherBlocks/Twilight/Normal"
+    },
+    {
+      "name": "RawTwilightwaveBlockR",
+      "type": "recipe",
+      "sortid": 388,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_twilightwave_block_r",
+      "path": "~/OtherBlocks/Twilight/Twilightwave/Recipes"
+    },
+    {
+      "name": "LushTwilightBrickSlabR",
+      "type": "recipe",
+      "sortid": 375,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lush_twilight_brick_slab_r",
+      "path": "~/OtherBlocks/Twilight/Lush/Recipes"
+    },
+    {
+      "name": "TwilightwaveBrickWall",
+      "type": "block",
+      "sortid": 386,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilightwave_brick_wall",
+      "path": "~/OtherBlocks/Twilight/Twilightwave"
+    },
+    {
+      "name": "TwilightShard",
+      "type": "item",
+      "sortid": 338,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilight_shard",
+      "path": "~/OtherBlocks/Twilight/Normal"
+    },
+    {
+      "name": "TwilightwaveShardR",
+      "type": "recipe",
+      "sortid": 387,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilightwave_shard_r",
+      "path": "~/OtherBlocks/Twilight/Twilightwave/Recipes"
+    },
+    {
+      "name": "TwilightOre",
+      "type": "block",
+      "sortid": 399,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilight_ore",
+      "path": "~/OtherBlocks/Twilight/Normal"
+    },
+    {
+      "name": "TwilightBrickStairsR",
+      "type": "recipe",
+      "sortid": 355,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilight_brick_stairs_r",
+      "path": "~/OtherBlocks/Twilight/Normal/Recipes"
+    },
+    {
+      "name": "LushTwilightBricks",
+      "type": "block",
+      "sortid": 358,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lush_twilight_bricks",
+      "path": "~/OtherBlocks/Twilight/Lush"
+    },
+    {
+      "name": "LushTwilightBrickSlab",
+      "type": "block",
+      "sortid": 363,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lush_twilight_brick_slab",
+      "path": "~/OtherBlocks/Twilight/Lush"
+    },
+    {
+      "name": "RawTwilightBlockR",
+      "type": "recipe",
+      "sortid": 345,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_twilight_block_r",
+      "path": "~/OtherBlocks/Twilight/Normal/Recipes"
+    },
+    {
+      "name": "LushTwilightBricksR",
+      "type": "recipe",
+      "sortid": 369,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lush_twilight_bricks_r",
+      "path": "~/OtherBlocks/Twilight/Lush/Recipes"
+    },
+    {
+      "name": "TwilightwavePillarR",
+      "type": "recipe",
+      "sortid": 392,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilightwave_pillar_r",
+      "path": "~/OtherBlocks/Twilight/Twilightwave/Recipes"
+    },
+    {
+      "name": "ChiselledTwilightBricks",
+      "type": "block",
+      "sortid": 341,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_twilight_bricks",
+      "path": "~/OtherBlocks/Twilight/Normal"
+    },
+    {
+      "name": "TwilightwavePillar",
+      "type": "block",
+      "sortid": 382,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilightwave_pillar",
+      "path": "~/OtherBlocks/Twilight/Twilightwave"
+    },
+    {
+      "name": "TwilightBrickWallR",
+      "type": "recipe",
+      "sortid": 356,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilight_brick_wall_r",
+      "path": "~/OtherBlocks/Twilight/Normal/Recipes"
+    },
+    {
+      "name": "LushTwilightBrickWall",
+      "type": "block",
+      "sortid": 365,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lush_twilight_brick_wall",
+      "path": "~/OtherBlocks/Twilight/Lush"
+    },
+    {
+      "name": "LushTwilightShardR1",
+      "type": "recipe",
+      "sortid": 397,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lush_twilight_shard_r_1",
+      "path": "~/OtherBlocks/Twilight/Lush/Recipes"
+    },
+    {
+      "name": "TwilightwaveBrickWallR",
+      "type": "recipe",
+      "sortid": 396,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilightwave_brick_wall_r",
+      "path": "~/OtherBlocks/Twilight/Twilightwave/Recipes"
+    },
+    {
+      "name": "TwilightwaveBrickStairs",
+      "type": "block",
+      "sortid": 384,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilightwave_brick_stairs",
+      "path": "~/OtherBlocks/Twilight/Twilightwave"
+    },
+    {
+      "name": "TwilightwaveBrickStairsR",
+      "type": "recipe",
+      "sortid": 394,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilightwave_brick_stairs_r",
+      "path": "~/OtherBlocks/Twilight/Twilightwave/Recipes"
+    },
+    {
+      "name": "LushTwilightBrickStairsR",
+      "type": "recipe",
+      "sortid": 374,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lush_twilight_brick_stairs_r",
+      "path": "~/OtherBlocks/Twilight/Lush/Recipes"
+    },
+    {
+      "name": "TwilightTiles",
+      "type": "block",
+      "sortid": 340,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilight_tiles",
+      "path": "~/OtherBlocks/Twilight/Normal"
+    },
+    {
+      "name": "TwilightwaveShard",
+      "type": "item",
+      "sortid": 377,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilightwave_shard",
+      "path": "~/OtherBlocks/Twilight/Twilightwave"
+    },
+    {
+      "name": "ChiselledTwilightBricksR",
+      "type": "recipe",
+      "sortid": 347,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_twilight_bricks_r",
+      "path": "~/OtherBlocks/Twilight/Normal/Recipes"
+    },
+    {
+      "name": "TwilightTilesR",
+      "type": "recipe",
+      "sortid": 348,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilight_tiles_r",
+      "path": "~/OtherBlocks/Twilight/Normal/Recipes"
+    },
+    {
+      "name": "LushTwilightBrickStairs",
+      "type": "block",
+      "sortid": 364,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lush_twilight_brick_stairs",
+      "path": "~/OtherBlocks/Twilight/Lush"
+    },
+    {
+      "name": "TwilightPillarTopR",
+      "type": "recipe",
+      "sortid": 353,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilight_pillar_top_r",
+      "path": "~/OtherBlocks/Twilight/Normal/Recipes"
+    },
+    {
+      "name": "RawLushTwilightBlock",
+      "type": "block",
+      "sortid": 357,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_lush_twilight_block",
+      "path": "~/OtherBlocks/Twilight/Lush"
+    },
+    {
+      "name": "RawTwilightwaveBlock",
+      "type": "block",
+      "sortid": 378,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_twilightwave_block",
+      "path": "~/OtherBlocks/Twilight/Twilightwave"
+    },
+    {
+      "name": "RawTwilightBlock",
+      "type": "block",
+      "sortid": 337,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_twilight_block",
+      "path": "~/OtherBlocks/Twilight/Normal"
+    },
+    {
+      "name": "ChiselledTwilightwaveBricks",
+      "type": "block",
+      "sortid": 381,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_twilightwave_bricks",
+      "path": "~/OtherBlocks/Twilight/Twilightwave"
+    },
+    {
+      "name": "ChiselledTwilightwaveBricksR",
+      "type": "recipe",
+      "sortid": 391,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_twilightwave_bricks_r",
+      "path": "~/OtherBlocks/Twilight/Twilightwave/Recipes"
+    },
+    {
+      "name": "TwilightwavePillarTopR",
+      "type": "recipe",
+      "sortid": 393,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilightwave_pillar_top_r",
+      "path": "~/OtherBlocks/Twilight/Twilightwave/Recipes"
     }
   ],
   "variable_elements": [],
@@ -3483,8 +4050,7 @@
       "block.archiblock_two.diorite_brick_wall": "Diorite Brick Wall",
       "block.archiblock_two.slanted_shingles_side": "Slanted Clay Shingles Side",
       "block.archiblock_two.small_obsidian_bricks": "Small Obsidian Bricks",
-      "itemGroup.tabarchiblock_ii_nature": "Archiblock II - Nature",
-      "itemGroup.tabarchiblock_ii_tab": "Archiblock II - Building",
+      "itemGroup.tabarchiblock_ii_tab": "Archiblock II ",
       "block.archiblock_two.diorite_bricks": "Diorite Bricks",
       "item.archiblock_two.ruby": "Ruby",
       "block.archiblock_two.diorite_tile_wall": "Diorite Tile Wall",
@@ -3554,6 +4120,38 @@
               {
                 "name": "Recipes",
                 "children": []
+              }
+            ]
+          },
+          {
+            "name": "Twilight",
+            "children": [
+              {
+                "name": "Normal",
+                "children": [
+                  {
+                    "name": "Recipes",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Lush",
+                "children": [
+                  {
+                    "name": "Recipes",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Twilightwave",
+                "children": [
+                  {
+                    "name": "Recipes",
+                    "children": []
+                  }
+                ]
               }
             ]
           },
