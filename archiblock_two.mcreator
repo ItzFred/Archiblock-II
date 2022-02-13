@@ -3915,6 +3915,33 @@
       "locked_code": false,
       "registry_name": "twilightwave_brick_wall_r",
       "path": "~/OtherBlocks/Twilight/Twilightwave/Recipes"
+    },
+    {
+      "name": "LushTwilightShardR1",
+      "type": "recipe",
+      "sortid": 397,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lush_twilight_shard_r_1",
+      "path": "~/OtherBlocks/Twilight/Lush/Recipes"
+    },
+    {
+      "name": "TwilightwaveShardR1",
+      "type": "recipe",
+      "sortid": 398,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilightwave_shard_r_1",
+      "path": "~/OtherBlocks/Twilight/Twilightwave/Recipes"
+    },
+    {
+      "name": "TwilightOre",
+      "type": "block",
+      "sortid": 399,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilight_ore",
+      "path": "~/OtherBlocks/Twilight/Normal"
     }
   ],
   "variable_elements": [],
@@ -3935,13 +3962,14 @@
       "block.archiblock_two.blush_rose_shrub": "Blush Rose Shrub",
       "block.archiblock_two.mossy_small_stone_bricks": "Mossy Small Stone Bricks",
       "block.archiblock_two.andesite_block": "Cut Andesite",
-      "block.archiblock_two.cyan_spool": "Cyan Spool",
       "block.archiblock_two.cut_obsidian": "Cut Obsidian",
-      "block.archiblock_two.clay_shingles_slab": "Clay Shingles",
+      "block.archiblock_two.cyan_spool": "Cyan Spool",
       "block.archiblock_two.scarlet_rose_bush": "Scarlet Rose Bush",
+      "block.archiblock_two.clay_shingles_slab": "Clay Shingles",
       "block.archiblock_two.andesite_tiles": "Andesite Tiles",
       "block.archiblock_two.ruby_pillar": "Ruby Pillar",
       "block.archiblock_two.cut_granite_stairs": "Cut Granite Stairs",
+      "block.archiblock_two.twilight_ore": "Twilight Ore",
       "block.archiblock_two.raw_twilight_block": "Raw Twilight Block",
       "block.archiblock_two.diorite_brick_slab": "Diorite Brick Slab",
       "block.archiblock_two.twilight_bricks": "Twilight Bricks",

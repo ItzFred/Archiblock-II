@@ -43,6 +43,8 @@ public class ChunkAnalyzerFeature extends Feature<NoneFeatureConfiguration> {
 		ResourceKey<Level> dimensionType = context.level().getLevel().dimension();
 		if (dimensionType == Level.OVERWORLD)
 			dimensionCriteria = true;
+		if (dimensionType == Level.END)
+			dimensionCriteria = true;
 		if (!dimensionCriteria)
 			return false;
 		if (template == null)

@@ -34,6 +34,7 @@ import net.mcreator.archiblocktwo.block.TwilightwaveBrickSlabBlock;
 import net.mcreator.archiblocktwo.block.TwilightTilesBlock;
 import net.mcreator.archiblocktwo.block.TwilightPillarTopBlock;
 import net.mcreator.archiblocktwo.block.TwilightPillarBlock;
+import net.mcreator.archiblocktwo.block.TwilightOreBlock;
 import net.mcreator.archiblocktwo.block.TwilightBricksBlock;
 import net.mcreator.archiblocktwo.block.TwilightBrickWallBlock;
 import net.mcreator.archiblocktwo.block.TwilightBrickStairsBlock;
@@ -338,6 +339,7 @@ public class ArchiblockTwoModBlocks {
 	public static final Block TWILIGHTWAVE_BRICK_STAIRS = register(new TwilightwaveBrickStairsBlock());
 	public static final Block TWILIGHTWAVE_BRICK_SLAB = register(new TwilightwaveBrickSlabBlock());
 	public static final Block TWILIGHTWAVE_BRICK_WALL = register(new TwilightwaveBrickWallBlock());
+	public static final Block TWILIGHT_ORE = register(new TwilightOreBlock());
 
 	private static Block register(Block block) {
 		REGISTRY.add(block);

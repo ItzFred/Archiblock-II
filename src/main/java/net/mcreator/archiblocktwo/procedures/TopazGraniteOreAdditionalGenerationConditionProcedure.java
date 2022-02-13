@@ -61,5 +61,17 @@ public class TopazGraniteOreAdditionalGenerationConditionProcedure {
 				}
 			}
 		}
+		if ((world.getBlockState(new BlockPos((int) (x + 1), (int) y, (int) z))).getBlock() == ArchiblockTwoModBlocks.RAW_TWILIGHT_BLOCK
+				|| (world.getBlockState(new BlockPos((int) (x - 1), (int) y, (int) z))).getBlock() == ArchiblockTwoModBlocks.RAW_TWILIGHT_BLOCK
+				|| (world.getBlockState(new BlockPos((int) x, (int) (y + 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.RAW_TWILIGHT_BLOCK
+				|| (world.getBlockState(new BlockPos((int) x, (int) (y - 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.RAW_TWILIGHT_BLOCK
+				|| (world.getBlockState(new BlockPos((int) x, (int) y, (int) (z + 1)))).getBlock() == ArchiblockTwoModBlocks.RAW_TWILIGHT_BLOCK
+				|| (world.getBlockState(new BlockPos((int) x, (int) y, (int) (z - 1)))).getBlock() == ArchiblockTwoModBlocks.RAW_TWILIGHT_BLOCK) {
+			if ((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == ArchiblockTwoModBlocks.RAW_TWILIGHT_BLOCK) {
+				if (Math.random() > 0.3) {
+					world.setBlock(new BlockPos((int) x, (int) y, (int) z), ArchiblockTwoModBlocks.TWILIGHT_ORE.defaultBlockState(), 3);
+				}
+			}
+		}
 	}
 }

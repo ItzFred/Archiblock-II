@@ -22,6 +22,7 @@ import net.mcreator.archiblocktwo.world.features.ores.SugiliteOreFeature;
 import net.mcreator.archiblocktwo.world.features.ores.SapphireOreFeature;
 import net.mcreator.archiblocktwo.world.features.ores.SapphireDioriteOreFeature;
 import net.mcreator.archiblocktwo.world.features.ores.RubyOreFeature;
+import net.mcreator.archiblocktwo.world.features.ores.RawTwilightBlockFeature;
 import net.mcreator.archiblocktwo.world.features.ChunkAnalyzerFeature;
 
 import java.util.Set;
@@ -46,6 +47,8 @@ public class ArchiblockTwoModFeatures {
 				SapphireOreFeature.GENERATE_BIOMES, SapphireOreFeature.CONFIGURED_FEATURE));
 		REGISTRY.put(SugiliteOreFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES,
 				SugiliteOreFeature.GENERATE_BIOMES, SugiliteOreFeature.CONFIGURED_FEATURE));
+		REGISTRY.put(RawTwilightBlockFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES,
+				RawTwilightBlockFeature.GENERATE_BIOMES, RawTwilightBlockFeature.CONFIGURED_FEATURE));
 	}
 
 	@SubscribeEvent
