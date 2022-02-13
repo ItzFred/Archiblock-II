@@ -1,0 +1,76 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "wovenbasketside",
+        "1": "wovenbaskettop",
+        "2": "wovenblock",
+        "missing": "wovenblock"
+      },
+      "name": "default"
+    },
+    "crimson": {
+      "map": {
+        "0": "crimsonbasket",
+        "1": "crimsontop",
+        "2": "wovencrimson",
+        "missing": "wovencrimson"
+      },
+      "name": "crimson"
+    },
+    "birch": {
+      "map": {
+        "0": "birchbasket",
+        "1": "birchtop",
+        "2": "wovenbirchblock",
+        "missing": "wovenbirchblock"
+      },
+      "name": "birch"
+    },
+    "acacia": {
+      "map": {
+        "0": "acaciabasket",
+        "1": "acaciatop",
+        "2": "wovenacacia",
+        "missing": "wovenacacia"
+      },
+      "name": "acacia"
+    },
+    "warped": {
+      "map": {
+        "0": "warpedbasket",
+        "1": "warpedtop",
+        "2": "wovenwarped",
+        "missing": "wovenwarped"
+      },
+      "name": "warped"
+    },
+    "jungle": {
+      "map": {
+        "0": "junglebasket",
+        "1": "jungletop",
+        "2": "wovenjungle",
+        "missing": "wovenjungle"
+      },
+      "name": "jungle"
+    },
+    "darkoak": {
+      "map": {
+        "0": "darkoakbasket",
+        "1": "darkoaktop",
+        "2": "wovendarkoak",
+        "missing": "wovendarkoak"
+      },
+      "name": "darkoak"
+    },
+    "spruce": {
+      "map": {
+        "0": "sprucebasket",
+        "1": "sprucetop",
+        "2": "wovenspruce",
+        "missing": "wovenspruce"
+      },
+      "name": "spruce"
+    }
+  }
+}

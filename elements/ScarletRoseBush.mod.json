@@ -33,7 +33,7 @@
     "name": "Scarlet Rose Bush",
     "specialInfo": [],
     "creativeTab": {
-      "value": "CUSTOM:ArchiblockIITab"
+      "value": "CUSTOM:ArchiblockIINature"
     },
     "hardness": 0.0,
     "resistance": 0.0,
@@ -78,9 +78,18 @@
     "jumpFactor": 1.0,
     "speedFactor": 1.0,
     "canBePlacedOn": [],
-    "frequencyOnChunks": 5,
-    "spawnWorldTypes": [],
-    "restrictionBiomes": [],
-    "patchSize": 64
+    "frequencyOnChunks": 10,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "roofed_forest"
+      },
+      {
+        "value": "mutated_roofed_forest"
+      }
+    ],
+    "patchSize": 10
   }
 }

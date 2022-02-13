@@ -7,20 +7,20 @@
   ],
   "key": {
     "0": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:twilightwave_shard"
     },
     "1": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:twilightwave_shard"
     },
     "2": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:twilightwave_shard"
     },
     "3": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:twilightwave_shard"
     }
   },
   "result": {
-    "item": "archiblock_two:deleted_mod_element",
+    "item": "archiblock_two:twilightwave_bricks",
     "count": 1
   }
 }

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "archiblock_two:blocks/wovenbirchblock",
+    "up": "archiblock_two:blocks/birchsand",
+    "north": "archiblock_two:blocks/birchbasket",
+    "east": "archiblock_two:blocks/birchbasket",
+    "south": "archiblock_two:blocks/birchbasket",
+    "west": "archiblock_two:blocks/birchbasket",
+    "particle": "archiblock_two:blocks/wovenbirchblock"
+  }
+}

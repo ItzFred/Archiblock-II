@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "archiblock_two:blocks/wovenjungle",
+    "top": "archiblock_two:blocks/wovenjungle",
+    "side": "archiblock_two:blocks/wovenjungle"
+  }
+}

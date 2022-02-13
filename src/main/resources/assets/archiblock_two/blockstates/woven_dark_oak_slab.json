@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "archiblock_two:block/woven_dark_oak_slab"
+    },
+    "type=top": {
+      "model": "archiblock_two:block/woven_dark_oak_slab_top"
+    },
+    "type=double": {
+      "model": "archiblock_two:block/woven_dark_oak_slab_full"
+    }
+  }
+}

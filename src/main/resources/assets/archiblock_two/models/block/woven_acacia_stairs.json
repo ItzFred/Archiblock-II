@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "archiblock_two:blocks/wovenacacia",
+    "top": "archiblock_two:blocks/wovenacacia",
+    "side": "archiblock_two:blocks/wovenacacia"
+  }
+}

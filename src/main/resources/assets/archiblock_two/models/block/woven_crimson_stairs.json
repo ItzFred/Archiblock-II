@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "archiblock_two:blocks/wovencrimson",
+    "top": "archiblock_two:blocks/wovencrimson",
+    "side": "archiblock_two:blocks/wovencrimson"
+  }
+}

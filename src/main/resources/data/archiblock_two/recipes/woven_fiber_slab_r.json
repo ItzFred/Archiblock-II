@@ -1,8 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "012",
-    "345"
+    "012"
   ],
   "key": {
     "0": {
@@ -12,15 +11,6 @@
       "item": "archiblock_two:woven_fiber_block"
     },
     "2": {
-      "item": "archiblock_two:woven_fiber_block"
-    },
-    "3": {
-      "item": "archiblock_two:woven_fiber_block"
-    },
-    "4": {
-      "item": "archiblock_two:woven_fiber_block"
-    },
-    "5": {
       "item": "archiblock_two:woven_fiber_block"
     }
   },

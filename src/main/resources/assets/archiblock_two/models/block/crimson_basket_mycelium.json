@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "archiblock_two:blocks/wovencrimson",
+    "up": "archiblock_two:blocks/crimsonmycelium",
+    "north": "archiblock_two:blocks/crimsonbasket",
+    "east": "archiblock_two:blocks/crimsonbasket",
+    "south": "archiblock_two:blocks/crimsonbasket",
+    "west": "archiblock_two:blocks/crimsonbasket",
+    "particle": "archiblock_two:blocks/wovencrimson"
+  }
+}

@@ -33,7 +33,7 @@
     "name": "Buttermilk Rose",
     "specialInfo": [],
     "creativeTab": {
-      "value": "CUSTOM:ArchiblockIITab"
+      "value": "CUSTOM:ArchiblockIINature"
     },
     "hardness": 0.0,
     "resistance": 0.0,
@@ -79,8 +79,23 @@
     "speedFactor": 1.0,
     "canBePlacedOn": [],
     "frequencyOnChunks": 5,
-    "spawnWorldTypes": [],
-    "restrictionBiomes": [],
-    "patchSize": 64
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "birch_forest"
+      },
+      {
+        "value": "birch_forest_hills"
+      },
+      {
+        "value": "mutated_birch_forest"
+      },
+      {
+        "value": "mutated_birch_forest_hills"
+      }
+    ],
+    "patchSize": 8
   }
 }
