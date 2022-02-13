@@ -13,11 +13,14 @@ import net.minecraft.world.item.Item;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.BlockItem;
 
+import net.mcreator.archiblocktwo.item.TwilightwaveShardItem;
+import net.mcreator.archiblocktwo.item.TwilightShardItem;
 import net.mcreator.archiblocktwo.item.TopazItem;
 import net.mcreator.archiblocktwo.item.SusItem;
 import net.mcreator.archiblocktwo.item.SugiliteItem;
 import net.mcreator.archiblocktwo.item.SapphireItem;
 import net.mcreator.archiblocktwo.item.RubyItem;
+import net.mcreator.archiblocktwo.item.LushTwilightShardItem;
 
 import java.util.List;
 import java.util.ArrayList;
@@ -176,6 +179,50 @@ public class ArchiblockTwoModItems {
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item WOVEN_BASKET_PODZOL = register(ArchiblockTwoModBlocks.WOVEN_BASKET_PODZOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item WOVEN_BASKET_SAND = register(ArchiblockTwoModBlocks.WOVEN_BASKET_SAND, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item RAW_TWILIGHT_BLOCK = register(ArchiblockTwoModBlocks.RAW_TWILIGHT_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TWILIGHT_SHARD = register(new TwilightShardItem());
+	public static final Item TWILIGHT_BRICKS = register(ArchiblockTwoModBlocks.TWILIGHT_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TWILIGHT_TILES = register(ArchiblockTwoModBlocks.TWILIGHT_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_TWILIGHT_BRICKS = register(ArchiblockTwoModBlocks.CHISELLED_TWILIGHT_BRICKS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TWILIGHT_PILLAR = register(ArchiblockTwoModBlocks.TWILIGHT_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TWILIGHT_PILLAR_TOP = register(ArchiblockTwoModBlocks.TWILIGHT_PILLAR_TOP, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TWILIGHT_BRICK_SLAB = register(ArchiblockTwoModBlocks.TWILIGHT_BRICK_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TWILIGHT_BRICK_STAIRS = register(ArchiblockTwoModBlocks.TWILIGHT_BRICK_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TWILIGHT_BRICK_WALL = register(ArchiblockTwoModBlocks.TWILIGHT_BRICK_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item RAW_LUSH_TWILIGHT_BLOCK = register(ArchiblockTwoModBlocks.RAW_LUSH_TWILIGHT_BLOCK,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item LUSH_TWILIGHT_BRICKS = register(ArchiblockTwoModBlocks.LUSH_TWILIGHT_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item LUSH_TWILIGHT_TILES = register(ArchiblockTwoModBlocks.LUSH_TWILIGHT_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item LUSH_TWILIGHT_PILLAR = register(ArchiblockTwoModBlocks.LUSH_TWILIGHT_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item LUSH_TWILIGHT_PILLAR_TOP = register(ArchiblockTwoModBlocks.LUSH_TWILIGHT_PILLAR_TOP,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_LUSH_TWILIGHT_BRICKS = register(ArchiblockTwoModBlocks.CHISELLED_LUSH_TWILIGHT_BRICKS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item LUSH_TWILIGHT_BRICK_SLAB = register(ArchiblockTwoModBlocks.LUSH_TWILIGHT_BRICK_SLAB,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item LUSH_TWILIGHT_BRICK_STAIRS = register(ArchiblockTwoModBlocks.LUSH_TWILIGHT_BRICK_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item LUSH_TWILIGHT_BRICK_WALL = register(ArchiblockTwoModBlocks.LUSH_TWILIGHT_BRICK_WALL,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item LUSH_TWILIGHT_SHARD = register(new LushTwilightShardItem());
+	public static final Item TWILIGHTWAVE_SHARD = register(new TwilightwaveShardItem());
+	public static final Item RAW_TWILIGHTWAVE_BLOCK = register(ArchiblockTwoModBlocks.RAW_TWILIGHTWAVE_BLOCK,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TWILIGHTWAVE_BRICKS = register(ArchiblockTwoModBlocks.TWILIGHTWAVE_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TWILIGHTWAVE_TILES = register(ArchiblockTwoModBlocks.TWILIGHTWAVE_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_TWILIGHTWAVE_BRICKS = register(ArchiblockTwoModBlocks.CHISELLED_TWILIGHTWAVE_BRICKS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TWILIGHTWAVE_PILLAR = register(ArchiblockTwoModBlocks.TWILIGHTWAVE_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TWILIGHTWAVE_PILLAR_TOP = register(ArchiblockTwoModBlocks.TWILIGHTWAVE_PILLAR_TOP,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TWILIGHTWAVE_BRICK_STAIRS = register(ArchiblockTwoModBlocks.TWILIGHTWAVE_BRICK_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TWILIGHTWAVE_BRICK_SLAB = register(ArchiblockTwoModBlocks.TWILIGHTWAVE_BRICK_SLAB,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TWILIGHTWAVE_BRICK_WALL = register(ArchiblockTwoModBlocks.TWILIGHTWAVE_BRICK_WALL,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

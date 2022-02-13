@@ -1,0 +1,20 @@
+{
+  "group": "twilight_pillar_top",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:twilight_pillar"
+    },
+    "1": {
+      "item": "archiblock_two:twilight_pillar"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:twilight_pillar_top",
+    "count": 2
+  }
+}

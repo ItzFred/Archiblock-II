@@ -22,6 +22,21 @@
       },
       {
         "value": "CUSTOM:DioriteBrickStairs"
+      },
+      {
+        "value": "CUSTOM:CutStoneStairs"
+      },
+      {
+        "value": "CUSTOM:ObsidianBrickStairs"
+      },
+      {
+        "value": "CUSTOM:ChiselledObsidianStairs"
+      },
+      {
+        "value": "CUSTOM:TwilightBrickStairs"
+      },
+      {
+        "value": "CUSTOM:LushTwilightBrickStairs"
       }
     ],
     "functions": [],

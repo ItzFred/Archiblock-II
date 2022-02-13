@@ -1,0 +1,26 @@
+{
+  "group": "twilight_tiles",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:twilight_bricks"
+    },
+    "1": {
+      "item": "archiblock_two:twilight_bricks"
+    },
+    "2": {
+      "item": "archiblock_two:twilight_bricks"
+    },
+    "3": {
+      "item": "archiblock_two:twilight_bricks"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:twilight_tiles",
+    "count": 4
+  }
+}

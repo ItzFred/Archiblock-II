@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "archiblock_two:blocks/twilightpillartop",
+    "up": "archiblock_two:blocks/twilightpillartop",
+    "north": "archiblock_two:blocks/twilightpillartopside",
+    "east": "archiblock_two:blocks/twilightpillartopside",
+    "south": "archiblock_two:blocks/twilightpillartopside",
+    "west": "archiblock_two:blocks/twilightpillartopside",
+    "particle": "archiblock_two:blocks/twilightpillartop"
+  }
+}

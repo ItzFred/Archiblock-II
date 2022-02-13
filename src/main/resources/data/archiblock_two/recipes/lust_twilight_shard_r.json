@@ -1,0 +1,13 @@
+{
+  "group": "lush_twilight_shard",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "archiblock_two:raw_lush_twilight_block"
+    }
+  ],
+  "result": {
+    "item": "archiblock_two:lush_twilight_shard",
+    "count": 9
+  }
+}

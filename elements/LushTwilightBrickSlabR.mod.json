@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 6,
+    "group": "lush_twilight_brick_slab",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LushTwilightBricks"
+      },
+      {
+        "value": "CUSTOM:LushTwilightBricks"
+      },
+      {
+        "value": "CUSTOM:LushTwilightBricks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LushTwilightBrickSlab"
+    },
+    "name": "lush_twilight_brick_slab_r",
+    "namespace": "mod"
+  }
+}

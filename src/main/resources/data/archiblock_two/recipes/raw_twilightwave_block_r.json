@@ -1,0 +1,42 @@
+{
+  "group": "raw_twilightwave_block",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:twilightwave_shard"
+    },
+    "1": {
+      "item": "archiblock_two:twilightwave_shard"
+    },
+    "2": {
+      "item": "archiblock_two:twilightwave_shard"
+    },
+    "3": {
+      "item": "archiblock_two:twilightwave_shard"
+    },
+    "4": {
+      "item": "archiblock_two:twilightwave_shard"
+    },
+    "5": {
+      "item": "archiblock_two:twilightwave_shard"
+    },
+    "6": {
+      "item": "archiblock_two:twilightwave_shard"
+    },
+    "7": {
+      "item": "archiblock_two:twilightwave_shard"
+    },
+    "8": {
+      "item": "archiblock_two:twilightwave_shard"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:raw_twilightwave_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "chiselled_twilight_bricks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:twilight_bricks"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:chiselled_twilight_bricks",
+    "count": 1
+  }
+}

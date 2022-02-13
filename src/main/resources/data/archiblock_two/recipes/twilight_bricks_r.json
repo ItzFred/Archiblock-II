@@ -1,0 +1,26 @@
+{
+  "group": "twilight_bricks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:twilight_shard"
+    },
+    "1": {
+      "item": "archiblock_two:twilight_shard"
+    },
+    "2": {
+      "item": "archiblock_two:twilight_shard"
+    },
+    "3": {
+      "item": "archiblock_two:twilight_shard"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:twilight_bricks",
+    "count": 1
+  }
+}
