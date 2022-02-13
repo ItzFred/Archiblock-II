@@ -6,17 +6,17 @@
   ],
   "key": {
     "0": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:woven_acacia_block"
     },
     "2": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:woven_acacia_block"
     },
     "4": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:woven_acacia_block"
     }
   },
   "result": {
-    "item": "archiblock_two:deleted_mod_element",
+    "item": "archiblock_two:woven_acacia_basket",
     "count": 1
   }
 }

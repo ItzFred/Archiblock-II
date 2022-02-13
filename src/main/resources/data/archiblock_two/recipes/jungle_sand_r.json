@@ -9,11 +9,11 @@
       "item": "minecraft:sand"
     },
     "1": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:woven_jungle_basket"
     }
   },
   "result": {
-    "item": "archiblock_two:deleted_mod_element",
+    "item": "archiblock_two:jungle_basket_sand",
     "count": 1
   }
 }

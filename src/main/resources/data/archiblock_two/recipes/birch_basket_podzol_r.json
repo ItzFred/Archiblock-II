@@ -5,11 +5,11 @@
       "item": "minecraft:podzol"
     },
     {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:woven_birch_basket"
     }
   ],
   "result": {
-    "item": "archiblock_two:deleted_mod_element",
+    "item": "archiblock_two:birch_basket_podzol",
     "count": 1
   }
 }
