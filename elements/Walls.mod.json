@@ -37,6 +37,9 @@
       },
       {
         "value": "CUSTOM:TwilightBrickWall"
+      },
+      {
+        "value": "CUSTOM:TwilightwaveBrickWall"
       }
     ],
     "functions": [],
