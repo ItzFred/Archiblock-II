@@ -2,7 +2,7 @@
   "_fv": 24,
   "_type": "block",
   "definition": {
-    "texture": "twilightore",
+    "texture": "sugilitebricks",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -32,18 +32,18 @@
         "subtract": false
       }
     ],
-    "name": "Twilight Ore",
+    "name": "Sugilite Bricks",
     "specialInfo": [],
-    "hardness": 4.0,
-    "resistance": 9.0,
+    "hardness": 5.0,
+    "resistance": 6.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
       "value": "CUSTOM:ArchiblockIITab"
     },
-    "destroyTool": "pickaxe",
+    "destroyTool": "Not specified",
     "customDrop": {
-      "value": "CUSTOM:TwilightShard"
+      "value": ""
     },
     "dropAmount": 1,
     "useLootTableForDrops": false,
@@ -61,7 +61,7 @@
     "emittedRedstonePower": {
       "fixedValue": 15.0
     },
-    "colorOnMap": "LIME",
+    "colorOnMap": "PURPLE",
     "creativePickItem": {
       "value": ""
     },
@@ -123,9 +123,13 @@
     "fluidRestrictions": [],
     "spawnWorldTypes": [],
     "restrictionBiomes": [],
-    "blocksToReplace": [],
-    "frequencyPerChunks": 8,
-    "frequencyOnChunk": 10,
+    "blocksToReplace": [
+      {
+        "value": "Blocks.STONE"
+      }
+    ],
+    "frequencyPerChunks": 10,
+    "frequencyOnChunk": 16,
     "minGenerateHeight": 0,
     "maxGenerateHeight": 64
   }

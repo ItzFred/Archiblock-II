@@ -28,8 +28,8 @@ public class RawTwilightBlockFeature extends OreFeature {
 			.setRegistryName("archiblock_two:raw_twilight_block");
 	public static final ConfiguredFeature<?, ?> CONFIGURED_FEATURE = FEATURE
 			.configured(
-					new OreConfiguration(RawTwilightBlockFeatureRuleTest.INSTANCE, ArchiblockTwoModBlocks.RAW_TWILIGHT_BLOCK.defaultBlockState(), 16))
-			.range(new RangeDecoratorConfiguration(UniformHeight.of(VerticalAnchor.absolute(0), VerticalAnchor.absolute(64)))).squared().count(10);
+					new OreConfiguration(RawTwilightBlockFeatureRuleTest.INSTANCE, ArchiblockTwoModBlocks.RAW_TWILIGHT_BLOCK.defaultBlockState(), 22))
+			.range(new RangeDecoratorConfiguration(UniformHeight.of(VerticalAnchor.absolute(0), VerticalAnchor.absolute(100)))).squared().count(8);
 	public static final Set<ResourceLocation> GENERATE_BIOMES = null;
 
 	public RawTwilightBlockFeature() {

@@ -6,7 +6,7 @@
     "xpReward": 0.0,
     "cookingTime": 200,
     "recipeRetstackSize": 4,
-    "group": "sapphire_tiles",
+    "group": "sugilite_bricks",
     "recipeShapeless": false,
     "recipeSlots": [
       {
@@ -22,25 +22,25 @@
         "value": ""
       },
       {
-        "value": "CUSTOM:SapphireBricks"
+        "value": "CUSTOM:SugiliteBlock"
       },
       {
-        "value": "CUSTOM:SapphireBricks"
+        "value": "CUSTOM:SugiliteBlock"
       },
       {
         "value": ""
       },
       {
-        "value": "CUSTOM:SapphireBricks"
+        "value": "CUSTOM:SugiliteBlock"
       },
       {
-        "value": "CUSTOM:SapphireBricks"
+        "value": "CUSTOM:SugiliteBlock"
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:SapphireTiles"
+      "value": "CUSTOM:SugiliteBricks"
     },
-    "name": "sapphire_tiles_r",
+    "name": "sugilite_bricks_r",
     "namespace": "mod"
   }
 }

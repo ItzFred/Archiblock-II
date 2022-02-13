@@ -105,6 +105,9 @@
     "archiblock_two:lush_twilight_brick_slab",
     "archiblock_two:lush_twilight_brick_stairs",
     "archiblock_two:lush_twilight_brick_wall",
-    "archiblock_two:twilight_ore"
+    "archiblock_two:twilight_ore",
+    "archiblock_two:topaz_bricks",
+    "archiblock_two:ruby_bricks",
+    "archiblock_two:sapphire_bricks"
   ]
 }

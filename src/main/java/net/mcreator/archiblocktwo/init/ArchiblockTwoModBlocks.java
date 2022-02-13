@@ -43,10 +43,12 @@ import net.mcreator.archiblocktwo.block.TopazTilesBlock;
 import net.mcreator.archiblocktwo.block.TopazStoneOreBlock;
 import net.mcreator.archiblocktwo.block.TopazPillarsBlock;
 import net.mcreator.archiblocktwo.block.TopazGraniteOreBlock;
+import net.mcreator.archiblocktwo.block.TopazBricksBlock;
 import net.mcreator.archiblocktwo.block.TopazBlockBlock;
 import net.mcreator.archiblocktwo.block.SugiliteTilesBlock;
 import net.mcreator.archiblocktwo.block.SugilitePillarBlock;
 import net.mcreator.archiblocktwo.block.SugiliteOreBlock;
+import net.mcreator.archiblocktwo.block.SugiliteBricksBlock;
 import net.mcreator.archiblocktwo.block.SugiliteBlockBlock;
 import net.mcreator.archiblocktwo.block.StoneTilesBlock;
 import net.mcreator.archiblocktwo.block.StonePillarBlock;
@@ -62,10 +64,12 @@ import net.mcreator.archiblocktwo.block.SapphireTilesBlock;
 import net.mcreator.archiblocktwo.block.SapphirePillarBlock;
 import net.mcreator.archiblocktwo.block.SapphireOreBlock;
 import net.mcreator.archiblocktwo.block.SapphireDioriteOreBlock;
+import net.mcreator.archiblocktwo.block.SapphireBricksBlock;
 import net.mcreator.archiblocktwo.block.SapphireBlockBlock;
 import net.mcreator.archiblocktwo.block.RubyTilesBlock;
 import net.mcreator.archiblocktwo.block.RubyPillarBlock;
 import net.mcreator.archiblocktwo.block.RubyOreBlock;
+import net.mcreator.archiblocktwo.block.RubyBricksBlock;
 import net.mcreator.archiblocktwo.block.RubyBlockBlock;
 import net.mcreator.archiblocktwo.block.RoseShrubBlock;
 import net.mcreator.archiblocktwo.block.RoseBlock;
@@ -340,6 +344,10 @@ public class ArchiblockTwoModBlocks {
 	public static final Block TWILIGHTWAVE_BRICK_SLAB = register(new TwilightwaveBrickSlabBlock());
 	public static final Block TWILIGHTWAVE_BRICK_WALL = register(new TwilightwaveBrickWallBlock());
 	public static final Block TWILIGHT_ORE = register(new TwilightOreBlock());
+	public static final Block TOPAZ_BRICKS = register(new TopazBricksBlock());
+	public static final Block RUBY_BRICKS = register(new RubyBricksBlock());
+	public static final Block SAPPHIRE_BRICKS = register(new SapphireBricksBlock());
+	public static final Block SUGILITE_BRICKS = register(new SugiliteBricksBlock());
 
 	private static Block register(Block block) {
 		REGISTRY.add(block);

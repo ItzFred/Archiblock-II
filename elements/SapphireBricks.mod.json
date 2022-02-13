@@ -2,7 +2,7 @@
   "_fv": 24,
   "_type": "block",
   "definition": {
-    "texture": "twilightore",
+    "texture": "sapphirebricks",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -32,10 +32,10 @@
         "subtract": false
       }
     ],
-    "name": "Twilight Ore",
+    "name": "Sapphire Bricks",
     "specialInfo": [],
-    "hardness": 4.0,
-    "resistance": 9.0,
+    "hardness": 5.0,
+    "resistance": 6.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
@@ -43,7 +43,7 @@
     },
     "destroyTool": "pickaxe",
     "customDrop": {
-      "value": "CUSTOM:TwilightShard"
+      "value": ""
     },
     "dropAmount": 1,
     "useLootTableForDrops": false,
@@ -61,7 +61,7 @@
     "emittedRedstonePower": {
       "fixedValue": 15.0
     },
-    "colorOnMap": "LIME",
+    "colorOnMap": "BLUE",
     "creativePickItem": {
       "value": ""
     },
@@ -96,7 +96,7 @@
     },
     "luminance": 0,
     "unbreakable": false,
-    "breakHarvestLevel": 1,
+    "breakHarvestLevel": 2,
     "spawnParticles": false,
     "particleToSpawn": {
       "value": "EXPLOSION_NORMAL"
@@ -124,9 +124,9 @@
     "spawnWorldTypes": [],
     "restrictionBiomes": [],
     "blocksToReplace": [],
-    "frequencyPerChunks": 8,
-    "frequencyOnChunk": 10,
-    "minGenerateHeight": 0,
+    "frequencyPerChunks": 5,
+    "frequencyOnChunk": 3,
+    "minGenerateHeight": 32,
     "maxGenerateHeight": 64
   }
 }

@@ -6,7 +6,7 @@
     "xpReward": 0.0,
     "cookingTime": 200,
     "recipeRetstackSize": 4,
-    "group": "sapphire_tiles",
+    "group": "ruby_bricks",
     "recipeShapeless": false,
     "recipeSlots": [
       {
@@ -22,25 +22,25 @@
         "value": ""
       },
       {
-        "value": "CUSTOM:SapphireBricks"
+        "value": "CUSTOM:RubyBlock"
       },
       {
-        "value": "CUSTOM:SapphireBricks"
+        "value": "CUSTOM:RubyBlock"
       },
       {
         "value": ""
       },
       {
-        "value": "CUSTOM:SapphireBricks"
+        "value": "CUSTOM:RubyBlock"
       },
       {
-        "value": "CUSTOM:SapphireBricks"
+        "value": "CUSTOM:RubyBlock"
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:SapphireTiles"
+      "value": "CUSTOM:RubyBricks"
     },
-    "name": "sapphire_tiles_r",
+    "name": "ruby_bricks_r",
     "namespace": "mod"
   }
 }
