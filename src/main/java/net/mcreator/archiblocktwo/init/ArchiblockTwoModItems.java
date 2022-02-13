@@ -226,10 +226,14 @@ public class ArchiblockTwoModItems {
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item TWILIGHT_ORE = register(ArchiblockTwoModBlocks.TWILIGHT_ORE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item WOVEN_BIRCH_BLOCK = register(ArchiblockTwoModBlocks.WOVEN_BIRCH_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TOPAZ_BRICKS = register(ArchiblockTwoModBlocks.TOPAZ_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item WOVEN_BIRCH_STAIRS = register(ArchiblockTwoModBlocks.WOVEN_BIRCH_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item WOVEN_BIRCH_SLAB = register(ArchiblockTwoModBlocks.WOVEN_BIRCH_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item RUBY_BRICKS = register(ArchiblockTwoModBlocks.RUBY_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item WOVEN_BIRCH_BASKET = register(ArchiblockTwoModBlocks.WOVEN_BIRCH_BASKET, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SAPPHIRE_BRICKS = register(ArchiblockTwoModBlocks.SAPPHIRE_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item BIRCH_BASKET_DIRT = register(ArchiblockTwoModBlocks.BIRCH_BASKET_DIRT, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SUGILITE_BRICKS = register(ArchiblockTwoModBlocks.SUGILITE_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item BIRCH_BASKET_MOSS = register(ArchiblockTwoModBlocks.BIRCH_BASKET_MOSS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item BIRCH_BASKET_MYCELIUM = register(ArchiblockTwoModBlocks.BIRCH_BASKET_MYCELIUM,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);

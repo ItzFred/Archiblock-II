@@ -3952,1110 +3952,12 @@
       "path": "~/OtherBlocks/Twilight/Twilightwave/Recipes"
     },
     {
-      "name": "WovenBirchBlock",
-      "type": "block",
-      "sortid": 400,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_birch_block",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WovenBirchStairs",
-      "type": "block",
-      "sortid": 401,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_birch_stairs",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WovenBirchSlab",
-      "type": "block",
-      "sortid": 402,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_birch_slab",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WovenBirchBasket",
-      "type": "block",
-      "sortid": 403,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_birch_basket",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "BirchBasketDirt",
-      "type": "block",
-      "sortid": 404,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "birch_basket_dirt",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "BirchBasketMoss",
-      "type": "block",
-      "sortid": 405,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "birch_basket_moss",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "BirchBasketMycelium",
-      "type": "block",
-      "sortid": 406,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "birch_basket_mycelium",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "BirchBasketPodzol",
-      "type": "block",
-      "sortid": 407,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "birch_basket_podzol",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "BirchBasketSand",
-      "type": "block",
-      "sortid": 408,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "birch_basket_sand",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WovenBirchBlockR",
-      "type": "recipe",
-      "sortid": 409,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_birch_block_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "WovenBirchStairsR",
-      "type": "recipe",
-      "sortid": 410,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_birch_stairs_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "WovenBirchSlabR",
-      "type": "recipe",
-      "sortid": 411,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_birch_slab_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "BirchBasketR",
-      "type": "recipe",
-      "sortid": 412,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "birch_basket_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "BirchBasketDirtR",
-      "type": "recipe",
-      "sortid": 413,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "birch_basket_dirt_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "BirchBasketMossR",
-      "type": "recipe",
-      "sortid": 414,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "birch_basket_moss_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "BirchBasketSandR",
-      "type": "recipe",
-      "sortid": 415,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "birch_basket_sand_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "BirchBasketPodzolR",
-      "type": "recipe",
-      "sortid": 416,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "birch_basket_podzol_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "BirchBasketMyceliumR",
-      "type": "recipe",
-      "sortid": 417,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "birch_basket_mycelium_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "WovenSpruceBlock",
-      "type": "block",
-      "sortid": 418,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_spruce_block",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WovenSpruceStairs",
-      "type": "block",
-      "sortid": 419,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_spruce_stairs",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WovenSpruceSlab",
-      "type": "block",
-      "sortid": 420,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_spruce_slab",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WovenSpruceBasket",
-      "type": "block",
-      "sortid": 421,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_spruce_basket",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WovenDarkOakBlock",
-      "type": "block",
-      "sortid": 422,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_dark_oak_block",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WovenDarkOakStairs",
-      "type": "block",
-      "sortid": 423,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_dark_oak_stairs",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WovenDarkOakSlab",
-      "type": "block",
-      "sortid": 424,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_dark_oak_slab",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WovenDarkOakBasket",
-      "type": "block",
-      "sortid": 425,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_dark_oak_basket",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WovenJungleBlock",
-      "type": "block",
-      "sortid": 426,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_jungle_block",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WovenJungleStairs",
-      "type": "block",
-      "sortid": 427,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_jungle_stairs",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WovenJungleSlab",
-      "type": "block",
-      "sortid": 428,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_jungle_slab",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WovenJungleBasket",
-      "type": "block",
-      "sortid": 429,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_jungle_basket",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WovenAcaciaBlock",
-      "type": "block",
-      "sortid": 430,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_acacia_block",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WovenAcaciaStairs",
-      "type": "block",
-      "sortid": 431,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_acacia_stairs",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WovenAcaciaSlab",
-      "type": "block",
-      "sortid": 432,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_acacia_slab",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WovenAcaciaBasket",
-      "type": "block",
-      "sortid": 433,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_acacia_basket",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "SpruceBasketDirt",
-      "type": "block",
-      "sortid": 434,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "spruce_basket_dirt",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "SpruceBasketMoss",
-      "type": "block",
-      "sortid": 435,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "spruce_basket_moss",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "SpruceBasketMycelium",
-      "type": "block",
-      "sortid": 436,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "spruce_basket_mycelium",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "SpruceBasketPodzol",
-      "type": "block",
-      "sortid": 437,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "spruce_basket_podzol",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "SpruceBasketSand",
-      "type": "block",
-      "sortid": 438,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "spruce_basket_sand",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "DarkOakBasketDirt",
-      "type": "block",
-      "sortid": 439,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "dark_oak_basket_dirt",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "DarkOakBasketMoss",
-      "type": "block",
-      "sortid": 440,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "dark_oak_basket_moss",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "DarkOakBasketMycelium",
-      "type": "block",
-      "sortid": 441,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "dark_oak_basket_mycelium",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "DarkOakBasketPodzol",
-      "type": "block",
-      "sortid": 442,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "dark_oak_basket_podzol",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "DarkOakBasketSand",
-      "type": "block",
-      "sortid": 443,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "dark_oak_basket_sand",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "AcaciaBasketDirt",
-      "type": "block",
-      "sortid": 444,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "acacia_basket_dirt",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "AcaciaBasketMoss",
-      "type": "block",
-      "sortid": 445,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "acacia_basket_moss",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "AcaciaBasketPodzol",
-      "type": "block",
-      "sortid": 446,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "acacia_basket_podzol",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "AcaciaBasketMycelium",
-      "type": "block",
-      "sortid": 447,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "acacia_basket_mycelium",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "AcaciaBasketSand",
-      "type": "block",
-      "sortid": 448,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "acacia_basket_sand",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "JungleBasketDirt",
-      "type": "block",
-      "sortid": 449,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "jungle_basket_dirt",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "JungleBasketMoss",
-      "type": "block",
-      "sortid": 450,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "jungle_basket_moss",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "JungleBasketPodzol",
-      "type": "block",
-      "sortid": 451,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "jungle_basket_podzol",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "JungleBasketMycelium",
-      "type": "block",
-      "sortid": 452,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "jungle_basket_mycelium",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "JungleBasketSand",
-      "type": "block",
-      "sortid": 453,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "jungle_basket_sand",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WovenSpruceBlockR",
-      "type": "recipe",
-      "sortid": 454,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_spruce_block_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "WovenDarkOakBlockR",
-      "type": "recipe",
-      "sortid": 455,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_dark_oak_block_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "WovenJungleBlockR",
-      "type": "recipe",
-      "sortid": 456,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_jungle_block_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "WovenAcaciaBlockR",
-      "type": "recipe",
-      "sortid": 457,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_acacia_block_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "WovenSpruceStairsR",
-      "type": "recipe",
-      "sortid": 458,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_spruce_stairs_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "WovenSpruceSlabR",
-      "type": "recipe",
-      "sortid": 459,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_spruce_slab_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "WovenDarkOakStairsR",
-      "type": "recipe",
-      "sortid": 460,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_dark_oak_stairs_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "WovenDarkOakSlabR",
-      "type": "recipe",
-      "sortid": 461,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_dark_oak_slab_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "WovenJungleStairsR",
-      "type": "recipe",
-      "sortid": 462,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_jungle_stairs_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "WovenJungleSlabR",
-      "type": "recipe",
-      "sortid": 463,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_jungle_slab_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "WovenAcaciaStairsR",
-      "type": "recipe",
-      "sortid": 464,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_acacia_stairs_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "WovenAcaciaSlabR",
-      "type": "recipe",
-      "sortid": 465,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_acacia_slab_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "WovenSpruceBasketR",
-      "type": "recipe",
-      "sortid": 466,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_spruce_basket_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "DarkOakBasketR",
-      "type": "recipe",
-      "sortid": 467,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "dark_oak_basket_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "JungleBasketR",
-      "type": "recipe",
-      "sortid": 468,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "jungle_basket_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "AcaciaBasketR",
-      "type": "recipe",
-      "sortid": 469,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "acacia_basket_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "SpruceMossR",
-      "type": "recipe",
-      "sortid": 470,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "spruce_moss_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "SpruceDirtR",
-      "type": "recipe",
-      "sortid": 471,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "spruce_dirt_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "SprucePodzolR",
-      "type": "recipe",
-      "sortid": 472,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "spruce_podzol_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "SpruceMyceliumR",
-      "type": "recipe",
-      "sortid": 473,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "spruce_mycelium_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "SpruceSandR",
-      "type": "recipe",
-      "sortid": 474,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "spruce_sand_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "DarkOakDirtR",
-      "type": "recipe",
-      "sortid": 475,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "dark_oak_dirt_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "DarkOakMossR",
-      "type": "recipe",
-      "sortid": 476,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "dark_oak_moss_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "DarkOakPodzolR",
-      "type": "recipe",
-      "sortid": 477,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "dark_oak_podzol_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "DarkOakMyceliumR",
-      "type": "recipe",
-      "sortid": 478,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "dark_oak_mycelium_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "DarkOakSandR",
-      "type": "recipe",
-      "sortid": 479,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "dark_oak_sand_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "JungleDirtR",
-      "type": "recipe",
-      "sortid": 480,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "jungle_dirt_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "AcaciaDirtR",
-      "type": "recipe",
-      "sortid": 481,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "acacia_dirt_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "JungleMossR",
-      "type": "recipe",
-      "sortid": 482,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "jungle_moss_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "JungleMyceliumR",
-      "type": "recipe",
-      "sortid": 483,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "jungle_mycelium_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "JunglePodzolR",
-      "type": "recipe",
-      "sortid": 484,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "jungle_podzol_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "JungleSandR",
-      "type": "recipe",
-      "sortid": 485,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "jungle_sand_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "AcaciaMossR",
-      "type": "recipe",
-      "sortid": 486,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "acacia_moss_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
       "name": "AcaciaPodzolR",
       "type": "recipe",
       "sortid": 487,
       "compiles": true,
       "locked_code": false,
       "registry_name": "acacia_podzol_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "AcaciaMyceliumR",
-      "type": "recipe",
-      "sortid": 488,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "acacia_mycelium_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "AcaciaSandR",
-      "type": "recipe",
-      "sortid": 489,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "acacia_sand_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "WovenCrimsonBlock",
-      "type": "block",
-      "sortid": 490,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_crimson_block",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WovenWarpedBlock",
-      "type": "block",
-      "sortid": 491,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_warped_block",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WovenCrimsonStairs",
-      "type": "block",
-      "sortid": 492,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_crimson_stairs",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WovenCrimsonSlab",
-      "type": "block",
-      "sortid": 493,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_crimson_slab",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WovenWarpedStairs",
-      "type": "block",
-      "sortid": 494,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_warped_stairs",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WovenWarpedSlab",
-      "type": "block",
-      "sortid": 495,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_warped_slab",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WovenWarpedBasket",
-      "type": "block",
-      "sortid": 496,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_warped_basket",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WovenCrimsonBasket",
-      "type": "block",
-      "sortid": 497,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_crimson_basket",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WarpedBasketDirt",
-      "type": "block",
-      "sortid": 498,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "warped_basket_dirt",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "CrimsonBasketDirt",
-      "type": "block",
-      "sortid": 499,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "crimson_basket_dirt",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WarpedBasketMoss",
-      "type": "block",
-      "sortid": 500,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "warped_basket_moss",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WarpedBasketPodzol",
-      "type": "block",
-      "sortid": 501,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "warped_basket_podzol",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WarpedBasketMycelium",
-      "type": "block",
-      "sortid": 502,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "warped_basket_mycelium",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WarpedBasketSand",
-      "type": "block",
-      "sortid": 503,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "warped_basket_sand",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "CrimsonBasketMoss",
-      "type": "block",
-      "sortid": 504,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "crimson_basket_moss",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "CrimsonBasketPodzol",
-      "type": "block",
-      "sortid": 505,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "crimson_basket_podzol",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "CrimsonBasketMycelium",
-      "type": "block",
-      "sortid": 506,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "crimson_basket_mycelium",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "CrimsonBasketSand",
-      "type": "block",
-      "sortid": 507,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "crimson_basket_sand",
-      "path": "~/OtherBlocks/Woven Blocks"
-    },
-    {
-      "name": "WovenCrimsonBlockR",
-      "type": "recipe",
-      "sortid": 508,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_crimson_block_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "WovenWarpedBlockR",
-      "type": "recipe",
-      "sortid": 509,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woven_warped_block_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "CrimsonStairsR",
-      "type": "recipe",
-      "sortid": 510,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "crimson_stairs_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "CrimsonSlabR",
-      "type": "recipe",
-      "sortid": 511,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "crimson_slab_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "WarpedStairsR",
-      "type": "recipe",
-      "sortid": 512,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "warped_stairs_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "WarpedSlabR",
-      "type": "recipe",
-      "sortid": 513,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "warped_slab_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "CrimsonBasketR",
-      "type": "recipe",
-      "sortid": 514,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "crimson_basket_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "WarpedBasketR",
-      "type": "recipe",
-      "sortid": 515,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "warped_basket_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "CrimsonDirtR",
-      "type": "recipe",
-      "sortid": 516,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "crimson_dirt_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "CrimsonMossR",
-      "type": "recipe",
-      "sortid": 517,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "crimson_moss_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "CrimsonPodzolR",
-      "type": "recipe",
-      "sortid": 518,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "crimson_podzol_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "CrimsonMyceliumR",
-      "type": "recipe",
-      "sortid": 519,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "crimson_mycelium_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "CrimsonSandR",
-      "type": "recipe",
-      "sortid": 520,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "crimson_sand_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "WarpedDirtR",
-      "type": "recipe",
-      "sortid": 521,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "warped_dirt_r",
-      "path": "~/OtherBlocks/Woven Blocks/Recipes"
-    },
-    {
-      "name": "WarpedMossR",
-      "type": "recipe",
-      "sortid": 522,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "warped_moss_r",
       "path": "~/OtherBlocks/Woven Blocks/Recipes"
     },
     {
@@ -5068,6 +3970,420 @@
       "path": "~/OtherBlocks/Woven Blocks/Recipes"
     },
     {
+      "name": "WovenAcaciaStairs",
+      "type": "block",
+      "sortid": 431,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_acacia_stairs",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "CrimsonBasketMycelium",
+      "type": "block",
+      "sortid": 506,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_basket_mycelium",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "DarkOakBasketDirt",
+      "type": "block",
+      "sortid": 439,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_basket_dirt",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenDarkOakBlockR",
+      "type": "recipe",
+      "sortid": 455,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_dark_oak_block_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenDarkOakBasket",
+      "type": "block",
+      "sortid": 425,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_dark_oak_basket",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenCrimsonSlab",
+      "type": "block",
+      "sortid": 493,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_crimson_slab",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenBirchSlab",
+      "type": "block",
+      "sortid": 402,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_birch_slab",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "SpruceBasketSand",
+      "type": "block",
+      "sortid": 438,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_basket_sand",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "CrimsonDirtR",
+      "type": "recipe",
+      "sortid": 516,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_dirt_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "SpruceDirtR",
+      "type": "recipe",
+      "sortid": 471,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_dirt_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "SpruceBasketMoss",
+      "type": "block",
+      "sortid": 435,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_basket_moss",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenWarpedStairs",
+      "type": "block",
+      "sortid": 494,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_warped_stairs",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "SpruceBasketDirt",
+      "type": "block",
+      "sortid": 434,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_basket_dirt",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "BirchBasketSandR",
+      "type": "recipe",
+      "sortid": 415,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_basket_sand_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "BirchBasketMycelium",
+      "type": "block",
+      "sortid": 406,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_basket_mycelium",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenSpruceBlock",
+      "type": "block",
+      "sortid": 418,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_spruce_block",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "BirchBasketPodzolR",
+      "type": "recipe",
+      "sortid": 416,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_basket_podzol_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenBirchBasket",
+      "type": "block",
+      "sortid": 403,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_birch_basket",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenDarkOakBlock",
+      "type": "block",
+      "sortid": 422,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_dark_oak_block",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WarpedBasketPodzol",
+      "type": "block",
+      "sortid": 501,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_basket_podzol",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "BirchBasketMossR",
+      "type": "recipe",
+      "sortid": 414,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_basket_moss_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WarpedBasketR",
+      "type": "recipe",
+      "sortid": 515,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_basket_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "CrimsonMossR",
+      "type": "recipe",
+      "sortid": 517,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_moss_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "JunglePodzolR",
+      "type": "recipe",
+      "sortid": 484,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungle_podzol_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "SpruceMossR",
+      "type": "recipe",
+      "sortid": 470,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_moss_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "DarkOakPodzolR",
+      "type": "recipe",
+      "sortid": 477,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_podzol_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenCrimsonBlock",
+      "type": "block",
+      "sortid": 490,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_crimson_block",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenSpruceBlockR",
+      "type": "recipe",
+      "sortid": 454,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_spruce_block_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "DarkOakBasketR",
+      "type": "recipe",
+      "sortid": 467,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_basket_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "BirchBasketR",
+      "type": "recipe",
+      "sortid": 412,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_basket_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "JungleBasketMycelium",
+      "type": "block",
+      "sortid": 452,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungle_basket_mycelium",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "SpruceSandR",
+      "type": "recipe",
+      "sortid": 474,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_sand_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WarpedBasketDirt",
+      "type": "block",
+      "sortid": 498,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_basket_dirt",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenSpruceSlab",
+      "type": "block",
+      "sortid": 420,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_spruce_slab",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "CrimsonPodzolR",
+      "type": "recipe",
+      "sortid": 518,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_podzol_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "BirchBasketDirtR",
+      "type": "recipe",
+      "sortid": 413,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_basket_dirt_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenSpruceSlabR",
+      "type": "recipe",
+      "sortid": 459,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_spruce_slab_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenJungleStairs",
+      "type": "block",
+      "sortid": 427,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_jungle_stairs",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WarpedBasketSand",
+      "type": "block",
+      "sortid": 503,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_basket_sand",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "SpruceBasketMycelium",
+      "type": "block",
+      "sortid": 436,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_basket_mycelium",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "JungleBasketR",
+      "type": "recipe",
+      "sortid": 468,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungle_basket_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "AcaciaDirtR",
+      "type": "recipe",
+      "sortid": 481,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acacia_dirt_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "CrimsonBasketPodzol",
+      "type": "block",
+      "sortid": 505,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_basket_podzol",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenCrimsonBasket",
+      "type": "block",
+      "sortid": 497,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_crimson_basket",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WarpedBasketMoss",
+      "type": "block",
+      "sortid": 500,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_basket_moss",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WarpedDirtR",
+      "type": "recipe",
+      "sortid": 521,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_dirt_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
       "name": "WarpedMyceliumR",
       "type": "recipe",
       "sortid": 524,
@@ -5077,6 +4393,150 @@
       "path": "~/OtherBlocks/Woven Blocks/Recipes"
     },
     {
+      "name": "WovenJungleBlock",
+      "type": "block",
+      "sortid": 426,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_jungle_block",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenSpruceStairs",
+      "type": "block",
+      "sortid": 419,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_spruce_stairs",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenCrimsonBlockR",
+      "type": "recipe",
+      "sortid": 508,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_crimson_block_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "JungleBasketPodzol",
+      "type": "block",
+      "sortid": 451,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungle_basket_podzol",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "AcaciaBasketR",
+      "type": "recipe",
+      "sortid": 469,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acacia_basket_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "CrimsonMyceliumR",
+      "type": "recipe",
+      "sortid": 519,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_mycelium_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenSpruceBasketR",
+      "type": "recipe",
+      "sortid": 466,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_spruce_basket_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenWarpedSlab",
+      "type": "block",
+      "sortid": 495,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_warped_slab",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "DarkOakBasketSand",
+      "type": "block",
+      "sortid": 443,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_basket_sand",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "DarkOakBasketMoss",
+      "type": "block",
+      "sortid": 440,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_basket_moss",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "DarkOakDirtR",
+      "type": "recipe",
+      "sortid": 475,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_dirt_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenJungleStairsR",
+      "type": "recipe",
+      "sortid": 462,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_jungle_stairs_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "DarkOakBasketPodzol",
+      "type": "block",
+      "sortid": 442,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_basket_podzol",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WarpedBasketMycelium",
+      "type": "block",
+      "sortid": 502,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_basket_mycelium",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WarpedMossR",
+      "type": "recipe",
+      "sortid": 522,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_moss_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "BirchBasketDirt",
+      "type": "block",
+      "sortid": 404,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_basket_dirt",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
       "name": "WarpedSandR",
       "type": "recipe",
       "sortid": 525,
@@ -5084,6 +4544,618 @@
       "locked_code": false,
       "registry_name": "warped_sand_r",
       "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "BirchBasketMoss",
+      "type": "block",
+      "sortid": 405,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_basket_moss",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenBirchSlabR",
+      "type": "recipe",
+      "sortid": 411,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_birch_slab_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "AcaciaBasketPodzol",
+      "type": "block",
+      "sortid": 446,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acacia_basket_podzol",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenDarkOakSlab",
+      "type": "block",
+      "sortid": 424,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_dark_oak_slab",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "DarkOakMossR",
+      "type": "recipe",
+      "sortid": 476,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_moss_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenAcaciaBasket",
+      "type": "block",
+      "sortid": 433,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_acacia_basket",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "SpruceBasketPodzol",
+      "type": "block",
+      "sortid": 437,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_basket_podzol",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenWarpedBlockR",
+      "type": "recipe",
+      "sortid": 509,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_warped_block_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenDarkOakStairsR",
+      "type": "recipe",
+      "sortid": 460,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_dark_oak_stairs_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "JungleBasketDirt",
+      "type": "block",
+      "sortid": 449,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungle_basket_dirt",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "AcaciaMossR",
+      "type": "recipe",
+      "sortid": 486,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acacia_moss_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenJungleSlabR",
+      "type": "recipe",
+      "sortid": 463,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_jungle_slab_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "CrimsonBasketDirt",
+      "type": "block",
+      "sortid": 499,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_basket_dirt",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WarpedSlabR",
+      "type": "recipe",
+      "sortid": 513,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_slab_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "JungleSandR",
+      "type": "recipe",
+      "sortid": 485,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungle_sand_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "CrimsonBasketMoss",
+      "type": "block",
+      "sortid": 504,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_basket_moss",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "AcaciaSandR",
+      "type": "recipe",
+      "sortid": 489,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acacia_sand_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenWarpedBasket",
+      "type": "block",
+      "sortid": 496,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_warped_basket",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "DarkOakSandR",
+      "type": "recipe",
+      "sortid": 479,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_sand_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenDarkOakStairs",
+      "type": "block",
+      "sortid": 423,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_dark_oak_stairs",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenAcaciaSlabR",
+      "type": "recipe",
+      "sortid": 465,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_acacia_slab_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenAcaciaSlab",
+      "type": "block",
+      "sortid": 432,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_acacia_slab",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "SpruceMyceliumR",
+      "type": "recipe",
+      "sortid": 473,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_mycelium_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "CrimsonStairsR",
+      "type": "recipe",
+      "sortid": 510,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_stairs_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenBirchStairs",
+      "type": "block",
+      "sortid": 401,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_birch_stairs",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "DarkOakBasketMycelium",
+      "type": "block",
+      "sortid": 441,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_basket_mycelium",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "CrimsonBasketSand",
+      "type": "block",
+      "sortid": 507,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_basket_sand",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "JungleMossR",
+      "type": "recipe",
+      "sortid": 482,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungle_moss_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenWarpedBlock",
+      "type": "block",
+      "sortid": 491,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_warped_block",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "AcaciaBasketDirt",
+      "type": "block",
+      "sortid": 444,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acacia_basket_dirt",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenJungleBlockR",
+      "type": "recipe",
+      "sortid": 456,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_jungle_block_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "DarkOakMyceliumR",
+      "type": "recipe",
+      "sortid": 478,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_mycelium_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenAcaciaBlockR",
+      "type": "recipe",
+      "sortid": 457,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_acacia_block_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "AcaciaBasketMoss",
+      "type": "block",
+      "sortid": 445,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acacia_basket_moss",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "AcaciaBasketSand",
+      "type": "block",
+      "sortid": 448,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acacia_basket_sand",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "BirchBasketSand",
+      "type": "block",
+      "sortid": 408,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_basket_sand",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenAcaciaStairsR",
+      "type": "recipe",
+      "sortid": 464,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_acacia_stairs_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "BirchBasketMyceliumR",
+      "type": "recipe",
+      "sortid": 417,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_basket_mycelium_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "AcaciaBasketMycelium",
+      "type": "block",
+      "sortid": 447,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acacia_basket_mycelium",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "CrimsonSandR",
+      "type": "recipe",
+      "sortid": 520,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_sand_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenJungleBasket",
+      "type": "block",
+      "sortid": 429,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_jungle_basket",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenSpruceBasket",
+      "type": "block",
+      "sortid": 421,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_spruce_basket",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "AcaciaMyceliumR",
+      "type": "recipe",
+      "sortid": 488,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acacia_mycelium_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenAcaciaBlock",
+      "type": "block",
+      "sortid": 430,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_acacia_block",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "BirchBasketPodzol",
+      "type": "block",
+      "sortid": 407,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_basket_podzol",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "CrimsonSlabR",
+      "type": "recipe",
+      "sortid": 511,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_slab_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "JungleDirtR",
+      "type": "recipe",
+      "sortid": 480,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungle_dirt_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenBirchBlock",
+      "type": "block",
+      "sortid": 400,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_birch_block",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "SprucePodzolR",
+      "type": "recipe",
+      "sortid": 472,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_podzol_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenSpruceStairsR",
+      "type": "recipe",
+      "sortid": 458,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_spruce_stairs_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "JungleBasketSand",
+      "type": "block",
+      "sortid": 453,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungle_basket_sand",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WarpedStairsR",
+      "type": "recipe",
+      "sortid": 512,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_stairs_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenBirchBlockR",
+      "type": "recipe",
+      "sortid": 409,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_birch_block_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "JungleBasketMoss",
+      "type": "block",
+      "sortid": 450,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungle_basket_moss",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenCrimsonStairs",
+      "type": "block",
+      "sortid": 492,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_crimson_stairs",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenBirchStairsR",
+      "type": "recipe",
+      "sortid": 410,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_birch_stairs_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenDarkOakSlabR",
+      "type": "recipe",
+      "sortid": 461,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_dark_oak_slab_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "CrimsonBasketR",
+      "type": "recipe",
+      "sortid": 514,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_basket_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "WovenJungleSlab",
+      "type": "block",
+      "sortid": 428,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_jungle_slab",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "JungleMyceliumR",
+      "type": "recipe",
+      "sortid": 483,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungle_mycelium_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "SapphireBricksR",
+      "type": "recipe",
+      "sortid": 407,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_bricks_r",
+      "path": "~/OtherBlocks/Gems/Sapphire/Recipes"
+    },
+    {
+      "name": "TopazBricks",
+      "type": "block",
+      "sortid": 400,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "topaz_bricks",
+      "path": "~/OtherBlocks/Gems/Topaz"
+    },
+    {
+      "name": "RubyBricks",
+      "type": "block",
+      "sortid": 402,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_bricks",
+      "path": "~/OtherBlocks/Gems/Ruby"
+    },
+    {
+      "name": "SugiliteBricks",
+      "type": "block",
+      "sortid": 404,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sugilite_bricks",
+      "path": "~/OtherBlocks/Gems/Sugilite"
+    },
+    {
+      "name": "SapphireBricks",
+      "type": "block",
+      "sortid": 403,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_bricks",
+      "path": "~/OtherBlocks/Gems/Sapphire"
+    },
+    {
+      "name": "RubyBricksR",
+      "type": "recipe",
+      "sortid": 406,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_bricks_r",
+      "path": "~/OtherBlocks/Gems/Ruby/Recipes"
+    },
+    {
+      "name": "SugiliteBricksR",
+      "type": "recipe",
+      "sortid": 405,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sugilite_bricks_r",
+      "path": "~/OtherBlocks/Gems/Sugilite/Recipes"
+    },
+    {
+      "name": "TopazBricksR",
+      "type": "recipe",
+      "sortid": 401,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "topaz_bricks_r",
+      "path": "~/OtherBlocks/Gems/Topaz/Recipes"
     }
   ],
   "variable_elements": [],
@@ -5356,7 +5428,7 @@
             "name": "Twilight",
             "children": [
               {
-                "name": "Normal",
+                "name": "Lush",
                 "children": [
                   {
                     "name": "Recipes",
@@ -5365,7 +5437,7 @@
                 ]
               },
               {
-                "name": "Lush",
+                "name": "Normal",
                 "children": [
                   {
                     "name": "Recipes",
