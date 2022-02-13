@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "archiblock_two:blocks/wovenspruce",
+    "up": "archiblock_two:blocks/sprucedirt",
+    "north": "archiblock_two:blocks/sprucebasket",
+    "east": "archiblock_two:blocks/sprucebasket",
+    "south": "archiblock_two:blocks/sprucebasket",
+    "west": "archiblock_two:blocks/sprucebasket",
+    "particle": "archiblock_two:blocks/wovenspruce"
+  }
+}

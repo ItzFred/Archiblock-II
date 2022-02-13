@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "archiblock_two:blocks/wovenacacia",
+    "up": "archiblock_two:blocks/acaciasand",
+    "north": "archiblock_two:blocks/acaciabasket",
+    "east": "archiblock_two:blocks/acaciabasket",
+    "south": "archiblock_two:blocks/acaciabasket",
+    "west": "archiblock_two:blocks/acaciabasket",
+    "particle": "archiblock_two:blocks/wovenacacia"
+  }
+}

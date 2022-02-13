@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "archiblock_two:blocks/wovendarkoak",
+    "top": "archiblock_two:blocks/wovendarkoak",
+    "side": "archiblock_two:blocks/wovendarkoak"
+  }
+}

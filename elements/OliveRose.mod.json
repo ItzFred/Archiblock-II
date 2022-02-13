@@ -33,7 +33,7 @@
     "name": "Chartreuse Rose",
     "specialInfo": [],
     "creativeTab": {
-      "value": "CUSTOM:ArchiblockIITab"
+      "value": "CUSTOM:ArchiblockIINature"
     },
     "hardness": 0.0,
     "resistance": 0.0,
@@ -78,9 +78,40 @@
     "jumpFactor": 1.0,
     "speedFactor": 1.0,
     "canBePlacedOn": [],
-    "frequencyOnChunks": 5,
+    "frequencyOnChunks": 10,
     "spawnWorldTypes": [],
-    "restrictionBiomes": [],
-    "patchSize": 64
+    "restrictionBiomes": [
+      {
+        "value": "mutated_jungle_edge"
+      },
+      {
+        "value": "bamboo_jungle"
+      },
+      {
+        "value": "bamboo_jungle_hills"
+      },
+      {
+        "value": "jungle"
+      },
+      {
+        "value": "jungle_edge"
+      },
+      {
+        "value": "jungle_hills"
+      },
+      {
+        "value": "mutated_jungle"
+      },
+      {
+        "value": "mutated_jungle_edge"
+      },
+      {
+        "value": "swamp"
+      },
+      {
+        "value": "mutated_swampland"
+      }
+    ],
+    "patchSize": 10
   }
 }

@@ -33,7 +33,7 @@
     "name": "Rose",
     "specialInfo": [],
     "creativeTab": {
-      "value": "CUSTOM:ArchiblockIITab"
+      "value": "CUSTOM:ArchiblockIINature"
     },
     "hardness": 0.0,
     "resistance": 0.0,
@@ -78,9 +78,21 @@
     "jumpFactor": 1.0,
     "speedFactor": 1.0,
     "canBePlacedOn": [],
-    "frequencyOnChunks": 5,
-    "spawnWorldTypes": [],
-    "restrictionBiomes": [],
-    "patchSize": 64
+    "frequencyOnChunks": 3,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "mutated_forest"
+      },
+      {
+        "value": "forest"
+      },
+      {
+        "value": "forest_hills"
+      }
+    ],
+    "patchSize": 8
   }
 }

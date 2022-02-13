@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:deleted_mod_element"
+    },
+    "2": {
+      "item": "archiblock_two:deleted_mod_element"
+    },
+    "4": {
+      "item": "archiblock_two:deleted_mod_element"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:woven_birch_basket",
+    "count": 1
+  }
+}

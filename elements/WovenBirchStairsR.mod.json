@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:WovenBirchBlock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:WovenBirchBlock"
+      },
+      {
+        "value": "CUSTOM:WovenBirchBlock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:WovenBirchBlock"
+      },
+      {
+        "value": "CUSTOM:WovenBirchBlock"
+      },
+      {
+        "value": "CUSTOM:WovenBirchBlock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:WovenBirchStairs"
+    },
+    "name": "woven_birch_stairs_r",
+    "namespace": "mod"
+  }
+}

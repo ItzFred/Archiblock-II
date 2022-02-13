@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:deleted_mod_element"
+    },
+    "1": {
+      "item": "archiblock_two:deleted_mod_element"
+    },
+    "2": {
+      "item": "archiblock_two:deleted_mod_element"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:woven_warped_slab",
+    "count": 6
+  }
+}

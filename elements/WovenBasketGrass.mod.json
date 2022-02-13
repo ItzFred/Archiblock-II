@@ -3,7 +3,7 @@
   "_type": "block",
   "definition": {
     "texture": "wovenblock",
-    "textureTop": "wovenbasketgrass",
+    "textureTop": "oakmoss",
     "textureLeft": "wovenbasketside",
     "textureFront": "wovenbasketside",
     "textureRight": "wovenbasketside",
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Grass Filled Woven Basket",
+    "name": "Moss Filled Woven Basket",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,

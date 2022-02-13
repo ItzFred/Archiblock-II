@@ -2,7 +2,7 @@
   "parent": "block/cube",
   "textures": {
     "down": "archiblock_two:blocks/wovenblock",
-    "up": "archiblock_two:blocks/wovenbasketgrass",
+    "up": "archiblock_two:blocks/oakmoss",
     "north": "archiblock_two:blocks/wovenbasketside",
     "east": "archiblock_two:blocks/wovenbasketside",
     "south": "archiblock_two:blocks/wovenbasketside",
