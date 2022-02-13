@@ -3,7 +3,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "archiblock_two:raw_lush_twilight_block"
+      "item": "archiblock_two:deleted_mod_element"
     }
   ],
   "result": {

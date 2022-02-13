@@ -12,12 +12,24 @@ import net.minecraft.world.item.CreativeModeTab;
 
 public class ArchiblockTwoModTabs {
 	public static CreativeModeTab TAB_ARCHIBLOCK_II_TAB;
+	public static CreativeModeTab TAB_ARCHIBLOCK_II_NATURE;
 
 	public static void load() {
 		TAB_ARCHIBLOCK_II_TAB = new CreativeModeTab("tabarchiblock_ii_tab") {
 			@Override
 			public ItemStack makeIcon() {
-				return new ItemStack(ArchiblockTwoModBlocks.ANDESITE_BLOCK);
+				return new ItemStack(ArchiblockTwoModBlocks.BIG_CLAY_BRICKS);
+			}
+
+			@OnlyIn(Dist.CLIENT)
+			public boolean hasSearchBar() {
+				return true;
+			}
+		}.setBackgroundSuffix("item_search.png");
+		TAB_ARCHIBLOCK_II_NATURE = new CreativeModeTab("tabarchiblock_ii_nature") {
+			@Override
+			public ItemStack makeIcon() {
+				return new ItemStack(ArchiblockTwoModBlocks.ROSE);
 			}
 
 			@OnlyIn(Dist.CLIENT)

@@ -6,17 +6,17 @@
   ],
   "key": {
     "0": {
-      "item": "archiblock_two:lush_twilight_bricks"
+      "item": "archiblock_two:deleted_mod_element"
     },
     "1": {
-      "item": "archiblock_two:lush_twilight_bricks"
+      "item": "archiblock_two:deleted_mod_element"
     },
     "2": {
-      "item": "archiblock_two:lush_twilight_bricks"
+      "item": "archiblock_two:deleted_mod_element"
     }
   },
   "result": {
-    "item": "archiblock_two:lush_twilight_brick_slab",
+    "item": "archiblock_two:deleted_mod_element",
     "count": 6
   }
 }

@@ -3,11 +3,11 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "archiblock_two:raw_twilight_block"
+      "item": "archiblock_two:deleted_mod_element"
     }
   ],
   "result": {
-    "item": "archiblock_two:twilight_shard",
+    "item": "archiblock_two:deleted_mod_element",
     "count": 9
   }
 }
