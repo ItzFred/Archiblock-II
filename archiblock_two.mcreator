@@ -3375,6 +3375,14 @@
       "locked_code": false,
       "registry_name": "woven_fiber_sand_r",
       "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "ArchiblockIINature",
+      "type": "tab",
+      "sortid": 337,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "archiblock_ii_nature"
     }
   ],
   "variable_elements": [],
@@ -3475,7 +3483,8 @@
       "block.archiblock_two.diorite_brick_wall": "Diorite Brick Wall",
       "block.archiblock_two.slanted_shingles_side": "Slanted Clay Shingles Side",
       "block.archiblock_two.small_obsidian_bricks": "Small Obsidian Bricks",
-      "itemGroup.tabarchiblock_ii_tab": "Archiblock II ",
+      "itemGroup.tabarchiblock_ii_nature": "Archiblock II - Nature",
+      "itemGroup.tabarchiblock_ii_tab": "Archiblock II - Building",
       "block.archiblock_two.diorite_bricks": "Diorite Bricks",
       "item.archiblock_two.ruby": "Ruby",
       "block.archiblock_two.diorite_tile_wall": "Diorite Tile Wall",
