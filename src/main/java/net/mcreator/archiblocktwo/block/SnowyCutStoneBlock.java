@@ -22,10 +22,10 @@ import java.util.Random;
 import java.util.List;
 import java.util.Collections;
 
-public class StoneTilesBlock extends Block {
-	public StoneTilesBlock() {
+public class SnowyCutStoneBlock extends Block {
+	public SnowyCutStoneBlock() {
 		super(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.STONE).strength(1.5f, 6f).requiresCorrectToolForDrops());
-		setRegistryName("stone_tiles");
+		setRegistryName("snowy_cut_stone");
 	}
 
 	@Override

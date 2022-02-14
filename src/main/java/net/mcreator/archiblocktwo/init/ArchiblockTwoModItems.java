@@ -304,6 +304,11 @@ public class ArchiblockTwoModItems {
 	public static final Item SAPPHIRE_BRICKS = register(ArchiblockTwoModBlocks.SAPPHIRE_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item SUGILITE_BRICKS = register(ArchiblockTwoModBlocks.SUGILITE_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item PITCHDARK_BLOCK = register(ArchiblockTwoModBlocks.PITCHDARK_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SNOWY_CUT_STONE = register(ArchiblockTwoModBlocks.SNOWY_CUT_STONE, null);
+	public static final Item SNOWY_SMALL_STONE_BRICKS = register(ArchiblockTwoModBlocks.SNOWY_SMALL_STONE_BRICKS, null);
+	public static final Item SNOWY_STONE_TILES = register(ArchiblockTwoModBlocks.SNOWY_STONE_TILES, null);
+	public static final Item SNOWY_STONE_PILLAR = register(ArchiblockTwoModBlocks.SNOWY_STONE_PILLAR, null);
+	public static final Item SIDE_SNOWY_STONE_PILLAR = register(ArchiblockTwoModBlocks.SIDE_SNOWY_STONE_PILLAR, null);
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

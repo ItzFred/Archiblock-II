@@ -2,15 +2,15 @@
   "_fv": 24,
   "_type": "block",
   "definition": {
-    "texture": "stonetiles",
-    "textureTop": "",
-    "textureLeft": "",
-    "textureFront": "",
-    "textureRight": "",
-    "textureBack": "",
-    "renderType": 11,
-    "customModelName": "Single texture",
-    "rotationMode": 0,
+    "texture": "stonepillartop",
+    "textureTop": "snowtop",
+    "textureLeft": "snowystonepillarsideup",
+    "textureFront": "snowystonepillarsideup",
+    "textureRight": "snowystonepillarsideup",
+    "textureBack": "snowystonepillarsideup",
+    "renderType": 10,
+    "customModelName": "Normal",
+    "rotationMode": 5,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
     "itemTexture": "",
@@ -32,14 +32,14 @@
         "subtract": false
       }
     ],
-    "name": "Stone Tiles",
+    "name": "Snowy Stone Pillar",
     "specialInfo": [],
     "hardness": 1.5,
     "resistance": 6.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:ArchiblockIITab"
+      "value": "No creative tab entry"
     },
     "destroyTool": "pickaxe",
     "customDrop": {

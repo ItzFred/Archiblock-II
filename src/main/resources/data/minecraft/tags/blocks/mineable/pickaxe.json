@@ -108,6 +108,11 @@
     "archiblock_two:twilight_ore",
     "archiblock_two:topaz_bricks",
     "archiblock_two:ruby_bricks",
-    "archiblock_two:sapphire_bricks"
+    "archiblock_two:sapphire_bricks",
+    "archiblock_two:snowy_cut_stone",
+    "archiblock_two:snowy_small_stone_bricks",
+    "archiblock_two:snowy_stone_tiles",
+    "archiblock_two:snowy_stone_pillar",
+    "archiblock_two:side_snowy_stone_pillar"
   ]
 }

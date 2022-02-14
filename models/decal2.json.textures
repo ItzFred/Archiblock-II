@@ -1,0 +1,22 @@
+{
+  "mappings": {
+    "smallholes": {
+      "map": {
+        "0": "smallholesdecal1"
+      },
+      "name": "smallholes"
+    },
+    "default": {
+      "map": {
+        "0": "bigholedecal1"
+      },
+      "name": "default"
+    },
+    "bigcracks": {
+      "map": {
+        "0": "bigcrackdecal1"
+      },
+      "name": "bigcracks"
+    }
+  }
+}

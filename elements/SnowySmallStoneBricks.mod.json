@@ -2,14 +2,14 @@
   "_fv": 24,
   "_type": "block",
   "definition": {
-    "texture": "stonetiles",
-    "textureTop": "",
-    "textureLeft": "",
-    "textureFront": "",
-    "textureRight": "",
-    "textureBack": "",
-    "renderType": 11,
-    "customModelName": "Single texture",
+    "texture": "smallstonebricks",
+    "textureTop": "snowtop",
+    "textureLeft": "snowysmallstonebricks",
+    "textureFront": "snowysmallstonebricks",
+    "textureRight": "snowysmallstonebricks",
+    "textureBack": "snowysmallstonebricks",
+    "renderType": 10,
+    "customModelName": "Normal",
     "rotationMode": 0,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
@@ -32,14 +32,14 @@
         "subtract": false
       }
     ],
-    "name": "Stone Tiles",
+    "name": "Snowy Small Stone Bricks",
     "specialInfo": [],
     "hardness": 1.5,
     "resistance": 6.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:ArchiblockIITab"
+      "value": "No creative tab entry"
     },
     "destroyTool": "pickaxe",
     "customDrop": {

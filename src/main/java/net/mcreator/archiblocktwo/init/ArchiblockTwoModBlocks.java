@@ -90,11 +90,16 @@ import net.mcreator.archiblocktwo.block.SpruceBasketPodzolBlock;
 import net.mcreator.archiblocktwo.block.SpruceBasketMyceliumBlock;
 import net.mcreator.archiblocktwo.block.SpruceBasketMossBlock;
 import net.mcreator.archiblocktwo.block.SpruceBasketDirtBlock;
+import net.mcreator.archiblocktwo.block.SnowyStoneTilesBlock;
+import net.mcreator.archiblocktwo.block.SnowyStonePillarBlock;
+import net.mcreator.archiblocktwo.block.SnowySmallStoneBricksBlock;
+import net.mcreator.archiblocktwo.block.SnowyCutStoneBlock;
 import net.mcreator.archiblocktwo.block.SmallStoneBricksBlock;
 import net.mcreator.archiblocktwo.block.SmallObsidianBricksBlock;
 import net.mcreator.archiblocktwo.block.SmallClayBrickTilesBlock;
 import net.mcreator.archiblocktwo.block.SlantedShinglesSideBlock;
 import net.mcreator.archiblocktwo.block.SlantedClayShinglesBlock;
+import net.mcreator.archiblocktwo.block.SideSnowyStonePillarBlock;
 import net.mcreator.archiblocktwo.block.ScarletRoseShrubBlock;
 import net.mcreator.archiblocktwo.block.ScarletRoseBushBlock;
 import net.mcreator.archiblocktwo.block.ScarletRoseBlock;
@@ -476,6 +481,11 @@ public class ArchiblockTwoModBlocks {
 	public static final Block SAPPHIRE_BRICKS = register(new SapphireBricksBlock());
 	public static final Block SUGILITE_BRICKS = register(new SugiliteBricksBlock());
 	public static final Block PITCHDARK_BLOCK = register(new PitchdarkBlockBlock());
+	public static final Block SNOWY_CUT_STONE = register(new SnowyCutStoneBlock());
+	public static final Block SNOWY_SMALL_STONE_BRICKS = register(new SnowySmallStoneBricksBlock());
+	public static final Block SNOWY_STONE_TILES = register(new SnowyStoneTilesBlock());
+	public static final Block SNOWY_STONE_PILLAR = register(new SnowyStonePillarBlock());
+	public static final Block SIDE_SNOWY_STONE_PILLAR = register(new SideSnowyStonePillarBlock());
 
 	private static Block register(Block block) {
 		REGISTRY.add(block);
