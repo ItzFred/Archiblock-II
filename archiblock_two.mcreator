@@ -5164,7 +5164,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "pitchdark_block",
-      "path": "~/OtherBlocks"
+      "path": "~/OtherBlocks/Pitchdark Block Family"
     },
     {
       "name": "PitchdarkBlockR",
@@ -5173,7 +5173,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "pitchdark_block_r",
-      "path": "~/OtherBlocks"
+      "path": "~/OtherBlocks/Pitchdark Block Family/Recipes"
     },
     {
       "name": "SnowyCutStone",
@@ -5248,6 +5248,24 @@
         ]
       },
       "path": "~/Stone Type Blocks/Stone"
+    },
+    {
+      "name": "GlowingEyesDots",
+      "type": "block",
+      "sortid": 574,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glowing_eyes_dots",
+      "path": "~/OtherBlocks/Pitchdark Block Family"
+    },
+    {
+      "name": "GlowingEyesR",
+      "type": "recipe",
+      "sortid": 575,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glowing_eyes_r",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Recipes"
     }
   ],
   "variable_elements": [],
@@ -5308,8 +5326,8 @@
       "block.archiblock_two.red_spool": "Red Spool",
       "block.archiblock_two.crimson_basket_moss": "Moss Filled Woven Crimson Basket",
       "block.archiblock_two.crimson_basket_dirt": "Dirt Filled Woven Crimson Basket",
-      "block.archiblock_two.cut_granite": "Cut Granite",
       "block.archiblock_two.woven_dark_oak_basket": "Woven Dark Oak Basket",
+      "block.archiblock_two.cut_granite": "Cut Granite",
       "block.archiblock_two.buttermilk_rose": "Buttermilk Rose",
       "block.archiblock_two.sapphire_ore": "Sapphire Ore",
       "block.archiblock_two.light_blue_spool": "Light Blue Spool",
@@ -5318,11 +5336,11 @@
       "item.archiblock_two.sus": "Pandora Anamiya - Ass",
       "block.archiblock_two.rose_shrub": "Rose Shrub",
       "block.archiblock_two.sugilite_bricks": "Sugilite Bricks",
-      "block.archiblock_two.woven_basket_mycelium": "Mycelium Filled Woven Basket",
       "block.archiblock_two.clay_brick_tiles": "Clay Brick Tiles",
+      "block.archiblock_two.woven_basket_mycelium": "Mycelium Filled Woven Basket",
       "block.archiblock_two.granite_pillar": "Granite Pillar",
-      "block.archiblock_two.olive_rose": "Chartreuse Rose",
       "block.archiblock_two.clay_brick_block": "Clay Brick Block",
+      "block.archiblock_two.olive_rose": "Chartreuse Rose",
       "block.archiblock_two.chiselled_obsidian_slab": "Chiselled Obsidian Slab",
       "block.archiblock_two.sapphire_tiles": "Sapphire Tiles",
       "block.archiblock_two.raw_twilightwave_block": "Raw Twilightwave Block",
@@ -5333,8 +5351,8 @@
       "block.archiblock_two.sapphire_pillar": "Sapphire Pillar",
       "block.archiblock_two.woven_acacia_stairs": "Woven Acacia Stairs",
       "block.archiblock_two.diorite_tiles": "Diorite Tiles",
-      "block.archiblock_two.slanted_shingles_side": "Slanted Clay Shingles Side",
       "block.archiblock_two.warped_basket_moss": "Moss Filled Woven Warped Basket",
+      "block.archiblock_two.slanted_shingles_side": "Slanted Clay Shingles Side",
       "block.archiblock_two.woven_warped_stairs": "Woven Warped Stairs",
       "block.archiblock_two.small_obsidian_bricks": "Small Obsidian Bricks",
       "itemGroup.tabarchiblock_ii_nature": "Archiblock II - Nature",
@@ -5456,6 +5474,7 @@
       "block.archiblock_two.diorite_brick_wall": "Diorite Brick Wall",
       "block.archiblock_two.warped_basket_sand": "Sand Filled Woven Warped Basket",
       "block.archiblock_two.spruce_basket_mycelium": "Mycelium Filled Woven Spruce Basket",
+      "block.archiblock_two.glowing_eyes_dots": "Glowing Eyes",
       "block.archiblock_two.ruby_bricks": "Ruby Bricks",
       "block.archiblock_two.chiselled_lush_twilight_bricks": "Chiselled Lush Twilight Bricks",
       "itemGroup.tabarchiblock_ii_tab": "Archiblock II - Building",
@@ -5614,6 +5633,15 @@
           },
           {
             "name": "Woven Blocks",
+            "children": [
+              {
+                "name": "Recipes",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Pitchdark Block Family",
             "children": [
               {
                 "name": "Recipes",

@@ -1,6 +1,9 @@
 
 package net.mcreator.archiblocktwo.block;
 
+import net.minecraftforge.api.distmarker.OnlyIn;
+import net.minecraftforge.api.distmarker.Dist;
+
 import net.minecraft.world.level.storage.loot.LootContext;
 import net.minecraft.world.level.material.Material;
 import net.minecraft.world.level.block.state.properties.EnumProperty;
@@ -18,6 +21,10 @@ import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.core.Direction;
 import net.minecraft.core.BlockPos;
+import net.minecraft.client.renderer.RenderType;
+import net.minecraft.client.renderer.ItemBlockRenderTypes;
+
+import net.mcreator.archiblocktwo.init.ArchiblockTwoModBlocks;
 
 import java.util.List;
 import java.util.Collections;
@@ -26,7 +33,8 @@ public class OrangeSpoolBlock extends Block {
 	public static final EnumProperty<Direction.Axis> AXIS = BlockStateProperties.AXIS;
 
 	public OrangeSpoolBlock() {
-		super(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.WOOL).strength(1.2f, 10f).requiresCorrectToolForDrops());
+		super(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.WOOL).strength(1.2f, 10f).requiresCorrectToolForDrops().noOcclusion()
+				.isRedstoneConductor((bs, br, bp) -> false));
 		this.registerDefaultState(this.stateDefinition.any().setValue(AXIS, Direction.Axis.Y));
 		setRegistryName("orange_spool");
 	}
@@ -60,6 +68,11 @@ public class OrangeSpoolBlock extends Block {
 	}
 
 	@Override
+	public int getFlammability(BlockState state, BlockGetter world, BlockPos pos, Direction face) {
+		return 20;
+	}
+
+	@Override
 	public boolean canHarvestBlock(BlockState state, BlockGetter world, BlockPos pos, Player player) {
 		if (player.getInventory().getSelected().getItem()instanceof TieredItem tieredItem)
 			return tieredItem.getTier().getLevel() >= -1;
@@ -72,5 +85,10 @@ public class OrangeSpoolBlock extends Block {
 		if (!dropsOriginal.isEmpty())
 			return dropsOriginal;
 		return Collections.singletonList(new ItemStack(this, 1));
+	}
+
+	@OnlyIn(Dist.CLIENT)
+	public static void registerRenderLayer() {
+		ItemBlockRenderTypes.setRenderLayer(ArchiblockTwoModBlocks.ORANGE_SPOOL, renderType -> renderType == RenderType.cutout());
 	}
 }
