@@ -1,6 +1,8 @@
 {
   "replace": false,
   "values": [
+    "archiblock_two:gray_spool",
+    "archiblock_two:light_gray_spool",
     "archiblock_two:red_spool",
     "archiblock_two:orange_spool",
     "archiblock_two:yellow_spool",
@@ -15,8 +17,15 @@
     "archiblock_two:green_spool",
     "archiblock_two:brown_spool",
     "archiblock_two:black_spool",
-    "archiblock_two:gray_spool",
-    "archiblock_two:light_gray_spool",
+    "archiblock_two:woven_fiber_block",
+    "archiblock_two:woven_fiber_stairs",
+    "archiblock_two:woven_fiber_slab",
+    "archiblock_two:woven_basket",
+    "archiblock_two:woven_basket_dirt",
+    "archiblock_two:woven_basket_grass",
+    "archiblock_two:woven_basket_mycelium",
+    "archiblock_two:woven_basket_podzol",
+    "archiblock_two:woven_basket_sand",
     "archiblock_two:woven_birch_block",
     "archiblock_two:woven_birch_stairs",
     "archiblock_two:woven_birch_slab",
@@ -79,15 +88,6 @@
     "archiblock_two:warped_basket_moss",
     "archiblock_two:warped_basket_podzol",
     "archiblock_two:warped_basket_mycelium",
-    "archiblock_two:warped_basket_sand",
-    "archiblock_two:woven_fiber_block",
-    "archiblock_two:woven_fiber_stairs",
-    "archiblock_two:woven_fiber_slab",
-    "archiblock_two:woven_basket",
-    "archiblock_two:woven_basket_dirt",
-    "archiblock_two:woven_basket_grass",
-    "archiblock_two:woven_basket_mycelium",
-    "archiblock_two:woven_basket_podzol",
-    "archiblock_two:woven_basket_sand"
+    "archiblock_two:warped_basket_sand"
   ]
 }
