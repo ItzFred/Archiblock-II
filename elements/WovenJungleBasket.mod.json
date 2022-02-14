@@ -30,6 +30,15 @@
         "My": 16.0,
         "Mz": 16.0,
         "subtract": false
+      },
+      {
+        "mx": 2.0,
+        "my": 2.0,
+        "mz": 2.0,
+        "Mx": 14.0,
+        "My": 16.0,
+        "Mz": 14.0,
+        "subtract": true
       }
     ],
     "name": "Woven Jungle Block",

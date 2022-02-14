@@ -49,30 +49,16 @@ import java.util.HashMap;
 public class ArchiblockTwoModFeatures {
 	private static final Map<Feature<?>, FeatureRegistration> REGISTRY = new HashMap<>();
 	static {
-		REGISTRY.put(TopazGraniteOreFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES,
-				TopazGraniteOreFeature.GENERATE_BIOMES, TopazGraniteOreFeature.CONFIGURED_FEATURE));
-		REGISTRY.put(TopazStoneOreFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES,
-				TopazStoneOreFeature.GENERATE_BIOMES, TopazStoneOreFeature.CONFIGURED_FEATURE));
-		REGISTRY.put(RubyOreFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES, RubyOreFeature.GENERATE_BIOMES,
-				RubyOreFeature.CONFIGURED_FEATURE));
-		REGISTRY.put(SapphireDioriteOreFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES,
-				SapphireDioriteOreFeature.GENERATE_BIOMES, SapphireDioriteOreFeature.CONFIGURED_FEATURE));
-		REGISTRY.put(SapphireOreFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES,
-				SapphireOreFeature.GENERATE_BIOMES, SapphireOreFeature.CONFIGURED_FEATURE));
-		REGISTRY.put(SugiliteOreFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES,
-				SugiliteOreFeature.GENERATE_BIOMES, SugiliteOreFeature.CONFIGURED_FEATURE));
-		REGISTRY.put(RawTwilightBlockFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES,
-				RawTwilightBlockFeature.GENERATE_BIOMES, RawTwilightBlockFeature.CONFIGURED_FEATURE));
 		REGISTRY.put(RoseFeature.FEATURE,
 				new FeatureRegistration(GenerationStep.Decoration.VEGETAL_DECORATION, RoseFeature.GENERATE_BIOMES, RoseFeature.CONFIGURED_FEATURE));
 		REGISTRY.put(RoseShrubFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.VEGETAL_DECORATION, RoseShrubFeature.GENERATE_BIOMES,
 				RoseShrubFeature.CONFIGURED_FEATURE));
 		REGISTRY.put(ScarletRoseFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.VEGETAL_DECORATION,
 				ScarletRoseFeature.GENERATE_BIOMES, ScarletRoseFeature.CONFIGURED_FEATURE));
-		REGISTRY.put(ScarletRoseShrubFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.VEGETAL_DECORATION,
-				ScarletRoseShrubFeature.GENERATE_BIOMES, ScarletRoseShrubFeature.CONFIGURED_FEATURE));
 		REGISTRY.put(ScarletRoseBushFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.VEGETAL_DECORATION,
 				ScarletRoseBushFeature.GENERATE_BIOMES, ScarletRoseBushFeature.CONFIGURED_FEATURE));
+		REGISTRY.put(ScarletRoseShrubFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.VEGETAL_DECORATION,
+				ScarletRoseShrubFeature.GENERATE_BIOMES, ScarletRoseShrubFeature.CONFIGURED_FEATURE));
 		REGISTRY.put(BlushRoseFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.VEGETAL_DECORATION, BlushRoseFeature.GENERATE_BIOMES,
 				BlushRoseFeature.CONFIGURED_FEATURE));
 		REGISTRY.put(BlushRoseShrubFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.VEGETAL_DECORATION,
@@ -95,8 +81,22 @@ public class ArchiblockTwoModFeatures {
 				OliveRoseShrubFeature.GENERATE_BIOMES, OliveRoseShrubFeature.CONFIGURED_FEATURE));
 		REGISTRY.put(OliveRoseBushFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.VEGETAL_DECORATION,
 				OliveRoseBushFeature.GENERATE_BIOMES, OliveRoseBushFeature.CONFIGURED_FEATURE));
+		REGISTRY.put(TopazGraniteOreFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES,
+				TopazGraniteOreFeature.GENERATE_BIOMES, TopazGraniteOreFeature.CONFIGURED_FEATURE));
+		REGISTRY.put(TopazStoneOreFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES,
+				TopazStoneOreFeature.GENERATE_BIOMES, TopazStoneOreFeature.CONFIGURED_FEATURE));
 		REGISTRY.put(ChunkAnalyzerFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_STRUCTURES,
 				ChunkAnalyzerFeature.GENERATE_BIOMES, ChunkAnalyzerFeature.CONFIGURED_FEATURE));
+		REGISTRY.put(RubyOreFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES, RubyOreFeature.GENERATE_BIOMES,
+				RubyOreFeature.CONFIGURED_FEATURE));
+		REGISTRY.put(SapphireDioriteOreFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES,
+				SapphireDioriteOreFeature.GENERATE_BIOMES, SapphireDioriteOreFeature.CONFIGURED_FEATURE));
+		REGISTRY.put(SapphireOreFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES,
+				SapphireOreFeature.GENERATE_BIOMES, SapphireOreFeature.CONFIGURED_FEATURE));
+		REGISTRY.put(SugiliteOreFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES,
+				SugiliteOreFeature.GENERATE_BIOMES, SugiliteOreFeature.CONFIGURED_FEATURE));
+		REGISTRY.put(RawTwilightBlockFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES,
+				RawTwilightBlockFeature.GENERATE_BIOMES, RawTwilightBlockFeature.CONFIGURED_FEATURE));
 	}
 
 	@SubscribeEvent
