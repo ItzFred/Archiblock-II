@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "archiblock_two:blocks/stone",
+    "up": "archiblock_two:blocks/snowtop",
+    "north": "archiblock_two:blocks/snowystone",
+    "east": "archiblock_two:blocks/snowystone",
+    "south": "archiblock_two:blocks/snowystone",
+    "west": "archiblock_two:blocks/snowystone",
+    "particle": "archiblock_two:blocks/stone"
+  }
+}

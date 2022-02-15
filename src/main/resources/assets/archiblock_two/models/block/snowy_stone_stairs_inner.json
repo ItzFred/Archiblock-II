@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "archiblock_two:blocks/stone",
+    "top": "archiblock_two:blocks/snowtop",
+    "side": "archiblock_two:blocks/snowyslabstone"
+  }
+}

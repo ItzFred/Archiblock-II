@@ -122,7 +122,7 @@
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
     "onTickUpdate": {
-      "name": "SideSnowyStonePillarUpdateTick"
+      "name": "SnowyStonePillarUpdateTick"
     },
     "spawnWorldTypes": [],
     "restrictionBiomes": [],

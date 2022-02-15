@@ -22,7 +22,7 @@ import net.minecraft.server.level.ServerLevel;
 import net.minecraft.core.Direction;
 import net.minecraft.core.BlockPos;
 
-import net.mcreator.archiblocktwo.procedures.SideSnowyStonePillarUpdateTickProcedure;
+import net.mcreator.archiblocktwo.procedures.SnowyStonePillarUpdateTickProcedure;
 
 import java.util.Random;
 import java.util.List;
@@ -98,7 +98,7 @@ public class SideSnowyStonePillarBlock extends Block {
 		int y = pos.getY();
 		int z = pos.getZ();
 
-		SideSnowyStonePillarUpdateTickProcedure.execute(world, x, y, z);
+		SnowyStonePillarUpdateTickProcedure.execute(world, x, y, z);
 		world.getBlockTicks().scheduleTick(pos, this, 1);
 	}
 }

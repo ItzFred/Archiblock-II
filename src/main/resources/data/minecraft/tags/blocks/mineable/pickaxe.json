@@ -113,6 +113,18 @@
     "archiblock_two:snowy_small_stone_bricks",
     "archiblock_two:snowy_stone_tiles",
     "archiblock_two:snowy_stone_pillar",
-    "archiblock_two:side_snowy_stone_pillar"
+    "archiblock_two:side_snowy_stone_pillar",
+    "archiblock_two:snowy_cut_stone_slab",
+    "archiblock_two:snowy_cut_stone_stairs",
+    "archiblock_two:snowy_stone",
+    "archiblock_two:snowy_stone_slab",
+    "archiblock_two:snowy_stone_stairs",
+    "archiblock_two:snowy_stone_bricks",
+    "archiblock_two:snowy_stone_brick_slab",
+    "archiblock_two:snowy_stone_brick_stairs",
+    "archiblock_two:snowy_chiselled_stone_bricks",
+    "archiblock_two:snowy_cobblestone",
+    "archiblock_two:snowy_cobblestone_stairs",
+    "archiblock_two:snowy_cobblestone_slab"
   ]
 }

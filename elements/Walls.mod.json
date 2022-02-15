@@ -40,6 +40,15 @@
       },
       {
         "value": "CUSTOM:TwilightwaveBrickWall"
+      },
+      {
+        "value": "CUSTOM:SnowyStoneBrickWall"
+      },
+      {
+        "value": "CUSTOM:SnowyCutStoneWall"
+      },
+      {
+        "value": "CUSTOM:SnowyStoneWall"
       }
     ],
     "functions": [],

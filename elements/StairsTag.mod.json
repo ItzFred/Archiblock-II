@@ -40,6 +40,18 @@
       },
       {
         "value": "CUSTOM:TwilightwaveBrickStairs"
+      },
+      {
+        "value": "CUSTOM:SnowyCutStoneStairs"
+      },
+      {
+        "value": "CUSTOM:SnowyStoneStairs"
+      },
+      {
+        "value": "CUSTOM:SnowyStoneBrickStairs"
+      },
+      {
+        "value": "CUSTOM:SnowyCobblestoneStairs"
       }
     ],
     "functions": [],
