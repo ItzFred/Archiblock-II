@@ -1,0 +1,16 @@
+{
+  "group": "pink_neon_block",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:glowstone"
+    },
+    {
+      "item": "minecraft:pink_dye"
+    }
+  ],
+  "result": {
+    "item": "archiblock_two:pink_neon_block",
+    "count": 1
+  }
+}

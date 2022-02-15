@@ -329,6 +329,24 @@ public class ArchiblockTwoModItems {
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item SNOWY_COBBLESTONE_SLAB = register(ArchiblockTwoModBlocks.SNOWY_COBBLESTONE_SLAB,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item WHITE_NEON_BLOCK = register(ArchiblockTwoModBlocks.WHITE_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item GRAY_NEON_BLOCK = register(ArchiblockTwoModBlocks.GRAY_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item LIGHT_GRAY_NEON_BLOCK = register(ArchiblockTwoModBlocks.LIGHT_GRAY_NEON_BLOCK,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item BLACK_NEON_BLOCK = register(ArchiblockTwoModBlocks.BLACK_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item RED_NEON_BLOCK = register(ArchiblockTwoModBlocks.RED_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ORANGE_NEON_BLOCK = register(ArchiblockTwoModBlocks.ORANGE_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item YELLOW_NEON_BLOCK = register(ArchiblockTwoModBlocks.YELLOW_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item LIME_NEON_BLOCK = register(ArchiblockTwoModBlocks.LIME_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CYAN_NEON_BLOCK = register(ArchiblockTwoModBlocks.CYAN_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item LIGHT_BLUE_NEON_BLOCK = register(ArchiblockTwoModBlocks.LIGHT_BLUE_NEON_BLOCK,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item BLUE_NEON_BLOCK = register(ArchiblockTwoModBlocks.BLUE_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item PURPLE_NEON_BLOCK = register(ArchiblockTwoModBlocks.PURPLE_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MAGENTA_NEON_BLOCK = register(ArchiblockTwoModBlocks.MAGENTA_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item PINK_NEON_BLOCK = register(ArchiblockTwoModBlocks.PINK_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item BROWN_NEON_BLOCK = register(ArchiblockTwoModBlocks.BROWN_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item GREEN_NEON_BLOCK = register(ArchiblockTwoModBlocks.GREEN_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

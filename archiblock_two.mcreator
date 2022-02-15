@@ -2661,7 +2661,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "rose",
-      "path": "~/OtherBlocks/Roses"
+      "path": "~/Nature/Roses"
     },
     {
       "name": "PinkRose",
@@ -2670,7 +2670,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_rose",
-      "path": "~/OtherBlocks/Roses"
+      "path": "~/Nature/Roses"
     },
     {
       "name": "ButtermilkRoseShrub",
@@ -2679,7 +2679,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "buttermilk_rose_shrub",
-      "path": "~/OtherBlocks/Roses"
+      "path": "~/Nature/Roses"
     },
     {
       "name": "RoseShrub",
@@ -2688,7 +2688,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "rose_shrub",
-      "path": "~/OtherBlocks/Roses"
+      "path": "~/Nature/Roses"
     },
     {
       "name": "ButtermilkRose",
@@ -2697,7 +2697,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "buttermilk_rose",
-      "path": "~/OtherBlocks/Roses"
+      "path": "~/Nature/Roses"
     },
     {
       "name": "ScarletRose",
@@ -2706,7 +2706,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "scarlet_rose",
-      "path": "~/OtherBlocks/Roses"
+      "path": "~/Nature/Roses"
     },
     {
       "name": "OliveRoseShrub",
@@ -2715,7 +2715,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "olive_rose_shrub",
-      "path": "~/OtherBlocks/Roses"
+      "path": "~/Nature/Roses"
     },
     {
       "name": "ScarletRoseShrub",
@@ -2724,7 +2724,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "scarlet_rose_shrub",
-      "path": "~/OtherBlocks/Roses"
+      "path": "~/Nature/Roses"
     },
     {
       "name": "ScarletRoseBush",
@@ -2733,7 +2733,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "scarlet_rose_bush",
-      "path": "~/OtherBlocks/Roses"
+      "path": "~/Nature/Roses"
     },
     {
       "name": "BlushRose",
@@ -2742,7 +2742,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "blush_rose",
-      "path": "~/OtherBlocks/Roses"
+      "path": "~/Nature/Roses"
     },
     {
       "name": "BlushRoseShrub",
@@ -2751,7 +2751,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "blush_rose_shrub",
-      "path": "~/OtherBlocks/Roses"
+      "path": "~/Nature/Roses"
     },
     {
       "name": "ButtermilkRoseBush",
@@ -2760,7 +2760,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "buttermilk_rose_bush",
-      "path": "~/OtherBlocks/Roses"
+      "path": "~/Nature/Roses"
     },
     {
       "name": "PinkRoseBush",
@@ -2769,7 +2769,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_rose_bush",
-      "path": "~/OtherBlocks/Roses"
+      "path": "~/Nature/Roses"
     },
     {
       "name": "OliveRose",
@@ -2778,7 +2778,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "olive_rose",
-      "path": "~/OtherBlocks/Roses"
+      "path": "~/Nature/Roses"
     },
     {
       "name": "PinkRoseShrub",
@@ -2787,7 +2787,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_rose_shrub",
-      "path": "~/OtherBlocks/Roses"
+      "path": "~/Nature/Roses"
     },
     {
       "name": "OliveRoseBush",
@@ -2796,7 +2796,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "olive_rose_bush",
-      "path": "~/OtherBlocks/Roses"
+      "path": "~/Nature/Roses"
     },
     {
       "name": "BlushRoseBush",
@@ -2805,7 +2805,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "blush_rose_bush",
-      "path": "~/OtherBlocks/Roses"
+      "path": "~/Nature/Roses"
     },
     {
       "name": "SapphireTilesR",
@@ -5164,7 +5164,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "pitchdark_block",
-      "path": "~/OtherBlocks"
+      "path": "~/OtherBlocks/Pitchdark Block Family"
     },
     {
       "name": "PitchdarkBlockR",
@@ -5173,7 +5173,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "pitchdark_block_r",
-      "path": "~/OtherBlocks"
+      "path": "~/OtherBlocks/Pitchdark Block Family"
     },
     {
       "name": "SnowyCutStone",
@@ -5518,6 +5518,294 @@
       "locked_code": false,
       "registry_name": "glowing_eyes_dots",
       "path": "~/OtherBlocks/Pitchdark Block Family"
+    },
+    {
+      "name": "WhiteNeonBlock",
+      "type": "block",
+      "sortid": 606,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_neon_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon"
+    },
+    {
+      "name": "GrayNeonBlock",
+      "type": "block",
+      "sortid": 607,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gray_neon_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon"
+    },
+    {
+      "name": "LightGrayNeonBlock",
+      "type": "block",
+      "sortid": 608,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "light_gray_neon_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon"
+    },
+    {
+      "name": "BlackNeonBlock",
+      "type": "block",
+      "sortid": 609,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_neon_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon"
+    },
+    {
+      "name": "RedNeonBlock",
+      "type": "block",
+      "sortid": 610,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_neon_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon"
+    },
+    {
+      "name": "OrangeNeonBlock",
+      "type": "block",
+      "sortid": 611,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_neon_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon"
+    },
+    {
+      "name": "YellowNeonBlock",
+      "type": "block",
+      "sortid": 612,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_neon_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon"
+    },
+    {
+      "name": "LimeNeonBlock",
+      "type": "block",
+      "sortid": 613,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lime_neon_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon"
+    },
+    {
+      "name": "CyanNeonBlock",
+      "type": "block",
+      "sortid": 614,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_neon_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon"
+    },
+    {
+      "name": "LightBlueNeonBlock",
+      "type": "block",
+      "sortid": 615,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "light_blue_neon_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon"
+    },
+    {
+      "name": "BlueNeonBlock",
+      "type": "block",
+      "sortid": 616,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_neon_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon"
+    },
+    {
+      "name": "PurpleNeonBlock",
+      "type": "block",
+      "sortid": 617,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_neon_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon"
+    },
+    {
+      "name": "MagentaNeonBlock",
+      "type": "block",
+      "sortid": 618,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_neon_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon"
+    },
+    {
+      "name": "PinkNeonBlock",
+      "type": "block",
+      "sortid": 619,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_neon_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon"
+    },
+    {
+      "name": "BrownNeonBlock",
+      "type": "block",
+      "sortid": 620,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brown_neon_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon"
+    },
+    {
+      "name": "GreenNeonBlock",
+      "type": "block",
+      "sortid": 621,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_neon_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon"
+    },
+    {
+      "name": "BlackNeonBlockR",
+      "type": "recipe",
+      "sortid": 622,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_neon_block_r",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon/Recipes"
+    },
+    {
+      "name": "GrayNeonBlockR",
+      "type": "recipe",
+      "sortid": 623,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gray_neon_block_r",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon/Recipes"
+    },
+    {
+      "name": "LightGrayNeonBlockR",
+      "type": "recipe",
+      "sortid": 624,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "light_gray_neon_block_r",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon/Recipes"
+    },
+    {
+      "name": "WhiteNeonBlockR",
+      "type": "recipe",
+      "sortid": 625,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_neon_block_r",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon/Recipes"
+    },
+    {
+      "name": "RedNeonBlockR",
+      "type": "recipe",
+      "sortid": 626,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_neon_block_r",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon/Recipes"
+    },
+    {
+      "name": "OrangeNeonBlockR",
+      "type": "recipe",
+      "sortid": 627,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_neon_block_r",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon/Recipes"
+    },
+    {
+      "name": "YellowNeonBlockR",
+      "type": "recipe",
+      "sortid": 628,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_neon_block_r",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon/Recipes"
+    },
+    {
+      "name": "LimeNeonBlockR",
+      "type": "recipe",
+      "sortid": 629,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lime_neon_block_r",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon/Recipes"
+    },
+    {
+      "name": "GreenNeonBlockR",
+      "type": "recipe",
+      "sortid": 630,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_neon_block_r",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon/Recipes"
+    },
+    {
+      "name": "CyanNeonBlockR",
+      "type": "recipe",
+      "sortid": 631,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_neon_block_r",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon/Recipes"
+    },
+    {
+      "name": "LightBlueNeonBlockR",
+      "type": "recipe",
+      "sortid": 632,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "light_blue_neon_block_r",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon/Recipes"
+    },
+    {
+      "name": "BlueNeonBlockR",
+      "type": "recipe",
+      "sortid": 633,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_neon_block_r",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon/Recipes"
+    },
+    {
+      "name": "PurpleNeonBlockR",
+      "type": "recipe",
+      "sortid": 634,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_neon_block_r",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon/Recipes"
+    },
+    {
+      "name": "MagentaNeonBlockR",
+      "type": "recipe",
+      "sortid": 635,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_neon_block_r",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon/Recipes"
+    },
+    {
+      "name": "PinkNeonBlockR",
+      "type": "recipe",
+      "sortid": 636,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_neon_block_r",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon/Recipes"
+    },
+    {
+      "name": "BrownNeonBlockR",
+      "type": "recipe",
+      "sortid": 637,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brown_neon_block_r",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Neon/Recipes"
     }
   ],
   "variable_elements": [],
@@ -5550,8 +5838,10 @@
       "block.archiblock_two.ruby_tiles": "Ruby Tiles",
       "block.archiblock_two.woven_acacia_slab": "Woven Acacia Slab",
       "block.archiblock_two.rose": "Rose",
+      "block.archiblock_two.yellow_neon_block": "Yellow Neon Block",
       "block.archiblock_two.woven_jungle_slab": "Woven Jungle Slab",
       "block.archiblock_two.twilight_brick_wall": "Twilight Brick Wall",
+      "block.archiblock_two.purple_neon_block": "Purple Neon Block",
       "block.archiblock_two.acacia_basket_sand": "Sand Filled Woven Acacia Basket",
       "block.archiblock_two.diorite_pillar": "Diorite Pillar",
       "block.archiblock_two.sugilite_pillar": "Sugilite Pillar",
@@ -5564,6 +5854,7 @@
       "block.archiblock_two.dark_oak_basket_sand": "Sand Filled Woven Dark Oak Basket",
       "block.archiblock_two.white_spool": "White Spool",
       "block.archiblock_two.light_gray_spool": "Light Gray Spool",
+      "block.archiblock_two.snowy_stone_slab": "Snowy Stone Slab",
       "block.archiblock_two.twilightwave_pillar": "Twilightwave Pillar",
       "block.archiblock_two.cracked_cut_stone": "Cracked Cut Stone",
       "block.archiblock_two.black_spool": "Black Spool",
@@ -5588,11 +5879,12 @@
       "item.archiblock_two.sus": "Pandora Anamiya - Ass",
       "block.archiblock_two.rose_shrub": "Rose Shrub",
       "block.archiblock_two.sugilite_bricks": "Sugilite Bricks",
-      "block.archiblock_two.clay_brick_tiles": "Clay Brick Tiles",
       "block.archiblock_two.woven_basket_mycelium": "Mycelium Filled Woven Basket",
+      "block.archiblock_two.clay_brick_tiles": "Clay Brick Tiles",
       "block.archiblock_two.granite_pillar": "Granite Pillar",
-      "block.archiblock_two.clay_brick_block": "Clay Brick Block",
       "block.archiblock_two.olive_rose": "Chartreuse Rose",
+      "block.archiblock_two.clay_brick_block": "Clay Brick Block",
+      "block.archiblock_two.snowy_stone_brick_stairs": "Snowy Stone Brick Stairs",
       "block.archiblock_two.chiselled_obsidian_slab": "Chiselled Obsidian Slab",
       "block.archiblock_two.sapphire_tiles": "Sapphire Tiles",
       "block.archiblock_two.raw_twilightwave_block": "Raw Twilightwave Block",
@@ -5603,13 +5895,17 @@
       "block.archiblock_two.sapphire_pillar": "Sapphire Pillar",
       "block.archiblock_two.woven_acacia_stairs": "Woven Acacia Stairs",
       "block.archiblock_two.diorite_tiles": "Diorite Tiles",
-      "block.archiblock_two.warped_basket_moss": "Moss Filled Woven Warped Basket",
+      "block.archiblock_two.light_gray_neon_block": "Light Gray Neon Block",
       "block.archiblock_two.slanted_shingles_side": "Slanted Clay Shingles Side",
+      "block.archiblock_two.warped_basket_moss": "Moss Filled Woven Warped Basket",
+      "block.archiblock_two.snowy_stone_brick_slab": "Snowy Stone Brick Slab",
       "block.archiblock_two.woven_warped_stairs": "Woven Warped Stairs",
       "block.archiblock_two.small_obsidian_bricks": "Small Obsidian Bricks",
       "itemGroup.tabarchiblock_ii_nature": "Archiblock II - Nature",
       "item.archiblock_two.lush_twilight_shard": "Lush Twilight Shard",
+      "block.archiblock_two.snowy_cobblestone": "Snowy Cobblestone",
       "block.archiblock_two.diorite_bricks": "Diorite Bricks",
+      "block.archiblock_two.blue_neon_block": "Blue Neon Block",
       "block.archiblock_two.twilight_brick_stairs": "Twilight Brick Stairs",
       "block.archiblock_two.twilight_pillar": "Twilight Pillar",
       "block.archiblock_two.lime_spool": "Lime Spool",
@@ -5618,7 +5914,9 @@
       "block.archiblock_two.cut_stone_slab": "Cut Stone Slab",
       "block.archiblock_two.mossy_stone_pillar": "Mossy Stone Pillar",
       "block.archiblock_two.blush_rose_bush": "Blush Rose Bush",
+      "block.archiblock_two.snowy_cobblestone_stairs": "Snowy Cobblestone Stairs",
       "block.archiblock_two.stone_pillar": "Stone Pillar",
+      "block.archiblock_two.gray_neon_block": "Gray Neon Block",
       "block.archiblock_two.chiselled_andesite": "Chiselled Andesite",
       "block.archiblock_two.twilight_pillar_top": "Twilight Pillar Top",
       "item.archiblock_two.topaz": "Topaz",
@@ -5632,6 +5930,7 @@
       "block.archiblock_two.lush_twilight_tiles": "Lush Twilight Tiles",
       "block.archiblock_two.woven_birch_basket": "Woven Birch Basket",
       "block.archiblock_two.granite_bricks": "Granite Bricks",
+      "block.archiblock_two.snowy_stone_bricks": "Snowy Stone Bricks",
       "block.archiblock_two.cut_stone_wall": "Cut Stone Wall",
       "block.archiblock_two.topaz_granite_ore": "Topaz Granite Ore",
       "block.archiblock_two.chiselled_granite": "Chiselled Granite",
@@ -5641,6 +5940,7 @@
       "block.archiblock_two.cracked_stone_pillar": "Cracked Stone Pillar",
       "block.archiblock_two.diorite_tile_stairs": "Diorite Tile Stairs",
       "block.archiblock_two.lush_twilight_brick_wall": "Lush Twilight Brick Wall",
+      "block.archiblock_two.white_neon_block": "White Neon Block",
       "subtitles.lolol": "ZAMN",
       "block.archiblock_two.cut_stone_stairs": "Cut Stone Stairs",
       "block.archiblock_two.chiselled_obsidian_wall": "Chiselled Obsidian Wall",
@@ -5662,14 +5962,18 @@
       "block.archiblock_two.cyan_spool": "Cyan Spool",
       "block.archiblock_two.scarlet_rose_bush": "Scarlet Rose Bush",
       "block.archiblock_two.andesite_tiles": "Andesite Tiles",
+      "block.archiblock_two.snowy_cut_stone_stairs": "Snowy Cut Stone Stairs",
+      "block.archiblock_two.black_neon_block": "Black Neon Block",
       "block.archiblock_two.woven_acacia_basket": "Woven Acacia Basket",
       "block.archiblock_two.twilight_ore": "Twilight Ore",
       "block.archiblock_two.raw_twilight_block": "Raw Twilight Block",
+      "block.archiblock_two.green_neon_block": "Green Neon Block",
       "block.archiblock_two.woven_dark_oak_block": "Woven Dark Oak Block",
       "block.archiblock_two.cut_granite_slab": "Cut Granite Slab",
       "block.archiblock_two.jungle_basket_mycelium": "Mycelium Filled Woven Jungle Basket",
       "block.archiblock_two.acacia_basket_dirt": "Dirt Filled Woven Acacia Basket",
       "block.archiblock_two.sugilite_tiles": "Sugilite Tiles",
+      "block.archiblock_two.snowy_cobblestone_slab": "Snowy Cobblestone Slab",
       "block.archiblock_two.magenta_spool": "Magenta Spool",
       "block.archiblock_two.gray_spool": "Gray Spool",
       "block.archiblock_two.obsidian_pillar": "Obsidian Pillar",
@@ -5677,27 +5981,32 @@
       "block.archiblock_two.raw_lush_twilight_block": "Raw Lush Twilight Block",
       "block.archiblock_two.diorite_tile_slab": "Diorite Tile Slab",
       "block.archiblock_two.crimson_basket_podzol": "Podzol Filled Woven Crimson Basket",
+      "block.archiblock_two.brown_neon_block": "Brown Neon Block",
       "block.archiblock_two.mossy_stone_tiles": "Mossy Stone Tiles",
       "block.archiblock_two.woven_basket": "Woven Basket",
       "block.archiblock_two.pink_rose": "Pink Rose",
       "block.archiblock_two.side_snowy_stone_pillar": "Snowy Stone Pillar",
       "block.archiblock_two.twilightwave_bricks": "Twilightwave Bricks",
       "block.archiblock_two.olive_rose_shrub": "Chartreuse Rose Shrub",
+      "block.archiblock_two.pink_neon_block": "Pink Neon Block",
       "block.archiblock_two.twilightwave_pillar_top": "Twilightwave Pillar Top",
       "block.archiblock_two.dark_oak_basket_moss": "Moss Filled Woven Dark Oak Basket",
       "block.archiblock_two.woven_jungle_basket": "Woven Jungle Block",
+      "block.archiblock_two.snowy_stone_stairs": "Snowy Stone Stairs",
       "block.archiblock_two.dark_oak_basket_dirt": "Dirt Filled Woven Dark Oak Basket",
       "block.archiblock_two.lush_twilight_brick_stairs": "Lush Twilight Brick Stairs",
       "block.archiblock_two.andesite_pillar": "Andesite Pillar",
       "block.archiblock_two.woven_birch_stairs": "Woven Birch Stairs",
       "block.archiblock_two.birch_basket_sand": "Sand Filled Woven Birch Basket",
       "block.archiblock_two.birch_basket_podzol": "Podzol Filled Woven Birch Basket",
+      "block.archiblock_two.light_blue_neon_block": "Light Blue Neon Block",
       "block.archiblock_two.woven_fiber_slab": "Woven Fiber Slab",
       "item.archiblock_two.sugilite": "Sugilite",
       "block.archiblock_two.andesite_block_wall": "Andesite Block Wall",
       "block.archiblock_two.mossy_cracked_stone": "Mossy Cut Stone",
       "block.archiblock_two.crimson_basket_sand": "Sand Filled Woven Crimson Basket",
       "block.archiblock_two.blue_spool": "Blue Spool",
+      "block.archiblock_two.lime_neon_block": "Lime Neon Block",
       "block.archiblock_two.andesite_bricks": "Andesite Bricks",
       "block.archiblock_two.granite_brick_slab": "Granite Brick Slab",
       "block.archiblock_two.pink_rose_bush": "Pink Rose Bush",
@@ -5709,6 +6018,7 @@
       "block.archiblock_two.big_clay_bricks": "Big Clay Bricks",
       "block.archiblock_two.topaz_block": "Topaz Block",
       "block.archiblock_two.topaz_bricks": "Topaz Bricks",
+      "block.archiblock_two.cyan_neon_block": "Cyan Neon Block",
       "block.archiblock_two.woven_birch_slab": "Woven Birch Slab",
       "block.archiblock_two.chiselled_twilight_bricks": "Chiselled Twilight Bricks",
       "block.archiblock_two.topaz_stone_ore": "Topaz Ore",
@@ -5724,8 +6034,10 @@
       "block.archiblock_two.sugilite_ore": "Sugilite Ore",
       "block.archiblock_two.chiselled_obsidian_stairs": "Chiselled Obsidian Stairs",
       "block.archiblock_two.diorite_brick_wall": "Diorite Brick Wall",
+      "block.archiblock_two.snowy_stone": "Snowy Stone",
       "block.archiblock_two.warped_basket_sand": "Sand Filled Woven Warped Basket",
       "block.archiblock_two.spruce_basket_mycelium": "Mycelium Filled Woven Spruce Basket",
+      "block.archiblock_two.glowing_eyes_dots": "Glowing Eyes",
       "block.archiblock_two.ruby_bricks": "Ruby Bricks",
       "block.archiblock_two.chiselled_lush_twilight_bricks": "Chiselled Lush Twilight Bricks",
       "itemGroup.tabarchiblock_ii_tab": "Archiblock II - Building",
@@ -5736,6 +6048,7 @@
       "block.archiblock_two.granite_brick_stairs": "Granite Brick Stairs",
       "item.archiblock_two.twilight_shard": "Twilight Shard",
       "block.archiblock_two.stone_tiles": "Stone Tiles",
+      "block.archiblock_two.orange_neon_block": "Orange Neon Block",
       "block.archiblock_two.woven_crimson_slab": "Woven Crimson Slab",
       "block.archiblock_two.diorite_brick_stairs": "Diorite Brick Stairs",
       "block.archiblock_two.twilight_brick_slab": "Twilight Brick Slab",
@@ -5746,6 +6059,8 @@
       "block.archiblock_two.small_stone_bricks": "Small Stone Bricks",
       "block.archiblock_two.twilightwave_brick_wall": "Twilightwave Brick Wall",
       "block.archiblock_two.yellow_spool": "Yellow Spool",
+      "block.archiblock_two.magenta_neon_block": "Magenta Neon Block",
+      "block.archiblock_two.snowy_cut_stone_slab": "Snowy Cut Stone Slab",
       "block.archiblock_two.pitchdark_block": "Pitchdark Block",
       "block.archiblock_two.woven_basket_podzol": "Podzol Filled Woven Basket",
       "block.archiblock_two.clay_brick_pavement": "Clay Brick Pavement",
@@ -5760,7 +6075,9 @@
       "block.archiblock_two.slanted_clay_shingles": "Slanted Clay Shingles",
       "block.archiblock_two.twilightwave_brick_slab": "Twilightwave Brick Slab",
       "block.archiblock_two.andesite_block_stairs": "Andesite Block Stairs",
+      "block.archiblock_two.red_neon_block": "Red Neon Block",
       "block.archiblock_two.acacia_basket_moss": "Moss Filled Woven Acacia Basket",
+      "block.archiblock_two.snowy_chiselled_stone_bricks": "Snowy Chiselled Stone Bricks",
       "block.archiblock_two.scarlet_rose": "Scarlet Rose",
       "block.archiblock_two.woven_spruce_stairs": "Woven Spruce Stairs",
       "block.archiblock_two.spruce_basket_sand": "Sand Filled Woven Spruce Basket",
@@ -5793,6 +6110,15 @@
               {
                 "name": "Recipes",
                 "children": []
+              },
+              {
+                "name": "Neon",
+                "children": [
+                  {
+                    "name": "Recipes",
+                    "children": []
+                  }
+                ]
               }
             ]
           },
@@ -5845,10 +6171,6 @@
                 "children": []
               }
             ]
-          },
-          {
-            "name": "Roses",
-            "children": []
           },
           {
             "name": "Gems",
@@ -5953,6 +6275,15 @@
                 "children": []
               }
             ]
+          }
+        ]
+      },
+      {
+        "name": "Nature",
+        "children": [
+          {
+            "name": "Roses",
+            "children": []
           }
         ]
       }

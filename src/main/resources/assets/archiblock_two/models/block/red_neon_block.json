@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "archiblock_two:blocks/redneonblock",
+    "particle": "archiblock_two:blocks/redneonblock"
+  }
+}

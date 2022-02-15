@@ -1,0 +1,16 @@
+{
+  "group": "green_neon_block",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:glowstone"
+    },
+    {
+      "item": "minecraft:green_dye"
+    }
+  ],
+  "result": {
+    "item": "archiblock_two:green_neon_block",
+    "count": 1
+  }
+}
