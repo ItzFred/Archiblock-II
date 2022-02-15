@@ -60,6 +60,11 @@ public class BlackSpoolBlock extends Block {
 	}
 
 	@Override
+	public int getFlammability(BlockState state, BlockGetter world, BlockPos pos, Direction face) {
+		return 20;
+	}
+
+	@Override
 	public boolean canHarvestBlock(BlockState state, BlockGetter world, BlockPos pos, Player player) {
 		if (player.getInventory().getSelected().getItem()instanceof TieredItem tieredItem)
 			return tieredItem.getTier().getLevel() >= -1;

@@ -178,6 +178,7 @@ import net.mcreator.archiblocktwo.block.GraniteBricksBlock;
 import net.mcreator.archiblocktwo.block.GraniteBrickWallBlock;
 import net.mcreator.archiblocktwo.block.GraniteBrickStairsBlock;
 import net.mcreator.archiblocktwo.block.GraniteBrickSlabBlock;
+import net.mcreator.archiblocktwo.block.GlowingEyesDotsBlock;
 import net.mcreator.archiblocktwo.block.FancyDioritePillarBlock;
 import net.mcreator.archiblocktwo.block.DioriteTilesBlock;
 import net.mcreator.archiblocktwo.block.DioriteTileWallBlock;
@@ -499,6 +500,7 @@ public class ArchiblockTwoModBlocks {
 	public static final Block SNOWY_STONE_PILLAR = register(new SnowyStonePillarBlock());
 	public static final Block SIDE_SNOWY_STONE_PILLAR = register(new SideSnowyStonePillarBlock());
 	public static final Block SNOWY_CUT_STONE_SLAB = register(new SnowyCutStoneSlabBlock());
+	public static final Block GLOWING_EYES_DOTS = register(new GlowingEyesDotsBlock());
 	public static final Block SNOWY_CUT_STONE_STAIRS = register(new SnowyCutStoneStairsBlock());
 	public static final Block SNOWY_STONE = register(new SnowyStoneBlock());
 	public static final Block SNOWY_STONE_SLAB = register(new SnowyStoneSlabBlock());
@@ -525,6 +527,7 @@ public class ArchiblockTwoModBlocks {
 	public static class ClientSideHandler {
 		@SubscribeEvent
 		public static void clientSetup(FMLClientSetupEvent event) {
+			OrangeSpoolBlock.registerRenderLayer();
 			RoseBlock.registerRenderLayer();
 			RoseShrubBlock.registerRenderLayer();
 			ScarletRoseBlock.registerRenderLayer();

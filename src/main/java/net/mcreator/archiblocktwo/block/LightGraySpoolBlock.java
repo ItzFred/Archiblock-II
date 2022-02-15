@@ -3,6 +3,7 @@ package net.mcreator.archiblocktwo.block;
 
 import net.minecraft.world.level.storage.loot.LootContext;
 import net.minecraft.world.level.material.Material;
+import net.minecraft.world.level.material.FluidState;
 import net.minecraft.world.level.block.state.properties.EnumProperty;
 import net.minecraft.world.level.block.state.properties.BlockStateProperties;
 import net.minecraft.world.level.block.state.StateDefinition;
@@ -12,6 +13,7 @@ import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.Rotation;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.BlockGetter;
+import net.minecraft.world.level.BlockAndTintGetter;
 import net.minecraft.world.item.context.BlockPlaceContext;
 import net.minecraft.world.item.TieredItem;
 import net.minecraft.world.item.ItemStack;
@@ -29,6 +31,11 @@ public class LightGraySpoolBlock extends Block {
 		super(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.WOOL).strength(1.2f, 10f).requiresCorrectToolForDrops());
 		this.registerDefaultState(this.stateDefinition.any().setValue(AXIS, Direction.Axis.Y));
 		setRegistryName("light_gray_spool");
+	}
+
+	@Override
+	public boolean shouldDisplayFluidOverlay(BlockState state, BlockAndTintGetter world, BlockPos pos, FluidState fluidstate) {
+		return true;
 	}
 
 	@Override
@@ -57,6 +64,11 @@ public class LightGraySpoolBlock extends Block {
 	public BlockState getStateForPlacement(BlockPlaceContext context) {
 		Direction.Axis axis = context.getClickedFace().getAxis();;
 		return this.defaultBlockState().setValue(AXIS, axis);
+	}
+
+	@Override
+	public int getFlammability(BlockState state, BlockGetter world, BlockPos pos, Direction face) {
+		return 20;
 	}
 
 	@Override

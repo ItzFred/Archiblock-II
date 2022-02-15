@@ -2,15 +2,15 @@
   "_fv": 24,
   "_type": "block",
   "definition": {
-    "texture": "spoolyellowtop",
-    "textureTop": "spoolyellowtop",
-    "textureLeft": "spoolyellow",
-    "textureFront": "spoolyellow",
-    "textureRight": "spoolyellow",
-    "textureBack": "spoolyellow",
+    "texture": "empty",
+    "textureTop": "empty",
+    "textureLeft": "empty",
+    "textureFront": "glowingeyesdots",
+    "textureRight": "empty",
+    "textureBack": "empty",
     "renderType": 10,
     "customModelName": "Normal",
-    "rotationMode": 5,
+    "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
     "itemTexture": "",
@@ -32,16 +32,18 @@
         "subtract": false
       }
     ],
-    "name": "Yellow Spool",
-    "specialInfo": [],
-    "hardness": 1.2,
+    "name": "Glowing Eyes",
+    "specialInfo": [
+      "Dots"
+    ],
+    "hardness": 1.0,
     "resistance": 10.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
       "value": "CUSTOM:ArchiblockIITab"
     },
-    "destroyTool": "axe",
+    "destroyTool": "Not specified",
     "customDrop": {
       "value": ""
     },
@@ -67,7 +69,7 @@
     },
     "offsetType": "NONE",
     "aiPathNodeType": "DEFAULT",
-    "flammability": 20,
+    "flammability": 0,
     "fireSpreadSpeed": 0,
     "isLadder": false,
     "slipperiness": 0.6,
@@ -77,7 +79,7 @@
     "isNotColidable": false,
     "isCustomSoundType": false,
     "soundOnStep": {
-      "value": "CLOTH"
+      "value": "GROUND"
     },
     "breakSound": {
       "value": ""
@@ -96,7 +98,7 @@
     },
     "luminance": 0,
     "unbreakable": false,
-    "breakHarvestLevel": -1,
+    "breakHarvestLevel": 1,
     "spawnParticles": false,
     "particleToSpawn": {
       "value": "EXPLOSION_NORMAL"
