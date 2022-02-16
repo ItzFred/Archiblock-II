@@ -1,0 +1,16 @@
+{
+  "group": "blue_clay_brick_pavement",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "archiblock_two:clay_brick_pavement"
+    },
+    {
+      "item": "minecraft:blue_dye"
+    }
+  ],
+  "result": {
+    "item": "archiblock_two:blue_clay_brick_pavement",
+    "count": 1
+  }
+}

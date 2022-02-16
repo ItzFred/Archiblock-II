@@ -1527,7 +1527,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "clay_shingles_slab",
-      "path": "~/OtherBlocks/Bricks"
+      "path": "~/OtherBlocks/Bricks/Normal"
     },
     {
       "name": "SlantedClayShinglesR",
@@ -1545,7 +1545,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "big_clay_bricks",
-      "path": "~/OtherBlocks/Bricks"
+      "path": "~/OtherBlocks/Bricks/Normal"
     },
     {
       "name": "SlantedShinglesSideR",
@@ -1563,7 +1563,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "clay_brick_tiles",
-      "path": "~/OtherBlocks/Bricks"
+      "path": "~/OtherBlocks/Bricks/Normal"
     },
     {
       "name": "SmallClayBrickTiles",
@@ -1572,7 +1572,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "small_clay_brick_tiles",
-      "path": "~/OtherBlocks/Bricks"
+      "path": "~/OtherBlocks/Bricks/Normal"
     },
     {
       "name": "BigClayBricksR",
@@ -1599,7 +1599,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "slanted_clay_shingles",
-      "path": "~/OtherBlocks/Bricks"
+      "path": "~/OtherBlocks/Bricks/Normal"
     },
     {
       "name": "SmallClayBrickTilesR",
@@ -1617,7 +1617,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "clay_shingles",
-      "path": "~/OtherBlocks/Bricks"
+      "path": "~/OtherBlocks/Bricks/Normal"
     },
     {
       "name": "SlantedShinglesSide",
@@ -1626,7 +1626,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "slanted_shingles_side",
-      "path": "~/OtherBlocks/Bricks"
+      "path": "~/OtherBlocks/Bricks/Normal"
     },
     {
       "name": "ClayBrickTilesR",
@@ -1653,7 +1653,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "clay_brick_pavement",
-      "path": "~/OtherBlocks/Bricks"
+      "path": "~/OtherBlocks/Bricks/Normal"
     },
     {
       "name": "ClayBrickBlock",
@@ -1662,7 +1662,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "clay_brick_block",
-      "path": "~/OtherBlocks/Bricks"
+      "path": "~/OtherBlocks/Bricks/Normal"
     },
     {
       "name": "ObsidianBrickWallR",
@@ -5876,8 +5876,7 @@
       "sortid": 269,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_quartz",
-      "path": "~/OtherBlocks/Quartz"
+      "registry_name": "smoky_quartz"
     },
     {
       "name": "RoseQuartzWallR",
@@ -5885,8 +5884,7 @@
       "sortid": 679,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_quartz_wall_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "registry_name": "rose_quartz_wall_r"
     },
     {
       "name": "RoseQuartzSlabR",
@@ -5894,8 +5892,7 @@
       "sortid": 678,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_quartz_slab_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "registry_name": "rose_quartz_slab_r"
     },
     {
       "name": "RoseQuartzPillar",
@@ -5903,8 +5900,7 @@
       "sortid": 267,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_quartz_pillar",
-      "path": "~/OtherBlocks/Quartz"
+      "registry_name": "rose_quartz_pillar"
     },
     {
       "name": "RoseQuartzWall",
@@ -5912,8 +5908,7 @@
       "sortid": 262,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_quartz_wall",
-      "path": "~/OtherBlocks/Quartz"
+      "registry_name": "rose_quartz_wall"
     },
     {
       "name": "RoseQuartzSlab",
@@ -5921,8 +5916,7 @@
       "sortid": 260,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_quartz_slab",
-      "path": "~/OtherBlocks/Quartz"
+      "registry_name": "rose_quartz_slab"
     },
     {
       "name": "ChiselledSmokyQuartzR",
@@ -5930,8 +5924,7 @@
       "sortid": 687,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "chiselled_smoky_quartz_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "registry_name": "chiselled_smoky_quartz_r"
     },
     {
       "name": "RoseQuartzPillarR",
@@ -5939,8 +5932,7 @@
       "sortid": 684,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_quartz_pillar_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "registry_name": "rose_quartz_pillar_r"
     },
     {
       "name": "ChiselledSmokyQuartz",
@@ -5948,8 +5940,7 @@
       "sortid": 280,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "chiselled_smoky_quartz",
-      "path": "~/OtherBlocks/Quartz"
+      "registry_name": "chiselled_smoky_quartz"
     },
     {
       "name": "SmoothSmokyQuartzStairs",
@@ -5957,8 +5948,7 @@
       "sortid": 276,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smooth_smoky_quartz_stairs",
-      "path": "~/OtherBlocks/Quartz"
+      "registry_name": "smooth_smoky_quartz_stairs"
     },
     {
       "name": "SmokyQuartzStairsR",
@@ -5966,8 +5956,7 @@
       "sortid": 677,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_quartz_stairs_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "registry_name": "smoky_quartz_stairs_r"
     },
     {
       "name": "SmokyQuartzPillar",
@@ -5975,8 +5964,7 @@
       "sortid": 279,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_quartz_pillar",
-      "path": "~/OtherBlocks/Quartz"
+      "registry_name": "smoky_quartz_pillar"
     },
     {
       "name": "SmokyQuartzOre",
@@ -5984,8 +5972,7 @@
       "sortid": 270,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_quartz_ore",
-      "path": "~/OtherBlocks/Quartz"
+      "registry_name": "smoky_quartz_ore"
     },
     {
       "name": "RoseQuartzBlockR",
@@ -5993,8 +5980,7 @@
       "sortid": 674,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_quartz_block_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "registry_name": "rose_quartz_block_r"
     },
     {
       "name": "RoseQuartzStairsR",
@@ -6002,8 +5988,7 @@
       "sortid": 676,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_quartz_stairs_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "registry_name": "rose_quartz_stairs_r"
     },
     {
       "name": "SmoothRoseQuartzR",
@@ -6011,8 +5996,7 @@
       "sortid": 682,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smooth_rose_quartz_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "registry_name": "smooth_rose_quartz_r"
     },
     {
       "name": "SmoothRoseQuartzWall",
@@ -6020,8 +6004,7 @@
       "sortid": 266,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smooth_rose_quartz_wall",
-      "path": "~/OtherBlocks/Quartz"
+      "registry_name": "smooth_rose_quartz_wall"
     },
     {
       "name": "GlowingEyesRoundR",
@@ -6038,8 +6021,7 @@
       "sortid": 271,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_quartz_block",
-      "path": "~/OtherBlocks/Quartz"
+      "registry_name": "smoky_quartz_block"
     },
     {
       "name": "GlowingEyesRoundStare",
@@ -6056,8 +6038,7 @@
       "sortid": 680,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_quartz_slab_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "registry_name": "smoky_quartz_slab_r"
     },
     {
       "name": "RoseQuartzBlock",
@@ -6065,8 +6046,7 @@
       "sortid": 259,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_quartz_block",
-      "path": "~/OtherBlocks/Quartz"
+      "registry_name": "rose_quartz_block"
     },
     {
       "name": "SmokyQuartzSlab",
@@ -6074,8 +6054,7 @@
       "sortid": 273,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_quartz_slab",
-      "path": "~/OtherBlocks/Quartz"
+      "registry_name": "smoky_quartz_slab"
     },
     {
       "name": "SmokyQuartzWall",
@@ -6083,8 +6062,7 @@
       "sortid": 274,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_quartz_wall",
-      "path": "~/OtherBlocks/Quartz"
+      "registry_name": "smoky_quartz_wall"
     },
     {
       "name": "SmokyQuartzBlockR",
@@ -6092,8 +6070,7 @@
       "sortid": 675,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_quartz_block_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "registry_name": "smoky_quartz_block_r"
     },
     {
       "name": "SmoothSmokyQuartzR",
@@ -6101,8 +6078,7 @@
       "sortid": 683,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smooth_smoky_quartz_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "registry_name": "smooth_smoky_quartz_r"
     },
     {
       "name": "SmoothRoseQuartzSlab",
@@ -6110,8 +6086,7 @@
       "sortid": 265,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smooth_rose_quartz_slab",
-      "path": "~/OtherBlocks/Quartz"
+      "registry_name": "smooth_rose_quartz_slab"
     },
     {
       "name": "SmokyQuartzStairs",
@@ -6119,8 +6094,7 @@
       "sortid": 272,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_quartz_stairs",
-      "path": "~/OtherBlocks/Quartz"
+      "registry_name": "smoky_quartz_stairs"
     },
     {
       "name": "SmoothRoseQuartz",
@@ -6128,8 +6102,7 @@
       "sortid": 263,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smooth_rose_quartz",
-      "path": "~/OtherBlocks/Quartz"
+      "registry_name": "smooth_rose_quartz"
     },
     {
       "name": "ChiselledRoseQuartzR",
@@ -6137,8 +6110,7 @@
       "sortid": 685,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "chiselled_rose_quartz_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "registry_name": "chiselled_rose_quartz_r"
     },
     {
       "name": "SmoothSmokyQuartzSlab",
@@ -6146,8 +6118,7 @@
       "sortid": 277,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smooth_smoky_quartz_slab",
-      "path": "~/OtherBlocks/Quartz"
+      "registry_name": "smooth_smoky_quartz_slab"
     },
     {
       "name": "SmokyQuartzPillarR",
@@ -6155,8 +6126,7 @@
       "sortid": 686,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_quartz_pillar_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "registry_name": "smoky_quartz_pillar_r"
     },
     {
       "name": "GlowingEyesRoundBlink",
@@ -6173,8 +6143,7 @@
       "sortid": 257,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_quartz",
-      "path": "~/OtherBlocks/Quartz"
+      "registry_name": "rose_quartz"
     },
     {
       "name": "SmoothRoseQuartzStairs",
@@ -6182,8 +6151,7 @@
       "sortid": 264,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smooth_rose_quartz_stairs",
-      "path": "~/OtherBlocks/Quartz"
+      "registry_name": "smooth_rose_quartz_stairs"
     },
     {
       "name": "SmoothSmokyQuartz",
@@ -6191,8 +6159,7 @@
       "sortid": 275,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smooth_smoky_quartz",
-      "path": "~/OtherBlocks/Quartz"
+      "registry_name": "smooth_smoky_quartz"
     },
     {
       "name": "ChiselledRoseQuartz",
@@ -6200,8 +6167,7 @@
       "sortid": 268,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "chiselled_rose_quartz",
-      "path": "~/OtherBlocks/Quartz"
+      "registry_name": "chiselled_rose_quartz"
     },
     {
       "name": "RoseQuartzOre",
@@ -6209,8 +6175,7 @@
       "sortid": 258,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_quartz_ore",
-      "path": "~/OtherBlocks/Quartz"
+      "registry_name": "rose_quartz_ore"
     },
     {
       "name": "SmokyQuartzWallR",
@@ -6218,8 +6183,7 @@
       "sortid": 681,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_quartz_wall_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "registry_name": "smoky_quartz_wall_r"
     },
     {
       "name": "GlowingEyesRoundR2",
@@ -6236,8 +6200,7 @@
       "sortid": 261,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_quartz_stairs",
-      "path": "~/OtherBlocks/Quartz"
+      "registry_name": "rose_quartz_stairs"
     },
     {
       "name": "SmoothSmokyQuartzWall",
@@ -6245,8 +6208,322 @@
       "sortid": 278,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smooth_smoky_quartz_wall",
-      "path": "~/OtherBlocks/Quartz"
+      "registry_name": "smooth_smoky_quartz_wall"
+    },
+    {
+      "name": "RedClayBrickBlock",
+      "type": "block",
+      "sortid": 688,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_clay_brick_block",
+      "path": "~/OtherBlocks/Bricks/Red"
+    },
+    {
+      "name": "RedClayBrickTiles",
+      "type": "block",
+      "sortid": 689,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_clay_brick_tiles",
+      "path": "~/OtherBlocks/Bricks/Red"
+    },
+    {
+      "name": "RedClayBrickSmallTiles",
+      "type": "block",
+      "sortid": 690,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_clay_brick_small_tiles",
+      "path": "~/OtherBlocks/Bricks/Red"
+    },
+    {
+      "name": "RedSlantedShinglesSide",
+      "type": "block",
+      "sortid": 691,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_slanted_shingles_side",
+      "path": "~/OtherBlocks/Bricks/Red"
+    },
+    {
+      "name": "BlueSlantedShinglesSide",
+      "type": "block",
+      "sortid": 692,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_slanted_shingles_side",
+      "path": "~/OtherBlocks/Bricks/Blue"
+    },
+    {
+      "name": "RedSlantedClayShingles",
+      "type": "block",
+      "sortid": 693,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_slanted_clay_shingles",
+      "path": "~/OtherBlocks/Bricks/Red"
+    },
+    {
+      "name": "BlueSlantedClayShingles",
+      "type": "block",
+      "sortid": 694,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_slanted_clay_shingles",
+      "path": "~/OtherBlocks/Bricks/Blue"
+    },
+    {
+      "name": "RedClayShingles",
+      "type": "block",
+      "sortid": 695,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_clay_shingles",
+      "path": "~/OtherBlocks/Bricks/Red"
+    },
+    {
+      "name": "BlueClayShingles",
+      "type": "block",
+      "sortid": 696,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_clay_shingles",
+      "path": "~/OtherBlocks/Bricks/Blue"
+    },
+    {
+      "name": "RedClayBrickPavement",
+      "type": "block",
+      "sortid": 697,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_clay_brick_pavement",
+      "path": "~/OtherBlocks/Bricks/Red"
+    },
+    {
+      "name": "RedClayShinglesSlab",
+      "type": "block",
+      "sortid": 698,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_clay_shingles_slab",
+      "path": "~/OtherBlocks/Bricks/Red"
+    },
+    {
+      "name": "BlueClayBrickBlock",
+      "type": "block",
+      "sortid": 699,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_clay_brick_block",
+      "path": "~/OtherBlocks/Bricks/Blue"
+    },
+    {
+      "name": "BlueBigClayBricks",
+      "type": "block",
+      "sortid": 700,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_big_clay_bricks",
+      "path": "~/OtherBlocks/Bricks/Blue"
+    },
+    {
+      "name": "BlueClayBrickTiles",
+      "type": "block",
+      "sortid": 701,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_clay_brick_tiles",
+      "path": "~/OtherBlocks/Bricks/Blue"
+    },
+    {
+      "name": "BlueClayBrickSmallTiles",
+      "type": "block",
+      "sortid": 702,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_clay_brick_small_tiles",
+      "path": "~/OtherBlocks/Bricks/Blue"
+    },
+    {
+      "name": "BlueClayBrickPavement",
+      "type": "block",
+      "sortid": 703,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_clay_brick_pavement",
+      "path": "~/OtherBlocks/Bricks/Blue"
+    },
+    {
+      "name": "BlueClayShingleSlab",
+      "type": "block",
+      "sortid": 704,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_clay_shingle_slab",
+      "path": "~/OtherBlocks/Bricks/Blue"
+    },
+    {
+      "name": "RedClayBrickPavementR",
+      "type": "recipe",
+      "sortid": 705,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_clay_brick_pavement_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "RedClayShinglesR",
+      "type": "recipe",
+      "sortid": 706,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_clay_shingles_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "RedSlantedClayShinglesR",
+      "type": "recipe",
+      "sortid": 707,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_slanted_clay_shingles_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "RedSlantedClayShinglesSideR",
+      "type": "recipe",
+      "sortid": 708,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_slanted_clay_shingles_side_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "RedBigClayBricksR",
+      "type": "recipe",
+      "sortid": 709,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_big_clay_bricks_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "RedClayBrickBlockR",
+      "type": "recipe",
+      "sortid": 710,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_clay_brick_block_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "RedSmallClayBrickTilesR",
+      "type": "recipe",
+      "sortid": 711,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_small_clay_brick_tiles_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "RedClayBrickTilesR",
+      "type": "recipe",
+      "sortid": 712,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_clay_brick_tiles_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "RedClayShinglesSlabR",
+      "type": "recipe",
+      "sortid": 713,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_clay_shingles_slab_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "BlueClayBrickPavementR",
+      "type": "recipe",
+      "sortid": 714,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_clay_brick_pavement_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "BlueClayShinglesR",
+      "type": "recipe",
+      "sortid": 715,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_clay_shingles_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "BlueSlantedClayShinglesR",
+      "type": "recipe",
+      "sortid": 716,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_slanted_clay_shingles_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "BlueSlantedClayShinglesSideR",
+      "type": "recipe",
+      "sortid": 717,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_slanted_clay_shingles_side_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "BlueBigClayBricksR",
+      "type": "recipe",
+      "sortid": 718,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_big_clay_bricks_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "BlueClayBrickBlockR",
+      "type": "recipe",
+      "sortid": 719,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_clay_brick_block_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "BlueClayBrickTilesR",
+      "type": "recipe",
+      "sortid": 720,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_clay_brick_tiles_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "BlueClayBrickSmallTilesR",
+      "type": "recipe",
+      "sortid": 721,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_clay_brick_small_tiles_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "BlueClayShinglesSlabR",
+      "type": "recipe",
+      "sortid": 722,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_clay_shingles_slab_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
     }
   ],
   "variable_elements": [],
@@ -6265,13 +6542,18 @@
       "block.archiblock_two.chiselled_twilightwave_bricks": "Chiselled Twilightwave Bricks",
       "block.archiblock_two.brown_spool": "Brown Spool",
       "block.archiblock_two.woven_warped_basket": "Woven Warped Block",
+      "block.archiblock_two.smooth_rose_quartz_stairs": "Smooth Rose Quartz Stairs",
+      "block.archiblock_two.blue_clay_brick_pavement": "Blue Clay Brick Pavement",
+      "block.archiblock_two.smooth_smoky_quartz": "Smooth Smoky Quartz Block",
+      "block.archiblock_two.red_slanted_shingles_side": "Red Slanted Clay Shingles Side",
       "block.archiblock_two.cut_obsidian": "Cut Obsidian",
-      "block.archiblock_two.clay_shingles_slab": "Clay Shingles",
+      "block.archiblock_two.clay_shingles_slab": "Clay Shingles Slab",
       "block.archiblock_two.ruby_pillar": "Ruby Pillar",
       "block.archiblock_two.cut_granite_stairs": "Cut Granite Stairs",
       "block.archiblock_two.spruce_basket_dirt": "Dirt Filled Woven Spruce Basket",
       "block.archiblock_two.diorite_brick_slab": "Diorite Brick Slab",
       "block.archiblock_two.dark_oak_basket_podzol": "Podzol Filled Woven Dark Oak Basket",
+      "item.archiblock_two.rose_quartz": "Rose Quartz",
       "block.archiblock_two.snowy_stone_tiles": "Snowy Stone Tiles",
       "block.archiblock_two.andesite_brick_slab": "Andesite Brick Slab",
       "block.archiblock_two.twilight_bricks": "Twilight Bricks",
@@ -6279,11 +6561,13 @@
       "block.archiblock_two.ruby_tiles": "Ruby Tiles",
       "block.archiblock_two.woven_acacia_slab": "Woven Acacia Slab",
       "block.archiblock_two.rose": "Rose",
+      "block.archiblock_two.smooth_rose_quartz": "Smooth Rose Quartz Block",
       "block.archiblock_two.yellow_neon_block": "Yellow Neon Block",
       "block.archiblock_two.woven_jungle_slab": "Woven Jungle Slab",
       "block.archiblock_two.twilight_brick_wall": "Twilight Brick Wall",
       "block.archiblock_two.purple_neon_block": "Purple Neon Block",
       "block.archiblock_two.acacia_basket_sand": "Sand Filled Woven Acacia Basket",
+      "block.archiblock_two.smooth_rose_quartz_wall": "Smooth Rose Quartz Wall",
       "block.archiblock_two.diorite_pillar": "Diorite Pillar",
       "block.archiblock_two.sugilite_pillar": "Sugilite Pillar",
       "block.archiblock_two.chiselled_obsidian": "Chiselled Obsidian",
@@ -6294,9 +6578,15 @@
       "block.archiblock_two.olive_rose_bush": "Chartreuse Rose Bush",
       "block.archiblock_two.dark_oak_basket_sand": "Sand Filled Woven Dark Oak Basket",
       "block.archiblock_two.white_spool": "White Spool",
+      "block.archiblock_two.red_clay_shingles": "Red Block of Clay Shingles",
       "block.archiblock_two.light_gray_spool": "Light Gray Spool",
       "block.archiblock_two.snowy_stone_slab": "Snowy Stone Slab",
+      "block.archiblock_two.chiselled_rose_quartz": "Chiselled Rose Quartz Block",
+      "block.archiblock_two.red_clay_brick_tiles": "Red Clay Brick Tiles",
       "block.archiblock_two.twilightwave_pillar": "Twilightwave Pillar",
+      "block.archiblock_two.smooth_smoky_quartz_slab": "Smooth Smoky Quartz Slab",
+      "item.archiblock_two.smoky_quartz": "Rose Quartz",
+      "block.archiblock_two.red_clay_brick_block": "Red Clay Brick Block",
       "block.archiblock_two.cracked_cut_stone": "Cracked Cut Stone",
       "block.archiblock_two.black_spool": "Black Spool",
       "block.archiblock_two.lush_twilight_brick_slab": "Lush Twilight Brick Slab",
@@ -6310,8 +6600,8 @@
       "block.archiblock_two.red_spool": "Red Spool",
       "block.archiblock_two.crimson_basket_moss": "Moss Filled Woven Crimson Basket",
       "block.archiblock_two.crimson_basket_dirt": "Dirt Filled Woven Crimson Basket",
-      "block.archiblock_two.cut_granite": "Cut Granite",
       "block.archiblock_two.woven_dark_oak_basket": "Woven Dark Oak Basket",
+      "block.archiblock_two.cut_granite": "Cut Granite",
       "block.archiblock_two.buttermilk_rose": "Buttermilk Rose",
       "block.archiblock_two.sapphire_ore": "Sapphire Ore",
       "block.archiblock_two.light_blue_spool": "Light Blue Spool",
@@ -6320,15 +6610,19 @@
       "item.archiblock_two.sus": "Pandora Anamiya - Ass",
       "block.archiblock_two.rose_shrub": "Rose Shrub",
       "block.archiblock_two.sugilite_bricks": "Sugilite Bricks",
+      "block.archiblock_two.chiselled_smoky_quartz": "Chiselled Smoky Quartz Block",
+      "block.archiblock_two.red_big_clay_bricks": "Red Big Clay Bricks",
       "block.archiblock_two.woven_basket_mycelium": "Mycelium Filled Woven Basket",
       "block.archiblock_two.clay_brick_tiles": "Clay Brick Tiles",
       "block.archiblock_two.granite_pillar": "Granite Pillar",
       "block.archiblock_two.olive_rose": "Chartreuse Rose",
       "block.archiblock_two.clay_brick_block": "Clay Brick Block",
+      "block.archiblock_two.smoky_quartz_stairs": "Smoky Quartz Stairs",
       "block.archiblock_two.snowy_stone_brick_stairs": "Snowy Stone Brick Stairs",
       "block.archiblock_two.chiselled_obsidian_slab": "Chiselled Obsidian Slab",
       "block.archiblock_two.sapphire_tiles": "Sapphire Tiles",
       "block.archiblock_two.raw_twilightwave_block": "Raw Twilightwave Block",
+      "block.archiblock_two.smoky_quartz_slab": "Smoky Quartz Slab",
       "block.archiblock_two.ruby_ore": "Ruby Ore",
       "block.archiblock_two.woven_basket_sand": "Sand Filled Woven Basket",
       "block.archiblock_two.lush_twilight_pillar": "Lush Twilight Pillar",
@@ -6345,26 +6639,34 @@
       "itemGroup.tabarchiblock_ii_nature": "Archiblock II - Nature",
       "item.archiblock_two.lush_twilight_shard": "Lush Twilight Shard",
       "block.archiblock_two.snowy_cobblestone": "Snowy Cobblestone",
+      "block.archiblock_two.blue_clay_brick_small_tiles": "Blue Clay Brick Small Tiles",
       "block.archiblock_two.diorite_bricks": "Diorite Bricks",
       "block.archiblock_two.blue_neon_block": "Blue Neon Block",
+      "block.archiblock_two.blue_clay_shingles": "Blue Block of Clay Shingles",
       "block.archiblock_two.twilight_brick_stairs": "Twilight Brick Stairs",
+      "block.archiblock_two.smooth_rose_quartz_slab": "Smooth Rose Quartz Slab",
       "block.archiblock_two.twilight_pillar": "Twilight Pillar",
       "block.archiblock_two.lime_spool": "Lime Spool",
       "block.archiblock_two.twilightwave_brick_stairs": "Twilightwave Brick Stairs",
       "block.archiblock_two.andesite_block_slab": "Andesite Block Slab",
       "block.archiblock_two.cut_stone_slab": "Cut Stone Slab",
+      "block.archiblock_two.smoky_quartz_block": "Block of Smoky Quartz",
       "block.archiblock_two.mossy_stone_pillar": "Mossy Stone Pillar",
       "block.archiblock_two.blush_rose_bush": "Blush Rose Bush",
       "block.archiblock_two.snowy_cobblestone_stairs": "Snowy Cobblestone Stairs",
+      "block.archiblock_two.smoky_quartz_ore": "Smoky Quartz Ore",
       "block.archiblock_two.stone_pillar": "Stone Pillar",
       "block.archiblock_two.gray_neon_block": "Gray Neon Block",
+      "block.archiblock_two.rose_quartz_pillar": "Rose Quartz Pillar",
       "block.archiblock_two.chiselled_andesite": "Chiselled Andesite",
       "block.archiblock_two.twilight_pillar_top": "Twilight Pillar Top",
+      "block.archiblock_two.blue_slanted_shingles_side": "Blue Slanted Clay Shingles Side",
       "item.archiblock_two.topaz": "Topaz",
       "block.archiblock_two.woven_jungle_stairs": "Woven Jungle Stairs",
       "block.archiblock_two.cracked_stone_tiles": "Cracked Stone Tiles",
       "block.archiblock_two.fancy_diorite_pillar": "Carved Diorite Pillar",
       "block.archiblock_two.chiselled_diorite": "Chiselled Diorite",
+      "block.archiblock_two.red_clay_brick_pavement": "Red Clay Brick Pavement",
       "block.archiblock_two.warped_basket_mycelium": "Mycelium Filled Woven Warped Basket",
       "block.archiblock_two.twilight_tiles": "Twilight Tiles",
       "block.archiblock_two.orange_spool": "Orange Spool",
@@ -6374,6 +6676,7 @@
       "block.archiblock_two.granite_bricks": "Granite Bricks",
       "block.archiblock_two.snowy_stone_bricks": "Snowy Stone Bricks",
       "block.archiblock_two.lush_twilight_block": "Lush Twilight Block",
+      "block.archiblock_two.smoky_quartz_wall": "Smoky Quartz Wall",
       "block.archiblock_two.cut_stone_wall": "Cut Stone Wall",
       "block.archiblock_two.topaz_granite_ore": "Topaz Granite Ore",
       "block.archiblock_two.chiselled_granite": "Chiselled Granite",
@@ -6388,13 +6691,15 @@
       "block.archiblock_two.cut_stone_stairs": "Cut Stone Stairs",
       "block.archiblock_two.chiselled_obsidian_wall": "Chiselled Obsidian Wall",
       "block.archiblock_two.scarlet_rose_shrub": "Scarlet Rose Shrub",
+      "block.archiblock_two.rose_quartz_ore": "Rose Quartz Ore",
       "block.archiblock_two.purple_spool": "Purple Spool",
       "block.archiblock_two.woven_dark_oak_stairs": "Woven Dark Oak Stairs",
       "block.archiblock_two.crimson_basket_mycelium": "Mycelium Filled Woven Crimson Basket",
       "block.archiblock_two.snowy_small_stone_bricks": "Snowy Small Stone Bricks",
-      "block.archiblock_two.small_clay_brick_tiles": "Small Clay Brick Tiles",
+      "block.archiblock_two.small_clay_brick_tiles": "Clay Brick Small Tiles",
       "block.archiblock_two.tangled_clay_bricks": "Tangled Big Clay Bricks",
       "block.archiblock_two.warped_basket_dirt": "Dirt Filled Woven Warped Basket",
+      "block.archiblock_two.smooth_smoky_quartz_wall": "Smooth Smoky Quartz Wall",
       "block.archiblock_two.sapphire_diorite_ore": "Sapphire Diorite Ore",
       "block.archiblock_two.andesite_small_bricks": "Andesite Small Bricks",
       "block.archiblock_two.green_spool": "Green Spool",
@@ -6408,8 +6713,10 @@
       "block.archiblock_two.snowy_cut_stone_stairs": "Snowy Cut Stone Stairs",
       "block.archiblock_two.black_neon_block": "Black Neon Block",
       "block.archiblock_two.woven_acacia_basket": "Woven Acacia Basket",
+      "block.archiblock_two.rose_quartz_stairs": "Rose Quartz Stairs",
       "block.archiblock_two.twilight_ore": "Twilight Ore",
       "block.archiblock_two.raw_twilight_block": "Raw Twilight Block",
+      "block.archiblock_two.rose_quartz_wall": "Rose Quartz Wall",
       "block.archiblock_two.green_neon_block": "Green Neon Block",
       "block.archiblock_two.woven_dark_oak_block": "Woven Dark Oak Block",
       "block.archiblock_two.cut_granite_slab": "Cut Granite Slab",
@@ -6417,6 +6724,7 @@
       "block.archiblock_two.acacia_basket_dirt": "Dirt Filled Woven Acacia Basket",
       "block.archiblock_two.sugilite_tiles": "Sugilite Tiles",
       "block.archiblock_two.snowy_cobblestone_slab": "Snowy Cobblestone Slab",
+      "block.archiblock_two.smoky_quartz_pillar": "Smoky Quartz Pillar",
       "block.archiblock_two.magenta_spool": "Magenta Spool",
       "block.archiblock_two.gray_spool": "Gray Spool",
       "block.archiblock_two.obsidian_pillar": "Obsidian Pillar",
@@ -6429,9 +6737,11 @@
       "block.archiblock_two.woven_basket": "Woven Basket",
       "block.archiblock_two.pink_rose": "Pink Rose",
       "block.archiblock_two.side_snowy_stone_pillar": "Snowy Stone Pillar",
+      "block.archiblock_two.rose_quartz_block": "Block of Rose Quartz",
       "block.archiblock_two.twilightwave_bricks": "Twilightwave Bricks",
       "block.archiblock_two.olive_rose_shrub": "Chartreuse Rose Shrub",
       "block.archiblock_two.pink_neon_block": "Pink Neon Block",
+      "block.archiblock_two.red_slanted_clay_shingles": "Red Slanted Clay Shingles",
       "block.archiblock_two.twilightwave_pillar_top": "Twilightwave Pillar Top",
       "block.archiblock_two.dark_oak_basket_moss": "Moss Filled Woven Dark Oak Basket",
       "block.archiblock_two.woven_jungle_basket": "Woven Jungle Block",
@@ -6440,7 +6750,9 @@
       "block.archiblock_two.lush_twilight_brick_stairs": "Lush Twilight Brick Stairs",
       "block.archiblock_two.andesite_pillar": "Andesite Pillar",
       "block.archiblock_two.woven_birch_stairs": "Woven Birch Stairs",
+      "block.archiblock_two.red_clay_shingles_slab": "Red Clay Shingles Slab",
       "block.archiblock_two.birch_basket_sand": "Sand Filled Woven Birch Basket",
+      "block.archiblock_two.blue_clay_shingle_slab": "Blue Clay Shingles Slab",
       "block.archiblock_two.birch_basket_podzol": "Podzol Filled Woven Birch Basket",
       "block.archiblock_two.light_blue_neon_block": "Light Blue Neon Block",
       "block.archiblock_two.woven_fiber_slab": "Woven Fiber Slab",
@@ -6452,9 +6764,11 @@
       "block.archiblock_two.lime_neon_block": "Lime Neon Block",
       "block.archiblock_two.andesite_bricks": "Andesite Bricks",
       "block.archiblock_two.granite_brick_slab": "Granite Brick Slab",
+      "block.archiblock_two.blue_big_clay_bricks": "Blue Big Clay Bricks",
       "block.archiblock_two.pink_rose_bush": "Pink Rose Bush",
       "block.archiblock_two.pink_rose_shrub": "Pink Rose Shrub",
       "block.archiblock_two.obsidian_brick_wall": "Obsidian Brick Wall",
+      "block.archiblock_two.rose_quartz_slab": "Rose Quartz Slab",
       "block.archiblock_two.cut_granite_wall": "Cut Granite Wall",
       "block.archiblock_two.woven_spruce_basket": "Woven Spruce Basket",
       "block.archiblock_two.woven_birch_block": "Woven Birch Block",
@@ -6476,19 +6790,26 @@
       "item.archiblock_two.sus.desc": "pandora when she sees dori, libido, zadkiel, ira, yingtao, etora and doremy",
       "block.archiblock_two.sugilite_ore": "Sugilite Ore",
       "block.archiblock_two.chiselled_obsidian_stairs": "Chiselled Obsidian Stairs",
+      "block.archiblock_two.red_clay_brick_small_tiles": "Red Clay Brick Small Tiles",
+      "block.archiblock_two.blue_slanted_clay_shingles": "Blue Slanted Clay Shingles",
       "block.archiblock_two.diorite_brick_wall": "Diorite Brick Wall",
       "block.archiblock_two.snowy_stone": "Snowy Stone",
+      "block.archiblock_two.glowing_eyes_round_blink": "Round Glowing Eyes",
       "block.archiblock_two.warped_basket_sand": "Sand Filled Woven Warped Basket",
+      "block.archiblock_two.blue_clay_brick_tiles": "Blue Clay Brick Tiles",
       "block.archiblock_two.spruce_basket_mycelium": "Mycelium Filled Woven Spruce Basket",
-      "block.archiblock_two.glowing_eyes_dots": "Glowing Eyes",
+      "block.archiblock_two.glowing_eyes_dots": "Small Glowing Eyes",
       "block.archiblock_two.ruby_bricks": "Ruby Bricks",
       "block.archiblock_two.chiselled_lush_twilight_bricks": "Chiselled Lush Twilight Bricks",
       "itemGroup.tabarchiblock_ii_tab": "Archiblock II - Building",
       "block.archiblock_two.birch_basket_mycelium": "Mycelium Filled Woven Birch Basket",
+      "block.archiblock_two.blue_clay_brick_block": "Blue Clay Brick Block",
       "item.archiblock_two.ruby": "Ruby",
+      "block.archiblock_two.glowing_eyes_round_stare": "Round Glowing Eyes",
       "block.archiblock_two.diorite_tile_wall": "Diorite Tile Wall",
       "block.archiblock_two.spruce_basket_podzol": "Podzol Filled Woven Spruce Basket",
       "block.archiblock_two.granite_brick_stairs": "Granite Brick Stairs",
+      "block.archiblock_two.smooth_smoky_quartz_stairs": "Smooth Smoky Quartz Stairs",
       "item.archiblock_two.twilight_shard": "Twilight Shard",
       "block.archiblock_two.stone_tiles": "Stone Tiles",
       "block.archiblock_two.orange_neon_block": "Orange Neon Block",

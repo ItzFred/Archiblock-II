@@ -1,0 +1,16 @@
+{
+  "group": "red_clay_shingles_slab",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "archiblock_two:clay_shingles_slab"
+    },
+    {
+      "item": "minecraft:red_dye"
+    }
+  ],
+  "result": {
+    "item": "archiblock_two:red_clay_shingles_slab",
+    "count": 1
+  }
+}

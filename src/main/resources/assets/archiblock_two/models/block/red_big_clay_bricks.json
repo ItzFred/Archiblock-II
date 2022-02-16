@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "archiblock_two:blocks/bigclaybricks",
-    "particle": "archiblock_two:blocks/bigclaybricks"
+    "all": "archiblock_two:blocks/bigredclaybricks",
+    "particle": "archiblock_two:blocks/bigredclaybricks"
   }
 }

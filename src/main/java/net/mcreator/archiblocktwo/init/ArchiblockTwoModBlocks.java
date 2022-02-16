@@ -153,7 +153,15 @@ import net.mcreator.archiblocktwo.block.RoseQuartzOreBlock;
 import net.mcreator.archiblocktwo.block.RoseQuartzBlockBlock;
 import net.mcreator.archiblocktwo.block.RoseBlock;
 import net.mcreator.archiblocktwo.block.RedSpoolBlock;
+import net.mcreator.archiblocktwo.block.RedSlantedShinglesSideBlock;
+import net.mcreator.archiblocktwo.block.RedSlantedClayShinglesBlock;
 import net.mcreator.archiblocktwo.block.RedNeonBlockBlock;
+import net.mcreator.archiblocktwo.block.RedClayShinglesSlabBlock;
+import net.mcreator.archiblocktwo.block.RedClayShinglesBlock;
+import net.mcreator.archiblocktwo.block.RedClayBrickTilesBlock;
+import net.mcreator.archiblocktwo.block.RedClayBrickSmallTilesBlock;
+import net.mcreator.archiblocktwo.block.RedClayBrickPavementBlock;
+import net.mcreator.archiblocktwo.block.RedClayBrickBlockBlock;
 import net.mcreator.archiblocktwo.block.RedBigClayBricksBlock;
 import net.mcreator.archiblocktwo.block.RawTwilightwaveBlockBlock;
 import net.mcreator.archiblocktwo.block.RawTwilightBlockBlock;
@@ -278,7 +286,16 @@ import net.mcreator.archiblocktwo.block.BlushRoseShrubBlock;
 import net.mcreator.archiblocktwo.block.BlushRoseBushBlock;
 import net.mcreator.archiblocktwo.block.BlushRoseBlock;
 import net.mcreator.archiblocktwo.block.BlueSpoolBlock;
+import net.mcreator.archiblocktwo.block.BlueSlantedShinglesSideBlock;
+import net.mcreator.archiblocktwo.block.BlueSlantedClayShinglesBlock;
 import net.mcreator.archiblocktwo.block.BlueNeonBlockBlock;
+import net.mcreator.archiblocktwo.block.BlueClayShinglesBlock;
+import net.mcreator.archiblocktwo.block.BlueClayShingleSlabBlock;
+import net.mcreator.archiblocktwo.block.BlueClayBrickTilesBlock;
+import net.mcreator.archiblocktwo.block.BlueClayBrickSmallTilesBlock;
+import net.mcreator.archiblocktwo.block.BlueClayBrickPavementBlock;
+import net.mcreator.archiblocktwo.block.BlueClayBrickBlockBlock;
+import net.mcreator.archiblocktwo.block.BlueBigClayBricksBlock;
 import net.mcreator.archiblocktwo.block.BlackSpoolBlock;
 import net.mcreator.archiblocktwo.block.BlackNeonBlockBlock;
 import net.mcreator.archiblocktwo.block.BirchBasketSandBlock;
@@ -600,6 +617,23 @@ public class ArchiblockTwoModBlocks {
 	public static final Block TWILIGHT_BLOCK = register(new TwilightBlockBlock());
 	public static final Block TWILIGHTWAVE_BLOCK = register(new TwilightwaveBlockBlock());
 	public static final Block RED_BIG_CLAY_BRICKS = register(new RedBigClayBricksBlock());
+	public static final Block RED_CLAY_BRICK_BLOCK = register(new RedClayBrickBlockBlock());
+	public static final Block RED_CLAY_BRICK_TILES = register(new RedClayBrickTilesBlock());
+	public static final Block RED_CLAY_BRICK_SMALL_TILES = register(new RedClayBrickSmallTilesBlock());
+	public static final Block RED_SLANTED_SHINGLES_SIDE = register(new RedSlantedShinglesSideBlock());
+	public static final Block BLUE_SLANTED_SHINGLES_SIDE = register(new BlueSlantedShinglesSideBlock());
+	public static final Block RED_SLANTED_CLAY_SHINGLES = register(new RedSlantedClayShinglesBlock());
+	public static final Block BLUE_SLANTED_CLAY_SHINGLES = register(new BlueSlantedClayShinglesBlock());
+	public static final Block RED_CLAY_SHINGLES = register(new RedClayShinglesBlock());
+	public static final Block BLUE_CLAY_SHINGLES = register(new BlueClayShinglesBlock());
+	public static final Block RED_CLAY_BRICK_PAVEMENT = register(new RedClayBrickPavementBlock());
+	public static final Block RED_CLAY_SHINGLES_SLAB = register(new RedClayShinglesSlabBlock());
+	public static final Block BLUE_CLAY_BRICK_BLOCK = register(new BlueClayBrickBlockBlock());
+	public static final Block BLUE_BIG_CLAY_BRICKS = register(new BlueBigClayBricksBlock());
+	public static final Block BLUE_CLAY_BRICK_TILES = register(new BlueClayBrickTilesBlock());
+	public static final Block BLUE_CLAY_BRICK_SMALL_TILES = register(new BlueClayBrickSmallTilesBlock());
+	public static final Block BLUE_CLAY_BRICK_PAVEMENT = register(new BlueClayBrickPavementBlock());
+	public static final Block BLUE_CLAY_SHINGLE_SLAB = register(new BlueClayShingleSlabBlock());
 
 	private static Block register(Block block) {
 		REGISTRY.add(block);
@@ -683,6 +717,10 @@ public class ArchiblockTwoModBlocks {
 			WovenBasketMyceliumBlock.registerRenderLayer();
 			WovenBasketPodzolBlock.registerRenderLayer();
 			WovenBasketSandBlock.registerRenderLayer();
+			RedSlantedShinglesSideBlock.registerRenderLayer();
+			BlueSlantedShinglesSideBlock.registerRenderLayer();
+			RedSlantedClayShinglesBlock.registerRenderLayer();
+			BlueSlantedClayShinglesBlock.registerRenderLayer();
 		}
 
 		@SubscribeEvent

@@ -1,0 +1,16 @@
+{
+  "group": "blue_slanted_clay_shingles_side",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "archiblock_two:slanted_shingles_side"
+    },
+    {
+      "item": "minecraft:blue_dye"
+    }
+  ],
+  "result": {
+    "item": "archiblock_two:blue_slanted_shingles_side",
+    "count": 1
+  }
+}
