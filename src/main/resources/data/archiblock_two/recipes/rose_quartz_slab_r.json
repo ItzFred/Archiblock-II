@@ -5,17 +5,17 @@
   ],
   "key": {
     "0": {
-      "item": "archiblock_two:rose_quartz_block"
+      "item": "archiblock_two:deleted_mod_element"
     },
     "1": {
-      "item": "archiblock_two:rose_quartz_block"
+      "item": "archiblock_two:deleted_mod_element"
     },
     "2": {
-      "item": "archiblock_two:rose_quartz_block"
+      "item": "archiblock_two:deleted_mod_element"
     }
   },
   "result": {
-    "item": "archiblock_two:rose_quartz_slab",
+    "item": "archiblock_two:deleted_mod_element",
     "count": 6
   }
 }

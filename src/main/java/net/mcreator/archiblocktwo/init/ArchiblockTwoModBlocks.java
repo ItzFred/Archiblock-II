@@ -170,6 +170,7 @@ import net.mcreator.archiblocktwo.block.RoseBrickSlab2Block;
 import net.mcreator.archiblocktwo.block.RoseBlock;
 import net.mcreator.archiblocktwo.block.RedSpoolBlock;
 import net.mcreator.archiblocktwo.block.RedNeonBlockBlock;
+import net.mcreator.archiblocktwo.block.RedBigClayBricksBlock;
 import net.mcreator.archiblocktwo.block.RawTwilightwaveBlockBlock;
 import net.mcreator.archiblocktwo.block.RawTwilightBlockBlock;
 import net.mcreator.archiblocktwo.block.RawLushTwilightBlockBlock;
@@ -614,6 +615,7 @@ public class ArchiblockTwoModBlocks {
 	public static final Block OLIVE_ROSE_SHRUB = register(new OliveRoseShrubBlock());
 	public static final Block OLIVE_ROSE_BUSH = register(new OliveRoseBushBlock());
 	public static final Block SIDE_SNOWY_STONE_PILLAR = register(new SideSnowyStonePillarBlock());
+	public static final Block RED_BIG_CLAY_BRICKS = register(new RedBigClayBricksBlock());
 	public static final Block ROSE_QUARTZ_BRICKS = register(new RoseQuartzBricksBlock());
 	public static final Block SMOKY_QUARTZ_BRICKS = register(new SmokyQuartzBricksBlock());
 	public static final Block ROSE_QUARTZ_BRICK_STAIRS = register(new RoseQuartzBrickStairsBlock());
