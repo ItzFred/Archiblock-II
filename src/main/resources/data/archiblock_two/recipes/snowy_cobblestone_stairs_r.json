@@ -1,0 +1,16 @@
+{
+  "group": "snowy_cobblestone_stairs",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cobblestone_stairs"
+    },
+    {
+      "item": "minecraft:snowball"
+    }
+  ],
+  "result": {
+    "item": "archiblock_two:deleted_mod_element",
+    "count": 1
+  }
+}

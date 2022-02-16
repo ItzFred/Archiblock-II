@@ -1,0 +1,16 @@
+{
+  "group": "snowy_stone_brick_slab",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:stone_brick_slab"
+    },
+    {
+      "item": "minecraft:snowball"
+    }
+  ],
+  "result": {
+    "item": "archiblock_two:deleted_mod_element",
+    "count": 1
+  }
+}

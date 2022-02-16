@@ -1,0 +1,16 @@
+{
+  "group": "snowy_stone",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:stone"
+    },
+    {
+      "item": "minecraft:snowball"
+    }
+  ],
+  "result": {
+    "item": "archiblock_two:snowy_stone",
+    "count": 1
+  }
+}

@@ -37,6 +37,18 @@
       },
       {
         "value": "CUSTOM:TwilightwaveBrickSlab"
+      },
+      {
+        "value": "CUSTOM:SnowyCutStoneSlab"
+      },
+      {
+        "value": "CUSTOM:SnowyStoneSlab"
+      },
+      {
+        "value": "CUSTOM:SnowyStoneBrickSlab"
+      },
+      {
+        "value": "CUSTOM:SnowyCobblestoneSlab"
       }
     ],
     "functions": [],
