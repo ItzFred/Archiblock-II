@@ -18,8 +18,10 @@ import net.mcreator.archiblocktwo.item.TwilightShardItem;
 import net.mcreator.archiblocktwo.item.TopazItem;
 import net.mcreator.archiblocktwo.item.SusItem;
 import net.mcreator.archiblocktwo.item.SugiliteItem;
+import net.mcreator.archiblocktwo.item.SmokyQuartzItem;
 import net.mcreator.archiblocktwo.item.SapphireItem;
 import net.mcreator.archiblocktwo.item.RubyItem;
+import net.mcreator.archiblocktwo.item.RoseQuartzItem;
 import net.mcreator.archiblocktwo.item.LushTwilightShardItem;
 
 import java.util.List;
@@ -213,17 +215,53 @@ public class ArchiblockTwoModItems {
 	public static final Item OBSIDIAN_BRICK_STAIRS = register(ArchiblockTwoModBlocks.OBSIDIAN_BRICK_STAIRS,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item OBSIDIAN_BRICK_SLAB = register(ArchiblockTwoModBlocks.OBSIDIAN_BRICK_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item GLOWING_EYES_ROUND_BLINK = register(ArchiblockTwoModBlocks.GLOWING_EYES_ROUND_BLINK,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item OBSIDIAN_BRICK_WALL = register(ArchiblockTwoModBlocks.OBSIDIAN_BRICK_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item GLOWING_EYES_ROUND_STARE = register(ArchiblockTwoModBlocks.GLOWING_EYES_ROUND_STARE,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CHISELLED_OBSIDIAN_STAIRS = register(ArchiblockTwoModBlocks.CHISELLED_OBSIDIAN_STAIRS,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CHISELLED_OBSIDIAN_SLAB = register(ArchiblockTwoModBlocks.CHISELLED_OBSIDIAN_SLAB,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CHISELLED_OBSIDIAN_WALL = register(ArchiblockTwoModBlocks.CHISELLED_OBSIDIAN_WALL,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ROSE_QUARTZ = register(new RoseQuartzItem());
+	public static final Item ROSE_QUARTZ_ORE = register(ArchiblockTwoModBlocks.ROSE_QUARTZ_ORE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ROSE_QUARTZ_BLOCK = register(ArchiblockTwoModBlocks.ROSE_QUARTZ_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ROSE_QUARTZ_SLAB = register(ArchiblockTwoModBlocks.ROSE_QUARTZ_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ROSE_QUARTZ_STAIRS = register(ArchiblockTwoModBlocks.ROSE_QUARTZ_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ROSE_QUARTZ_WALL = register(ArchiblockTwoModBlocks.ROSE_QUARTZ_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOOTH_ROSE_QUARTZ = register(ArchiblockTwoModBlocks.SMOOTH_ROSE_QUARTZ, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOOTH_ROSE_QUARTZ_STAIRS = register(ArchiblockTwoModBlocks.SMOOTH_ROSE_QUARTZ_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOOTH_ROSE_QUARTZ_SLAB = register(ArchiblockTwoModBlocks.SMOOTH_ROSE_QUARTZ_SLAB,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOOTH_ROSE_QUARTZ_WALL = register(ArchiblockTwoModBlocks.SMOOTH_ROSE_QUARTZ_WALL,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ROSE_QUARTZ_PILLAR = register(ArchiblockTwoModBlocks.ROSE_QUARTZ_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item DIORITE_TILE_WALL = register(ArchiblockTwoModBlocks.DIORITE_TILE_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_ROSE_QUARTZ = register(ArchiblockTwoModBlocks.CHISELLED_ROSE_QUARTZ,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item DIORITE_BRICK_WALL = register(ArchiblockTwoModBlocks.DIORITE_BRICK_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOKY_QUARTZ = register(new SmokyQuartzItem());
+	public static final Item SMOKY_QUARTZ_ORE = register(ArchiblockTwoModBlocks.SMOKY_QUARTZ_ORE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOKY_QUARTZ_BLOCK = register(ArchiblockTwoModBlocks.SMOKY_QUARTZ_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOKY_QUARTZ_STAIRS = register(ArchiblockTwoModBlocks.SMOKY_QUARTZ_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOKY_QUARTZ_SLAB = register(ArchiblockTwoModBlocks.SMOKY_QUARTZ_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOKY_QUARTZ_WALL = register(ArchiblockTwoModBlocks.SMOKY_QUARTZ_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOOTH_SMOKY_QUARTZ = register(ArchiblockTwoModBlocks.SMOOTH_SMOKY_QUARTZ, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOOTH_SMOKY_QUARTZ_STAIRS = register(ArchiblockTwoModBlocks.SMOOTH_SMOKY_QUARTZ_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOOTH_SMOKY_QUARTZ_SLAB = register(ArchiblockTwoModBlocks.SMOOTH_SMOKY_QUARTZ_SLAB,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item TOPAZ_GRANITE_ORE = register(ArchiblockTwoModBlocks.TOPAZ_GRANITE_ORE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOOTH_SMOKY_QUARTZ_WALL = register(ArchiblockTwoModBlocks.SMOOTH_SMOKY_QUARTZ_WALL,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item TOPAZ_STONE_ORE = register(ArchiblockTwoModBlocks.TOPAZ_STONE_ORE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOKY_QUARTZ_PILLAR = register(ArchiblockTwoModBlocks.SMOKY_QUARTZ_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_SMOKY_QUARTZ = register(ArchiblockTwoModBlocks.CHISELLED_SMOKY_QUARTZ,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item TOPAZ_BLOCK = register(ArchiblockTwoModBlocks.TOPAZ_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item TOPAZ_TILES = register(ArchiblockTwoModBlocks.TOPAZ_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item TOPAZ_PILLARS = register(ArchiblockTwoModBlocks.TOPAZ_PILLARS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);

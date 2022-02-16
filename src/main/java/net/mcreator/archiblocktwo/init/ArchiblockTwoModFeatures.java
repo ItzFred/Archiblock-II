@@ -36,9 +36,11 @@ import net.mcreator.archiblocktwo.world.features.ores.TwilightBlockFeature;
 import net.mcreator.archiblocktwo.world.features.ores.TopazStoneOreFeature;
 import net.mcreator.archiblocktwo.world.features.ores.TopazGraniteOreFeature;
 import net.mcreator.archiblocktwo.world.features.ores.SugiliteOreFeature;
+import net.mcreator.archiblocktwo.world.features.ores.SmokyQuartzOreFeature;
 import net.mcreator.archiblocktwo.world.features.ores.SapphireOreFeature;
 import net.mcreator.archiblocktwo.world.features.ores.SapphireDioriteOreFeature;
 import net.mcreator.archiblocktwo.world.features.ores.RubyOreFeature;
+import net.mcreator.archiblocktwo.world.features.ores.RoseQuartzOreFeature;
 import net.mcreator.archiblocktwo.world.features.ores.RawTwilightBlockFeature;
 import net.mcreator.archiblocktwo.world.features.ChunkAnalyzerFeature;
 
@@ -82,6 +84,10 @@ public class ArchiblockTwoModFeatures {
 				OliveRoseShrubFeature.GENERATE_BIOMES, OliveRoseShrubFeature.CONFIGURED_FEATURE));
 		REGISTRY.put(OliveRoseBushFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.VEGETAL_DECORATION,
 				OliveRoseBushFeature.GENERATE_BIOMES, OliveRoseBushFeature.CONFIGURED_FEATURE));
+		REGISTRY.put(RoseQuartzOreFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES,
+				RoseQuartzOreFeature.GENERATE_BIOMES, RoseQuartzOreFeature.CONFIGURED_FEATURE));
+		REGISTRY.put(SmokyQuartzOreFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES,
+				SmokyQuartzOreFeature.GENERATE_BIOMES, SmokyQuartzOreFeature.CONFIGURED_FEATURE));
 		REGISTRY.put(TopazGraniteOreFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES,
 				TopazGraniteOreFeature.GENERATE_BIOMES, TopazGraniteOreFeature.CONFIGURED_FEATURE));
 		REGISTRY.put(TopazStoneOreFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES,

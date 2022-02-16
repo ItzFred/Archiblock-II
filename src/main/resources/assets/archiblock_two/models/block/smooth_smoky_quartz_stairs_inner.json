@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "archiblock_two:blocks/smokyquartzblock",
+    "top": "archiblock_two:blocks/smokyquartzblock",
+    "side": "archiblock_two:blocks/smokyquartzblock"
+  }
+}

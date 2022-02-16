@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "archiblock_two:block/glowing_eyes_round_blink"
+    },
+    "facing=east": {
+      "model": "archiblock_two:block/glowing_eyes_round_blink",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "archiblock_two:block/glowing_eyes_round_blink",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "archiblock_two:block/glowing_eyes_round_blink",
+      "y": 270
+    }
+  }
+}

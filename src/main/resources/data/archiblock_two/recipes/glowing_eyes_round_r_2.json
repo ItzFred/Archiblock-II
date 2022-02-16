@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "archiblock_two:glowing_eyes_round_blink"
+    }
+  ],
+  "result": {
+    "item": "archiblock_two:glowing_eyes_round_stare",
+    "count": 1
+  }
+}

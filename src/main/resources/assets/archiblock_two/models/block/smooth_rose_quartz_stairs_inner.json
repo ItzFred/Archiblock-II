@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "archiblock_two:blocks/rosequartzsmooth",
+    "top": "archiblock_two:blocks/rosequartzsmooth",
+    "side": "archiblock_two:blocks/rosequartzsmooth"
+  }
+}
