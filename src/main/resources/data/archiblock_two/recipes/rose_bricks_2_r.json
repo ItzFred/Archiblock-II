@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "archiblock_two:rose_quartz_bricks"
+    }
+  ],
+  "result": {
+    "item": "archiblock_two:rose_quartz_bricks_2",
+    "count": 1
+  }
+}

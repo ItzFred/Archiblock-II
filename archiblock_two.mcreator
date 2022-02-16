@@ -1527,7 +1527,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "clay_shingles_slab",
-      "path": "~/OtherBlocks/Bricks/Normal"
+      "path": "~/OtherBlocks/Bricks"
     },
     {
       "name": "SlantedClayShinglesR",
@@ -1545,7 +1545,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "big_clay_bricks",
-      "path": "~/OtherBlocks/Bricks/Normal"
+      "path": "~/OtherBlocks/Bricks"
     },
     {
       "name": "SlantedShinglesSideR",
@@ -1563,7 +1563,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "clay_brick_tiles",
-      "path": "~/OtherBlocks/Bricks/Normal"
+      "path": "~/OtherBlocks/Bricks"
     },
     {
       "name": "SmallClayBrickTiles",
@@ -1572,7 +1572,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "small_clay_brick_tiles",
-      "path": "~/OtherBlocks/Bricks/Normal"
+      "path": "~/OtherBlocks/Bricks"
     },
     {
       "name": "BigClayBricksR",
@@ -1599,7 +1599,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "slanted_clay_shingles",
-      "path": "~/OtherBlocks/Bricks/Normal"
+      "path": "~/OtherBlocks/Bricks"
     },
     {
       "name": "SmallClayBrickTilesR",
@@ -1617,7 +1617,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "clay_shingles",
-      "path": "~/OtherBlocks/Bricks/Normal"
+      "path": "~/OtherBlocks/Bricks"
     },
     {
       "name": "SlantedShinglesSide",
@@ -1626,7 +1626,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "slanted_shingles_side",
-      "path": "~/OtherBlocks/Bricks/Normal"
+      "path": "~/OtherBlocks/Bricks"
     },
     {
       "name": "ClayBrickTilesR",
@@ -1653,7 +1653,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "clay_brick_pavement",
-      "path": "~/OtherBlocks/Bricks/Normal"
+      "path": "~/OtherBlocks/Bricks"
     },
     {
       "name": "ClayBrickBlock",
@@ -1662,7 +1662,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "clay_brick_block",
-      "path": "~/OtherBlocks/Bricks/Normal"
+      "path": "~/OtherBlocks/Bricks"
     },
     {
       "name": "ObsidianBrickWallR",
@@ -6220,105 +6220,6 @@
       "path": "~/OtherBlocks/Bricks/Red"
     },
     {
-      "name": "RedClayBrickTiles",
-      "type": "block",
-      "sortid": 689,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "red_clay_brick_tiles",
-      "path": "~/OtherBlocks/Bricks/Red"
-    },
-    {
-      "name": "RedClayBrickSmallTiles",
-      "type": "block",
-      "sortid": 690,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "red_clay_brick_small_tiles",
-      "path": "~/OtherBlocks/Bricks/Red"
-    },
-    {
-      "name": "RedSlantedShinglesSide",
-      "type": "block",
-      "sortid": 691,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "red_slanted_shingles_side",
-      "path": "~/OtherBlocks/Bricks/Red"
-    },
-    {
-      "name": "BlueSlantedShinglesSide",
-      "type": "block",
-      "sortid": 692,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "blue_slanted_shingles_side",
-      "path": "~/OtherBlocks/Bricks/Blue"
-    },
-    {
-      "name": "RedSlantedClayShingles",
-      "type": "block",
-      "sortid": 693,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "red_slanted_clay_shingles",
-      "path": "~/OtherBlocks/Bricks/Red"
-    },
-    {
-      "name": "BlueSlantedClayShingles",
-      "type": "block",
-      "sortid": 694,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "blue_slanted_clay_shingles",
-      "path": "~/OtherBlocks/Bricks/Blue"
-    },
-    {
-      "name": "RedClayShingles",
-      "type": "block",
-      "sortid": 695,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "red_clay_shingles",
-      "path": "~/OtherBlocks/Bricks/Red"
-    },
-    {
-      "name": "BlueClayShingles",
-      "type": "block",
-      "sortid": 696,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "blue_clay_shingles",
-      "path": "~/OtherBlocks/Bricks/Blue"
-    },
-    {
-      "name": "RedClayBrickPavement",
-      "type": "block",
-      "sortid": 697,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "red_clay_brick_pavement",
-      "path": "~/OtherBlocks/Bricks/Red"
-    },
-    {
-      "name": "RedClayShinglesSlab",
-      "type": "block",
-      "sortid": 698,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "red_clay_shingles_slab",
-      "path": "~/OtherBlocks/Bricks/Red"
-    },
-    {
-      "name": "BlueClayBrickBlock",
-      "type": "block",
-      "sortid": 699,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "blue_clay_brick_block",
-      "path": "~/OtherBlocks/Bricks/Blue"
-    },
-    {
       "name": "BlueBigClayBricks",
       "type": "block",
       "sortid": 700,
@@ -6326,123 +6227,6 @@
       "locked_code": false,
       "registry_name": "blue_big_clay_bricks",
       "path": "~/OtherBlocks/Bricks/Blue"
-    },
-    {
-      "name": "BlueClayBrickTiles",
-      "type": "block",
-      "sortid": 701,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "blue_clay_brick_tiles",
-      "path": "~/OtherBlocks/Bricks/Blue"
-    },
-    {
-      "name": "BlueClayBrickSmallTiles",
-      "type": "block",
-      "sortid": 702,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "blue_clay_brick_small_tiles",
-      "path": "~/OtherBlocks/Bricks/Blue"
-    },
-    {
-      "name": "BlueClayBrickPavement",
-      "type": "block",
-      "sortid": 703,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "blue_clay_brick_pavement",
-      "path": "~/OtherBlocks/Bricks/Blue"
-    },
-    {
-      "name": "BlueClayShingleSlab",
-      "type": "block",
-      "sortid": 704,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "blue_clay_shingle_slab",
-      "path": "~/OtherBlocks/Bricks/Blue"
-    },
-    {
-      "name": "RedClayBrickPavementR",
-      "type": "recipe",
-      "sortid": 705,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "red_clay_brick_pavement_r",
-      "path": "~/OtherBlocks/Bricks/Recipes"
-    },
-    {
-      "name": "RedClayShinglesR",
-      "type": "recipe",
-      "sortid": 706,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "red_clay_shingles_r",
-      "path": "~/OtherBlocks/Bricks/Recipes"
-    },
-    {
-      "name": "RedSlantedClayShinglesR",
-      "type": "recipe",
-      "sortid": 707,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "red_slanted_clay_shingles_r",
-      "path": "~/OtherBlocks/Bricks/Recipes"
-    },
-    {
-      "name": "RedSlantedClayShinglesSideR",
-      "type": "recipe",
-      "sortid": 708,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "red_slanted_clay_shingles_side_r",
-      "path": "~/OtherBlocks/Bricks/Recipes"
-    },
-    {
-      "name": "RedBigClayBricksR",
-      "type": "recipe",
-      "sortid": 709,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "red_big_clay_bricks_r",
-      "path": "~/OtherBlocks/Bricks/Recipes"
-    },
-    {
-      "name": "RedClayBrickBlockR",
-      "type": "recipe",
-      "sortid": 710,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "red_clay_brick_block_r",
-      "path": "~/OtherBlocks/Bricks/Recipes"
-    },
-    {
-      "name": "RedSmallClayBrickTilesR",
-      "type": "recipe",
-      "sortid": 711,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "red_small_clay_brick_tiles_r",
-      "path": "~/OtherBlocks/Bricks/Recipes"
-    },
-    {
-      "name": "RedClayBrickTilesR",
-      "type": "recipe",
-      "sortid": 712,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "red_clay_brick_tiles_r",
-      "path": "~/OtherBlocks/Bricks/Recipes"
-    },
-    {
-      "name": "RedClayShinglesSlabR",
-      "type": "recipe",
-      "sortid": 713,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "red_clay_shingles_slab_r",
-      "path": "~/OtherBlocks/Bricks/Recipes"
     },
     {
       "name": "BlueClayBrickPavementR",
@@ -6463,39 +6247,39 @@
       "path": "~/OtherBlocks/Bricks/Recipes"
     },
     {
-      "name": "BlueSlantedClayShinglesR",
-      "type": "recipe",
-      "sortid": 716,
+      "name": "RedClayBrickTiles",
+      "type": "block",
+      "sortid": 689,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "blue_slanted_clay_shingles_r",
+      "registry_name": "red_clay_brick_tiles",
+      "path": "~/OtherBlocks/Bricks/Red"
+    },
+    {
+      "name": "RedClayBrickTilesR",
+      "type": "recipe",
+      "sortid": 712,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_clay_brick_tiles_r",
       "path": "~/OtherBlocks/Bricks/Recipes"
     },
     {
-      "name": "BlueSlantedClayShinglesSideR",
-      "type": "recipe",
-      "sortid": 717,
+      "name": "RedClayShingles",
+      "type": "block",
+      "sortid": 695,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "blue_slanted_clay_shingles_side_r",
-      "path": "~/OtherBlocks/Bricks/Recipes"
+      "registry_name": "red_clay_shingles",
+      "path": "~/OtherBlocks/Bricks/Red"
     },
     {
-      "name": "BlueBigClayBricksR",
+      "name": "RedBigClayBricksR",
       "type": "recipe",
-      "sortid": 718,
+      "sortid": 709,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "blue_big_clay_bricks_r",
-      "path": "~/OtherBlocks/Bricks/Recipes"
-    },
-    {
-      "name": "BlueClayBrickBlockR",
-      "type": "recipe",
-      "sortid": 719,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "blue_clay_brick_block_r",
+      "registry_name": "red_big_clay_bricks_r",
       "path": "~/OtherBlocks/Bricks/Recipes"
     },
     {
@@ -6508,13 +6292,103 @@
       "path": "~/OtherBlocks/Bricks/Recipes"
     },
     {
-      "name": "BlueClayBrickSmallTilesR",
+      "name": "RedClayBrickBlockR",
       "type": "recipe",
-      "sortid": 721,
+      "sortid": 710,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "blue_clay_brick_small_tiles_r",
+      "registry_name": "red_clay_brick_block_r",
       "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "BlueSlantedClayShinglesSideR",
+      "type": "recipe",
+      "sortid": 717,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_slanted_clay_shingles_side_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "BlueClayBrickBlock",
+      "type": "block",
+      "sortid": 699,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_clay_brick_block",
+      "path": "~/OtherBlocks/Bricks/Blue"
+    },
+    {
+      "name": "BlueClayBrickBlockR",
+      "type": "recipe",
+      "sortid": 719,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_clay_brick_block_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "RedClayShinglesSlabR",
+      "type": "recipe",
+      "sortid": 713,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_clay_shingles_slab_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "BlueSlantedClayShingles",
+      "type": "block",
+      "sortid": 694,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_slanted_clay_shingles",
+      "path": "~/OtherBlocks/Bricks/Blue"
+    },
+    {
+      "name": "RedSlantedClayShinglesR",
+      "type": "recipe",
+      "sortid": 707,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_slanted_clay_shingles_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "RedClayShinglesR",
+      "type": "recipe",
+      "sortid": 706,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_clay_shingles_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "RedClayBrickPavement",
+      "type": "block",
+      "sortid": 697,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_clay_brick_pavement",
+      "path": "~/OtherBlocks/Bricks/Red"
+    },
+    {
+      "name": "BlueClayBrickSmallTiles",
+      "type": "block",
+      "sortid": 702,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_clay_brick_small_tiles",
+      "path": "~/OtherBlocks/Bricks/Blue"
+    },
+    {
+      "name": "BlueClayBrickPavement",
+      "type": "block",
+      "sortid": 703,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_clay_brick_pavement",
+      "path": "~/OtherBlocks/Bricks/Blue"
     },
     {
       "name": "BlueClayShinglesSlabR",
@@ -6524,6 +6398,388 @@
       "locked_code": false,
       "registry_name": "blue_clay_shingles_slab_r",
       "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "BlueSlantedClayShinglesR",
+      "type": "recipe",
+      "sortid": 716,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_slanted_clay_shingles_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "BlueBigClayBricksR",
+      "type": "recipe",
+      "sortid": 718,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_big_clay_bricks_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "BlueSlantedShinglesSide",
+      "type": "block",
+      "sortid": 692,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_slanted_shingles_side",
+      "path": "~/OtherBlocks/Bricks/Blue"
+    },
+    {
+      "name": "RedSlantedShinglesSide",
+      "type": "block",
+      "sortid": 691,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_slanted_shingles_side",
+      "path": "~/OtherBlocks/Bricks/Red"
+    },
+    {
+      "name": "RedSmallClayBrickTilesR",
+      "type": "recipe",
+      "sortid": 711,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_small_clay_brick_tiles_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "BlueClayBrickTiles",
+      "type": "block",
+      "sortid": 701,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_clay_brick_tiles",
+      "path": "~/OtherBlocks/Bricks/Blue"
+    },
+    {
+      "name": "RedClayShinglesSlab",
+      "type": "block",
+      "sortid": 698,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_clay_shingles_slab",
+      "path": "~/OtherBlocks/Bricks/Red"
+    },
+    {
+      "name": "BlueClayShingleSlab",
+      "type": "block",
+      "sortid": 704,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_clay_shingle_slab",
+      "path": "~/OtherBlocks/Bricks/Blue"
+    },
+    {
+      "name": "RedSlantedClayShinglesSideR",
+      "type": "recipe",
+      "sortid": 708,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_slanted_clay_shingles_side_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "RedClayBrickPavementR",
+      "type": "recipe",
+      "sortid": 705,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_clay_brick_pavement_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "RedClayBrickSmallTiles",
+      "type": "block",
+      "sortid": 690,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_clay_brick_small_tiles",
+      "path": "~/OtherBlocks/Bricks/Red"
+    },
+    {
+      "name": "RedSlantedClayShingles",
+      "type": "block",
+      "sortid": 693,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_slanted_clay_shingles",
+      "path": "~/OtherBlocks/Bricks/Red"
+    },
+    {
+      "name": "BlueClayBrickSmallTilesR",
+      "type": "recipe",
+      "sortid": 721,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_clay_brick_small_tiles_r",
+      "path": "~/OtherBlocks/Bricks/Recipes"
+    },
+    {
+      "name": "BlueClayShingles",
+      "type": "block",
+      "sortid": 696,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_clay_shingles",
+      "path": "~/OtherBlocks/Bricks/Blue"
+    },
+    {
+      "name": "SmokyQuartzBricks",
+      "type": "block",
+      "sortid": 689,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smoky_quartz_bricks"
+    },
+    {
+      "name": "SmokyWall2",
+      "type": "block",
+      "sortid": 703,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smoky_wall_2"
+    },
+    {
+      "name": "RoseBrickWall2",
+      "type": "block",
+      "sortid": 699,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rose_brick_wall_2"
+    },
+    {
+      "name": "SmokyBricks2R",
+      "type": "recipe",
+      "sortid": 707,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smoky_bricks_2_r"
+    },
+    {
+      "name": "SmokyBrickWall2R",
+      "type": "recipe",
+      "sortid": 713,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smoky_brick_wall_2_r"
+    },
+    {
+      "name": "RoseBrickSlab2",
+      "type": "block",
+      "sortid": 698,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rose_brick_slab_2"
+    },
+    {
+      "name": "RoseBrickStairs2",
+      "type": "block",
+      "sortid": 697,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rose_brick_stairs_2"
+    },
+    {
+      "name": "SmokyBrickStairs",
+      "type": "block",
+      "sortid": 693,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smoky_brick_stairs"
+    },
+    {
+      "name": "RoseQuartzBricks",
+      "type": "block",
+      "sortid": 688,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rose_quartz_bricks"
+    },
+    {
+      "name": "SmokyBrickWall",
+      "type": "block",
+      "sortid": 695,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smoky_brick_wall"
+    },
+    {
+      "name": "RoseBricksR",
+      "type": "recipe",
+      "sortid": 704,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rose_bricks_r"
+    },
+    {
+      "name": "SmokyBrickStairs2R",
+      "type": "recipe",
+      "sortid": 711,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smoky_brick_stairs_2_r"
+    },
+    {
+      "name": "SmokySlab2",
+      "type": "block",
+      "sortid": 702,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smoky_slab_2"
+    },
+    {
+      "name": "SmokyBrickWallR",
+      "type": "recipe",
+      "sortid": 710,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smoky_brick_wall_r"
+    },
+    {
+      "name": "RoseBrickStairs2R",
+      "type": "recipe",
+      "sortid": 717,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rose_brick_stairs_2_r"
+    },
+    {
+      "name": "SmokyBrickStairsR",
+      "type": "recipe",
+      "sortid": 708,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smoky_brick_stairs_r"
+    },
+    {
+      "name": "SmokyBrickSlab",
+      "type": "block",
+      "sortid": 694,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smoky_brick_slab"
+    },
+    {
+      "name": "RoseBrickSlab",
+      "type": "block",
+      "sortid": 691,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rose_brick_slab"
+    },
+    {
+      "name": "RoseBrickWallR",
+      "type": "recipe",
+      "sortid": 716,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rose_brick_wall_r"
+    },
+    {
+      "name": "SmokyBricksR",
+      "type": "recipe",
+      "sortid": 706,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smoky_bricks_r"
+    },
+    {
+      "name": "RoseBrickSlabR",
+      "type": "recipe",
+      "sortid": 715,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rose_brick_slab_r"
+    },
+    {
+      "name": "RoseQuartzBricks2",
+      "type": "block",
+      "sortid": 696,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rose_quartz_bricks_2"
+    },
+    {
+      "name": "SmokyBrickSlab2R",
+      "type": "recipe",
+      "sortid": 712,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smoky_brick_slab_2_r"
+    },
+    {
+      "name": "RoseBrickStairsR",
+      "type": "recipe",
+      "sortid": 714,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rose_brick_stairs_r"
+    },
+    {
+      "name": "RoseBrickWall2R",
+      "type": "recipe",
+      "sortid": 719,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rose_brick_wall_2_r"
+    },
+    {
+      "name": "SmokyQuartzBricks2",
+      "type": "block",
+      "sortid": 700,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smoky_quartz_bricks_2"
+    },
+    {
+      "name": "RoseBricks2R",
+      "type": "recipe",
+      "sortid": 705,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rose_bricks_2_r"
+    },
+    {
+      "name": "RoseBrickWall",
+      "type": "block",
+      "sortid": 692,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rose_brick_wall"
+    },
+    {
+      "name": "SmokyBrickSlabR",
+      "type": "recipe",
+      "sortid": 709,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smoky_brick_slab_r"
+    },
+    {
+      "name": "RoseQuartzBrickStairs",
+      "type": "block",
+      "sortid": 690,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rose_quartz_brick_stairs"
+    },
+    {
+      "name": "SmokyStairs2",
+      "type": "block",
+      "sortid": 701,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smoky_stairs_2"
+    },
+    {
+      "name": "RoseBrickSlab2R",
+      "type": "recipe",
+      "sortid": 718,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rose_brick_slab_2_r"
     }
   ],
   "variable_elements": [],
@@ -6932,11 +7188,11 @@
             "name": "Bricks",
             "children": [
               {
-                "name": "Recipes",
+                "name": "Blue",
                 "children": []
               },
               {
-                "name": "Normal",
+                "name": "Recipes",
                 "children": []
               },
               {
@@ -6944,7 +7200,7 @@
                 "children": []
               },
               {
-                "name": "Blue",
+                "name": "Normal",
                 "children": []
               }
             ]
@@ -7002,6 +7258,15 @@
         ]
       },
       {
+        "name": "Nature",
+        "children": [
+          {
+            "name": "Roses",
+            "children": []
+          }
+        ]
+      },
+      {
         "name": "Tags",
         "children": []
       },
@@ -7052,15 +7317,6 @@
                 "children": []
               }
             ]
-          }
-        ]
-      },
-      {
-        "name": "Nature",
-        "children": [
-          {
-            "name": "Roses",
-            "children": []
           }
         ]
       }
