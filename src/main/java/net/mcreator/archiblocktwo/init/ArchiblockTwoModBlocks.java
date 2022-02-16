@@ -166,6 +166,8 @@ import net.mcreator.archiblocktwo.block.GraniteBricksBlock;
 import net.mcreator.archiblocktwo.block.GraniteBrickWallBlock;
 import net.mcreator.archiblocktwo.block.GraniteBrickStairsBlock;
 import net.mcreator.archiblocktwo.block.GraniteBrickSlabBlock;
+import net.mcreator.archiblocktwo.block.GlowingEyesRoundStareBlock;
+import net.mcreator.archiblocktwo.block.GlowingEyesRoundBlinkBlock;
 import net.mcreator.archiblocktwo.block.GlowingEyesDotsBlock;
 import net.mcreator.archiblocktwo.block.FancyDioritePillarBlock;
 import net.mcreator.archiblocktwo.block.DioriteTilesBlock;
@@ -488,6 +490,8 @@ public class ArchiblockTwoModBlocks {
 	public static final Block SNOWY_STONE_PILLAR = register(new SnowyStonePillarBlock());
 	public static final Block SIDE_SNOWY_STONE_PILLAR = register(new SideSnowyStonePillarBlock());
 	public static final Block GLOWING_EYES_DOTS = register(new GlowingEyesDotsBlock());
+	public static final Block GLOWING_EYES_ROUND_BLINK = register(new GlowingEyesRoundBlinkBlock());
+	public static final Block GLOWING_EYES_ROUND_STARE = register(new GlowingEyesRoundStareBlock());
 
 	private static Block register(Block block) {
 		REGISTRY.add(block);

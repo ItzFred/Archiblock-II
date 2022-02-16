@@ -5,7 +5,7 @@
     "texture": "empty",
     "textureTop": "empty",
     "textureLeft": "empty",
-    "textureFront": "glowingeyesdots",
+    "textureFront": "roundeyesstare",
     "textureRight": "empty",
     "textureBack": "empty",
     "renderType": 10,
@@ -32,9 +32,9 @@
         "subtract": false
       }
     ],
-    "name": "Small Glowing Eyes",
+    "name": "Round Glowing Eyes",
     "specialInfo": [
-      "§7 Blink"
+      "§7 Stare"
     ],
     "hardness": 1.0,
     "resistance": 10.0,

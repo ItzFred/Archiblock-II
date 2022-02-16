@@ -310,6 +310,10 @@ public class ArchiblockTwoModItems {
 	public static final Item SNOWY_STONE_PILLAR = register(ArchiblockTwoModBlocks.SNOWY_STONE_PILLAR, null);
 	public static final Item SIDE_SNOWY_STONE_PILLAR = register(ArchiblockTwoModBlocks.SIDE_SNOWY_STONE_PILLAR, null);
 	public static final Item GLOWING_EYES_DOTS = register(ArchiblockTwoModBlocks.GLOWING_EYES_DOTS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item GLOWING_EYES_ROUND_BLINK = register(ArchiblockTwoModBlocks.GLOWING_EYES_ROUND_BLINK,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item GLOWING_EYES_ROUND_STARE = register(ArchiblockTwoModBlocks.GLOWING_EYES_ROUND_STARE,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

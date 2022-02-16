@@ -24,14 +24,14 @@ import net.minecraft.core.BlockPos;
 import java.util.List;
 import java.util.Collections;
 
-public class GlowingEyesDotsBlock extends Block {
+public class GlowingEyesRoundBlinkBlock extends Block {
 	public static final DirectionProperty FACING = HorizontalDirectionalBlock.FACING;
 
-	public GlowingEyesDotsBlock() {
+	public GlowingEyesRoundBlinkBlock() {
 		super(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.SHROOMLIGHT).strength(1f, 10f).hasPostProcess((bs, br, bp) -> true)
 				.emissiveRendering((bs, br, bp) -> true));
 		this.registerDefaultState(this.stateDefinition.any().setValue(FACING, Direction.NORTH));
-		setRegistryName("glowing_eyes_dots");
+		setRegistryName("glowing_eyes_round_blink");
 	}
 
 	@Override

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "archiblock_two:blocks/empty",
+    "up": "archiblock_two:blocks/empty",
+    "north": "archiblock_two:blocks/roundeyesblink",
+    "east": "archiblock_two:blocks/empty",
+    "south": "archiblock_two:blocks/empty",
+    "west": "archiblock_two:blocks/empty",
+    "particle": "archiblock_two:blocks/empty"
+  }
+}

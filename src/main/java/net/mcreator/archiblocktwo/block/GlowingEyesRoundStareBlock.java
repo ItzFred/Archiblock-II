@@ -24,20 +24,20 @@ import net.minecraft.core.BlockPos;
 import java.util.List;
 import java.util.Collections;
 
-public class GlowingEyesDotsBlock extends Block {
+public class GlowingEyesRoundStareBlock extends Block {
 	public static final DirectionProperty FACING = HorizontalDirectionalBlock.FACING;
 
-	public GlowingEyesDotsBlock() {
+	public GlowingEyesRoundStareBlock() {
 		super(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.SHROOMLIGHT).strength(1f, 10f).hasPostProcess((bs, br, bp) -> true)
 				.emissiveRendering((bs, br, bp) -> true));
 		this.registerDefaultState(this.stateDefinition.any().setValue(FACING, Direction.NORTH));
-		setRegistryName("glowing_eyes_dots");
+		setRegistryName("glowing_eyes_round_stare");
 	}
 
 	@Override
 	public void appendHoverText(ItemStack itemstack, BlockGetter world, List<Component> list, TooltipFlag flag) {
 		super.appendHoverText(itemstack, world, list, flag);
-		list.add(new TextComponent("\u00A77 Blink"));
+		list.add(new TextComponent("\u00A77 Stare"));
 	}
 
 	@Override
