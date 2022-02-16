@@ -347,6 +347,9 @@ public class ArchiblockTwoModItems {
 	public static final Item PINK_NEON_BLOCK = register(ArchiblockTwoModBlocks.PINK_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item BROWN_NEON_BLOCK = register(ArchiblockTwoModBlocks.BROWN_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item GREEN_NEON_BLOCK = register(ArchiblockTwoModBlocks.GREEN_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item LUSH_TWILIGHT_BLOCK = register(ArchiblockTwoModBlocks.LUSH_TWILIGHT_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TWILIGHT_BLOCK = register(ArchiblockTwoModBlocks.TWILIGHT_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TWILIGHTWAVE_BLOCK = register(ArchiblockTwoModBlocks.TWILIGHTWAVE_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

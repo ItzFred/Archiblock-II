@@ -66,6 +66,7 @@ import net.mcreator.archiblocktwo.block.TwilightwaveBricksBlock;
 import net.mcreator.archiblocktwo.block.TwilightwaveBrickWallBlock;
 import net.mcreator.archiblocktwo.block.TwilightwaveBrickStairsBlock;
 import net.mcreator.archiblocktwo.block.TwilightwaveBrickSlabBlock;
+import net.mcreator.archiblocktwo.block.TwilightwaveBlockBlock;
 import net.mcreator.archiblocktwo.block.TwilightTilesBlock;
 import net.mcreator.archiblocktwo.block.TwilightPillarTopBlock;
 import net.mcreator.archiblocktwo.block.TwilightPillarBlock;
@@ -74,6 +75,7 @@ import net.mcreator.archiblocktwo.block.TwilightBricksBlock;
 import net.mcreator.archiblocktwo.block.TwilightBrickWallBlock;
 import net.mcreator.archiblocktwo.block.TwilightBrickStairsBlock;
 import net.mcreator.archiblocktwo.block.TwilightBrickSlabBlock;
+import net.mcreator.archiblocktwo.block.TwilightBlockBlock;
 import net.mcreator.archiblocktwo.block.TopazTilesBlock;
 import net.mcreator.archiblocktwo.block.TopazStoneOreBlock;
 import net.mcreator.archiblocktwo.block.TopazPillarsBlock;
@@ -167,6 +169,7 @@ import net.mcreator.archiblocktwo.block.LushTwilightBricksBlock;
 import net.mcreator.archiblocktwo.block.LushTwilightBrickWallBlock;
 import net.mcreator.archiblocktwo.block.LushTwilightBrickStairsBlock;
 import net.mcreator.archiblocktwo.block.LushTwilightBrickSlabBlock;
+import net.mcreator.archiblocktwo.block.LushTwilightBlockBlock;
 import net.mcreator.archiblocktwo.block.LimeSpoolBlock;
 import net.mcreator.archiblocktwo.block.LimeNeonBlockBlock;
 import net.mcreator.archiblocktwo.block.LightGraySpoolBlock;
@@ -544,6 +547,9 @@ public class ArchiblockTwoModBlocks {
 	public static final Block PINK_NEON_BLOCK = register(new PinkNeonBlockBlock());
 	public static final Block BROWN_NEON_BLOCK = register(new BrownNeonBlockBlock());
 	public static final Block GREEN_NEON_BLOCK = register(new GreenNeonBlockBlock());
+	public static final Block LUSH_TWILIGHT_BLOCK = register(new LushTwilightBlockBlock());
+	public static final Block TWILIGHT_BLOCK = register(new TwilightBlockBlock());
+	public static final Block TWILIGHTWAVE_BLOCK = register(new TwilightwaveBlockBlock());
 
 	private static Block register(Block block) {
 		REGISTRY.add(block);

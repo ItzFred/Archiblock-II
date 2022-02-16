@@ -5806,6 +5806,60 @@
       "locked_code": false,
       "registry_name": "brown_neon_block_r",
       "path": "~/OtherBlocks/Pitchdark Block Family/Neon/Recipes"
+    },
+    {
+      "name": "LushTwilightBlock",
+      "type": "block",
+      "sortid": 638,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lush_twilight_block",
+      "path": "~/OtherBlocks/Twilight/Lush"
+    },
+    {
+      "name": "TwilightBlock",
+      "type": "block",
+      "sortid": 639,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilight_block",
+      "path": "~/OtherBlocks/Twilight/Normal"
+    },
+    {
+      "name": "TwilightBlockR",
+      "type": "recipe",
+      "sortid": 640,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilight_block_r",
+      "path": "~/OtherBlocks/Twilight/Normal/Recipes"
+    },
+    {
+      "name": "LushTwilightBlockR",
+      "type": "recipe",
+      "sortid": 641,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lush_twilight_block_r",
+      "path": "~/OtherBlocks/Twilight/Lush/Recipes"
+    },
+    {
+      "name": "TwilightwaveBlock",
+      "type": "block",
+      "sortid": 642,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilightwave_block",
+      "path": "~/OtherBlocks/Twilight/Twilightwave"
+    },
+    {
+      "name": "TwilightwaveBlockR",
+      "type": "recipe",
+      "sortid": 643,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilightwave_block_r",
+      "path": "~/OtherBlocks/Twilight/Twilightwave/Recipes"
     }
   ],
   "variable_elements": [],
@@ -5929,8 +5983,10 @@
       "block.archiblock_two.orange_spool": "Orange Spool",
       "block.archiblock_two.lush_twilight_tiles": "Lush Twilight Tiles",
       "block.archiblock_two.woven_birch_basket": "Woven Birch Basket",
+      "block.archiblock_two.twilight_block": "Twilight Block",
       "block.archiblock_two.granite_bricks": "Granite Bricks",
       "block.archiblock_two.snowy_stone_bricks": "Snowy Stone Bricks",
+      "block.archiblock_two.lush_twilight_block": "Lush Twilight Block",
       "block.archiblock_two.cut_stone_wall": "Cut Stone Wall",
       "block.archiblock_two.topaz_granite_ore": "Topaz Granite Ore",
       "block.archiblock_two.chiselled_granite": "Chiselled Granite",
@@ -6057,6 +6113,7 @@
       "block.archiblock_two.warped_basket_podzol": "Podzol Filled Woven Warped Basket",
       "block.archiblock_two.dark_oak_basket_mycelium": "Mycelium Filled Woven Dark Oak Basket",
       "block.archiblock_two.small_stone_bricks": "Small Stone Bricks",
+      "block.archiblock_two.twilightwave_block": "Twilightwave Block",
       "block.archiblock_two.twilightwave_brick_wall": "Twilightwave Brick Wall",
       "block.archiblock_two.yellow_spool": "Yellow Spool",
       "block.archiblock_two.magenta_neon_block": "Magenta Neon Block",

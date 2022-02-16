@@ -5,8 +5,8 @@
     "recipeType": "Crafting",
     "xpReward": 0.0,
     "cookingTime": 200,
-    "recipeRetstackSize": 2,
-    "group": "twilightwave_pillar",
+    "recipeRetstackSize": 1,
+    "group": "lush_twilight_block",
     "recipeShapeless": false,
     "recipeSlots": [
       {
@@ -22,25 +22,25 @@
         "value": ""
       },
       {
-        "value": "CUSTOM:TwilightwaveBlock"
+        "value": "CUSTOM:LushTwilightShard"
+      },
+      {
+        "value": "CUSTOM:LushTwilightShard"
       },
       {
         "value": ""
       },
       {
-        "value": ""
+        "value": "CUSTOM:LushTwilightShard"
       },
       {
-        "value": "CUSTOM:TwilightwaveBlock"
-      },
-      {
-        "value": ""
+        "value": "CUSTOM:LushTwilightShard"
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:TwilightwavePillar"
+      "value": "CUSTOM:LushTwilightBlock"
     },
-    "name": "twilightwave_pillar_r",
+    "name": "lush_twilight_block_r",
     "namespace": "mod"
   }
 }

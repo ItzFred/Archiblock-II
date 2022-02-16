@@ -32,6 +32,7 @@ import net.mcreator.archiblocktwo.world.features.plants.ButtermilkRoseBushFeatur
 import net.mcreator.archiblocktwo.world.features.plants.BlushRoseShrubFeature;
 import net.mcreator.archiblocktwo.world.features.plants.BlushRoseFeature;
 import net.mcreator.archiblocktwo.world.features.plants.BlushRoseBushFeature;
+import net.mcreator.archiblocktwo.world.features.ores.TwilightBlockFeature;
 import net.mcreator.archiblocktwo.world.features.ores.TopazStoneOreFeature;
 import net.mcreator.archiblocktwo.world.features.ores.TopazGraniteOreFeature;
 import net.mcreator.archiblocktwo.world.features.ores.SugiliteOreFeature;
@@ -97,6 +98,8 @@ public class ArchiblockTwoModFeatures {
 				SugiliteOreFeature.GENERATE_BIOMES, SugiliteOreFeature.CONFIGURED_FEATURE));
 		REGISTRY.put(RawTwilightBlockFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES,
 				RawTwilightBlockFeature.GENERATE_BIOMES, RawTwilightBlockFeature.CONFIGURED_FEATURE));
+		REGISTRY.put(TwilightBlockFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES,
+				TwilightBlockFeature.GENERATE_BIOMES, TwilightBlockFeature.CONFIGURED_FEATURE));
 	}
 
 	@SubscribeEvent
