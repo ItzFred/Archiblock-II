@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:smoky_quartz_bricks_2"
+    },
+    "1": {
+      "item": "archiblock_two:smoky_quartz_bricks_2"
+    },
+    "2": {
+      "item": "archiblock_two:smoky_quartz_bricks_2"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:smoky_slab_2",
+    "count": 6
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:rose_quartz_bricks_2"
+    },
+    "1": {
+      "item": "archiblock_two:rose_quartz_bricks_2"
+    },
+    "2": {
+      "item": "archiblock_two:rose_quartz_bricks_2"
+    },
+    "3": {
+      "item": "archiblock_two:rose_quartz_bricks_2"
+    },
+    "4": {
+      "item": "archiblock_two:rose_quartz_bricks_2"
+    },
+    "5": {
+      "item": "archiblock_two:rose_quartz_bricks_2"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:rose_brick_wall_2",
+    "count": 3
+  }
+}

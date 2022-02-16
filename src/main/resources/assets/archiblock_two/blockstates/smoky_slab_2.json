@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "archiblock_two:block/smoky_slab_2"
+    },
+    "type=top": {
+      "model": "archiblock_two:block/smoky_slab_2_top"
+    },
+    "type=double": {
+      "model": "archiblock_two:block/smoky_slab_2_full"
+    }
+  }
+}
