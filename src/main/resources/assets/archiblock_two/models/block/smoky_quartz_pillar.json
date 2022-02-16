@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "archiblock_two:blocks/smokyquartzpillartop",
+    "up": "archiblock_two:blocks/smokyquartzpillartop",
+    "north": "archiblock_two:blocks/smokyquartzpillar",
+    "east": "archiblock_two:blocks/smokyquartzpillar",
+    "south": "archiblock_two:blocks/smokyquartzpillar",
+    "west": "archiblock_two:blocks/smokyquartzpillar",
+    "particle": "archiblock_two:blocks/smokyquartzpillartop"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SmokyQuartzBlock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SmokyQuartzBlock"
+      },
+      {
+        "value": "CUSTOM:SmokyQuartzBlock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SmokyQuartzBlock"
+      },
+      {
+        "value": "CUSTOM:SmokyQuartzBlock"
+      },
+      {
+        "value": "CUSTOM:SmokyQuartzBlock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SmokyQuartzStairs"
+    },
+    "name": "smoky_quartz_stairs_r",
+    "namespace": "mod"
+  }
+}
