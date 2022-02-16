@@ -1527,7 +1527,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "clay_shingles_slab",
-      "path": "~/OtherBlocks/Bricks"
+      "path": "~/OtherBlocks/Bricks/Normal"
     },
     {
       "name": "SlantedClayShinglesR",
@@ -1545,7 +1545,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "big_clay_bricks",
-      "path": "~/OtherBlocks/Bricks"
+      "path": "~/OtherBlocks/Bricks/Normal"
     },
     {
       "name": "SlantedShinglesSideR",
@@ -1563,7 +1563,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "clay_brick_tiles",
-      "path": "~/OtherBlocks/Bricks"
+      "path": "~/OtherBlocks/Bricks/Normal"
     },
     {
       "name": "SmallClayBrickTiles",
@@ -1572,7 +1572,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "small_clay_brick_tiles",
-      "path": "~/OtherBlocks/Bricks"
+      "path": "~/OtherBlocks/Bricks/Normal"
     },
     {
       "name": "BigClayBricksR",
@@ -1599,7 +1599,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "slanted_clay_shingles",
-      "path": "~/OtherBlocks/Bricks"
+      "path": "~/OtherBlocks/Bricks/Normal"
     },
     {
       "name": "SmallClayBrickTilesR",
@@ -1617,7 +1617,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "clay_shingles",
-      "path": "~/OtherBlocks/Bricks"
+      "path": "~/OtherBlocks/Bricks/Normal"
     },
     {
       "name": "SlantedShinglesSide",
@@ -1626,7 +1626,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "slanted_shingles_side",
-      "path": "~/OtherBlocks/Bricks"
+      "path": "~/OtherBlocks/Bricks/Normal"
     },
     {
       "name": "ClayBrickTilesR",
@@ -1653,7 +1653,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "clay_brick_pavement",
-      "path": "~/OtherBlocks/Bricks"
+      "path": "~/OtherBlocks/Bricks/Normal"
     },
     {
       "name": "ClayBrickBlock",
@@ -1662,7 +1662,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "clay_brick_block",
-      "path": "~/OtherBlocks/Bricks"
+      "path": "~/OtherBlocks/Bricks/Normal"
     },
     {
       "name": "ObsidianBrickWallR",
@@ -5860,6 +5860,15 @@
       "locked_code": false,
       "registry_name": "twilightwave_block_r",
       "path": "~/OtherBlocks/Twilight/Twilightwave/Recipes"
+    },
+    {
+      "name": "RedBigClayBricks",
+      "type": "block",
+      "sortid": 644,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_big_clay_bricks",
+      "path": "~/OtherBlocks/Bricks/Red"
     }
   ],
   "variable_elements": [],
@@ -5933,6 +5942,7 @@
       "item.archiblock_two.sus": "Pandora Anamiya - Ass",
       "block.archiblock_two.rose_shrub": "Rose Shrub",
       "block.archiblock_two.sugilite_bricks": "Sugilite Bricks",
+      "block.archiblock_two.red_big_clay_bricks": "Big Clay Bricks",
       "block.archiblock_two.woven_basket_mycelium": "Mycelium Filled Woven Basket",
       "block.archiblock_two.clay_brick_tiles": "Clay Brick Tiles",
       "block.archiblock_two.granite_pillar": "Granite Pillar",
@@ -6225,6 +6235,18 @@
             "children": [
               {
                 "name": "Recipes",
+                "children": []
+              },
+              {
+                "name": "Normal",
+                "children": []
+              },
+              {
+                "name": "Red",
+                "children": []
+              },
+              {
+                "name": "Blue",
                 "children": []
               }
             ]

@@ -134,6 +134,7 @@ import net.mcreator.archiblocktwo.block.RoseShrubBlock;
 import net.mcreator.archiblocktwo.block.RoseBlock;
 import net.mcreator.archiblocktwo.block.RedSpoolBlock;
 import net.mcreator.archiblocktwo.block.RedNeonBlockBlock;
+import net.mcreator.archiblocktwo.block.RedBigClayBricksBlock;
 import net.mcreator.archiblocktwo.block.RawTwilightwaveBlockBlock;
 import net.mcreator.archiblocktwo.block.RawTwilightBlockBlock;
 import net.mcreator.archiblocktwo.block.RawLushTwilightBlockBlock;
@@ -550,6 +551,7 @@ public class ArchiblockTwoModBlocks {
 	public static final Block LUSH_TWILIGHT_BLOCK = register(new LushTwilightBlockBlock());
 	public static final Block TWILIGHT_BLOCK = register(new TwilightBlockBlock());
 	public static final Block TWILIGHTWAVE_BLOCK = register(new TwilightwaveBlockBlock());
+	public static final Block RED_BIG_CLAY_BRICKS = register(new RedBigClayBricksBlock());
 
 	private static Block register(Block block) {
 		REGISTRY.add(block);

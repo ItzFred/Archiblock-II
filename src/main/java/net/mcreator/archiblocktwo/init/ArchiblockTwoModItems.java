@@ -350,6 +350,7 @@ public class ArchiblockTwoModItems {
 	public static final Item LUSH_TWILIGHT_BLOCK = register(ArchiblockTwoModBlocks.LUSH_TWILIGHT_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item TWILIGHT_BLOCK = register(ArchiblockTwoModBlocks.TWILIGHT_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item TWILIGHTWAVE_BLOCK = register(ArchiblockTwoModBlocks.TWILIGHTWAVE_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item RED_BIG_CLAY_BRICKS = register(ArchiblockTwoModBlocks.RED_BIG_CLAY_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);
