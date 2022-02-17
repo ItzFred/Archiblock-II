@@ -12,6 +12,7 @@ import net.minecraft.world.level.BlockGetter;
 import net.minecraft.world.item.TieredItem;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.entity.player.Player;
+import net.minecraft.core.Direction;
 import net.minecraft.core.BlockPos;
 
 import java.util.List;
@@ -21,6 +22,11 @@ public class WovenFiberSlabBlock extends SlabBlock {
 	public WovenFiberSlabBlock() {
 		super(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.BAMBOO).strength(1f, 10f).requiresCorrectToolForDrops());
 		setRegistryName("woven_fiber_slab");
+	}
+
+	@Override
+	public int getFlammability(BlockState state, BlockGetter world, BlockPos pos, Direction face) {
+		return 20;
 	}
 
 	@Override

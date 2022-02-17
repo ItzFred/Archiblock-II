@@ -2660,7 +2660,8 @@
       "sortid": 282,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose"
+      "registry_name": "rose",
+      "path": "~/Nature/Roses"
     },
     {
       "name": "PinkRose",
@@ -2668,7 +2669,8 @@
       "sortid": 290,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "pink_rose"
+      "registry_name": "pink_rose",
+      "path": "~/Nature/Roses"
     },
     {
       "name": "ButtermilkRoseShrub",
@@ -2676,7 +2678,8 @@
       "sortid": 295,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "buttermilk_rose_shrub"
+      "registry_name": "buttermilk_rose_shrub",
+      "path": "~/Nature/Roses"
     },
     {
       "name": "RoseShrub",
@@ -2684,7 +2687,8 @@
       "sortid": 283,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_shrub"
+      "registry_name": "rose_shrub",
+      "path": "~/Nature/Roses"
     },
     {
       "name": "ButtermilkRose",
@@ -2692,7 +2696,8 @@
       "sortid": 293,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "buttermilk_rose"
+      "registry_name": "buttermilk_rose",
+      "path": "~/Nature/Roses"
     },
     {
       "name": "ScarletRose",
@@ -2700,7 +2705,8 @@
       "sortid": 284,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "scarlet_rose"
+      "registry_name": "scarlet_rose",
+      "path": "~/Nature/Roses"
     },
     {
       "name": "OliveRoseShrub",
@@ -2708,7 +2714,8 @@
       "sortid": 297,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "olive_rose_shrub"
+      "registry_name": "olive_rose_shrub",
+      "path": "~/Nature/Roses"
     },
     {
       "name": "ScarletRoseShrub",
@@ -2716,7 +2723,8 @@
       "sortid": 286,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "scarlet_rose_shrub"
+      "registry_name": "scarlet_rose_shrub",
+      "path": "~/Nature/Roses"
     },
     {
       "name": "ScarletRoseBush",
@@ -2724,7 +2732,8 @@
       "sortid": 285,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "scarlet_rose_bush"
+      "registry_name": "scarlet_rose_bush",
+      "path": "~/Nature/Roses"
     },
     {
       "name": "BlushRose",
@@ -2732,7 +2741,8 @@
       "sortid": 287,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "blush_rose"
+      "registry_name": "blush_rose",
+      "path": "~/Nature/Roses"
     },
     {
       "name": "BlushRoseShrub",
@@ -2740,7 +2750,8 @@
       "sortid": 288,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "blush_rose_shrub"
+      "registry_name": "blush_rose_shrub",
+      "path": "~/Nature/Roses"
     },
     {
       "name": "ButtermilkRoseBush",
@@ -2748,7 +2759,8 @@
       "sortid": 294,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "buttermilk_rose_bush"
+      "registry_name": "buttermilk_rose_bush",
+      "path": "~/Nature/Roses"
     },
     {
       "name": "PinkRoseBush",
@@ -2756,7 +2768,8 @@
       "sortid": 292,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "pink_rose_bush"
+      "registry_name": "pink_rose_bush",
+      "path": "~/Nature/Roses"
     },
     {
       "name": "OliveRose",
@@ -2764,7 +2777,8 @@
       "sortid": 296,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "olive_rose"
+      "registry_name": "olive_rose",
+      "path": "~/Nature/Roses"
     },
     {
       "name": "PinkRoseShrub",
@@ -2772,7 +2786,8 @@
       "sortid": 291,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "pink_rose_shrub"
+      "registry_name": "pink_rose_shrub",
+      "path": "~/Nature/Roses"
     },
     {
       "name": "OliveRoseBush",
@@ -2780,7 +2795,8 @@
       "sortid": 298,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "olive_rose_bush"
+      "registry_name": "olive_rose_bush",
+      "path": "~/Nature/Roses"
     },
     {
       "name": "BlushRoseBush",
@@ -2788,7 +2804,8 @@
       "sortid": 289,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "blush_rose_bush"
+      "registry_name": "blush_rose_bush",
+      "path": "~/Nature/Roses"
     },
     {
       "name": "SapphireTilesR",
@@ -5995,7 +6012,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "rose_quartz_block_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmokyQuartzBlockR",
@@ -6004,7 +6021,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "smoky_quartz_block_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "RoseQuartzStairsR",
@@ -6013,7 +6030,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "rose_quartz_stairs_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmokyQuartzStairsR",
@@ -6022,7 +6039,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "smoky_quartz_stairs_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "RoseQuartzSlabR",
@@ -6031,7 +6048,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "rose_quartz_slab_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "RoseQuartzWallR",
@@ -6040,7 +6057,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "rose_quartz_wall_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmokyQuartzSlabR",
@@ -6049,7 +6066,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "smoky_quartz_slab_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmokyQuartzWallR",
@@ -6058,7 +6075,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "smoky_quartz_wall_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmoothRoseQuartz",
@@ -6121,7 +6138,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_rose_quartz_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmoothSmokyQuartzR",
@@ -6130,7 +6147,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_smoky_quartz_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "RoseQuartzPillarR",
@@ -6139,7 +6156,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "rose_quartz_pillar_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "ChiselledRoseQuartzR",
@@ -6148,7 +6165,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_rose_quartz_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmokyQuartzPillarR",
@@ -6157,7 +6174,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "smoky_quartz_pillar_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "ChiselledSmokyQuartzR",
@@ -6166,7 +6183,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiselled_smoky_quartz_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmoothRoseQuartzStairs",
@@ -6256,7 +6273,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "smoky_bricks_2_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmokyBrickWall2R",
@@ -6265,7 +6282,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "smoky_brick_wall_2_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "RoseBrickSlab2",
@@ -6319,7 +6336,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "rose_bricks_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmokyBrickStairs2R",
@@ -6328,7 +6345,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "smoky_brick_stairs_2_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmokySlab2",
@@ -6346,7 +6363,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "smoky_brick_wall_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "RoseBrickStairs2R",
@@ -6355,7 +6372,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "rose_brick_stairs_2_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmokyBrickStairsR",
@@ -6364,7 +6381,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "smoky_brick_stairs_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmokyBrickSlab",
@@ -6391,7 +6408,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "rose_brick_wall_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmokyBricksR",
@@ -6400,7 +6417,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "smoky_bricks_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "RoseBrickSlabR",
@@ -6409,7 +6426,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "rose_brick_slab_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "RoseQuartzBricks2",
@@ -6427,7 +6444,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "smoky_brick_slab_2_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "RoseBrickStairsR",
@@ -6436,7 +6453,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "rose_brick_stairs_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "RoseBrickWall2R",
@@ -6445,7 +6462,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "rose_brick_wall_2_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmokyQuartzBricks2",
@@ -6463,7 +6480,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "rose_bricks_2_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "RoseBrickWall",
@@ -6481,7 +6498,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "smoky_brick_slab_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "RoseQuartzBrickStairs",
@@ -6508,7 +6525,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "rose_brick_slab_2_r",
-      "path": "~/OtherBlocks/Quartz/Recipes"
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "RedBigClayBricks",
@@ -6551,14 +6568,14 @@
       "block.archiblock_two.twilight_bricks": "Twilight Bricks",
       "block.archiblock_two.spruce_basket_moss": "Moss Filled Woven Spruce Basket",
       "block.archiblock_two.ruby_tiles": "Ruby Tiles",
-      "block.archiblock_two.woven_acacia_slab": "Woven Acacia Slab",
       "block.archiblock_two.smoky_slab_2": "Carved Smoky Quartz Brick Slab",
+      "block.archiblock_two.woven_acacia_slab": "Woven Acacia Slab",
       "block.archiblock_two.rose": "Rose",
       "block.archiblock_two.smooth_rose_quartz": "Smooth Rose Quartz Block",
       "block.archiblock_two.yellow_neon_block": "Yellow Neon Block",
       "block.archiblock_two.woven_jungle_slab": "Woven Jungle Slab",
-      "block.archiblock_two.purple_neon_block": "Purple Neon Block",
       "block.archiblock_two.twilight_brick_wall": "Twilight Brick Wall",
+      "block.archiblock_two.purple_neon_block": "Purple Neon Block",
       "block.archiblock_two.acacia_basket_sand": "Sand Filled Woven Acacia Basket",
       "block.archiblock_two.smooth_rose_quartz_wall": "Smooth Rose Quartz Wall",
       "block.archiblock_two.diorite_pillar": "Diorite Pillar",
@@ -6602,6 +6619,7 @@
       "block.archiblock_two.rose_shrub": "Rose Shrub",
       "block.archiblock_two.sugilite_bricks": "Sugilite Bricks",
       "block.archiblock_two.chiselled_smoky_quartz": "Chiselled Smoky Quartz Block",
+      "block.archiblock_two.red_big_clay_bricks": "Big Clay Bricks",
       "block.archiblock_two.clay_brick_tiles": "Clay Brick Tiles",
       "block.archiblock_two.woven_basket_mycelium": "Mycelium Filled Woven Basket",
       "block.archiblock_two.granite_pillar": "Granite Pillar",
@@ -6984,6 +7002,15 @@
           },
           {
             "name": "Woven Blocks",
+            "children": [
+              {
+                "name": "Recipes",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Quartz",
             "children": [
               {
                 "name": "Recipes",
