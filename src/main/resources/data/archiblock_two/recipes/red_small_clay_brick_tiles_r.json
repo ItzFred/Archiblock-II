@@ -1,0 +1,16 @@
+{
+  "group": "red_small_clay_brick_tiles",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "archiblock_two:small_clay_brick_tiles"
+    },
+    {
+      "item": "minecraft:red_dye"
+    }
+  ],
+  "result": {
+    "item": "archiblock_two:deleted_mod_element",
+    "count": 1
+  }
+}

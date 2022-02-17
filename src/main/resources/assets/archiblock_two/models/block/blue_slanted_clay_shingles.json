@@ -1,0 +1,10 @@
+{
+  "parent": "archiblock_two:custom/slantedshingles1",
+  "textures": {
+    "all": "archiblock_two:blocks/blueclaybrickshingles",
+    "particle": "archiblock_two:blocks/blueclaybrickshingles",
+    "0": "archiblock_two:blocks/blueclaybrickshingles",
+    "1": "archiblock_two:blocks/blueclaybrickshinglestop",
+    "2": "archiblock_two:blocks/blueclaybrickshinglesside"
+  }
+}

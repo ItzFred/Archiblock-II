@@ -2,7 +2,7 @@
   "_fv": 24,
   "_type": "block",
   "definition": {
-    "texture": "bigclaybricks",
+    "texture": "bigredclaybricks",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Big Clay Bricks",
+    "name": "Red Big Clay Bricks",
     "specialInfo": [],
     "hardness": 2.0,
     "resistance": 6.0,

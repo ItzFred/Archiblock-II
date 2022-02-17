@@ -7,6 +7,22 @@
         "2": "clayshinglesside"
       },
       "name": "default"
+    },
+    "red": {
+      "map": {
+        "0": "redclayshingles",
+        "1": "redclayshinglesfront",
+        "2": "redclayshinglesside"
+      },
+      "name": "red"
+    },
+    "blue": {
+      "map": {
+        "0": "blueclaybrickshingles",
+        "1": "blueclaybrickshinglestop",
+        "2": "blueclaybrickshinglesside"
+      },
+      "name": "blue"
     }
   }
 }

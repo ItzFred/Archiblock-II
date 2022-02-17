@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "archiblock_two:block/red_clay_shingles_slab"
+    },
+    "type=top": {
+      "model": "archiblock_two:block/red_clay_shingles_slab_top"
+    },
+    "type=double": {
+      "model": "archiblock_two:block/red_clay_shingles_slab_full"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "archiblock_two:blocks/redclayshinglesfront",
+    "up": "archiblock_two:blocks/redclayshinglesfront",
+    "north": "archiblock_two:blocks/redclayshingles",
+    "east": "archiblock_two:blocks/rotatedredclayshinglesside",
+    "south": "archiblock_two:blocks/redclayshingles",
+    "west": "archiblock_two:blocks/rotatedredclayshinglesside",
+    "particle": "archiblock_two:blocks/redclayshinglesfront"
+  }
+}

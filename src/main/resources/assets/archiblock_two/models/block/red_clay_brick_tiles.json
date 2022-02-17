@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "archiblock_two:blocks/redclaybricktiles",
+    "particle": "archiblock_two:blocks/redclaybricktiles"
+  }
+}
