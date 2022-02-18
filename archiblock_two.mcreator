@@ -5876,7 +5876,8 @@
       "sortid": 269,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_quartz"
+      "registry_name": "smoky_quartz",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "RoseQuartzWallR",
@@ -5884,7 +5885,8 @@
       "sortid": 679,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_quartz_wall_r"
+      "registry_name": "rose_quartz_wall_r",
+      "path": "~/OtherBlocks/Quartz/Recipes"
     },
     {
       "name": "RoseQuartzSlabR",
@@ -5892,7 +5894,8 @@
       "sortid": 678,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_quartz_slab_r"
+      "registry_name": "rose_quartz_slab_r",
+      "path": "~/OtherBlocks/Quartz/Recipes"
     },
     {
       "name": "RoseQuartzPillar",
@@ -5900,7 +5903,8 @@
       "sortid": 267,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_quartz_pillar"
+      "registry_name": "rose_quartz_pillar",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "RoseQuartzWall",
@@ -5908,7 +5912,8 @@
       "sortid": 262,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_quartz_wall"
+      "registry_name": "rose_quartz_wall",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "RoseQuartzSlab",
@@ -5916,7 +5921,8 @@
       "sortid": 260,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_quartz_slab"
+      "registry_name": "rose_quartz_slab",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "ChiselledSmokyQuartzR",
@@ -5924,7 +5930,8 @@
       "sortid": 687,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "chiselled_smoky_quartz_r"
+      "registry_name": "chiselled_smoky_quartz_r",
+      "path": "~/OtherBlocks/Quartz/Recipes"
     },
     {
       "name": "RoseQuartzPillarR",
@@ -5932,7 +5939,8 @@
       "sortid": 684,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_quartz_pillar_r"
+      "registry_name": "rose_quartz_pillar_r",
+      "path": "~/OtherBlocks/Quartz/Recipes"
     },
     {
       "name": "ChiselledSmokyQuartz",
@@ -5940,7 +5948,8 @@
       "sortid": 280,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "chiselled_smoky_quartz"
+      "registry_name": "chiselled_smoky_quartz",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmoothSmokyQuartzStairs",
@@ -5948,7 +5957,8 @@
       "sortid": 276,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smooth_smoky_quartz_stairs"
+      "registry_name": "smooth_smoky_quartz_stairs",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmokyQuartzStairsR",
@@ -5956,7 +5966,8 @@
       "sortid": 677,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_quartz_stairs_r"
+      "registry_name": "smoky_quartz_stairs_r",
+      "path": "~/OtherBlocks/Quartz/Recipes"
     },
     {
       "name": "SmokyQuartzPillar",
@@ -5964,7 +5975,8 @@
       "sortid": 279,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_quartz_pillar"
+      "registry_name": "smoky_quartz_pillar",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmokyQuartzOre",
@@ -5972,7 +5984,8 @@
       "sortid": 270,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_quartz_ore"
+      "registry_name": "smoky_quartz_ore",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "RoseQuartzBlockR",
@@ -5980,7 +5993,8 @@
       "sortid": 674,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_quartz_block_r"
+      "registry_name": "rose_quartz_block_r",
+      "path": "~/OtherBlocks/Quartz/Recipes"
     },
     {
       "name": "RoseQuartzStairsR",
@@ -5988,7 +6002,8 @@
       "sortid": 676,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_quartz_stairs_r"
+      "registry_name": "rose_quartz_stairs_r",
+      "path": "~/OtherBlocks/Quartz/Recipes"
     },
     {
       "name": "SmoothRoseQuartzR",
@@ -5996,7 +6011,8 @@
       "sortid": 682,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smooth_rose_quartz_r"
+      "registry_name": "smooth_rose_quartz_r",
+      "path": "~/OtherBlocks/Quartz/Recipes"
     },
     {
       "name": "SmoothRoseQuartzWall",
@@ -6004,7 +6020,8 @@
       "sortid": 266,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smooth_rose_quartz_wall"
+      "registry_name": "smooth_rose_quartz_wall",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "GlowingEyesRoundR",
@@ -6021,7 +6038,8 @@
       "sortid": 271,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_quartz_block"
+      "registry_name": "smoky_quartz_block",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "GlowingEyesRoundStare",
@@ -6038,7 +6056,8 @@
       "sortid": 680,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_quartz_slab_r"
+      "registry_name": "smoky_quartz_slab_r",
+      "path": "~/OtherBlocks/Quartz/Recipes"
     },
     {
       "name": "RoseQuartzBlock",
@@ -6046,7 +6065,8 @@
       "sortid": 259,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_quartz_block"
+      "registry_name": "rose_quartz_block",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmokyQuartzSlab",
@@ -6054,7 +6074,8 @@
       "sortid": 273,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_quartz_slab"
+      "registry_name": "smoky_quartz_slab",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmokyQuartzWall",
@@ -6062,7 +6083,8 @@
       "sortid": 274,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_quartz_wall"
+      "registry_name": "smoky_quartz_wall",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmokyQuartzBlockR",
@@ -6070,7 +6092,8 @@
       "sortid": 675,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_quartz_block_r"
+      "registry_name": "smoky_quartz_block_r",
+      "path": "~/OtherBlocks/Quartz/Recipes"
     },
     {
       "name": "SmoothSmokyQuartzR",
@@ -6078,7 +6101,8 @@
       "sortid": 683,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smooth_smoky_quartz_r"
+      "registry_name": "smooth_smoky_quartz_r",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmoothRoseQuartzSlab",
@@ -6086,7 +6110,8 @@
       "sortid": 265,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smooth_rose_quartz_slab"
+      "registry_name": "smooth_rose_quartz_slab",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmokyQuartzStairs",
@@ -6094,7 +6119,8 @@
       "sortid": 272,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_quartz_stairs"
+      "registry_name": "smoky_quartz_stairs",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmoothRoseQuartz",
@@ -6102,7 +6128,8 @@
       "sortid": 263,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smooth_rose_quartz"
+      "registry_name": "smooth_rose_quartz",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "ChiselledRoseQuartzR",
@@ -6110,7 +6137,8 @@
       "sortid": 685,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "chiselled_rose_quartz_r"
+      "registry_name": "chiselled_rose_quartz_r",
+      "path": "~/OtherBlocks/Quartz/Recipes"
     },
     {
       "name": "SmoothSmokyQuartzSlab",
@@ -6118,7 +6146,8 @@
       "sortid": 277,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smooth_smoky_quartz_slab"
+      "registry_name": "smooth_smoky_quartz_slab",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmokyQuartzPillarR",
@@ -6126,7 +6155,8 @@
       "sortid": 686,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_quartz_pillar_r"
+      "registry_name": "smoky_quartz_pillar_r",
+      "path": "~/OtherBlocks/Quartz/Recipes"
     },
     {
       "name": "GlowingEyesRoundBlink",
@@ -6143,7 +6173,8 @@
       "sortid": 257,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_quartz"
+      "registry_name": "rose_quartz",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmoothRoseQuartzStairs",
@@ -6151,7 +6182,8 @@
       "sortid": 264,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smooth_rose_quartz_stairs"
+      "registry_name": "smooth_rose_quartz_stairs",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmoothSmokyQuartz",
@@ -6159,7 +6191,8 @@
       "sortid": 275,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smooth_smoky_quartz"
+      "registry_name": "smooth_smoky_quartz",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "ChiselledRoseQuartz",
@@ -6167,7 +6200,8 @@
       "sortid": 268,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "chiselled_rose_quartz"
+      "registry_name": "chiselled_rose_quartz",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "RoseQuartzOre",
@@ -6175,7 +6209,8 @@
       "sortid": 258,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_quartz_ore"
+      "registry_name": "rose_quartz_ore",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmokyQuartzWallR",
@@ -6183,7 +6218,8 @@
       "sortid": 681,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_quartz_wall_r"
+      "registry_name": "smoky_quartz_wall_r",
+      "path": "~/OtherBlocks/Quartz/Recipes"
     },
     {
       "name": "GlowingEyesRoundR2",
@@ -6200,7 +6236,8 @@
       "sortid": 261,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_quartz_stairs"
+      "registry_name": "rose_quartz_stairs",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmoothSmokyQuartzWall",
@@ -6208,7 +6245,8 @@
       "sortid": 278,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smooth_smoky_quartz_wall"
+      "registry_name": "smooth_smoky_quartz_wall",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "RedClayBrickBlock",
@@ -6531,7 +6569,8 @@
       "sortid": 689,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_quartz_bricks"
+      "registry_name": "smoky_quartz_bricks",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmokyWall2",
@@ -6539,7 +6578,8 @@
       "sortid": 703,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_wall_2"
+      "registry_name": "smoky_wall_2",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "RoseBrickWall2",
@@ -6547,7 +6587,8 @@
       "sortid": 699,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_brick_wall_2"
+      "registry_name": "rose_brick_wall_2",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmokyBricks2R",
@@ -6555,7 +6596,8 @@
       "sortid": 707,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_bricks_2_r"
+      "registry_name": "smoky_bricks_2_r",
+      "path": "~/OtherBlocks/Quartz/Recipes"
     },
     {
       "name": "SmokyBrickWall2R",
@@ -6563,7 +6605,8 @@
       "sortid": 713,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_brick_wall_2_r"
+      "registry_name": "smoky_brick_wall_2_r",
+      "path": "~/OtherBlocks/Quartz/Recipes"
     },
     {
       "name": "RoseBrickSlab2",
@@ -6571,7 +6614,8 @@
       "sortid": 698,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_brick_slab_2"
+      "registry_name": "rose_brick_slab_2",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "RoseBrickStairs2",
@@ -6579,7 +6623,8 @@
       "sortid": 697,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_brick_stairs_2"
+      "registry_name": "rose_brick_stairs_2",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmokyBrickStairs",
@@ -6587,7 +6632,8 @@
       "sortid": 693,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_brick_stairs"
+      "registry_name": "smoky_brick_stairs",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "RoseQuartzBricks",
@@ -6595,7 +6641,8 @@
       "sortid": 688,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_quartz_bricks"
+      "registry_name": "rose_quartz_bricks",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmokyBrickWall",
@@ -6603,7 +6650,8 @@
       "sortid": 695,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_brick_wall"
+      "registry_name": "smoky_brick_wall",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "RoseBricksR",
@@ -6611,7 +6659,8 @@
       "sortid": 704,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_bricks_r"
+      "registry_name": "rose_bricks_r",
+      "path": "~/OtherBlocks/Quartz/Recipes"
     },
     {
       "name": "SmokyBrickStairs2R",
@@ -6619,7 +6668,8 @@
       "sortid": 711,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_brick_stairs_2_r"
+      "registry_name": "smoky_brick_stairs_2_r",
+      "path": "~/OtherBlocks/Quartz/Recipes"
     },
     {
       "name": "SmokySlab2",
@@ -6627,7 +6677,8 @@
       "sortid": 702,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_slab_2"
+      "registry_name": "smoky_slab_2",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmokyBrickWallR",
@@ -6635,7 +6686,8 @@
       "sortid": 710,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_brick_wall_r"
+      "registry_name": "smoky_brick_wall_r",
+      "path": "~/OtherBlocks/Quartz/Recipes"
     },
     {
       "name": "RoseBrickStairs2R",
@@ -6643,7 +6695,8 @@
       "sortid": 717,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_brick_stairs_2_r"
+      "registry_name": "rose_brick_stairs_2_r",
+      "path": "~/OtherBlocks/Quartz/Recipes"
     },
     {
       "name": "SmokyBrickStairsR",
@@ -6651,7 +6704,8 @@
       "sortid": 708,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_brick_stairs_r"
+      "registry_name": "smoky_brick_stairs_r",
+      "path": "~/OtherBlocks/Quartz/Recipes"
     },
     {
       "name": "SmokyBrickSlab",
@@ -6659,7 +6713,8 @@
       "sortid": 694,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_brick_slab"
+      "registry_name": "smoky_brick_slab",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "RoseBrickSlab",
@@ -6667,7 +6722,8 @@
       "sortid": 691,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_brick_slab"
+      "registry_name": "rose_brick_slab",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "RoseBrickWallR",
@@ -6675,7 +6731,8 @@
       "sortid": 716,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_brick_wall_r"
+      "registry_name": "rose_brick_wall_r",
+      "path": "~/OtherBlocks/Quartz/Recipes"
     },
     {
       "name": "SmokyBricksR",
@@ -6683,7 +6740,8 @@
       "sortid": 706,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_bricks_r"
+      "registry_name": "smoky_bricks_r",
+      "path": "~/OtherBlocks/Quartz/Recipes"
     },
     {
       "name": "RoseBrickSlabR",
@@ -6691,7 +6749,8 @@
       "sortid": 715,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_brick_slab_r"
+      "registry_name": "rose_brick_slab_r",
+      "path": "~/OtherBlocks/Quartz/Recipes"
     },
     {
       "name": "RoseQuartzBricks2",
@@ -6699,7 +6758,8 @@
       "sortid": 696,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_quartz_bricks_2"
+      "registry_name": "rose_quartz_bricks_2",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmokyBrickSlab2R",
@@ -6707,7 +6767,8 @@
       "sortid": 712,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_brick_slab_2_r"
+      "registry_name": "smoky_brick_slab_2_r",
+      "path": "~/OtherBlocks/Quartz/Recipes"
     },
     {
       "name": "RoseBrickStairsR",
@@ -6715,7 +6776,8 @@
       "sortid": 714,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_brick_stairs_r"
+      "registry_name": "rose_brick_stairs_r",
+      "path": "~/OtherBlocks/Quartz/Recipes"
     },
     {
       "name": "RoseBrickWall2R",
@@ -6723,7 +6785,8 @@
       "sortid": 719,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_brick_wall_2_r"
+      "registry_name": "rose_brick_wall_2_r",
+      "path": "~/OtherBlocks/Quartz/Recipes"
     },
     {
       "name": "SmokyQuartzBricks2",
@@ -6731,7 +6794,8 @@
       "sortid": 700,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_quartz_bricks_2"
+      "registry_name": "smoky_quartz_bricks_2",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "RoseBricks2R",
@@ -6739,7 +6803,8 @@
       "sortid": 705,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_bricks_2_r"
+      "registry_name": "rose_bricks_2_r",
+      "path": "~/OtherBlocks/Quartz/Recipes"
     },
     {
       "name": "RoseBrickWall",
@@ -6747,7 +6812,8 @@
       "sortid": 692,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_brick_wall"
+      "registry_name": "rose_brick_wall",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmokyBrickSlabR",
@@ -6755,7 +6821,8 @@
       "sortid": 709,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_brick_slab_r"
+      "registry_name": "smoky_brick_slab_r",
+      "path": "~/OtherBlocks/Quartz/Recipes"
     },
     {
       "name": "RoseQuartzBrickStairs",
@@ -6763,7 +6830,8 @@
       "sortid": 690,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_quartz_brick_stairs"
+      "registry_name": "rose_quartz_brick_stairs",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "SmokyStairs2",
@@ -6771,7 +6839,8 @@
       "sortid": 701,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "smoky_stairs_2"
+      "registry_name": "smoky_stairs_2",
+      "path": "~/OtherBlocks/Quartz"
     },
     {
       "name": "RoseBrickSlab2R",
@@ -6779,7 +6848,8 @@
       "sortid": 718,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rose_brick_slab_2_r"
+      "registry_name": "rose_brick_slab_2_r",
+      "path": "~/OtherBlocks/Quartz/Recipes"
     },
     {
       "name": "MysticMaplePressurePlateRecipe",
@@ -7464,8 +7534,8 @@
       "block.archiblock_two.woven_warped_basket": "Woven Warped Block",
       "block.archiblock_two.smooth_rose_quartz_stairs": "Smooth Rose Quartz Stairs",
       "block.archiblock_two.blue_clay_brick_pavement": "Blue Clay Brick Pavement",
-      "block.archiblock_two.smooth_smoky_quartz": "Smooth Smoky Quartz Block",
       "block.archiblock_two.red_slanted_shingles_side": "Red Slanted Clay Shingles Side",
+      "block.archiblock_two.smooth_smoky_quartz": "Smooth Smoky Quartz Block",
       "block.archiblock_two.cut_obsidian": "Cut Obsidian",
       "block.archiblock_two.clay_shingles_slab": "Clay Shingles Slab",
       "block.archiblock_two.woven_mystic_maple_stairs": "Woven Mystic Maple Stairs",

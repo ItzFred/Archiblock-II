@@ -7,26 +7,26 @@
   ],
   "key": {
     "0": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:mystic_maple_planks"
     },
     "3": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:mystic_maple_planks"
     },
     "4": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:mystic_maple_planks"
     },
     "6": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:mystic_maple_planks"
     },
     "7": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:mystic_maple_planks"
     },
     "8": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:mystic_maple_planks"
     }
   },
   "result": {
-    "item": "archiblock_two:deleted_mod_element",
+    "item": "archiblock_two:mystic_maple_stairs",
     "count": 4
   }
 }

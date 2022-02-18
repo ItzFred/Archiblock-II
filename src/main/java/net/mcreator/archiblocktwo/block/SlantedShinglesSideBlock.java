@@ -39,10 +39,15 @@ public class SlantedShinglesSideBlock extends Block {
 	public static final DirectionProperty FACING = HorizontalDirectionalBlock.FACING;
 
 	public SlantedShinglesSideBlock() {
-		super(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.NETHER_BRICKS).strength(2f, 6f).requiresCorrectToolForDrops().noOcclusion()
-				.isRedstoneConductor((bs, br, bp) -> false));
+		super(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.NETHER_BRICKS).strength(2f, 6f).lightLevel(s -> 1)
+				.requiresCorrectToolForDrops().noOcclusion().isRedstoneConductor((bs, br, bp) -> false));
 		this.registerDefaultState(this.stateDefinition.any().setValue(FACING, Direction.NORTH));
 		setRegistryName("slanted_shingles_side");
+	}
+
+	@Override
+	public boolean skipRendering(BlockState state, BlockState adjacentBlockState, Direction side) {
+		return adjacentBlockState.getBlock() == this ? true : super.skipRendering(state, adjacentBlockState, side);
 	}
 
 	@Override
@@ -61,13 +66,13 @@ public class SlantedShinglesSideBlock extends Block {
 		switch ((Direction) state.getValue(FACING)) {
 			case SOUTH :
 			default :
-				return Shapes.or(box(8, 0, 0, 16, 8, 16), box(0, 8, 0, 8, 16, 8), box(0, 0, 8, 8, 8, 16)).move(offset.x, offset.y, offset.z);
+				return Shapes.or(box(8, 0, 0, 16, 8, 16), box(0, 8, 0, 8, 16, 8), box(0, 0.1, 8, 8, 8, 16)).move(offset.x, offset.y, offset.z);
 			case NORTH :
-				return Shapes.or(box(0, 0, 0, 8, 8, 16), box(8, 8, 8, 16, 16, 16), box(8, 0, 0, 16, 8, 8)).move(offset.x, offset.y, offset.z);
+				return Shapes.or(box(0, 0, 0, 8, 8, 16), box(8, 8, 8, 16, 16, 16), box(8, 0.1, 0, 16, 8, 8)).move(offset.x, offset.y, offset.z);
 			case EAST :
-				return Shapes.or(box(0, 0, 0, 16, 8, 8), box(0, 8, 8, 8, 16, 16), box(8, 0, 8, 16, 8, 16)).move(offset.x, offset.y, offset.z);
+				return Shapes.or(box(0, 0, 0, 16, 8, 8), box(0, 8, 8, 8, 16, 16), box(8, 0.1, 8, 16, 8, 16)).move(offset.x, offset.y, offset.z);
 			case WEST :
-				return Shapes.or(box(0, 0, 8, 16, 8, 16), box(8, 8, 0, 16, 16, 8), box(0, 0, 0, 8, 8, 8)).move(offset.x, offset.y, offset.z);
+				return Shapes.or(box(0, 0, 8, 16, 8, 16), box(8, 8, 0, 16, 16, 8), box(0, 0.1, 0, 8, 8, 8)).move(offset.x, offset.y, offset.z);
 		}
 	}
 
@@ -114,4 +119,5 @@ public class SlantedShinglesSideBlock extends Block {
 	public static void registerRenderLayer() {
 		ItemBlockRenderTypes.setRenderLayer(ArchiblockTwoModBlocks.SLANTED_SHINGLES_SIDE, renderType -> renderType == RenderType.cutout());
 	}
+
 }

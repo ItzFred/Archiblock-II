@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:mystic_maple_planks"
     }
   ],
   "result": {
