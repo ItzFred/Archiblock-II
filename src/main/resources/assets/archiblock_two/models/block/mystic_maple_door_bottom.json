@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom",
+  "textures": {
+    "bottom": "archiblock_two:blocks/mysticmapledoorbottom",
+    "top": "archiblock_two:blocks/mysticmapledoortop"
+  }
+}

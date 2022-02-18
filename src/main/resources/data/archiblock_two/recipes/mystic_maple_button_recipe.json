@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "archiblock_two:mystic_maple_planks"
+    }
+  ],
+  "result": {
+    "item": "archiblock_two:mystic_maple_button",
+    "count": 1
+  }
+}

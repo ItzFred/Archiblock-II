@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "archiblock_two:blocks/mysticmapleplanks",
+    "particle": "archiblock_two:blocks/mysticmapleplanks"
+  }
+}

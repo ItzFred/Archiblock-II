@@ -52,6 +52,57 @@
       },
       {
         "value": "CUSTOM:SnowyCobblestoneStairs"
+      },
+      {
+        "value": "CUSTOM:RoseQuartzStairs"
+      },
+      {
+        "value": "CUSTOM:SmokyQuartzStairs"
+      },
+      {
+        "value": "CUSTOM:SmoothRoseQuartzStairs"
+      },
+      {
+        "value": "CUSTOM:SmoothSmokyQuartzStairs"
+      },
+      {
+        "value": "CUSTOM:RoseBrickStairs2"
+      },
+      {
+        "value": "CUSTOM:SmokyBrickStairs"
+      },
+      {
+        "value": "CUSTOM:RoseQuartzBrickStairs"
+      },
+      {
+        "value": "CUSTOM:SmokyStairs2"
+      },
+      {
+        "value": "CUSTOM:MysticMapleStairs"
+      },
+      {
+        "value": "CUSTOM:WovenFiberStairs"
+      },
+      {
+        "value": "CUSTOM:WovenAcaciaStairs"
+      },
+      {
+        "value": "CUSTOM:WovenWarpedStairs"
+      },
+      {
+        "value": "CUSTOM:WovenJungleStairs"
+      },
+      {
+        "value": "CUSTOM:WovenSpruceStairs"
+      },
+      {
+        "value": "CUSTOM:WovenDarkOakStairs"
+      },
+      {
+        "value": "CUSTOM:WovenBirchStairs"
+      },
+      {
+        "value": "CUSTOM:WovenCrimsonStairs"
       }
     ],
     "functions": [],

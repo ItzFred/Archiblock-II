@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:ScarletRoseBush"
+      },
+      {
+        "value": "CUSTOM:ButtermilkRoseBush"
+      },
+      {
+        "value": "CUSTOM:PinkRoseBush"
+      },
+      {
+        "value": "CUSTOM:OliveRoseBush"
+      },
+      {
+        "value": "CUSTOM:BlushRoseBush"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "tall_flowers",
+    "namespace": "minecraft"
+  }
+}

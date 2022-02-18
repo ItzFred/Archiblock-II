@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:mysticmaple_log"
+    }
+  ],
+  "result": {
+    "item": "archiblock_two:mystic_maple_planks",
+    "count": 4
+  }
+}

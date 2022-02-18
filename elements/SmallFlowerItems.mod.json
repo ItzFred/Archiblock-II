@@ -1,0 +1,50 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Rose"
+      },
+      {
+        "value": "CUSTOM:PinkRose"
+      },
+      {
+        "value": "CUSTOM:ButtermilkRoseShrub"
+      },
+      {
+        "value": "CUSTOM:RoseShrub"
+      },
+      {
+        "value": "CUSTOM:ButtermilkRose"
+      },
+      {
+        "value": "CUSTOM:ScarletRose"
+      },
+      {
+        "value": "CUSTOM:OliveRoseShrub"
+      },
+      {
+        "value": "CUSTOM:ScarletRoseShrub"
+      },
+      {
+        "value": "CUSTOM:BlushRose"
+      },
+      {
+        "value": "CUSTOM:BlushRoseShrub"
+      },
+      {
+        "value": "CUSTOM:OliveRose"
+      },
+      {
+        "value": "CUSTOM:PinkRoseShrub"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "small_flowers",
+    "namespace": "minecraft"
+  }
+}

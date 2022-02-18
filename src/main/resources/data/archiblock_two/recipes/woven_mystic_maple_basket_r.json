@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:mystic_maple_planks"
+    },
+    "2": {
+      "item": "archiblock_two:mystic_maple_planks"
+    },
+    "4": {
+      "item": "archiblock_two:mystic_maple_planks"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:woven_mystic_maple_basket",
+    "count": 1
+  }
+}
