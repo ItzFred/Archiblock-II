@@ -6,26 +6,26 @@
   ],
   "key": {
     "0": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:smoky_quartz_bricks_2"
     },
     "1": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:smoky_quartz_bricks_2"
     },
     "2": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:smoky_quartz_bricks_2"
     },
     "3": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:smoky_quartz_bricks_2"
     },
     "4": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:smoky_quartz_bricks_2"
     },
     "5": {
-      "item": "archiblock_two:deleted_mod_element"
+      "item": "archiblock_two:smoky_quartz_bricks_2"
     }
   },
   "result": {
-    "item": "archiblock_two:deleted_mod_element",
+    "item": "archiblock_two:smoky_brick_wall",
     "count": 3
   }
 }

@@ -4,11 +4,15 @@ license="Academic Free License v3.0"
 
 [[mods]]
 modId="archiblock_two"
-version="1.0.0"
-displayName="Archiblock 2"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
+version="1.0"
+displayName="Archiblock II"
+credits="Mod created with Mcreator"
 displayURL="https://mcreator.net"
-authors="fredl, MCreator"
+logoFile="logo.png"
+authors="Matia & Fred"
+description='''
+A Deco Mod
+'''
 
 [[dependencies.archiblock_two]]
     modId="minecraft"
