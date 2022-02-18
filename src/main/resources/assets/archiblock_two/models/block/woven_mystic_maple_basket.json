@@ -1,0 +1,11 @@
+{
+  "parent": "archiblock_two:custom/wovenbasket2",
+  "textures": {
+    "all": "archiblock_two:blocks/mysticmaplewovenblock",
+    "particle": "archiblock_two:blocks/mysticmaplewovenblock",
+    "0": "archiblock_two:blocks/mysticmaplewovenbaske",
+    "1": "archiblock_two:blocks/mysticmaplewovenbaskettop",
+    "2": "archiblock_two:blocks/mysticmaplewovenblock",
+    "missing": "archiblock_two:blocks/mysticmaplewovenblock"
+  }
+}

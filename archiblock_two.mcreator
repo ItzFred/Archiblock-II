@@ -6780,6 +6780,670 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "rose_brick_slab_2_r"
+    },
+    {
+      "name": "MysticMaplePressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 790,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_maple_pressure_plate_recipe",
+      "path": "~/Nature/Wood Sets/Mystic Maple"
+    },
+    {
+      "name": "MysticMapleStickRecipe",
+      "type": "recipe",
+      "sortid": 792,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_maple_stick_recipe",
+      "path": "~/Nature/Wood Sets/Mystic Maple"
+    },
+    {
+      "name": "WovenMysticStairsR",
+      "type": "recipe",
+      "sortid": 806,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_mystic_stairs_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "MysticMapleLog",
+      "type": "block",
+      "sortid": 343,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_maple_log",
+      "path": "~/Nature/Wood Sets/Mystic Maple"
+    },
+    {
+      "name": "MysticPodzolBasketR",
+      "type": "recipe",
+      "sortid": 810,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_podzol_basket_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "MysticMapleLeaves",
+      "type": "block",
+      "sortid": 355,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_maple_leaves",
+      "path": "~/Nature/Wood Sets/Mystic Maple"
+    },
+    {
+      "name": "ComparatorRoseQuartz",
+      "type": "recipe",
+      "sortid": 797,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "comparator_rose_quartz",
+      "path": "~/OtherBlocks/Quartz/Recipes"
+    },
+    {
+      "name": "LogBlocks",
+      "type": "tag",
+      "sortid": 813,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "log_blocks",
+      "path": "~/Tags"
+    },
+    {
+      "name": "DaylightSensorRose",
+      "type": "recipe",
+      "sortid": 793,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "daylight_sensor_rose",
+      "path": "~/OtherBlocks/Quartz/Recipes"
+    },
+    {
+      "name": "MysticMapleSlabRecipe",
+      "type": "recipe",
+      "sortid": 787,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_maple_slab_recipe",
+      "path": "~/Nature/Wood Sets/Mystic Maple"
+    },
+    {
+      "name": "MutandisMutation",
+      "type": "procedure",
+      "sortid": 801,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mutandis_mutation",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Items/Mutandis"
+    },
+    {
+      "name": "MysticMossBasketR",
+      "type": "recipe",
+      "sortid": 809,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_moss_basket_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "MysticMyceliumBasketR",
+      "type": "recipe",
+      "sortid": 811,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_mycelium_basket_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "TallFlowerBlocks",
+      "type": "tag",
+      "sortid": 815,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tall_flower_blocks",
+      "path": "~/Tags"
+    },
+    {
+      "name": "MysticMapleDoor",
+      "type": "block",
+      "sortid": 350,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_maple_door",
+      "path": "~/Nature/Wood Sets/Mystic Maple"
+    },
+    {
+      "name": "MysticMapleFenceGate",
+      "type": "block",
+      "sortid": 352,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_maple_fence_gate",
+      "path": "~/Nature/Wood Sets/Mystic Maple"
+    },
+    {
+      "name": "MysticMapleStripping",
+      "type": "procedure",
+      "sortid": 802,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_maple_stripping",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Nature/Wood Sets/Mystic Maple"
+    },
+    {
+      "name": "MysticBasketDirt",
+      "type": "block",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_basket_dirt",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "MysticMapleDoorR",
+      "type": "recipe",
+      "sortid": 799,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_maple_door_r",
+      "path": "~/Nature/Wood Sets/Mystic Maple"
+    },
+    {
+      "name": "WovenMysticMapleBlock",
+      "type": "block",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_mystic_maple_block",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "MysticMapleFence",
+      "type": "block",
+      "sortid": 351,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_maple_fence",
+      "path": "~/Nature/Wood Sets/Mystic Maple"
+    },
+    {
+      "name": "WovenMysticMapleSlab",
+      "type": "block",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_mystic_maple_slab",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "MysticMapleStairsRecipe",
+      "type": "recipe",
+      "sortid": 786,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_maple_stairs_recipe",
+      "path": "~/Nature/Wood Sets/Mystic Maple"
+    },
+    {
+      "name": "MysticBasketPodzol",
+      "type": "block",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_basket_podzol",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenMysticMapleBasketR",
+      "type": "recipe",
+      "sortid": 805,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_mystic_maple_basket_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "MysticMapleGrow",
+      "type": "procedure",
+      "sortid": 782,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_maple_grow",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Nature/Wood Sets/Mystic Maple"
+    },
+    {
+      "name": "MutandisR",
+      "type": "recipe",
+      "sortid": 781,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mutandis_r",
+      "path": "~/Items/Mutandis"
+    },
+    {
+      "name": "SmallFlowerBlocks",
+      "type": "tag",
+      "sortid": 814,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_flower_blocks",
+      "path": "~/Tags"
+    },
+    {
+      "name": "ObserverSmokyQuartz",
+      "type": "recipe",
+      "sortid": 796,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "observer_smoky_quartz",
+      "path": "~/OtherBlocks/Quartz/Recipes"
+    },
+    {
+      "name": "MysticBasketMoss",
+      "type": "block",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_basket_moss",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "StrippedMysticMapleLog",
+      "type": "block",
+      "sortid": 345,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_mystic_maple_log",
+      "path": "~/Nature/Wood Sets/Mystic Maple"
+    },
+    {
+      "name": "LeaveBlocks",
+      "type": "tag",
+      "sortid": 816,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "leave_blocks",
+      "path": "~/Tags"
+    },
+    {
+      "name": "MysticMapleItemsTag",
+      "type": "tag",
+      "sortid": 783,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_maple_items_tag",
+      "path": "~/Nature/Wood Sets/Mystic Maple"
+    },
+    {
+      "name": "SmallFlowerItems",
+      "type": "tag",
+      "sortid": 819,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_flower_items",
+      "path": "~/Tags"
+    },
+    {
+      "name": "MysticMapleTrapdoorR",
+      "type": "recipe",
+      "sortid": 800,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_maple_trapdoor_r",
+      "path": "~/Nature/Wood Sets/Mystic Maple"
+    },
+    {
+      "name": "MysticMapleButton",
+      "type": "block",
+      "sortid": 354,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_maple_button",
+      "path": "~/Nature/Wood Sets/Mystic Maple"
+    },
+    {
+      "name": "MysticBasketSand",
+      "type": "block",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_basket_sand",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenMysticMapleStairs",
+      "type": "block",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_mystic_maple_stairs",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "WovenMysticSlabR",
+      "type": "recipe",
+      "sortid": 807,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_mystic_slab_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "MysticMapleWoodRecipe",
+      "type": "recipe",
+      "sortid": 784,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_maple_wood_recipe",
+      "path": "~/Nature/Wood Sets/Mystic Maple"
+    },
+    {
+      "name": "MysticMapleSapling",
+      "type": "plant",
+      "sortid": 356,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_maple_sapling",
+      "path": "~/Nature/Wood Sets/Mystic Maple"
+    },
+    {
+      "name": "MysticMapleWood",
+      "type": "block",
+      "sortid": 342,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_maple_wood",
+      "path": "~/Nature/Wood Sets/Mystic Maple"
+    },
+    {
+      "name": "ObserverRoseQuartz",
+      "type": "recipe",
+      "sortid": 795,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "observer_rose_quartz",
+      "path": "~/OtherBlocks/Quartz/Recipes"
+    },
+    {
+      "name": "MysticMapleTrapdoor",
+      "type": "block",
+      "sortid": 349,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_maple_trapdoor",
+      "path": "~/Nature/Wood Sets/Mystic Maple"
+    },
+    {
+      "name": "MysticMapleButtonRecipe",
+      "type": "recipe",
+      "sortid": 791,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_maple_button_recipe",
+      "path": "~/Nature/Wood Sets/Mystic Maple"
+    },
+    {
+      "name": "Mutandis",
+      "type": "item",
+      "sortid": 357,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mutandis",
+      "path": "~/Items/Mutandis"
+    },
+    {
+      "name": "MysticBasketMycelium",
+      "type": "block",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_basket_mycelium",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "MysticMapleStairs",
+      "type": "block",
+      "sortid": 347,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_maple_stairs",
+      "path": "~/Nature/Wood Sets/Mystic Maple"
+    },
+    {
+      "name": "MysticMapleFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 789,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_maple_fence_gate_recipe",
+      "path": "~/Nature/Wood Sets/Mystic Maple"
+    },
+    {
+      "name": "WovenMysticBlockR",
+      "type": "recipe",
+      "sortid": 804,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_mystic_block_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "MysticSandBasketR",
+      "type": "recipe",
+      "sortid": 812,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_sand_basket_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "MysticMaplePlanksRecipe",
+      "type": "recipe",
+      "sortid": 785,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_maple_planks_recipe",
+      "path": "~/Nature/Wood Sets/Mystic Maple"
+    },
+    {
+      "name": "MysticMapleFenceRecipe",
+      "type": "recipe",
+      "sortid": 788,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_maple_fence_recipe",
+      "path": "~/Nature/Wood Sets/Mystic Maple"
+    },
+    {
+      "name": "StrippedMysticMapleWood",
+      "type": "block",
+      "sortid": 344,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_mystic_maple_wood",
+      "path": "~/Nature/Wood Sets/Mystic Maple"
+    },
+    {
+      "name": "MysticMapleSlab",
+      "type": "block",
+      "sortid": 348,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_maple_slab",
+      "path": "~/Nature/Wood Sets/Mystic Maple"
+    },
+    {
+      "name": "MysticDirtBasketR",
+      "type": "recipe",
+      "sortid": 808,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_dirt_basket_r",
+      "path": "~/OtherBlocks/Woven Blocks/Recipes"
+    },
+    {
+      "name": "MysticMaplePlanks",
+      "type": "block",
+      "sortid": 346,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_maple_planks",
+      "path": "~/Nature/Wood Sets/Mystic Maple"
+    },
+    {
+      "name": "MysticMapleStrip2",
+      "type": "procedure",
+      "sortid": 803,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_maple_strip_2",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Nature/Wood Sets/Mystic Maple"
+    },
+    {
+      "name": "DaylightSensorSmoky",
+      "type": "recipe",
+      "sortid": 794,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "daylight_sensor_smoky",
+      "path": "~/OtherBlocks/Quartz/Recipes"
+    },
+    {
+      "name": "FlowerItems",
+      "type": "tag",
+      "sortid": 818,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flower_items",
+      "path": "~/Tags"
+    },
+    {
+      "name": "WovenMysticMapleBasket",
+      "type": "block",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woven_mystic_maple_basket",
+      "path": "~/OtherBlocks/Woven Blocks"
+    },
+    {
+      "name": "MysticMaplePressurePlate",
+      "type": "block",
+      "sortid": 353,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystic_maple_pressure_plate",
+      "path": "~/Nature/Wood Sets/Mystic Maple"
+    },
+    {
+      "name": "ComparatorSmokyQuartz",
+      "type": "recipe",
+      "sortid": 798,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "comparator_smoky_quartz",
+      "path": "~/OtherBlocks/Quartz/Recipes"
+    },
+    {
+      "name": "PlankItems",
+      "type": "tag",
+      "sortid": 817,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plank_items",
+      "path": "~/Tags"
     }
   ],
   "variable_elements": [],
@@ -6800,10 +7464,11 @@
       "block.archiblock_two.woven_warped_basket": "Woven Warped Block",
       "block.archiblock_two.smooth_rose_quartz_stairs": "Smooth Rose Quartz Stairs",
       "block.archiblock_two.blue_clay_brick_pavement": "Blue Clay Brick Pavement",
-      "block.archiblock_two.red_slanted_shingles_side": "Red Slanted Clay Shingles Side",
       "block.archiblock_two.smooth_smoky_quartz": "Smooth Smoky Quartz Block",
+      "block.archiblock_two.red_slanted_shingles_side": "Red Slanted Clay Shingles Side",
       "block.archiblock_two.cut_obsidian": "Cut Obsidian",
       "block.archiblock_two.clay_shingles_slab": "Clay Shingles Slab",
+      "block.archiblock_two.woven_mystic_maple_stairs": "Woven Mystic Maple Stairs",
       "block.archiblock_two.ruby_pillar": "Ruby Pillar",
       "block.archiblock_two.cut_granite_stairs": "Cut Granite Stairs",
       "block.archiblock_two.spruce_basket_dirt": "Dirt Filled Woven Spruce Basket",
@@ -6815,8 +7480,9 @@
       "block.archiblock_two.twilight_bricks": "Twilight Bricks",
       "block.archiblock_two.spruce_basket_moss": "Moss Filled Woven Spruce Basket",
       "block.archiblock_two.ruby_tiles": "Ruby Tiles",
-      "block.archiblock_two.woven_acacia_slab": "Woven Acacia Slab",
+      "block.archiblock_two.mystic_maple_fence_gate": "Mystic Maple Fence Gate",
       "block.archiblock_two.smoky_slab_2": "Carved Smoky Quartz Brick Slab",
+      "block.archiblock_two.woven_acacia_slab": "Woven Acacia Slab",
       "block.archiblock_two.rose": "Rose",
       "block.archiblock_two.smooth_rose_quartz": "Smooth Rose Quartz Block",
       "block.archiblock_two.yellow_neon_block": "Yellow Neon Block",
@@ -6832,6 +7498,7 @@
       "block.archiblock_two.andesite_brick_stairs": "Andesite Brick Stairs",
       "block.archiblock_two.obsidian_tiles": "Obsidian Tiles",
       "block.archiblock_two.smoky_quartz_bricks_2": "Carved Smoky Quartz Bricks",
+      "block.archiblock_two.woven_mystic_maple_slab": "Woven Mystic Maple Slab",
       "block.archiblock_two.sapphire_bricks": "Sapphire Bricks",
       "block.archiblock_two.olive_rose_bush": "Chartreuse Rose Bush",
       "block.archiblock_two.dark_oak_basket_sand": "Sand Filled Woven Dark Oak Basket",
@@ -6848,6 +7515,7 @@
       "block.archiblock_two.cracked_cut_stone": "Cracked Cut Stone",
       "block.archiblock_two.black_spool": "Black Spool",
       "block.archiblock_two.lush_twilight_brick_slab": "Lush Twilight Brick Slab",
+      "block.archiblock_two.mystic_maple_wood": "Mystic Maple Wood",
       "block.archiblock_two.snowy_stone_pillar": "Snowy Stone Pillar",
       "item.archiblock_two.twilightwave_shard": "Twilightwave Shard",
       "block.archiblock_two.birch_basket_dirt": "Dirt Filled Woven Birch Basket",
@@ -6865,21 +7533,23 @@
       "block.archiblock_two.light_blue_spool": "Light Blue Spool",
       "block.archiblock_two.sapphire_block": "Sapphire Block",
       "block.archiblock_two.andesite_brick_wall": "Andesite Brick Wall",
-      "item.archiblock_two.sus": "Pandora Anamiya - Ass",
+      "item.archiblock_two.sus": "pandora\u0027s song",
       "block.archiblock_two.rose_shrub": "Rose Shrub",
       "block.archiblock_two.sugilite_bricks": "Sugilite Bricks",
       "block.archiblock_two.chiselled_smoky_quartz": "Chiselled Smoky Quartz Block",
       "block.archiblock_two.red_big_clay_bricks": "Red Big Clay Bricks",
-      "block.archiblock_two.woven_basket_mycelium": "Mycelium Filled Woven Basket",
       "block.archiblock_two.clay_brick_tiles": "Clay Brick Tiles",
+      "block.archiblock_two.woven_basket_mycelium": "Mycelium Filled Woven Basket",
       "block.archiblock_two.granite_pillar": "Granite Pillar",
-      "block.archiblock_two.olive_rose": "Chartreuse Rose",
       "block.archiblock_two.clay_brick_block": "Clay Brick Block",
+      "block.archiblock_two.olive_rose": "Chartreuse Rose",
       "block.archiblock_two.smoky_quartz_stairs": "Smoky Quartz Stairs",
       "block.archiblock_two.snowy_stone_brick_stairs": "Snowy Stone Brick Stairs",
       "block.archiblock_two.chiselled_obsidian_slab": "Chiselled Obsidian Slab",
+      "block.archiblock_two.woven_mystic_maple_basket": "Woven Mystic Maple Basket",
       "block.archiblock_two.sapphire_tiles": "Sapphire Tiles",
       "block.archiblock_two.smoky_brick_slab": "Smoky Quartz Brick Slab",
+      "block.archiblock_two.mystic_basket_mycelium": "Mycelium Filled Mystic Maple Basket",
       "block.archiblock_two.raw_twilightwave_block": "Raw Twilightwave Block",
       "block.archiblock_two.smoky_quartz_slab": "Smoky Quartz Slab",
       "block.archiblock_two.ruby_ore": "Ruby Ore",
@@ -6890,12 +7560,13 @@
       "block.archiblock_two.woven_acacia_stairs": "Woven Acacia Stairs",
       "block.archiblock_two.diorite_tiles": "Diorite Tiles",
       "block.archiblock_two.light_gray_neon_block": "Light Gray Neon Block",
-      "block.archiblock_two.slanted_shingles_side": "Slanted Clay Shingles Side",
       "block.archiblock_two.warped_basket_moss": "Moss Filled Woven Warped Basket",
+      "block.archiblock_two.slanted_shingles_side": "Slanted Clay Shingles Side",
       "block.archiblock_two.rose_brick_stairs_2": "Carved Rose Quartz Brick Stairs",
       "block.archiblock_two.snowy_stone_brick_slab": "Snowy Stone Brick Slab",
       "block.archiblock_two.woven_warped_stairs": "Woven Warped Stairs",
       "block.archiblock_two.rose_brick_slab": "Rose Quartz Brick Slab",
+      "block.archiblock_two.mystic_maple_stairs": "Mystic Maple Stairs",
       "block.archiblock_two.small_obsidian_bricks": "Small Obsidian Bricks",
       "itemGroup.tabarchiblock_ii_nature": "Archiblock II - Nature",
       "item.archiblock_two.lush_twilight_shard": "Lush Twilight Shard",
@@ -6918,6 +7589,7 @@
       "block.archiblock_two.rose_quartz_brick_stairs": "Rose Quartz Brick Stairs",
       "block.archiblock_two.smoky_stairs_2": "Carved Smoky Quartz Brick Stairs",
       "block.archiblock_two.smoky_quartz_ore": "Smoky Quartz Ore",
+      "block.archiblock_two.mystic_maple_fence": "Mystic Maple Fence",
       "block.archiblock_two.stone_pillar": "Stone Pillar",
       "block.archiblock_two.gray_neon_block": "Gray Neon Block",
       "block.archiblock_two.rose_quartz_pillar": "Rose Quartz Pillar",
@@ -6930,6 +7602,7 @@
       "block.archiblock_two.fancy_diorite_pillar": "Carved Diorite Pillar",
       "block.archiblock_two.chiselled_diorite": "Chiselled Diorite",
       "block.archiblock_two.red_clay_brick_pavement": "Red Clay Brick Pavement",
+      "block.archiblock_two.stripped_mystic_maple_log": "Stripped Mystic Maple Log",
       "block.archiblock_two.warped_basket_mycelium": "Mycelium Filled Woven Warped Basket",
       "block.archiblock_two.twilight_tiles": "Twilight Tiles",
       "block.archiblock_two.orange_spool": "Orange Spool",
@@ -6955,13 +7628,16 @@
       "block.archiblock_two.cut_stone_stairs": "Cut Stone Stairs",
       "block.archiblock_two.chiselled_obsidian_wall": "Chiselled Obsidian Wall",
       "block.archiblock_two.scarlet_rose_shrub": "Scarlet Rose Shrub",
+      "block.archiblock_two.mystic_basket_dirt": "Woven Mystic Maple Block",
       "block.archiblock_two.rose_quartz_ore": "Rose Quartz Ore",
       "block.archiblock_two.purple_spool": "Purple Spool",
       "block.archiblock_two.woven_dark_oak_stairs": "Woven Dark Oak Stairs",
+      "block.archiblock_two.mystic_basket_moss": "Moss Filled Mystic Maple Basket",
       "block.archiblock_two.smoky_brick_stairs": "Smoky Quartz Brick Stairs",
       "block.archiblock_two.crimson_basket_mycelium": "Mycelium Filled Woven Crimson Basket",
       "block.archiblock_two.snowy_small_stone_bricks": "Snowy Small Stone Bricks",
       "block.archiblock_two.small_clay_brick_tiles": "Clay Brick Small Tiles",
+      "block.archiblock_two.mystic_maple_planks": "Mystic Maple Planks",
       "block.archiblock_two.tangled_clay_bricks": "Tangled Big Clay Bricks",
       "block.archiblock_two.warped_basket_dirt": "Dirt Filled Woven Warped Basket",
       "block.archiblock_two.smooth_smoky_quartz_wall": "Smooth Smoky Quartz Wall",
@@ -6988,6 +7664,7 @@
       "block.archiblock_two.cut_granite_slab": "Cut Granite Slab",
       "block.archiblock_two.jungle_basket_mycelium": "Mycelium Filled Woven Jungle Basket",
       "block.archiblock_two.acacia_basket_dirt": "Dirt Filled Woven Acacia Basket",
+      "block.archiblock_two.mystic_maple_log": "Mystic Maple Log",
       "block.archiblock_two.sugilite_tiles": "Sugilite Tiles",
       "block.archiblock_two.snowy_cobblestone_slab": "Snowy Cobblestone Slab",
       "block.archiblock_two.smoky_quartz_pillar": "Smoky Quartz Pillar",
@@ -7003,6 +7680,7 @@
       "block.archiblock_two.woven_basket": "Woven Basket",
       "block.archiblock_two.pink_rose": "Pink Rose",
       "block.archiblock_two.side_snowy_stone_pillar": "Snowy Stone Pillar",
+      "block.archiblock_two.mystic_basket_podzol": "Podzol Filled Mystic Maple Basket",
       "block.archiblock_two.rose_quartz_block": "Block of Rose Quartz",
       "block.archiblock_two.twilightwave_bricks": "Twilightwave Bricks",
       "block.archiblock_two.olive_rose_shrub": "Chartreuse Rose Shrub",
@@ -7021,6 +7699,7 @@
       "block.archiblock_two.blue_clay_shingle_slab": "Blue Clay Shingles Slab",
       "block.archiblock_two.birch_basket_podzol": "Podzol Filled Woven Birch Basket",
       "block.archiblock_two.light_blue_neon_block": "Light Blue Neon Block",
+      "block.archiblock_two.mystic_maple_button": "Mystic Maple Button",
       "block.archiblock_two.woven_fiber_slab": "Woven Fiber Slab",
       "item.archiblock_two.sugilite": "Sugilite",
       "block.archiblock_two.andesite_block_wall": "Andesite Block Wall",
@@ -7047,6 +7726,7 @@
       "block.archiblock_two.topaz_stone_ore": "Topaz Ore",
       "block.archiblock_two.lush_twilight_bricks": "Lush Twilight Bricks",
       "block.archiblock_two.woven_jungle_block": "Woven Jungle Block",
+      "block.archiblock_two.mystic_maple_door": "Mystic Maple Door",
       "block.archiblock_two.woven_crimson_stairs": "Woven Crimson Stairs",
       "block.archiblock_two.obsidian_bricks": "Obsidian Bricks",
       "block.archiblock_two.woven_spruce_block": "Woven Spruce Block",
@@ -7054,14 +7734,16 @@
       "block.archiblock_two.topaz_tiles": "Topaz Tiles",
       "block.archiblock_two.woven_basket_dirt": "Dirt Filled Woven Basket",
       "block.archiblock_two.cut_diorite": "Cut Diorite",
-      "item.archiblock_two.sus.desc": "pandora when she sees dori, libido, zadkiel, ira, yingtao, etora and doremy",
+      "item.archiblock_two.sus.desc": "canon in the monochrome universe",
       "block.archiblock_two.sugilite_ore": "Sugilite Ore",
       "block.archiblock_two.chiselled_obsidian_stairs": "Chiselled Obsidian Stairs",
+      "block.archiblock_two.mystic_maple_pressure_plate": "Mystic Maple Pressure Plate",
       "block.archiblock_two.red_clay_brick_small_tiles": "Red Clay Brick Small Tiles",
+      "block.archiblock_two.stripped_mystic_maple_wood": "Stripped Mystic Maple Wood",
       "block.archiblock_two.blue_slanted_clay_shingles": "Blue Slanted Clay Shingles",
       "block.archiblock_two.diorite_brick_wall": "Diorite Brick Wall",
-      "block.archiblock_two.snowy_stone": "Snowy Stone",
       "block.archiblock_two.glowing_eyes_round_blink": "Round Glowing Eyes",
+      "block.archiblock_two.snowy_stone": "Snowy Stone",
       "block.archiblock_two.smoky_brick_wall": "Smoky Quartz Brick Wall",
       "block.archiblock_two.warped_basket_sand": "Sand Filled Woven Warped Basket",
       "block.archiblock_two.blue_clay_brick_tiles": "Blue Clay Brick Tiles",
@@ -7072,14 +7754,17 @@
       "itemGroup.tabarchiblock_ii_tab": "Archiblock II - Building",
       "block.archiblock_two.birch_basket_mycelium": "Mycelium Filled Woven Birch Basket",
       "block.archiblock_two.blue_clay_brick_block": "Blue Clay Brick Block",
+      "block.archiblock_two.mystic_maple_trapdoor": "Mystic Maple Trapdoor",
       "item.archiblock_two.ruby": "Ruby",
       "block.archiblock_two.glowing_eyes_round_stare": "Round Glowing Eyes",
       "block.archiblock_two.diorite_tile_wall": "Diorite Tile Wall",
       "block.archiblock_two.spruce_basket_podzol": "Podzol Filled Woven Spruce Basket",
+      "block.archiblock_two.mystic_maple_leaves": "Mystic Maple Leaves",
       "block.archiblock_two.rose_brick_slab_2": "Carved Rose Quartz Brick Slab",
       "block.archiblock_two.granite_brick_stairs": "Granite Brick Stairs",
       "block.archiblock_two.smooth_smoky_quartz_stairs": "Smooth Smoky Quartz Stairs",
       "item.archiblock_two.twilight_shard": "Twilight Shard",
+      "item.archiblock_two.mutandis": "Mutandis",
       "block.archiblock_two.stone_tiles": "Stone Tiles",
       "block.archiblock_two.orange_neon_block": "Orange Neon Block",
       "block.archiblock_two.woven_crimson_slab": "Woven Crimson Slab",
@@ -7103,6 +7788,7 @@
       "block.archiblock_two.buttermilk_rose_shrub": "Buttermilk Rose Shrub",
       "block.archiblock_two.snowy_cut_stone": "Snowy Cut Stone",
       "block.archiblock_two.jungle_basket_dirt": "Dirt Filled Woven Jungle Basket",
+      "block.archiblock_two.mystic_maple_sapling": "Mystic Maple Sapling",
       "block.archiblock_two.clay_shingles": "Block of Clay Shingles",
       "block.archiblock_two.woven_crimson_block": "Woven Crimson Block",
       "block.archiblock_two.smoky_wall_2": "Carved Smoky Quartz Brick Wall",
@@ -7110,6 +7796,8 @@
       "block.archiblock_two.woven_dark_oak_slab": "Woven Dark Oak Block",
       "block.archiblock_two.slanted_clay_shingles": "Slanted Clay Shingles",
       "block.archiblock_two.twilightwave_brick_slab": "Twilightwave Brick Slab",
+      "block.archiblock_two.mystic_maple_slab": "Mystic Maple Slab",
+      "block.archiblock_two.woven_mystic_maple_block": "Woven Mystic Maple Block",
       "block.archiblock_two.andesite_block_stairs": "Andesite Block Stairs",
       "block.archiblock_two.red_neon_block": "Red Neon Block",
       "block.archiblock_two.acacia_basket_moss": "Moss Filled Woven Acacia Basket",
@@ -7132,12 +7820,22 @@
       "block.archiblock_two.acacia_basket_podzol": "Podzol Filled Woven Acacia Basket",
       "block.archiblock_two.acacia_basket_mycelium": "Mycelium Filled Woven Acacia Basket",
       "block.archiblock_two.woven_acacia_block": "Woven Acacia Block",
-      "block.archiblock_two.jungle_basket_podzol": "Podzol Filled Woven Jungle Basket"
+      "block.archiblock_two.jungle_basket_podzol": "Podzol Filled Woven Jungle Basket",
+      "block.archiblock_two.mystic_basket_sand": "Sand Filled Mystic Maple Basket"
     }
   },
   "foldersRoot": {
     "name": "~",
     "children": [
+      {
+        "name": "Items",
+        "children": [
+          {
+            "name": "Mutandis",
+            "children": []
+          }
+        ]
+      },
       {
         "name": "OtherBlocks",
         "children": [
@@ -7270,12 +7968,30 @@
                 "children": []
               }
             ]
+          },
+          {
+            "name": "Quartz",
+            "children": [
+              {
+                "name": "Recipes",
+                "children": []
+              }
+            ]
           }
         ]
       },
       {
         "name": "Nature",
         "children": [
+          {
+            "name": "Wood Sets",
+            "children": [
+              {
+                "name": "Mystic Maple",
+                "children": []
+              }
+            ]
+          },
           {
             "name": "Roses",
             "children": []
@@ -7340,20 +8056,19 @@
   },
   "workspaceSettings": {
     "modid": "archiblock_two",
-    "modName": "Archiblock II",
-    "version": "1.0",
-    "description": "A Deco Mod",
-    "author": "Matia \u0026 Fred",
+    "modName": "Archiblock 2",
+    "version": "0.9.0",
+    "description": "Expand the palettes and choice of blocks in your builds and aestheti-fy your worlds with Archiblocks\u0027 additions, forming a wide array with new wood types, decorative ores, craftable decorations, trinkets, flora and much more.",
+    "author": "Fred + Patchouli",
+    "websiteURL": "(we should change this to CurseForge when we upload it)",
     "license": "Academic Free License v3.0",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
-    "modPicture": "demologobig1",
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.17.1",
-    "credits": "Mod created with Mcreator",
     "modElementsPackage": "net.mcreator.archiblocktwo",
     "lockBaseModFiles": false
   },

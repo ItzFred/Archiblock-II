@@ -49,6 +49,30 @@
       },
       {
         "value": "CUSTOM:SnowyStoneWall"
+      },
+      {
+        "value": "CUSTOM:RoseQuartzWall"
+      },
+      {
+        "value": "CUSTOM:SmokyQuartzWall"
+      },
+      {
+        "value": "CUSTOM:SmoothRoseQuartzWall"
+      },
+      {
+        "value": "CUSTOM:SmoothSmokyQuartzWall"
+      },
+      {
+        "value": "CUSTOM:SmokyWall2"
+      },
+      {
+        "value": "CUSTOM:RoseBrickWall2"
+      },
+      {
+        "value": "CUSTOM:SmokyBrickWall"
+      },
+      {
+        "value": "CUSTOM:RoseBrickWall"
       }
     ],
     "functions": [],

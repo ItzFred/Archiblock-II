@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:mystic_maple_log"
+    },
+    "1": {
+      "item": "archiblock_two:mystic_maple_log"
+    },
+    "2": {
+      "item": "archiblock_two:mystic_maple_log"
+    },
+    "3": {
+      "item": "archiblock_two:mystic_maple_log"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:deleted_mod_element",
+    "count": 3
+  }
+}

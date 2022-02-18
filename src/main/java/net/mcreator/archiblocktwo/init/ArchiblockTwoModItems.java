@@ -22,6 +22,7 @@ import net.mcreator.archiblocktwo.item.SmokyQuartzItem;
 import net.mcreator.archiblocktwo.item.SapphireItem;
 import net.mcreator.archiblocktwo.item.RubyItem;
 import net.mcreator.archiblocktwo.item.RoseQuartzItem;
+import net.mcreator.archiblocktwo.item.MutandisItem;
 import net.mcreator.archiblocktwo.item.LushTwilightShardItem;
 
 import java.util.List;
@@ -205,6 +206,20 @@ public class ArchiblockTwoModItems {
 	public static final Item WARPED_BASKET_MYCELIUM = register(ArchiblockTwoModBlocks.WARPED_BASKET_MYCELIUM,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item WARPED_BASKET_SAND = register(ArchiblockTwoModBlocks.WARPED_BASKET_SAND, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item WOVEN_MYSTIC_MAPLE_BLOCK = register(ArchiblockTwoModBlocks.WOVEN_MYSTIC_MAPLE_BLOCK,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item WOVEN_MYSTIC_MAPLE_STAIRS = register(ArchiblockTwoModBlocks.WOVEN_MYSTIC_MAPLE_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item WOVEN_MYSTIC_MAPLE_SLAB = register(ArchiblockTwoModBlocks.WOVEN_MYSTIC_MAPLE_SLAB,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item WOVEN_MYSTIC_MAPLE_BASKET = register(ArchiblockTwoModBlocks.WOVEN_MYSTIC_MAPLE_BASKET,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MYSTIC_BASKET_DIRT = register(ArchiblockTwoModBlocks.MYSTIC_BASKET_DIRT, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MYSTIC_BASKET_MOSS = register(ArchiblockTwoModBlocks.MYSTIC_BASKET_MOSS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MYSTIC_BASKET_PODZOL = register(ArchiblockTwoModBlocks.MYSTIC_BASKET_PODZOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MYSTIC_BASKET_MYCELIUM = register(ArchiblockTwoModBlocks.MYSTIC_BASKET_MYCELIUM,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MYSTIC_BASKET_SAND = register(ArchiblockTwoModBlocks.MYSTIC_BASKET_SAND, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CUT_OBSIDIAN = register(ArchiblockTwoModBlocks.CUT_OBSIDIAN, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item OBSIDIAN_BRICKS = register(ArchiblockTwoModBlocks.OBSIDIAN_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item SMALL_OBSIDIAN_BRICKS = register(ArchiblockTwoModBlocks.SMALL_OBSIDIAN_BRICKS,
@@ -299,13 +314,39 @@ public class ArchiblockTwoModItems {
 	public static final Item CHISELLED_TWILIGHT_BRICKS = register(ArchiblockTwoModBlocks.CHISELLED_TWILIGHT_BRICKS,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item TWILIGHT_PILLAR = register(ArchiblockTwoModBlocks.TWILIGHT_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MYSTIC_MAPLE_WOOD = register(ArchiblockTwoModBlocks.MYSTIC_MAPLE_WOOD, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
 	public static final Item TWILIGHT_PILLAR_TOP = register(ArchiblockTwoModBlocks.TWILIGHT_PILLAR_TOP, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MYSTIC_MAPLE_LOG = register(ArchiblockTwoModBlocks.MYSTIC_MAPLE_LOG, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item STRIPPED_MYSTIC_MAPLE_WOOD = register(ArchiblockTwoModBlocks.STRIPPED_MYSTIC_MAPLE_WOOD,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item STRIPPED_MYSTIC_MAPLE_LOG = register(ArchiblockTwoModBlocks.STRIPPED_MYSTIC_MAPLE_LOG,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item MYSTIC_MAPLE_PLANKS = register(ArchiblockTwoModBlocks.MYSTIC_MAPLE_PLANKS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item MYSTIC_MAPLE_STAIRS = register(ArchiblockTwoModBlocks.MYSTIC_MAPLE_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item MYSTIC_MAPLE_SLAB = register(ArchiblockTwoModBlocks.MYSTIC_MAPLE_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
 	public static final Item TWILIGHT_BRICK_SLAB = register(ArchiblockTwoModBlocks.TWILIGHT_BRICK_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MYSTIC_MAPLE_TRAPDOOR = register(ArchiblockTwoModBlocks.MYSTIC_MAPLE_TRAPDOOR,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
 	public static final Item TWILIGHT_BRICK_STAIRS = register(ArchiblockTwoModBlocks.TWILIGHT_BRICK_STAIRS,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MYSTIC_MAPLE_DOOR = register(ArchiblockTwoModBlocks.MYSTIC_MAPLE_DOOR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
 	public static final Item TWILIGHT_BRICK_WALL = register(ArchiblockTwoModBlocks.TWILIGHT_BRICK_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MYSTIC_MAPLE_FENCE = register(ArchiblockTwoModBlocks.MYSTIC_MAPLE_FENCE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item MYSTIC_MAPLE_FENCE_GATE = register(ArchiblockTwoModBlocks.MYSTIC_MAPLE_FENCE_GATE,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item MYSTIC_MAPLE_PRESSURE_PLATE = register(ArchiblockTwoModBlocks.MYSTIC_MAPLE_PRESSURE_PLATE,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item MYSTIC_MAPLE_BUTTON = register(ArchiblockTwoModBlocks.MYSTIC_MAPLE_BUTTON,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item MYSTIC_MAPLE_LEAVES = register(ArchiblockTwoModBlocks.MYSTIC_MAPLE_LEAVES,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item MYSTIC_MAPLE_SAPLING = register(ArchiblockTwoModBlocks.MYSTIC_MAPLE_SAPLING,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
 	public static final Item RAW_LUSH_TWILIGHT_BLOCK = register(ArchiblockTwoModBlocks.RAW_LUSH_TWILIGHT_BLOCK,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MUTANDIS = register(new MutandisItem());
 	public static final Item LUSH_TWILIGHT_BRICKS = register(ArchiblockTwoModBlocks.LUSH_TWILIGHT_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item LUSH_TWILIGHT_TILES = register(ArchiblockTwoModBlocks.LUSH_TWILIGHT_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item LUSH_TWILIGHT_PILLAR = register(ArchiblockTwoModBlocks.LUSH_TWILIGHT_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);

@@ -71,6 +71,15 @@
         "missing": "wovenspruce"
       },
       "name": "spruce"
+    },
+    "mysticmaple": {
+      "map": {
+        "0": "mysticmaplewovenbaske",
+        "1": "mysticmaplewovenbaskettop",
+        "2": "mysticmaplewovenblock",
+        "missing": "mysticmaplewovenblock"
+      },
+      "name": "mysticmaple"
     }
   }
 }

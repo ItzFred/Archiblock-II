@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "archiblock_two:blocks/mysticmaplewovenblock",
+    "up": "archiblock_two:blocks/mysticmgrass",
+    "north": "archiblock_two:blocks/mysticmaplewovenbaske",
+    "east": "archiblock_two:blocks/mysticmaplewovenbaske",
+    "south": "archiblock_two:blocks/mysticmaplewovenbaske",
+    "west": "archiblock_two:blocks/mysticmaplewovenbaske",
+    "particle": "archiblock_two:blocks/mysticmaplewovenblock"
+  }
+}

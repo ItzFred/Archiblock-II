@@ -4,14 +4,13 @@ license="Academic Free License v3.0"
 
 [[mods]]
 modId="archiblock_two"
-version="1.0"
-displayName="Archiblock II"
-credits="Mod created with Mcreator"
+version="0.9.0"
+displayName="Archiblock 2"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
-logoFile="logo.png"
-authors="Matia & Fred"
+authors="Fred + Patchouli"
 description='''
-A Deco Mod
+Expand the palettes and choice of blocks in your builds and aestheti-fy your worlds with Archiblocks' additions, forming a wide array with new wood types, decorative ores, craftable decorations, trinkets, flora and much more.
 '''
 
 [[dependencies.archiblock_two]]

@@ -80,6 +80,15 @@
     "archiblock_two:warped_basket_podzol",
     "archiblock_two:warped_basket_mycelium",
     "archiblock_two:warped_basket_sand",
+    "archiblock_two:woven_mystic_maple_block",
+    "archiblock_two:woven_mystic_maple_stairs",
+    "archiblock_two:woven_mystic_maple_slab",
+    "archiblock_two:woven_mystic_maple_basket",
+    "archiblock_two:mystic_basket_dirt",
+    "archiblock_two:mystic_basket_moss",
+    "archiblock_two:mystic_basket_podzol",
+    "archiblock_two:mystic_basket_mycelium",
+    "archiblock_two:mystic_basket_sand",
     "archiblock_two:woven_fiber_block",
     "archiblock_two:woven_fiber_stairs",
     "archiblock_two:woven_fiber_slab",
@@ -88,6 +97,13 @@
     "archiblock_two:woven_basket_grass",
     "archiblock_two:woven_basket_mycelium",
     "archiblock_two:woven_basket_podzol",
-    "archiblock_two:woven_basket_sand"
+    "archiblock_two:woven_basket_sand",
+    "archiblock_two:mystic_maple_wood",
+    "archiblock_two:mystic_maple_log",
+    "archiblock_two:stripped_mystic_maple_wood",
+    "archiblock_two:stripped_mystic_maple_log",
+    "archiblock_two:mystic_maple_planks",
+    "archiblock_two:mystic_maple_trapdoor",
+    "archiblock_two:mystic_maple_door"
   ]
 }
