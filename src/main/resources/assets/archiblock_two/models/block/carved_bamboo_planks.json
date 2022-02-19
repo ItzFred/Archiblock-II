@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "archiblock_two:blocks/carvedbamboo",
+    "up": "archiblock_two:blocks/carvedbamboo",
+    "north": "archiblock_two:blocks/carvedbamboo",
+    "east": "archiblock_two:blocks/carvedbamboo",
+    "south": "archiblock_two:blocks/carvedbamboo",
+    "west": "archiblock_two:blocks/carvedbamboo",
+    "particle": "archiblock_two:blocks/carvedbamboo"
+  }
+}

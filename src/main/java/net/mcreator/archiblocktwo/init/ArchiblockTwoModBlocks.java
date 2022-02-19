@@ -86,6 +86,7 @@ import net.mcreator.archiblocktwo.block.TopazPillarsBlock;
 import net.mcreator.archiblocktwo.block.TopazGraniteOreBlock;
 import net.mcreator.archiblocktwo.block.TopazBricksBlock;
 import net.mcreator.archiblocktwo.block.TopazBlockBlock;
+import net.mcreator.archiblocktwo.block.TiedbambooBlockBlock;
 import net.mcreator.archiblocktwo.block.SugiliteTilesBlock;
 import net.mcreator.archiblocktwo.block.SugilitePillarBlock;
 import net.mcreator.archiblocktwo.block.SugiliteOreBlock;
@@ -317,6 +318,7 @@ import net.mcreator.archiblocktwo.block.ChiselledLushTwilightBricksBlock;
 import net.mcreator.archiblocktwo.block.ChiselledGraniteBlock;
 import net.mcreator.archiblocktwo.block.ChiselledDioriteBlock;
 import net.mcreator.archiblocktwo.block.ChiselledAndesiteBlock;
+import net.mcreator.archiblocktwo.block.CarvedBambooPlanksBlock;
 import net.mcreator.archiblocktwo.block.ButtermilkRoseShrubBlock;
 import net.mcreator.archiblocktwo.block.ButtermilkRoseBushBlock;
 import net.mcreator.archiblocktwo.block.ButtermilkRoseBlock;
@@ -344,6 +346,15 @@ import net.mcreator.archiblocktwo.block.BirchBasketMyceliumBlock;
 import net.mcreator.archiblocktwo.block.BirchBasketMossBlock;
 import net.mcreator.archiblocktwo.block.BirchBasketDirtBlock;
 import net.mcreator.archiblocktwo.block.BigClayBricksBlock;
+import net.mcreator.archiblocktwo.block.BambooWindChimesBlock;
+import net.mcreator.archiblocktwo.block.BambooPlanksBlock;
+import net.mcreator.archiblocktwo.block.BambooPlankStairsBlock;
+import net.mcreator.archiblocktwo.block.BambooPlankSlabBlock;
+import net.mcreator.archiblocktwo.block.BambooPlankFenceGateBlock;
+import net.mcreator.archiblocktwo.block.BambooPlankFenceBlock;
+import net.mcreator.archiblocktwo.block.BambooLadderBlock;
+import net.mcreator.archiblocktwo.block.BambooDreamcatcherBlock;
+import net.mcreator.archiblocktwo.block.BambooBasketBlock;
 import net.mcreator.archiblocktwo.block.AndesiteTilesBlock;
 import net.mcreator.archiblocktwo.block.AndesiteSmallBricksBlock;
 import net.mcreator.archiblocktwo.block.AndesitePillarBlock;
@@ -714,6 +725,17 @@ public class ArchiblockTwoModBlocks {
 	public static final Block BLUE_CLAY_BRICK_PAVEMENT = register(new BlueClayBrickPavementBlock());
 	public static final Block SMOKY_WALL_2 = register(new SmokyWall2Block());
 	public static final Block BLUE_CLAY_SHINGLE_SLAB = register(new BlueClayShingleSlabBlock());
+	public static final Block TIEDBAMBOO_BLOCK = register(new TiedbambooBlockBlock());
+	public static final Block BAMBOO_PLANKS = register(new BambooPlanksBlock());
+	public static final Block CARVED_BAMBOO_PLANKS = register(new CarvedBambooPlanksBlock());
+	public static final Block BAMBOO_DREAMCATCHER = register(new BambooDreamcatcherBlock());
+	public static final Block BAMBOO_LADDER = register(new BambooLadderBlock());
+	public static final Block BAMBOO_PLANK_SLAB = register(new BambooPlankSlabBlock());
+	public static final Block BAMBOO_PLANK_STAIRS = register(new BambooPlankStairsBlock());
+	public static final Block BAMBOO_PLANK_FENCE = register(new BambooPlankFenceBlock());
+	public static final Block BAMBOO_PLANK_FENCE_GATE = register(new BambooPlankFenceGateBlock());
+	public static final Block BAMBOO_BASKET = register(new BambooBasketBlock());
+	public static final Block BAMBOO_WIND_CHIMES = register(new BambooWindChimesBlock());
 
 	private static Block register(Block block) {
 		REGISTRY.add(block);
@@ -803,6 +825,10 @@ public class ArchiblockTwoModBlocks {
 			BlueSlantedShinglesSideBlock.registerRenderLayer();
 			RedSlantedClayShinglesBlock.registerRenderLayer();
 			BlueSlantedClayShinglesBlock.registerRenderLayer();
+			BambooDreamcatcherBlock.registerRenderLayer();
+			BambooLadderBlock.registerRenderLayer();
+			BambooBasketBlock.registerRenderLayer();
+			BambooWindChimesBlock.registerRenderLayer();
 		}
 
 		@SubscribeEvent

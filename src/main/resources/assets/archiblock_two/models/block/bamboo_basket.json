@@ -1,0 +1,11 @@
+{
+  "parent": "archiblock_two:custom/wovenbasket2",
+  "textures": {
+    "all": "archiblock_two:blocks/bambooplanks",
+    "particle": "archiblock_two:blocks/bambooplanks",
+    "0": "archiblock_two:blocks/bamboobasketside1",
+    "1": "archiblock_two:blocks/bamboobaskettop",
+    "2": "archiblock_two:blocks/tiedbambootop",
+    "missing": "archiblock_two:blocks/tiedbambooside"
+  }
+}

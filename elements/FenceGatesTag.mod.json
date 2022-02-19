@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:MysticMapleFenceGate"
+      },
+      {
+        "value": "CUSTOM:BambooPlankFenceGate"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "fence_gates",
+    "namespace": "minecraft"
+  }
+}

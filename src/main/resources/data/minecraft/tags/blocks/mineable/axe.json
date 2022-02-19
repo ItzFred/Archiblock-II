@@ -104,6 +104,17 @@
     "archiblock_two:stripped_mystic_maple_log",
     "archiblock_two:mystic_maple_planks",
     "archiblock_two:mystic_maple_trapdoor",
-    "archiblock_two:mystic_maple_door"
+    "archiblock_two:mystic_maple_door",
+    "archiblock_two:tiedbamboo_block",
+    "archiblock_two:bamboo_planks",
+    "archiblock_two:carved_bamboo_planks",
+    "archiblock_two:bamboo_dreamcatcher",
+    "archiblock_two:bamboo_ladder",
+    "archiblock_two:bamboo_plank_slab",
+    "archiblock_two:bamboo_plank_stairs",
+    "archiblock_two:bamboo_plank_fence",
+    "archiblock_two:bamboo_plank_fence_gate",
+    "archiblock_two:bamboo_basket",
+    "archiblock_two:bamboo_wind_chimes"
   ]
 }

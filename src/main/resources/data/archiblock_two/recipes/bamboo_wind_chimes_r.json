@@ -1,0 +1,26 @@
+{
+  "group": "bamboo_wind_chimes",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:string"
+    },
+    "3": {
+      "item": "minecraft:bamboo"
+    },
+    "4": {
+      "item": "minecraft:bamboo"
+    },
+    "5": {
+      "item": "minecraft:bamboo"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:bamboo_wind_chimes",
+    "count": 1
+  }
+}

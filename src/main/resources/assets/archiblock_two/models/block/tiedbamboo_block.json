@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "archiblock_two:blocks/tiedbambootop",
+    "up": "archiblock_two:blocks/tiedbambootop",
+    "north": "archiblock_two:blocks/tiedbambooside",
+    "east": "archiblock_two:blocks/tiedbambooside",
+    "south": "archiblock_two:blocks/tiedbambooside",
+    "west": "archiblock_two:blocks/tiedbambooside",
+    "particle": "archiblock_two:blocks/tiedbambootop"
+  }
+}

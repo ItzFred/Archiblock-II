@@ -1,0 +1,22 @@
+{
+  "group": "bamboo_plank_slab",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:bamboo_planks"
+    },
+    "1": {
+      "item": "archiblock_two:bamboo_planks"
+    },
+    "2": {
+      "item": "archiblock_two:bamboo_planks"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:bamboo_plank_slab",
+    "count": 6
+  }
+}
