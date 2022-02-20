@@ -46,7 +46,7 @@
     "hardness": 1.0,
     "resistance": 2.0,
     "hasGravity": false,
-    "isWaterloggable": false,
+    "isWaterloggable": true,
     "creativeTab": {
       "value": "CUSTOM:ArchiblockIINature"
     },

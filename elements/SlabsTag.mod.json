@@ -109,6 +109,9 @@
       },
       {
         "value": "CUSTOM:BambooPlankSlab"
+      },
+      {
+        "value": "CUSTOM:DriedBambooPlankSlab"
       }
     ],
     "functions": [],

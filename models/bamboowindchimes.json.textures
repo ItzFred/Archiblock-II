@@ -5,6 +5,12 @@
         "0": "bamboowindchimesuv"
       },
       "name": "default"
+    },
+    "driedbamboo": {
+      "map": {
+        "0": "driedbamboowindchimesuv"
+      },
+      "name": "driedbamboo"
     }
   }
 }

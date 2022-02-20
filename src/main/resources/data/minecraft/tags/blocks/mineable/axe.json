@@ -115,6 +115,18 @@
     "archiblock_two:bamboo_plank_fence",
     "archiblock_two:bamboo_plank_fence_gate",
     "archiblock_two:bamboo_basket",
-    "archiblock_two:bamboo_wind_chimes"
+    "archiblock_two:bamboo_wind_chimes",
+    "archiblock_two:dried_tied_bamboo_block",
+    "archiblock_two:dried_bamboo_planks",
+    "archiblock_two:dried_carved_bamboo_planks",
+    "archiblock_two:dried_bamboo_dreamcatcher",
+    "archiblock_two:dried_bamboo_ladder",
+    "archiblock_two:dried_bamboo_plank_stairs",
+    "archiblock_two:dried_bamboo_plank_slab",
+    "archiblock_two:dried_bamboo_plank_fence",
+    "archiblock_two:dried_bamboo_plank_fence_gate",
+    "archiblock_two:dried_bamboo_basket",
+    "archiblock_two:dried_bamboo_wind_chimes",
+    "archiblock_two:dried_bamboo"
   ]
 }

@@ -89,6 +89,15 @@
         "missing": "tiedbambooside"
       },
       "name": "bamboo"
+    },
+    "driedbamboo": {
+      "map": {
+        "0": "driedbamboobasketside",
+        "1": "driedbamboobaskettop",
+        "2": "driedtiedbambootop",
+        "missing": "driedtiedbambooside"
+      },
+      "name": "driedbamboo"
     }
   }
 }

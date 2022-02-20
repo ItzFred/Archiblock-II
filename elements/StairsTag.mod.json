@@ -94,6 +94,9 @@
       },
       {
         "value": "CUSTOM:BambooPlankStairs"
+      },
+      {
+        "value": "CUSTOM:DriedBambooPlankStairs"
       }
     ],
     "functions": [],

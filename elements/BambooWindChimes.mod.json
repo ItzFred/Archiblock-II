@@ -23,12 +23,12 @@
     "disableOffset": false,
     "boundingBoxes": [
       {
-        "mx": 1.0,
-        "my": -3.0,
-        "mz": 7.0,
-        "Mx": 15.0,
+        "mx": 2.0,
+        "my": -2.0,
+        "mz": 2.0,
+        "Mx": 14.0,
         "My": 12.0,
-        "Mz": 10.0,
+        "Mz": 14.0,
         "subtract": false
       }
     ],
@@ -37,7 +37,7 @@
     "hardness": 1.0,
     "resistance": 2.0,
     "hasGravity": false,
-    "isWaterloggable": false,
+    "isWaterloggable": true,
     "creativeTab": {
       "value": "CUSTOM:ArchiblockIINature"
     },

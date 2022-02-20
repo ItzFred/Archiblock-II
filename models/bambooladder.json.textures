@@ -5,6 +5,12 @@
         "0": "bamboostairs"
       },
       "name": "default"
+    },
+    "driedbamboo": {
+      "map": {
+        "0": "driedbambooladder"
+      },
+      "name": "driedbamboo"
     }
   }
 }

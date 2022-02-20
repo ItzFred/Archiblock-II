@@ -492,6 +492,31 @@ public class ArchiblockTwoModItems {
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
 	public static final Item BAMBOO_BASKET = register(ArchiblockTwoModBlocks.BAMBOO_BASKET, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
 	public static final Item BAMBOO_WIND_CHIMES = register(ArchiblockTwoModBlocks.BAMBOO_WIND_CHIMES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item STRING_MESH = register(ArchiblockTwoModBlocks.STRING_MESH, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item FRAMED_STRING_MESH = register(ArchiblockTwoModBlocks.FRAMED_STRING_MESH, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item DRIED_TIED_BAMBOO_BLOCK = register(ArchiblockTwoModBlocks.DRIED_TIED_BAMBOO_BLOCK,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DRIED_BAMBOO_PLANKS = register(ArchiblockTwoModBlocks.DRIED_BAMBOO_PLANKS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DRIED_CARVED_BAMBOO_PLANKS = register(ArchiblockTwoModBlocks.DRIED_CARVED_BAMBOO_PLANKS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DRIED_BAMBOO_DREAMCATCHER = register(ArchiblockTwoModBlocks.DRIED_BAMBOO_DREAMCATCHER,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DRIED_BAMBOO_LADDER = register(ArchiblockTwoModBlocks.DRIED_BAMBOO_LADDER,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DRIED_BAMBOO_PLANK_STAIRS = register(ArchiblockTwoModBlocks.DRIED_BAMBOO_PLANK_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DRIED_BAMBOO_PLANK_SLAB = register(ArchiblockTwoModBlocks.DRIED_BAMBOO_PLANK_SLAB,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DRIED_BAMBOO_PLANK_FENCE = register(ArchiblockTwoModBlocks.DRIED_BAMBOO_PLANK_FENCE,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DRIED_BAMBOO_PLANK_FENCE_GATE = register(ArchiblockTwoModBlocks.DRIED_BAMBOO_PLANK_FENCE_GATE,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DRIED_BAMBOO_BASKET = register(ArchiblockTwoModBlocks.DRIED_BAMBOO_BASKET,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DRIED_BAMBOO_WIND_CHIMES = register(ArchiblockTwoModBlocks.DRIED_BAMBOO_WIND_CHIMES,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DRIED_BAMBOO = register(ArchiblockTwoModBlocks.DRIED_BAMBOO, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

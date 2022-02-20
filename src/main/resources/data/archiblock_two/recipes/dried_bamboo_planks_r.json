@@ -1,0 +1,26 @@
+{
+  "group": "dried_bamboo_planks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:dried_bamboo"
+    },
+    "1": {
+      "item": "archiblock_two:dried_bamboo"
+    },
+    "2": {
+      "item": "archiblock_two:dried_bamboo"
+    },
+    "3": {
+      "item": "archiblock_two:dried_bamboo"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:dried_bamboo_planks",
+    "count": 1
+  }
+}

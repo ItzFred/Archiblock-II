@@ -1,0 +1,23 @@
+{
+  "group": "dried_bamboo_basket",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:dried_bamboo_planks"
+    },
+    "2": {
+      "item": "archiblock_two:dried_bamboo_planks"
+    },
+    "4": {
+      "item": "archiblock_two:dried_bamboo_planks"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:dried_bamboo_basket",
+    "count": 1
+  }
+}

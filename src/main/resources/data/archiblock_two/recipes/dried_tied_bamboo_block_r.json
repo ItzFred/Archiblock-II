@@ -1,0 +1,42 @@
+{
+  "group": "dried_tied_bamboo_block",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:dried_bamboo"
+    },
+    "1": {
+      "item": "archiblock_two:dried_bamboo"
+    },
+    "2": {
+      "item": "archiblock_two:dried_bamboo"
+    },
+    "3": {
+      "item": "archiblock_two:dried_bamboo"
+    },
+    "4": {
+      "item": "archiblock_two:dried_bamboo"
+    },
+    "5": {
+      "item": "archiblock_two:dried_bamboo"
+    },
+    "6": {
+      "item": "archiblock_two:dried_bamboo"
+    },
+    "7": {
+      "item": "archiblock_two:dried_bamboo"
+    },
+    "8": {
+      "item": "archiblock_two:dried_bamboo"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:dried_tied_bamboo_block",
+    "count": 1
+  }
+}

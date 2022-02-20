@@ -5,6 +5,12 @@
         "0": "bamboodreamcatcheruv"
       },
       "name": "default"
+    },
+    "driedbamboo": {
+      "map": {
+        "0": "driedbamboodreamcatcheruv"
+      },
+      "name": "driedbamboo"
     }
   }
 }

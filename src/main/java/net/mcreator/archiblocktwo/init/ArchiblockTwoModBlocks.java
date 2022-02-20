@@ -94,6 +94,7 @@ import net.mcreator.archiblocktwo.block.SugiliteBricksBlock;
 import net.mcreator.archiblocktwo.block.SugiliteBlockBlock;
 import net.mcreator.archiblocktwo.block.StrippedMysticMapleWoodBlock;
 import net.mcreator.archiblocktwo.block.StrippedMysticMapleLogBlock;
+import net.mcreator.archiblocktwo.block.StringMeshBlock;
 import net.mcreator.archiblocktwo.block.StoneTilesBlock;
 import net.mcreator.archiblocktwo.block.StonePillarBlock;
 import net.mcreator.archiblocktwo.block.SpruceBasketSandBlock;
@@ -266,7 +267,20 @@ import net.mcreator.archiblocktwo.block.GraniteBrickSlabBlock;
 import net.mcreator.archiblocktwo.block.GlowingEyesRoundStareBlock;
 import net.mcreator.archiblocktwo.block.GlowingEyesRoundBlinkBlock;
 import net.mcreator.archiblocktwo.block.GlowingEyesDotsBlock;
+import net.mcreator.archiblocktwo.block.FramedStringMeshBlock;
 import net.mcreator.archiblocktwo.block.FancyDioritePillarBlock;
+import net.mcreator.archiblocktwo.block.DriedTiedBambooBlockBlock;
+import net.mcreator.archiblocktwo.block.DriedCarvedBambooPlanksBlock;
+import net.mcreator.archiblocktwo.block.DriedBambooWindChimesBlock;
+import net.mcreator.archiblocktwo.block.DriedBambooPlanksBlock;
+import net.mcreator.archiblocktwo.block.DriedBambooPlankStairsBlock;
+import net.mcreator.archiblocktwo.block.DriedBambooPlankSlabBlock;
+import net.mcreator.archiblocktwo.block.DriedBambooPlankFenceGateBlock;
+import net.mcreator.archiblocktwo.block.DriedBambooPlankFenceBlock;
+import net.mcreator.archiblocktwo.block.DriedBambooLadderBlock;
+import net.mcreator.archiblocktwo.block.DriedBambooDreamcatcherBlock;
+import net.mcreator.archiblocktwo.block.DriedBambooBlock;
+import net.mcreator.archiblocktwo.block.DriedBambooBasketBlock;
 import net.mcreator.archiblocktwo.block.DioriteTilesBlock;
 import net.mcreator.archiblocktwo.block.DioriteTileWallBlock;
 import net.mcreator.archiblocktwo.block.DioriteTileStairsBlock;
@@ -736,6 +750,20 @@ public class ArchiblockTwoModBlocks {
 	public static final Block BAMBOO_PLANK_FENCE_GATE = register(new BambooPlankFenceGateBlock());
 	public static final Block BAMBOO_BASKET = register(new BambooBasketBlock());
 	public static final Block BAMBOO_WIND_CHIMES = register(new BambooWindChimesBlock());
+	public static final Block STRING_MESH = register(new StringMeshBlock());
+	public static final Block FRAMED_STRING_MESH = register(new FramedStringMeshBlock());
+	public static final Block DRIED_TIED_BAMBOO_BLOCK = register(new DriedTiedBambooBlockBlock());
+	public static final Block DRIED_BAMBOO_PLANKS = register(new DriedBambooPlanksBlock());
+	public static final Block DRIED_CARVED_BAMBOO_PLANKS = register(new DriedCarvedBambooPlanksBlock());
+	public static final Block DRIED_BAMBOO_DREAMCATCHER = register(new DriedBambooDreamcatcherBlock());
+	public static final Block DRIED_BAMBOO_LADDER = register(new DriedBambooLadderBlock());
+	public static final Block DRIED_BAMBOO_PLANK_STAIRS = register(new DriedBambooPlankStairsBlock());
+	public static final Block DRIED_BAMBOO_PLANK_SLAB = register(new DriedBambooPlankSlabBlock());
+	public static final Block DRIED_BAMBOO_PLANK_FENCE = register(new DriedBambooPlankFenceBlock());
+	public static final Block DRIED_BAMBOO_PLANK_FENCE_GATE = register(new DriedBambooPlankFenceGateBlock());
+	public static final Block DRIED_BAMBOO_BASKET = register(new DriedBambooBasketBlock());
+	public static final Block DRIED_BAMBOO_WIND_CHIMES = register(new DriedBambooWindChimesBlock());
+	public static final Block DRIED_BAMBOO = register(new DriedBambooBlock());
 
 	private static Block register(Block block) {
 		REGISTRY.add(block);
@@ -829,6 +857,13 @@ public class ArchiblockTwoModBlocks {
 			BambooLadderBlock.registerRenderLayer();
 			BambooBasketBlock.registerRenderLayer();
 			BambooWindChimesBlock.registerRenderLayer();
+			StringMeshBlock.registerRenderLayer();
+			FramedStringMeshBlock.registerRenderLayer();
+			DriedBambooDreamcatcherBlock.registerRenderLayer();
+			DriedBambooLadderBlock.registerRenderLayer();
+			DriedBambooBasketBlock.registerRenderLayer();
+			DriedBambooWindChimesBlock.registerRenderLayer();
+			DriedBambooBlock.registerRenderLayer();
 		}
 
 		@SubscribeEvent

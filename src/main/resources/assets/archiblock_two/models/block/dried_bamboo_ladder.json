@@ -1,0 +1,8 @@
+{
+  "parent": "archiblock_two:custom/bambooladder",
+  "textures": {
+    "all": "archiblock_two:blocks/driedbambooladder",
+    "particle": "archiblock_two:blocks/driedbambooladder",
+    "0": "archiblock_two:blocks/driedbambooladder"
+  }
+}

@@ -13,7 +13,7 @@
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
-    "itemTexture": "bamboodreamcatcheritem",
+    "itemTexture": "bamboodreamcatcheritem1",
     "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,
@@ -37,7 +37,7 @@
     "hardness": 1.0,
     "resistance": 2.0,
     "hasGravity": false,
-    "isWaterloggable": false,
+    "isWaterloggable": true,
     "creativeTab": {
       "value": "CUSTOM:ArchiblockIINature"
     },
