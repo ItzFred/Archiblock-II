@@ -1,4 +1,5 @@
 {
+  "group": "brass_bars",
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "012",

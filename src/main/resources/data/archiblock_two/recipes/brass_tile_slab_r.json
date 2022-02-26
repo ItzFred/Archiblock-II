@@ -1,4 +1,5 @@
 {
+  "group": "brass_tile_slab",
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "012"

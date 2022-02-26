@@ -1,4 +1,5 @@
 {
+  "group": "brass_door",
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "01",
