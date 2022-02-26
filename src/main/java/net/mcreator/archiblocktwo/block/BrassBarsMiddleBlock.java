@@ -15,6 +15,7 @@ import net.minecraft.world.level.BlockGetter;
 import net.minecraft.world.item.TieredItem;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.entity.player.Player;
+import net.minecraft.server.level.ServerLevel;
 import net.minecraft.core.BlockPos;
 import net.minecraft.client.renderer.RenderType;
 import net.minecraft.client.renderer.ItemBlockRenderTypes;
@@ -22,6 +23,7 @@ import net.minecraft.client.renderer.ItemBlockRenderTypes;
 import net.mcreator.archiblocktwo.procedures.BrassBarsBlockCheckProcedure;
 import net.mcreator.archiblocktwo.init.ArchiblockTwoModBlocks;
 
+import java.util.Random;
 import java.util.List;
 import java.util.Collections;
 
@@ -50,7 +52,18 @@ public class BrassBarsMiddleBlock extends IronBarsBlock {
 	@Override
 	public void onPlace(BlockState blockstate, Level world, BlockPos pos, BlockState oldState, boolean moving) {
 		super.onPlace(blockstate, world, pos, oldState, moving);
-		BrassBarsBlockCheckProcedure.execute(world, pos.getX(), pos.getY(), pos.getZ());
+		world.getBlockTicks().scheduleTick(pos, this, 1);
+	}
+
+	@Override
+	public void tick(BlockState blockstate, ServerLevel world, BlockPos pos, Random random) {
+		super.tick(blockstate, world, pos, random);
+		int x = pos.getX();
+		int y = pos.getY();
+		int z = pos.getZ();
+
+		BrassBarsBlockCheckProcedure.execute(world, x, y, z);
+		world.getBlockTicks().scheduleTick(pos, this, 1);
 	}
 
 	@OnlyIn(Dist.CLIENT)
