@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "archiblock_two:blocks/brassblock",
-    "particle": "archiblock_two:blocks/brassblock"
+    "all": "archiblock_two:blocks/brassbars",
+    "particle": "archiblock_two:blocks/brassbars"
   }
 }

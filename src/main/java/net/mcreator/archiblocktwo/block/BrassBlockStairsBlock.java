@@ -17,13 +17,13 @@ import net.minecraft.core.BlockPos;
 import java.util.List;
 import java.util.Collections;
 
-public class DentedBrassTileStairsBlock extends StairBlock {
-	public DentedBrassTileStairsBlock() {
+public class BrassBlockStairsBlock extends StairBlock {
+	public BrassBlockStairsBlock() {
 		super(() -> new Block(BlockBehaviour.Properties.of(Material.METAL).sound(SoundType.METAL).strength(1.9999999999999998f, 10f)
 				.requiresCorrectToolForDrops().dynamicShape()).defaultBlockState(),
 				BlockBehaviour.Properties.of(Material.METAL).sound(SoundType.METAL).strength(1.9999999999999998f, 10f).requiresCorrectToolForDrops()
 						.dynamicShape());
-		setRegistryName("dented_brass_tile_stairs");
+		setRegistryName("brass_block_stairs");
 	}
 
 	@Override

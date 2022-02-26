@@ -2,7 +2,7 @@
   "_fv": 24,
   "_type": "block",
   "definition": {
-    "texture": "brasstileshalfdented",
+    "texture": "brassblock",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -33,12 +33,12 @@
         "subtract": false
       }
     ],
-    "name": "Half Dented Brass Tile Stairs",
+    "name": "Brass Block Stairs",
     "specialInfo": [],
     "hardness": 1.9999999999999998,
     "resistance": 10.0,
     "hasGravity": false,
-    "isWaterloggable": true,
+    "isWaterloggable": false,
     "creativeTab": {
       "value": "CUSTOM:ArchiblockIITab"
     },

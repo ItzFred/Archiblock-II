@@ -2,10 +2,10 @@
   "_fv": 24,
   "_type": "block",
   "definition": {
-    "texture": "brassblock",
-    "textureTop": "brassblock",
+    "texture": "brasstileshalfdented",
+    "textureTop": "",
     "textureLeft": "",
-    "textureFront": "brassblock",
+    "textureFront": "",
     "textureRight": "",
     "textureBack": "",
     "renderType": 11,
@@ -33,7 +33,7 @@
         "subtract": false
       }
     ],
-    "name": "Cut Brass Stairs",
+    "name": "Half Dented Brass Tile Stairs",
     "specialInfo": [],
     "hardness": 1.9999999999999998,
     "resistance": 10.0,

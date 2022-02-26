@@ -1,5 +1,5 @@
 {
-  "parent": "archiblock_two:block/brass_tile_stairs",
+  "parent": "archiblock_two:block/brass_block_stairs",
   "display": {
     "thirdperson": {
       "rotation": [

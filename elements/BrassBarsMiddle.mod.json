@@ -55,7 +55,7 @@
     "material": {
       "value": "IRON"
     },
-    "tickRate": 10,
+    "tickRate": 1,
     "tickRandomly": false,
     "isReplaceable": false,
     "canProvidePower": false,
@@ -123,6 +123,12 @@
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
     "onBlockAdded": {
+      "name": "BrassBarsBlockCheck"
+    },
+    "onNeighbourBlockChanges": {
+      "name": "BrassBarsBlockCheck"
+    },
+    "onTickUpdate": {
       "name": "BrassBarsBlockCheck"
     },
     "spawnWorldTypes": [],
