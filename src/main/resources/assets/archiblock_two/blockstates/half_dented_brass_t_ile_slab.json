@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "archiblock_two:block/half_dented_brass_t_ile_slab"
+    },
+    "type=top": {
+      "model": "archiblock_two:block/half_dented_brass_t_ile_slab_top"
+    },
+    "type=double": {
+      "model": "archiblock_two:block/half_dented_brass_t_ile_slab_full"
+    }
+  }
+}

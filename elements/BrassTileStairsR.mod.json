@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BrassTilesR"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BrassTilesR"
+      },
+      {
+        "value": "CUSTOM:BrassTilesR"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BrassTilesR"
+      },
+      {
+        "value": "CUSTOM:BrassTilesR"
+      },
+      {
+        "value": "CUSTOM:BrassTilesR"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BrassTileStairs"
+    },
+    "name": "brass_tile_stairs_r",
+    "namespace": "mod"
+  }
+}

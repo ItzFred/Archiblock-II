@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:brass_ingot"
+    },
+    "3": {
+      "item": "archiblock_two:brass_ingot"
+    },
+    "4": {
+      "item": "archiblock_two:brass_ingot"
+    },
+    "6": {
+      "item": "archiblock_two:brass_ingot"
+    },
+    "7": {
+      "item": "archiblock_two:brass_ingot"
+    },
+    "8": {
+      "item": "archiblock_two:brass_ingot"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:cut_brass_stairs",
+    "count": 4
+  }
+}

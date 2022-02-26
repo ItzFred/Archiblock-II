@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:block_of_brass"
+    },
+    "1": {
+      "item": "archiblock_two:block_of_brass"
+    },
+    "2": {
+      "item": "archiblock_two:block_of_brass"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:brass_pipe",
+    "count": 4
+  }
+}

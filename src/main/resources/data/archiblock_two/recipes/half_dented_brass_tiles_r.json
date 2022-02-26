@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "archiblock_two:dented_brass_tiles"
+    }
+  ],
+  "result": {
+    "item": "archiblock_two:half_dented_brass_tiles",
+    "count": 1
+  }
+}

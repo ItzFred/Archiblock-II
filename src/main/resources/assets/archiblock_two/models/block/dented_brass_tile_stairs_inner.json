@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "archiblock_two:blocks/brasstilesdented",
+    "top": "archiblock_two:blocks/brasstilesdented",
+    "side": "archiblock_two:blocks/brasstilesdented"
+  }
+}

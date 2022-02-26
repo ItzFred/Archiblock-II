@@ -37,7 +37,7 @@ public class GlowingEyesRoundStareBlock extends Block {
 	@Override
 	public void appendHoverText(ItemStack itemstack, BlockGetter world, List<Component> list, TooltipFlag flag) {
 		super.appendHoverText(itemstack, world, list, flag);
-		list.add(new TextComponent("\uFFFD7 Stare"));
+		list.add(new TextComponent("\u00EF\u00BF\u00BD7 Stare"));
 	}
 
 	@Override

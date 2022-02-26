@@ -24,6 +24,7 @@ import net.mcreator.archiblocktwo.item.RubyItem;
 import net.mcreator.archiblocktwo.item.RoseQuartzItem;
 import net.mcreator.archiblocktwo.item.MutandisItem;
 import net.mcreator.archiblocktwo.item.LushTwilightShardItem;
+import net.mcreator.archiblocktwo.item.BrassIngotItem;
 
 import java.util.List;
 import java.util.ArrayList;
@@ -41,10 +42,10 @@ public class ArchiblockTwoModItems {
 	public static final Item ANDESITE_BLOCK_STAIRS = register(ArchiblockTwoModBlocks.ANDESITE_BLOCK_STAIRS,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item ANDESITE_BLOCK_SLAB = register(ArchiblockTwoModBlocks.ANDESITE_BLOCK_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item ANDESITE_BLOCK_WALL = register(ArchiblockTwoModBlocks.ANDESITE_BLOCK_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item ANDESITE_BRICK_STAIRS = register(ArchiblockTwoModBlocks.ANDESITE_BRICK_STAIRS,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item ANDESITE_BRICK_SLAB = register(ArchiblockTwoModBlocks.ANDESITE_BRICK_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ANDESITE_BLOCK_WALL = register(ArchiblockTwoModBlocks.ANDESITE_BLOCK_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item ANDESITE_BRICK_WALL = register(ArchiblockTwoModBlocks.ANDESITE_BRICK_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CUT_GRANITE = register(ArchiblockTwoModBlocks.CUT_GRANITE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item GRANITE_BRICKS = register(ArchiblockTwoModBlocks.GRANITE_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
@@ -61,75 +62,19 @@ public class ArchiblockTwoModItems {
 	public static final Item GRANITE_BRICK_WALL = register(ArchiblockTwoModBlocks.GRANITE_BRICK_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CUT_DIORITE = register(ArchiblockTwoModBlocks.CUT_DIORITE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item DIORITE_BRICKS = register(ArchiblockTwoModBlocks.DIORITE_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item DIORITE_BRICK_STAIRS = register(ArchiblockTwoModBlocks.DIORITE_BRICK_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item DIORITE_BRICK_SLAB = register(ArchiblockTwoModBlocks.DIORITE_BRICK_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item DIORITE_BRICK_WALL = register(ArchiblockTwoModBlocks.DIORITE_BRICK_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item DIORITE_TILES = register(ArchiblockTwoModBlocks.DIORITE_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item DIORITE_PILLAR = register(ArchiblockTwoModBlocks.DIORITE_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item FANCY_DIORITE_PILLAR = register(ArchiblockTwoModBlocks.FANCY_DIORITE_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CHISELLED_DIORITE = register(ArchiblockTwoModBlocks.CHISELLED_DIORITE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item DIORITE_BRICK_STAIRS = register(ArchiblockTwoModBlocks.DIORITE_BRICK_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item DIORITE_BRICK_SLAB = register(ArchiblockTwoModBlocks.DIORITE_BRICK_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item DIORITE_TILE_WALL = register(ArchiblockTwoModBlocks.DIORITE_TILE_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item DIORITE_TILE_STAIRS = register(ArchiblockTwoModBlocks.DIORITE_TILE_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item DIORITE_TILE_SLAB = register(ArchiblockTwoModBlocks.DIORITE_TILE_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item DIORITE_BRICK_WALL = register(ArchiblockTwoModBlocks.DIORITE_BRICK_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item CUT_STONE = register(ArchiblockTwoModBlocks.CUT_STONE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SMALL_STONE_BRICKS = register(ArchiblockTwoModBlocks.SMALL_STONE_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item STONE_PILLAR = register(ArchiblockTwoModBlocks.STONE_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item STONE_TILES = register(ArchiblockTwoModBlocks.STONE_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item CRACKED_CUT_STONE = register(ArchiblockTwoModBlocks.CRACKED_CUT_STONE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item MOSSY_CRACKED_STONE = register(ArchiblockTwoModBlocks.MOSSY_CRACKED_STONE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item MOSSY_SMALL_STONE_BRICKS = register(ArchiblockTwoModBlocks.MOSSY_SMALL_STONE_BRICKS,
-			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item CRACKED_STONE_PILLAR = register(ArchiblockTwoModBlocks.CRACKED_STONE_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item MOSSY_STONE_PILLAR = register(ArchiblockTwoModBlocks.MOSSY_STONE_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item CRACKED_STONE_TILES = register(ArchiblockTwoModBlocks.CRACKED_STONE_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item MOSSY_STONE_TILES = register(ArchiblockTwoModBlocks.MOSSY_STONE_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item CUT_STONE_STAIRS = register(ArchiblockTwoModBlocks.CUT_STONE_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item CUT_STONE_SLAB = register(ArchiblockTwoModBlocks.CUT_STONE_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item CUT_STONE_WALL = register(ArchiblockTwoModBlocks.CUT_STONE_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SNOWY_CUT_STONE = register(ArchiblockTwoModBlocks.SNOWY_CUT_STONE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SNOWY_SMALL_STONE_BRICKS = register(ArchiblockTwoModBlocks.SNOWY_SMALL_STONE_BRICKS,
-			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SNOWY_STONE_TILES = register(ArchiblockTwoModBlocks.SNOWY_STONE_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SNOWY_STONE_PILLAR = register(ArchiblockTwoModBlocks.SNOWY_STONE_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SNOWY_CUT_STONE_SLAB = register(ArchiblockTwoModBlocks.SNOWY_CUT_STONE_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SNOWY_CUT_STONE_STAIRS = register(ArchiblockTwoModBlocks.SNOWY_CUT_STONE_STAIRS,
-			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SNOWY_STONE = register(ArchiblockTwoModBlocks.SNOWY_STONE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SNOWY_STONE_SLAB = register(ArchiblockTwoModBlocks.SNOWY_STONE_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SNOWY_STONE_STAIRS = register(ArchiblockTwoModBlocks.SNOWY_STONE_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SNOWY_STONE_BRICKS = register(ArchiblockTwoModBlocks.SNOWY_STONE_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SNOWY_STONE_BRICK_SLAB = register(ArchiblockTwoModBlocks.SNOWY_STONE_BRICK_SLAB,
-			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SNOWY_STONE_BRICK_STAIRS = register(ArchiblockTwoModBlocks.SNOWY_STONE_BRICK_STAIRS,
-			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SNOWY_CHISELLED_STONE_BRICKS = register(ArchiblockTwoModBlocks.SNOWY_CHISELLED_STONE_BRICKS,
-			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SNOWY_COBBLESTONE = register(ArchiblockTwoModBlocks.SNOWY_COBBLESTONE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SNOWY_COBBLESTONE_STAIRS = register(ArchiblockTwoModBlocks.SNOWY_COBBLESTONE_STAIRS,
-			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SNOWY_COBBLESTONE_SLAB = register(ArchiblockTwoModBlocks.SNOWY_COBBLESTONE_SLAB,
-			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item CUT_OBSIDIAN = register(ArchiblockTwoModBlocks.CUT_OBSIDIAN, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item OBSIDIAN_BRICKS = register(ArchiblockTwoModBlocks.OBSIDIAN_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SMALL_OBSIDIAN_BRICKS = register(ArchiblockTwoModBlocks.SMALL_OBSIDIAN_BRICKS,
-			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item OBSIDIAN_TILES = register(ArchiblockTwoModBlocks.OBSIDIAN_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item CHISELLED_OBSIDIAN = register(ArchiblockTwoModBlocks.CHISELLED_OBSIDIAN, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item OBSIDIAN_PILLAR = register(ArchiblockTwoModBlocks.OBSIDIAN_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item OBSIDIAN_BRICK_STAIRS = register(ArchiblockTwoModBlocks.OBSIDIAN_BRICK_STAIRS,
-			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item OBSIDIAN_BRICK_SLAB = register(ArchiblockTwoModBlocks.OBSIDIAN_BRICK_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item OBSIDIAN_BRICK_WALL = register(ArchiblockTwoModBlocks.OBSIDIAN_BRICK_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item CHISELLED_OBSIDIAN_STAIRS = register(ArchiblockTwoModBlocks.CHISELLED_OBSIDIAN_STAIRS,
-			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item CHISELLED_OBSIDIAN_SLAB = register(ArchiblockTwoModBlocks.CHISELLED_OBSIDIAN_SLAB,
-			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item CHISELLED_OBSIDIAN_WALL = register(ArchiblockTwoModBlocks.CHISELLED_OBSIDIAN_WALL,
-			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item DIORITE_TILE_WALL = register(ArchiblockTwoModBlocks.DIORITE_TILE_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item RED_SPOOL = register(ArchiblockTwoModBlocks.RED_SPOOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item ORANGE_SPOOL = register(ArchiblockTwoModBlocks.ORANGE_SPOOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item YELLOW_SPOOL = register(ArchiblockTwoModBlocks.YELLOW_SPOOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item WHITE_SPOOL = register(ArchiblockTwoModBlocks.WHITE_SPOOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item PINK_SPOOL = register(ArchiblockTwoModBlocks.PINK_SPOOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item MAGENTA_SPOOL = register(ArchiblockTwoModBlocks.MAGENTA_SPOOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item PURPLE_SPOOL = register(ArchiblockTwoModBlocks.PURPLE_SPOOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
@@ -142,20 +87,58 @@ public class ArchiblockTwoModItems {
 	public static final Item BLACK_SPOOL = register(ArchiblockTwoModBlocks.BLACK_SPOOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item GRAY_SPOOL = register(ArchiblockTwoModBlocks.GRAY_SPOOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item LIGHT_GRAY_SPOOL = register(ArchiblockTwoModBlocks.LIGHT_GRAY_SPOOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item CLAY_BRICK_BLOCK = register(ArchiblockTwoModBlocks.CLAY_BRICK_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item WHITE_SPOOL = register(ArchiblockTwoModBlocks.WHITE_SPOOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CUT_STONE = register(ArchiblockTwoModBlocks.CUT_STONE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CUT_STONE_STAIRS = register(ArchiblockTwoModBlocks.CUT_STONE_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CUT_STONE_SLAB = register(ArchiblockTwoModBlocks.CUT_STONE_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CUT_STONE_WALL = register(ArchiblockTwoModBlocks.CUT_STONE_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMALL_STONE_BRICKS = register(ArchiblockTwoModBlocks.SMALL_STONE_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item STONE_PILLAR = register(ArchiblockTwoModBlocks.STONE_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item STONE_TILES = register(ArchiblockTwoModBlocks.STONE_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CRACKED_CUT_STONE = register(ArchiblockTwoModBlocks.CRACKED_CUT_STONE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MOSSY_CRACKED_STONE = register(ArchiblockTwoModBlocks.MOSSY_CRACKED_STONE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MOSSY_SMALL_STONE_BRICKS = register(ArchiblockTwoModBlocks.MOSSY_SMALL_STONE_BRICKS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CRACKED_STONE_PILLAR = register(ArchiblockTwoModBlocks.CRACKED_STONE_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MOSSY_STONE_PILLAR = register(ArchiblockTwoModBlocks.MOSSY_STONE_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CRACKED_STONE_TILES = register(ArchiblockTwoModBlocks.CRACKED_STONE_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MOSSY_STONE_TILES = register(ArchiblockTwoModBlocks.MOSSY_STONE_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SNOWY_STONE = register(ArchiblockTwoModBlocks.SNOWY_STONE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SNOWY_STONE_STAIRS = register(ArchiblockTwoModBlocks.SNOWY_STONE_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SNOWY_STONE_SLAB = register(ArchiblockTwoModBlocks.SNOWY_STONE_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SNOWY_COBBLESTONE = register(ArchiblockTwoModBlocks.SNOWY_COBBLESTONE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SNOWY_COBBLESTONE_STAIRS = register(ArchiblockTwoModBlocks.SNOWY_COBBLESTONE_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SNOWY_COBBLESTONE_SLAB = register(ArchiblockTwoModBlocks.SNOWY_COBBLESTONE_SLAB,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SNOWY_CUT_STONE = register(ArchiblockTwoModBlocks.SNOWY_CUT_STONE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SNOWY_CUT_STONE_STAIRS = register(ArchiblockTwoModBlocks.SNOWY_CUT_STONE_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SNOWY_CUT_STONE_SLAB = register(ArchiblockTwoModBlocks.SNOWY_CUT_STONE_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SNOWY_STONE_BRICKS = register(ArchiblockTwoModBlocks.SNOWY_STONE_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SNOWY_STONE_BRICK_STAIRS = register(ArchiblockTwoModBlocks.SNOWY_STONE_BRICK_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SNOWY_STONE_BRICK_SLAB = register(ArchiblockTwoModBlocks.SNOWY_STONE_BRICK_SLAB,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SNOWY_STONE_TILES = register(ArchiblockTwoModBlocks.SNOWY_STONE_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SNOWY_SMALL_STONE_BRICKS = register(ArchiblockTwoModBlocks.SNOWY_SMALL_STONE_BRICKS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SNOWY_STONE_PILLAR = register(ArchiblockTwoModBlocks.SNOWY_STONE_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SNOWY_CHISELLED_STONE_BRICKS = register(ArchiblockTwoModBlocks.SNOWY_CHISELLED_STONE_BRICKS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item BIG_CLAY_BRICKS = register(ArchiblockTwoModBlocks.BIG_CLAY_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CLAY_BRICK_BLOCK = register(ArchiblockTwoModBlocks.CLAY_BRICK_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CLAY_BRICK_TILES = register(ArchiblockTwoModBlocks.CLAY_BRICK_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item SMALL_CLAY_BRICK_TILES = register(ArchiblockTwoModBlocks.SMALL_CLAY_BRICK_TILES,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CLAY_BRICK_PAVEMENT = register(ArchiblockTwoModBlocks.CLAY_BRICK_PAVEMENT, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CLAY_SHINGLES = register(ArchiblockTwoModBlocks.CLAY_SHINGLES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item CLAY_SHINGLES_SLAB = register(ArchiblockTwoModBlocks.CLAY_SHINGLES_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item SLANTED_CLAY_SHINGLES = register(ArchiblockTwoModBlocks.SLANTED_CLAY_SHINGLES,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item SLANTED_SHINGLES_SIDE = register(ArchiblockTwoModBlocks.SLANTED_SHINGLES_SIDE,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item RED_CLAY_BRICK_BLOCK = register(ArchiblockTwoModBlocks.RED_CLAY_BRICK_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item RED_BIG_CLAY_BRICKS = register(ArchiblockTwoModBlocks.RED_BIG_CLAY_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item RED_CLAY_BRICK_BLOCK = register(ArchiblockTwoModBlocks.RED_CLAY_BRICK_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item RED_CLAY_BRICK_TILES = register(ArchiblockTwoModBlocks.RED_CLAY_BRICK_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item RED_CLAY_BRICK_SMALL_TILES = register(ArchiblockTwoModBlocks.RED_CLAY_BRICK_SMALL_TILES,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
@@ -164,9 +147,9 @@ public class ArchiblockTwoModItems {
 	public static final Item RED_CLAY_SHINGLES = register(ArchiblockTwoModBlocks.RED_CLAY_SHINGLES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item RED_CLAY_SHINGLES_SLAB = register(ArchiblockTwoModBlocks.RED_CLAY_SHINGLES_SLAB,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item RED_SLANTED_CLAY_SHINGLES = register(ArchiblockTwoModBlocks.RED_SLANTED_CLAY_SHINGLES,
-			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item RED_SLANTED_SHINGLES_SIDE = register(ArchiblockTwoModBlocks.RED_SLANTED_SHINGLES_SIDE,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item RED_SLANTED_CLAY_SHINGLES = register(ArchiblockTwoModBlocks.RED_SLANTED_CLAY_SHINGLES,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item BLUE_CLAY_BRICK_BLOCK = register(ArchiblockTwoModBlocks.BLUE_CLAY_BRICK_BLOCK,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
@@ -194,10 +177,10 @@ public class ArchiblockTwoModItems {
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item BIRCH_BASKET_PODZOL = register(ArchiblockTwoModBlocks.BIRCH_BASKET_PODZOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item BIRCH_BASKET_SAND = register(ArchiblockTwoModBlocks.BIRCH_BASKET_SAND, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item WOVEN_BASKET = register(ArchiblockTwoModBlocks.WOVEN_BASKET, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item WOVEN_FIBER_BLOCK = register(ArchiblockTwoModBlocks.WOVEN_FIBER_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item WOVEN_FIBER_STAIRS = register(ArchiblockTwoModBlocks.WOVEN_FIBER_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item WOVEN_FIBER_SLAB = register(ArchiblockTwoModBlocks.WOVEN_FIBER_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item WOVEN_BASKET = register(ArchiblockTwoModBlocks.WOVEN_BASKET, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item WOVEN_BASKET_DIRT = register(ArchiblockTwoModBlocks.WOVEN_BASKET_DIRT, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item WOVEN_BASKET_GRASS = register(ArchiblockTwoModBlocks.WOVEN_BASKET_GRASS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item WOVEN_BASKET_MYCELIUM = register(ArchiblockTwoModBlocks.WOVEN_BASKET_MYCELIUM,
@@ -222,6 +205,7 @@ public class ArchiblockTwoModItems {
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item DARK_OAK_BASKET_DIRT = register(ArchiblockTwoModBlocks.DARK_OAK_BASKET_DIRT, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item DARK_OAK_BASKET_MOSS = register(ArchiblockTwoModBlocks.DARK_OAK_BASKET_MOSS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CLAY_SHINGLES_SLAB = register(ArchiblockTwoModBlocks.CLAY_SHINGLES_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item DARK_OAK_BASKET_PODZOL = register(ArchiblockTwoModBlocks.DARK_OAK_BASKET_PODZOL,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item DARK_OAK_BASKET_MYCELIUM = register(ArchiblockTwoModBlocks.DARK_OAK_BASKET_MYCELIUM,
@@ -247,10 +231,10 @@ public class ArchiblockTwoModItems {
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item ACACIA_BASKET_PODZOL = register(ArchiblockTwoModBlocks.ACACIA_BASKET_PODZOL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item ACACIA_BASKET_SAND = register(ArchiblockTwoModBlocks.ACACIA_BASKET_SAND, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item WOVEN_CRIMSON_BASKET = register(ArchiblockTwoModBlocks.WOVEN_CRIMSON_BASKET, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item WOVEN_CRIMSON_BLOCK = register(ArchiblockTwoModBlocks.WOVEN_CRIMSON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item WOVEN_CRIMSON_STAIRS = register(ArchiblockTwoModBlocks.WOVEN_CRIMSON_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item WOVEN_CRIMSON_SLAB = register(ArchiblockTwoModBlocks.WOVEN_CRIMSON_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item WOVEN_CRIMSON_BASKET = register(ArchiblockTwoModBlocks.WOVEN_CRIMSON_BASKET, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CRIMSON_BASKET_DIRT = register(ArchiblockTwoModBlocks.CRIMSON_BASKET_DIRT, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CRIMSON_BASKET_MOSS = register(ArchiblockTwoModBlocks.CRIMSON_BASKET_MOSS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CRIMSON_BASKET_PODZOL = register(ArchiblockTwoModBlocks.CRIMSON_BASKET_PODZOL,
@@ -282,19 +266,86 @@ public class ArchiblockTwoModItems {
 	public static final Item MYSTIC_BASKET_MYCELIUM = register(ArchiblockTwoModBlocks.MYSTIC_BASKET_MYCELIUM,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item MYSTIC_BASKET_SAND = register(ArchiblockTwoModBlocks.MYSTIC_BASKET_SAND, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item TOPAZ_GRANITE_ORE = register(ArchiblockTwoModBlocks.TOPAZ_GRANITE_ORE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CUT_OBSIDIAN = register(ArchiblockTwoModBlocks.CUT_OBSIDIAN, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item OBSIDIAN_BRICKS = register(ArchiblockTwoModBlocks.OBSIDIAN_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMALL_OBSIDIAN_BRICKS = register(ArchiblockTwoModBlocks.SMALL_OBSIDIAN_BRICKS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item OBSIDIAN_TILES = register(ArchiblockTwoModBlocks.OBSIDIAN_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_OBSIDIAN = register(ArchiblockTwoModBlocks.CHISELLED_OBSIDIAN, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item OBSIDIAN_PILLAR = register(ArchiblockTwoModBlocks.OBSIDIAN_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item OBSIDIAN_BRICK_STAIRS = register(ArchiblockTwoModBlocks.OBSIDIAN_BRICK_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item OBSIDIAN_BRICK_SLAB = register(ArchiblockTwoModBlocks.OBSIDIAN_BRICK_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item OBSIDIAN_BRICK_WALL = register(ArchiblockTwoModBlocks.OBSIDIAN_BRICK_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_OBSIDIAN_STAIRS = register(ArchiblockTwoModBlocks.CHISELLED_OBSIDIAN_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_OBSIDIAN_SLAB = register(ArchiblockTwoModBlocks.CHISELLED_OBSIDIAN_SLAB,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_OBSIDIAN_WALL = register(ArchiblockTwoModBlocks.CHISELLED_OBSIDIAN_WALL,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ROSE_QUARTZ = register(new RoseQuartzItem());
+	public static final Item ROSE_QUARTZ_ORE = register(ArchiblockTwoModBlocks.ROSE_QUARTZ_ORE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ROSE_QUARTZ_BLOCK = register(ArchiblockTwoModBlocks.ROSE_QUARTZ_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ROSE_QUARTZ_BRICKS = register(ArchiblockTwoModBlocks.ROSE_QUARTZ_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ROSE_QUARTZ_BRICK_STAIRS = register(ArchiblockTwoModBlocks.ROSE_QUARTZ_BRICK_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ROSE_BRICK_SLAB = register(ArchiblockTwoModBlocks.ROSE_BRICK_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ROSE_QUARTZ_BRICKS_2 = register(ArchiblockTwoModBlocks.ROSE_QUARTZ_BRICKS_2, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ROSE_BRICK_STAIRS_2 = register(ArchiblockTwoModBlocks.ROSE_BRICK_STAIRS_2, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ROSE_BRICK_SLAB_2 = register(ArchiblockTwoModBlocks.ROSE_BRICK_SLAB_2, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ROSE_BRICK_WALL_2 = register(ArchiblockTwoModBlocks.ROSE_BRICK_WALL_2, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ROSE_BRICK_WALL = register(ArchiblockTwoModBlocks.ROSE_BRICK_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ROSE_QUARTZ_SLAB = register(ArchiblockTwoModBlocks.ROSE_QUARTZ_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ROSE_QUARTZ_STAIRS = register(ArchiblockTwoModBlocks.ROSE_QUARTZ_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ROSE_QUARTZ_WALL = register(ArchiblockTwoModBlocks.ROSE_QUARTZ_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOOTH_ROSE_QUARTZ = register(ArchiblockTwoModBlocks.SMOOTH_ROSE_QUARTZ, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOOTH_ROSE_QUARTZ_STAIRS = register(ArchiblockTwoModBlocks.SMOOTH_ROSE_QUARTZ_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOOTH_ROSE_QUARTZ_SLAB = register(ArchiblockTwoModBlocks.SMOOTH_ROSE_QUARTZ_SLAB,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOOTH_ROSE_QUARTZ_WALL = register(ArchiblockTwoModBlocks.SMOOTH_ROSE_QUARTZ_WALL,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ROSE_QUARTZ_PILLAR = register(ArchiblockTwoModBlocks.ROSE_QUARTZ_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_ROSE_QUARTZ = register(ArchiblockTwoModBlocks.CHISELLED_ROSE_QUARTZ,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOKY_QUARTZ = register(new SmokyQuartzItem());
+	public static final Item SMOKY_QUARTZ_ORE = register(ArchiblockTwoModBlocks.SMOKY_QUARTZ_ORE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOKY_QUARTZ_BLOCK = register(ArchiblockTwoModBlocks.SMOKY_QUARTZ_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOKY_QUARTZ_BRICKS = register(ArchiblockTwoModBlocks.SMOKY_QUARTZ_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOKY_BRICK_STAIRS = register(ArchiblockTwoModBlocks.SMOKY_BRICK_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOKY_BRICK_SLAB = register(ArchiblockTwoModBlocks.SMOKY_BRICK_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOKY_QUARTZ_BRICKS_2 = register(ArchiblockTwoModBlocks.SMOKY_QUARTZ_BRICKS_2,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOKY_STAIRS_2 = register(ArchiblockTwoModBlocks.SMOKY_STAIRS_2, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOKY_SLAB_2 = register(ArchiblockTwoModBlocks.SMOKY_SLAB_2, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOKY_WALL_2 = register(ArchiblockTwoModBlocks.SMOKY_WALL_2, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOKY_BRICK_WALL = register(ArchiblockTwoModBlocks.SMOKY_BRICK_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOKY_QUARTZ_STAIRS = register(ArchiblockTwoModBlocks.SMOKY_QUARTZ_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOKY_QUARTZ_SLAB = register(ArchiblockTwoModBlocks.SMOKY_QUARTZ_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOKY_QUARTZ_WALL = register(ArchiblockTwoModBlocks.SMOKY_QUARTZ_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOOTH_SMOKY_QUARTZ = register(ArchiblockTwoModBlocks.SMOOTH_SMOKY_QUARTZ, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOOTH_SMOKY_QUARTZ_STAIRS = register(ArchiblockTwoModBlocks.SMOOTH_SMOKY_QUARTZ_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOOTH_SMOKY_QUARTZ_SLAB = register(ArchiblockTwoModBlocks.SMOOTH_SMOKY_QUARTZ_SLAB,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOOTH_SMOKY_QUARTZ_WALL = register(ArchiblockTwoModBlocks.SMOOTH_SMOKY_QUARTZ_WALL,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMOKY_QUARTZ_PILLAR = register(ArchiblockTwoModBlocks.SMOKY_QUARTZ_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_SMOKY_QUARTZ = register(ArchiblockTwoModBlocks.CHISELLED_SMOKY_QUARTZ,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item TOPAZ_STONE_ORE = register(ArchiblockTwoModBlocks.TOPAZ_STONE_ORE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TOPAZ_GRANITE_ORE = register(ArchiblockTwoModBlocks.TOPAZ_GRANITE_ORE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item TOPAZ_BLOCK = register(ArchiblockTwoModBlocks.TOPAZ_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item TOPAZ_BRICKS = register(ArchiblockTwoModBlocks.TOPAZ_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item TOPAZ_TILES = register(ArchiblockTwoModBlocks.TOPAZ_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item TOPAZ_PILLARS = register(ArchiblockTwoModBlocks.TOPAZ_PILLARS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item TOPAZ = register(new TopazItem());
+	public static final Item RUBY = register(new RubyItem());
 	public static final Item RUBY_ORE = register(ArchiblockTwoModBlocks.RUBY_ORE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item RUBY_BLOCK = register(ArchiblockTwoModBlocks.RUBY_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item RUBY_BRICKS = register(ArchiblockTwoModBlocks.RUBY_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item RUBY_TILES = register(ArchiblockTwoModBlocks.RUBY_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item RUBY_PILLAR = register(ArchiblockTwoModBlocks.RUBY_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item RUBY = register(new RubyItem());
 	public static final Item SAPPHIRE_DIORITE_ORE = register(ArchiblockTwoModBlocks.SAPPHIRE_DIORITE_ORE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item SAPPHIRE_ORE = register(ArchiblockTwoModBlocks.SAPPHIRE_ORE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item SAPPHIRE_BLOCK = register(ArchiblockTwoModBlocks.SAPPHIRE_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
@@ -303,14 +354,14 @@ public class ArchiblockTwoModItems {
 	public static final Item SAPPHIRE_PILLAR = register(ArchiblockTwoModBlocks.SAPPHIRE_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item SAPPHIRE = register(new SapphireItem());
 	public static final Item SUGILITE_ORE = register(ArchiblockTwoModBlocks.SUGILITE_ORE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SUGILITE = register(new SugiliteItem());
 	public static final Item SUGILITE_BLOCK = register(ArchiblockTwoModBlocks.SUGILITE_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SUGILITE_BRICKS = register(ArchiblockTwoModBlocks.SUGILITE_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item SUGILITE_TILES = register(ArchiblockTwoModBlocks.SUGILITE_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item SUGILITE_PILLAR = register(ArchiblockTwoModBlocks.SUGILITE_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SUGILITE = register(new SugiliteItem());
 	public static final Item TWILIGHT_ORE = register(ArchiblockTwoModBlocks.TWILIGHT_ORE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item RAW_TWILIGHT_BLOCK = register(ArchiblockTwoModBlocks.RAW_TWILIGHT_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item TWILIGHT_BLOCK = register(ArchiblockTwoModBlocks.TWILIGHT_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item RAW_TWILIGHT_BLOCK = register(ArchiblockTwoModBlocks.RAW_TWILIGHT_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TWILIGHT_SHARD = register(new TwilightShardItem());
 	public static final Item TWILIGHT_BRICKS = register(ArchiblockTwoModBlocks.TWILIGHT_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item TWILIGHT_TILES = register(ArchiblockTwoModBlocks.TWILIGHT_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CHISELLED_TWILIGHT_BRICKS = register(ArchiblockTwoModBlocks.CHISELLED_TWILIGHT_BRICKS,
@@ -321,7 +372,6 @@ public class ArchiblockTwoModItems {
 	public static final Item TWILIGHT_BRICK_STAIRS = register(ArchiblockTwoModBlocks.TWILIGHT_BRICK_STAIRS,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item TWILIGHT_BRICK_WALL = register(ArchiblockTwoModBlocks.TWILIGHT_BRICK_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item TWILIGHT_SHARD = register(new TwilightShardItem());
 	public static final Item RAW_LUSH_TWILIGHT_BLOCK = register(ArchiblockTwoModBlocks.RAW_LUSH_TWILIGHT_BLOCK,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item LUSH_TWILIGHT_BLOCK = register(ArchiblockTwoModBlocks.LUSH_TWILIGHT_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
@@ -339,6 +389,7 @@ public class ArchiblockTwoModItems {
 	public static final Item LUSH_TWILIGHT_BRICK_WALL = register(ArchiblockTwoModBlocks.LUSH_TWILIGHT_BRICK_WALL,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item LUSH_TWILIGHT_SHARD = register(new LushTwilightShardItem());
+	public static final Item TWILIGHTWAVE_SHARD = register(new TwilightwaveShardItem());
 	public static final Item RAW_TWILIGHTWAVE_BLOCK = register(ArchiblockTwoModBlocks.RAW_TWILIGHTWAVE_BLOCK,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item TWILIGHTWAVE_BLOCK = register(ArchiblockTwoModBlocks.TWILIGHTWAVE_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
@@ -355,7 +406,7 @@ public class ArchiblockTwoModItems {
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item TWILIGHTWAVE_BRICK_WALL = register(ArchiblockTwoModBlocks.TWILIGHTWAVE_BRICK_WALL,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item TWILIGHTWAVE_SHARD = register(new TwilightwaveShardItem());
+	public static final Item SUGILITE_BRICKS = register(ArchiblockTwoModBlocks.SUGILITE_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item PITCHDARK_BLOCK = register(ArchiblockTwoModBlocks.PITCHDARK_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item GLOWING_EYES_DOTS = register(ArchiblockTwoModBlocks.GLOWING_EYES_DOTS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item GLOWING_EYES_ROUND_BLINK = register(ArchiblockTwoModBlocks.GLOWING_EYES_ROUND_BLINK,
@@ -363,16 +414,14 @@ public class ArchiblockTwoModItems {
 	public static final Item GLOWING_EYES_ROUND_STARE = register(ArchiblockTwoModBlocks.GLOWING_EYES_ROUND_STARE,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item WHITE_NEON_BLOCK = register(ArchiblockTwoModBlocks.WHITE_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item GRAY_NEON_BLOCK = register(ArchiblockTwoModBlocks.GRAY_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item LIGHT_GRAY_NEON_BLOCK = register(ArchiblockTwoModBlocks.LIGHT_GRAY_NEON_BLOCK,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item GRAY_NEON_BLOCK = register(ArchiblockTwoModBlocks.GRAY_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item BLACK_NEON_BLOCK = register(ArchiblockTwoModBlocks.BLACK_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item BROWN_NEON_BLOCK = register(ArchiblockTwoModBlocks.BROWN_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item RED_NEON_BLOCK = register(ArchiblockTwoModBlocks.RED_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item ORANGE_NEON_BLOCK = register(ArchiblockTwoModBlocks.ORANGE_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item YELLOW_NEON_BLOCK = register(ArchiblockTwoModBlocks.YELLOW_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item LIME_NEON_BLOCK = register(ArchiblockTwoModBlocks.LIME_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item GREEN_NEON_BLOCK = register(ArchiblockTwoModBlocks.GREEN_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CYAN_NEON_BLOCK = register(ArchiblockTwoModBlocks.CYAN_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item LIGHT_BLUE_NEON_BLOCK = register(ArchiblockTwoModBlocks.LIGHT_BLUE_NEON_BLOCK,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
@@ -380,56 +429,33 @@ public class ArchiblockTwoModItems {
 	public static final Item PURPLE_NEON_BLOCK = register(ArchiblockTwoModBlocks.PURPLE_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item MAGENTA_NEON_BLOCK = register(ArchiblockTwoModBlocks.MAGENTA_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item PINK_NEON_BLOCK = register(ArchiblockTwoModBlocks.PINK_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item ROSE_QUARTZ_ORE = register(ArchiblockTwoModBlocks.ROSE_QUARTZ_ORE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item ROSE_QUARTZ = register(new RoseQuartzItem());
-	public static final Item ROSE_QUARTZ_BLOCK = register(ArchiblockTwoModBlocks.ROSE_QUARTZ_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item ROSE_QUARTZ_BRICKS = register(ArchiblockTwoModBlocks.ROSE_QUARTZ_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item ROSE_QUARTZ_BRICK_STAIRS = register(ArchiblockTwoModBlocks.ROSE_QUARTZ_BRICK_STAIRS,
+	public static final Item BROWN_NEON_BLOCK = register(ArchiblockTwoModBlocks.BROWN_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item GREEN_NEON_BLOCK = register(ArchiblockTwoModBlocks.GREEN_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item BRASS_INGOT = register(new BrassIngotItem());
+	public static final Item BLOCK_OF_BRASS = register(ArchiblockTwoModBlocks.BLOCK_OF_BRASS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CUT_BRASS_STAIRS = register(ArchiblockTwoModBlocks.CUT_BRASS_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CUT_BRASS_SLAB = register(ArchiblockTwoModBlocks.CUT_BRASS_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item DENTED_BRASS_TILES = register(ArchiblockTwoModBlocks.DENTED_BRASS_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item DENTED_BRASS_TILE_STAIRS = register(ArchiblockTwoModBlocks.DENTED_BRASS_TILE_STAIRS,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item ROSE_BRICK_SLAB = register(ArchiblockTwoModBlocks.ROSE_BRICK_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item ROSE_BRICK_WALL = register(ArchiblockTwoModBlocks.ROSE_BRICK_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item ROSE_BRICK_STAIRS_2 = register(ArchiblockTwoModBlocks.ROSE_BRICK_STAIRS_2, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item ROSE_QUARTZ_BRICKS_2 = register(ArchiblockTwoModBlocks.ROSE_QUARTZ_BRICKS_2, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item ROSE_BRICK_SLAB_2 = register(ArchiblockTwoModBlocks.ROSE_BRICK_SLAB_2, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item ROSE_BRICK_WALL_2 = register(ArchiblockTwoModBlocks.ROSE_BRICK_WALL_2, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item ROSE_QUARTZ_SLAB = register(ArchiblockTwoModBlocks.ROSE_QUARTZ_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item ROSE_QUARTZ_STAIRS = register(ArchiblockTwoModBlocks.ROSE_QUARTZ_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item ROSE_QUARTZ_WALL = register(ArchiblockTwoModBlocks.ROSE_QUARTZ_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SMOOTH_ROSE_QUARTZ = register(ArchiblockTwoModBlocks.SMOOTH_ROSE_QUARTZ, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SMOOTH_ROSE_QUARTZ_STAIRS = register(ArchiblockTwoModBlocks.SMOOTH_ROSE_QUARTZ_STAIRS,
+	public static final Item DENTED_BRASS_TILE_SLAB = register(ArchiblockTwoModBlocks.DENTED_BRASS_TILE_SLAB,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SMOOTH_ROSE_QUARTZ_SLAB = register(ArchiblockTwoModBlocks.SMOOTH_ROSE_QUARTZ_SLAB,
+	public static final Item HALF_DENTED_BRASS_TILES = register(ArchiblockTwoModBlocks.HALF_DENTED_BRASS_TILES,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SMOOTH_ROSE_QUARTZ_WALL = register(ArchiblockTwoModBlocks.SMOOTH_ROSE_QUARTZ_WALL,
+	public static final Item HALF_DENTED_BRASS_TILE_STAIRS = register(ArchiblockTwoModBlocks.HALF_DENTED_BRASS_TILE_STAIRS,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item ROSE_QUARTZ_PILLAR = register(ArchiblockTwoModBlocks.ROSE_QUARTZ_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item CHISELLED_ROSE_QUARTZ = register(ArchiblockTwoModBlocks.CHISELLED_ROSE_QUARTZ,
+	public static final Item HALF_DENTED_BRASS_T_ILE_SLAB = register(ArchiblockTwoModBlocks.HALF_DENTED_BRASS_T_ILE_SLAB,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SMOKY_QUARTZ_ORE = register(ArchiblockTwoModBlocks.SMOKY_QUARTZ_ORE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SMOKY_QUARTZ = register(new SmokyQuartzItem());
-	public static final Item SMOKY_QUARTZ_BLOCK = register(ArchiblockTwoModBlocks.SMOKY_QUARTZ_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SMOKY_QUARTZ_STAIRS = register(ArchiblockTwoModBlocks.SMOKY_QUARTZ_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SMOKY_QUARTZ_SLAB = register(ArchiblockTwoModBlocks.SMOKY_QUARTZ_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SMOKY_QUARTZ_WALL = register(ArchiblockTwoModBlocks.SMOKY_QUARTZ_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SMOKY_QUARTZ_BRICKS = register(ArchiblockTwoModBlocks.SMOKY_QUARTZ_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SMOKY_BRICK_STAIRS = register(ArchiblockTwoModBlocks.SMOKY_BRICK_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SMOKY_BRICK_SLAB = register(ArchiblockTwoModBlocks.SMOKY_BRICK_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SMOKY_BRICK_WALL = register(ArchiblockTwoModBlocks.SMOKY_BRICK_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SMOKY_QUARTZ_BRICKS_2 = register(ArchiblockTwoModBlocks.SMOKY_QUARTZ_BRICKS_2,
-			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SMOKY_STAIRS_2 = register(ArchiblockTwoModBlocks.SMOKY_STAIRS_2, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SMOKY_SLAB_2 = register(ArchiblockTwoModBlocks.SMOKY_SLAB_2, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SMOKY_WALL_2 = register(ArchiblockTwoModBlocks.SMOKY_WALL_2, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SMOOTH_SMOKY_QUARTZ = register(ArchiblockTwoModBlocks.SMOOTH_SMOKY_QUARTZ, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SMOOTH_SMOKY_QUARTZ_STAIRS = register(ArchiblockTwoModBlocks.SMOOTH_SMOKY_QUARTZ_STAIRS,
-			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SMOOTH_SMOKY_QUARTZ_SLAB = register(ArchiblockTwoModBlocks.SMOOTH_SMOKY_QUARTZ_SLAB,
-			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SMOOTH_SMOKY_QUARTZ_WALL = register(ArchiblockTwoModBlocks.SMOOTH_SMOKY_QUARTZ_WALL,
-			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SMOKY_QUARTZ_PILLAR = register(ArchiblockTwoModBlocks.SMOKY_QUARTZ_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item CHISELLED_SMOKY_QUARTZ = register(ArchiblockTwoModBlocks.CHISELLED_SMOKY_QUARTZ,
-			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item BRASS_TILES_R = register(ArchiblockTwoModBlocks.BRASS_TILES_R, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item BRASS_TILE_STAIRS = register(ArchiblockTwoModBlocks.BRASS_TILE_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item BRASS_TILE_SLAB = register(ArchiblockTwoModBlocks.BRASS_TILE_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item BRASS_DOOR = register(ArchiblockTwoModBlocks.BRASS_DOOR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item BRASS_TRAPDOOR = register(ArchiblockTwoModBlocks.BRASS_TRAPDOOR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item BRASS_CHAINS = register(ArchiblockTwoModBlocks.BRASS_CHAINS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item BRASS_PIPE = register(ArchiblockTwoModBlocks.BRASS_PIPE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item BRASS_BARS_MIDDLE = register(ArchiblockTwoModBlocks.BRASS_BARS_MIDDLE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item STRING_MESH = register(ArchiblockTwoModBlocks.STRING_MESH, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item FRAMED_STRING_MESH = register(ArchiblockTwoModBlocks.FRAMED_STRING_MESH, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item SUS = register(new SusItem());
 	public static final Item ROSE = register(ArchiblockTwoModBlocks.ROSE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
 	public static final Item ROSE_SHRUB = register(ArchiblockTwoModBlocks.ROSE_SHRUB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
@@ -476,7 +502,48 @@ public class ArchiblockTwoModItems {
 	public static final Item MYSTIC_MAPLE_SAPLING = register(ArchiblockTwoModBlocks.MYSTIC_MAPLE_SAPLING,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
 	public static final Item MUTANDIS = register(new MutandisItem());
+	public static final Item TIEDBAMBOO_BLOCK = register(ArchiblockTwoModBlocks.TIEDBAMBOO_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item BAMBOO_PLANKS = register(ArchiblockTwoModBlocks.BAMBOO_PLANKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item CARVED_BAMBOO_PLANKS = register(ArchiblockTwoModBlocks.CARVED_BAMBOO_PLANKS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item BAMBOO_DREAMCATCHER = register(ArchiblockTwoModBlocks.BAMBOO_DREAMCATCHER,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item BAMBOO_LADDER = register(ArchiblockTwoModBlocks.BAMBOO_LADDER, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item BAMBOO_PLANK_SLAB = register(ArchiblockTwoModBlocks.BAMBOO_PLANK_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item BAMBOO_PLANK_STAIRS = register(ArchiblockTwoModBlocks.BAMBOO_PLANK_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item BAMBOO_PLANK_FENCE = register(ArchiblockTwoModBlocks.BAMBOO_PLANK_FENCE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item BAMBOO_PLANK_FENCE_GATE = register(ArchiblockTwoModBlocks.BAMBOO_PLANK_FENCE_GATE,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item BAMBOO_BASKET = register(ArchiblockTwoModBlocks.BAMBOO_BASKET, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item BAMBOO_WIND_CHIMES = register(ArchiblockTwoModBlocks.BAMBOO_WIND_CHIMES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DRIED_TIED_BAMBOO_BLOCK = register(ArchiblockTwoModBlocks.DRIED_TIED_BAMBOO_BLOCK,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DRIED_BAMBOO_PLANKS = register(ArchiblockTwoModBlocks.DRIED_BAMBOO_PLANKS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DRIED_CARVED_BAMBOO_PLANKS = register(ArchiblockTwoModBlocks.DRIED_CARVED_BAMBOO_PLANKS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DRIED_BAMBOO_DREAMCATCHER = register(ArchiblockTwoModBlocks.DRIED_BAMBOO_DREAMCATCHER,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DRIED_BAMBOO_LADDER = register(ArchiblockTwoModBlocks.DRIED_BAMBOO_LADDER,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DRIED_BAMBOO_PLANK_STAIRS = register(ArchiblockTwoModBlocks.DRIED_BAMBOO_PLANK_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DRIED_BAMBOO_PLANK_SLAB = register(ArchiblockTwoModBlocks.DRIED_BAMBOO_PLANK_SLAB,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DRIED_BAMBOO_PLANK_FENCE = register(ArchiblockTwoModBlocks.DRIED_BAMBOO_PLANK_FENCE,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DRIED_BAMBOO_PLANK_FENCE_GATE = register(ArchiblockTwoModBlocks.DRIED_BAMBOO_PLANK_FENCE_GATE,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DRIED_BAMBOO_BASKET = register(ArchiblockTwoModBlocks.DRIED_BAMBOO_BASKET,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DRIED_BAMBOO_WIND_CHIMES = register(ArchiblockTwoModBlocks.DRIED_BAMBOO_WIND_CHIMES,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DRIED_BAMBOO = register(ArchiblockTwoModBlocks.DRIED_BAMBOO, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
 	public static final Item SIDE_SNOWY_STONE_PILLAR = register(ArchiblockTwoModBlocks.SIDE_SNOWY_STONE_PILLAR, null);
+	public static final Item BRASS_BARS = register(ArchiblockTwoModBlocks.BRASS_BARS, null);
+	public static final Item BRASS_BARS_TOP = register(ArchiblockTwoModBlocks.BRASS_BARS_TOP, null);
+	public static final Item BRASS_BARS_BOTTOM = register(ArchiblockTwoModBlocks.BRASS_BARS_BOTTOM, null);
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HalfDentedBrassTiles"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:HalfDentedBrassTiles"
+      },
+      {
+        "value": "CUSTOM:HalfDentedBrassTiles"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:HalfDentedBrassTiles"
+      },
+      {
+        "value": "CUSTOM:HalfDentedBrassTiles"
+      },
+      {
+        "value": "CUSTOM:HalfDentedBrassTiles"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:HalfDentedBrassTileStairs"
+    },
+    "name": "half_dented_stairs_r",
+    "namespace": "mod"
+  }
+}

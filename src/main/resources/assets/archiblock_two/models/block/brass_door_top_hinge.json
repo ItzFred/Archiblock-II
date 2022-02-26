@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top_rh",
+  "textures": {
+    "bottom": "archiblock_two:blocks/brassdoorbottom",
+    "top": "archiblock_two:blocks/brassdoortop"
+  }
+}
