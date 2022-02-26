@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 6,
+    "group": "dried_bamboo_plank_slab",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DriedBambooPlanks"
+      },
+      {
+        "value": "CUSTOM:DriedBambooPlanks"
+      },
+      {
+        "value": "CUSTOM:DriedBambooPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DriedBambooPlankSlab"
+    },
+    "name": "dried_bamboo_plank_slab_r",
+    "namespace": "mod"
+  }
+}

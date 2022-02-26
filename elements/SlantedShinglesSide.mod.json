@@ -18,8 +18,8 @@
     "tintType": "No tint",
     "isItemTinted": false,
     "hasTransparency": true,
-    "connectedSides": false,
-    "transparencyType": "SOLID",
+    "connectedSides": true,
+    "transparencyType": "CUTOUT",
     "disableOffset": false,
     "boundingBoxes": [
       {
@@ -42,7 +42,7 @@
       },
       {
         "mx": 8.0,
-        "my": 0.0,
+        "my": 0.1,
         "mz": 0.0,
         "Mx": 16.0,
         "My": 8.0,
@@ -112,7 +112,7 @@
     "fallSound": {
       "value": ""
     },
-    "luminance": 0,
+    "luminance": 1,
     "unbreakable": false,
     "breakHarvestLevel": 0,
     "spawnParticles": false,

@@ -6,6 +6,12 @@
     "items": [
       {
         "value": "CUSTOM:MysticMaplePlanks"
+      },
+      {
+        "value": "CUSTOM:BambooPlanks"
+      },
+      {
+        "value": "CUSTOM:DriedBambooPlanks"
       }
     ],
     "blocks": [],

@@ -80,6 +80,24 @@
         "missing": "mysticmaplewovenblock"
       },
       "name": "mysticmaple"
+    },
+    "bamboo": {
+      "map": {
+        "0": "bamboobasketside1",
+        "1": "bamboobaskettop",
+        "2": "tiedbambootop",
+        "missing": "tiedbambooside"
+      },
+      "name": "bamboo"
+    },
+    "driedbamboo": {
+      "map": {
+        "0": "driedbamboobasketside",
+        "1": "driedbamboobaskettop",
+        "2": "driedtiedbambootop",
+        "missing": "driedtiedbambooside"
+      },
+      "name": "driedbamboo"
     }
   }
 }

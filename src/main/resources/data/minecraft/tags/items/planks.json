@@ -1,6 +1,8 @@
 {
   "replace": false,
   "values": [
+    "archiblock_two:dried_bamboo_planks",
+    "archiblock_two:bamboo_planks",
     "archiblock_two:mystic_maple_planks"
   ]
 }

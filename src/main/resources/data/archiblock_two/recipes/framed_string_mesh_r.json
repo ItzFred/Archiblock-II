@@ -1,0 +1,30 @@
+{
+  "group": "framed_string_mesh",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "4": {
+      "item": "archiblock_two:string_mesh"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:framed_string_mesh",
+    "count": 1
+  }
+}

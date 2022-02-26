@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "archiblock_two:blocks/bamboofenceuv",
+    "particle": "archiblock_two:blocks/bamboofenceuv"
+  }
+}

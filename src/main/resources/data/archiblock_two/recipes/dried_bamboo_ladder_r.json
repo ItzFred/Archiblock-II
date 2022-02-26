@@ -1,0 +1,36 @@
+{
+  "group": "dried_bamboo_ladder",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:dried_bamboo"
+    },
+    "2": {
+      "item": "archiblock_two:dried_bamboo"
+    },
+    "3": {
+      "item": "archiblock_two:dried_bamboo"
+    },
+    "4": {
+      "item": "archiblock_two:dried_bamboo"
+    },
+    "5": {
+      "item": "archiblock_two:dried_bamboo"
+    },
+    "6": {
+      "item": "archiblock_two:dried_bamboo"
+    },
+    "8": {
+      "item": "archiblock_two:dried_bamboo"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:dried_bamboo_ladder",
+    "count": 3
+  }
+}

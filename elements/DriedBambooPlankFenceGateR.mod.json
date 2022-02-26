@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "dried_bamboo_plank_fence_gate",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:DriedBambooPlanks"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:DriedBambooPlanks"
+      },
+      {
+        "value": "Items.STICK"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DriedBambooPlankFenceGate"
+    },
+    "name": "dried_bamboo_plank_fence_gate_r",
+    "namespace": "mod"
+  }
+}

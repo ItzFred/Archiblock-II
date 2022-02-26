@@ -1,0 +1,32 @@
+{
+  "group": "bamboo_plank_fence",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:bamboo_planks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "archiblock_two:bamboo_planks"
+    },
+    "3": {
+      "item": "archiblock_two:bamboo_planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "archiblock_two:bamboo_planks"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:bamboo_plank_fence",
+    "count": 3
+  }
+}

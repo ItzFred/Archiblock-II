@@ -1,0 +1,8 @@
+{
+  "parent": "archiblock_two:custom/stringmesh",
+  "textures": {
+    "all": "archiblock_two:blocks/stringmesh",
+    "particle": "archiblock_two:blocks/stringmesh",
+    "0": "archiblock_two:blocks/stringmesh"
+  }
+}

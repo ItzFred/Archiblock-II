@@ -1,0 +1,36 @@
+{
+  "group": "bamboo_ladder",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:bamboo"
+    },
+    "2": {
+      "item": "minecraft:bamboo"
+    },
+    "3": {
+      "item": "minecraft:bamboo"
+    },
+    "4": {
+      "item": "minecraft:bamboo"
+    },
+    "5": {
+      "item": "minecraft:bamboo"
+    },
+    "6": {
+      "item": "minecraft:bamboo"
+    },
+    "8": {
+      "item": "minecraft:bamboo"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:bamboo_ladder",
+    "count": 3
+  }
+}

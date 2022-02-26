@@ -1,0 +1,26 @@
+{
+  "group": "dried_bamboo_wind_chimes",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:string"
+    },
+    "3": {
+      "item": "archiblock_two:dried_bamboo"
+    },
+    "4": {
+      "item": "archiblock_two:dried_bamboo"
+    },
+    "5": {
+      "item": "archiblock_two:dried_bamboo"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:dried_bamboo_wind_chimes",
+    "count": 1
+  }
+}

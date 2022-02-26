@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "dried_bamboo_plank_stairs",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DriedBambooPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DriedBambooPlanks"
+      },
+      {
+        "value": "CUSTOM:DriedBambooPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DriedBambooPlanks"
+      },
+      {
+        "value": "CUSTOM:DriedBambooPlanks"
+      },
+      {
+        "value": "CUSTOM:DriedBambooPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DriedBambooPlankStairs"
+    },
+    "name": "dried_bamboo_plank_stairs_r",
+    "namespace": "mod"
+  }
+}
