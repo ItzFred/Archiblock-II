@@ -38,7 +38,7 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:HalfDentedBrassTileStairs"
+      "value": "CUSTOM:HalfDentedBrassBlockStairs"
     },
     "name": "half_dented_stairs_r",
     "namespace": "mod"

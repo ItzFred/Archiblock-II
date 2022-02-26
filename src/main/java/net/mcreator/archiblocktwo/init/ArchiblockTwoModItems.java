@@ -433,21 +433,15 @@ public class ArchiblockTwoModItems {
 	public static final Item GREEN_NEON_BLOCK = register(ArchiblockTwoModBlocks.GREEN_NEON_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item BRASS_INGOT = register(new BrassIngotItem());
 	public static final Item BLOCK_OF_BRASS = register(ArchiblockTwoModBlocks.BLOCK_OF_BRASS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item CUT_BRASS_STAIRS = register(ArchiblockTwoModBlocks.CUT_BRASS_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CUT_BRASS_SLAB = register(ArchiblockTwoModBlocks.CUT_BRASS_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item DENTED_BRASS_TILES = register(ArchiblockTwoModBlocks.DENTED_BRASS_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item DENTED_BRASS_TILE_STAIRS = register(ArchiblockTwoModBlocks.DENTED_BRASS_TILE_STAIRS,
-			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item DENTED_BRASS_TILE_SLAB = register(ArchiblockTwoModBlocks.DENTED_BRASS_TILE_SLAB,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item HALF_DENTED_BRASS_TILES = register(ArchiblockTwoModBlocks.HALF_DENTED_BRASS_TILES,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item HALF_DENTED_BRASS_TILE_STAIRS = register(ArchiblockTwoModBlocks.HALF_DENTED_BRASS_TILE_STAIRS,
-			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item HALF_DENTED_BRASS_T_ILE_SLAB = register(ArchiblockTwoModBlocks.HALF_DENTED_BRASS_T_ILE_SLAB,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item BRASS_TILES_R = register(ArchiblockTwoModBlocks.BRASS_TILES_R, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item BRASS_TILE_STAIRS = register(ArchiblockTwoModBlocks.BRASS_TILE_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item BRASS_TILE_SLAB = register(ArchiblockTwoModBlocks.BRASS_TILE_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item BRASS_DOOR = register(ArchiblockTwoModBlocks.BRASS_DOOR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item BRASS_TRAPDOOR = register(ArchiblockTwoModBlocks.BRASS_TRAPDOOR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
@@ -544,6 +538,12 @@ public class ArchiblockTwoModItems {
 	public static final Item BRASS_BARS = register(ArchiblockTwoModBlocks.BRASS_BARS, null);
 	public static final Item BRASS_BARS_TOP = register(ArchiblockTwoModBlocks.BRASS_BARS_TOP, null);
 	public static final Item BRASS_BARS_BOTTOM = register(ArchiblockTwoModBlocks.BRASS_BARS_BOTTOM, null);
+	public static final Item BRASS_BLOCK_STAIRS = register(ArchiblockTwoModBlocks.BRASS_BLOCK_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item DENTED_BRASS_BLOCK_STAIRS = register(ArchiblockTwoModBlocks.DENTED_BRASS_BLOCK_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item HALF_DENTED_BRASS_BLOCK_STAIRS = register(ArchiblockTwoModBlocks.HALF_DENTED_BRASS_BLOCK_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item BRASS_TILES_STAIRS = register(ArchiblockTwoModBlocks.BRASS_TILES_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

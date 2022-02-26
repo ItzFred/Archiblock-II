@@ -1,5 +1,5 @@
 {
-  "parent": "archiblock_two:block/dented_brass_tile_stairs",
+  "parent": "archiblock_two:block/half_dented_brass_block_stairs",
   "display": {
     "thirdperson": {
       "rotation": [

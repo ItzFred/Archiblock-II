@@ -5,7 +5,7 @@
     "recipeType": "Crafting",
     "xpReward": 0.0,
     "cookingTime": 200,
-    "recipeRetstackSize": 4,
+    "recipeRetstackSize": 3,
     "group": "",
     "recipeShapeless": false,
     "recipeSlots": [
@@ -38,7 +38,7 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:CutBrassStairs"
+      "value": "CUSTOM:BrassBlockStairs"
     },
     "name": "brass_stairs",
     "namespace": "mod"

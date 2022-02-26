@@ -11,10 +11,15 @@ import java.util.Map;
 
 public class BrassBarsBlockCheckProcedure {
 	public static void execute(LevelAccessor world, double x, double y, double z) {
-		if (((world.getBlockState(new BlockPos((int) x, (int) (y + 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_TOP
-				|| (world.getBlockState(new BlockPos((int) x, (int) (y + 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS)
-				&& ((world.getBlockState(new BlockPos((int) x, (int) (y - 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_BOTTOM
-						|| (world.getBlockState(new BlockPos((int) x, (int) (y - 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS)) {
+		if (((world.getBlockState(new BlockPos((int) x, (int) (y + 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_MIDDLE
+				|| (world.getBlockState(new BlockPos((int) x, (int) (y + 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS
+				|| (world.getBlockState(new BlockPos((int) x, (int) (y + 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_TOP
+				|| (world.getBlockState(new BlockPos((int) x, (int) (y + 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_BOTTOM)
+				&& ((world.getBlockState(new BlockPos((int) x, (int) (y - 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_MIDDLE
+						|| (world.getBlockState(new BlockPos((int) x, (int) (y - 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS
+						|| (world.getBlockState(new BlockPos((int) x, (int) (y - 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_TOP
+						|| (world.getBlockState(new BlockPos((int) x, (int) (y - 1), (int) z)))
+								.getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_BOTTOM)) {
 			{
 				BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
 				BlockState _bs = ArchiblockTwoModBlocks.BRASS_BARS.defaultBlockState();
@@ -29,10 +34,15 @@ public class BrassBarsBlockCheckProcedure {
 				}
 				world.setBlock(_bp, _bs, 3);
 			}
-		} else if ((!((world.getBlockState(new BlockPos((int) x, (int) (y + 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_TOP)
-				|| !((world.getBlockState(new BlockPos((int) x, (int) (y + 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS))
-				&& ((world.getBlockState(new BlockPos((int) x, (int) (y - 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_BOTTOM
-						|| (world.getBlockState(new BlockPos((int) x, (int) (y - 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS)) {
+		} else if (!((world.getBlockState(new BlockPos((int) x, (int) (y + 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_MIDDLE
+				|| (world.getBlockState(new BlockPos((int) x, (int) (y + 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS
+				|| (world.getBlockState(new BlockPos((int) x, (int) (y + 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_TOP
+				|| (world.getBlockState(new BlockPos((int) x, (int) (y + 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_BOTTOM)
+				&& ((world.getBlockState(new BlockPos((int) x, (int) (y - 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_MIDDLE
+						|| (world.getBlockState(new BlockPos((int) x, (int) (y - 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS
+						|| (world.getBlockState(new BlockPos((int) x, (int) (y - 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_TOP
+						|| (world.getBlockState(new BlockPos((int) x, (int) (y - 1), (int) z)))
+								.getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_BOTTOM)) {
 			{
 				BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
 				BlockState _bs = ArchiblockTwoModBlocks.BRASS_BARS_TOP.defaultBlockState();
@@ -47,10 +57,15 @@ public class BrassBarsBlockCheckProcedure {
 				}
 				world.setBlock(_bp, _bs, 3);
 			}
-		} else if ((!((world.getBlockState(new BlockPos((int) x, (int) (y - 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_BOTTOM)
-				|| !((world.getBlockState(new BlockPos((int) x, (int) (y - 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS))
-				&& ((world.getBlockState(new BlockPos((int) x, (int) (y + 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_TOP
-						|| (world.getBlockState(new BlockPos((int) x, (int) (y + 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS)) {
+		} else if (((world.getBlockState(new BlockPos((int) x, (int) (y + 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_MIDDLE
+				|| (world.getBlockState(new BlockPos((int) x, (int) (y + 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS
+				|| (world.getBlockState(new BlockPos((int) x, (int) (y + 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_TOP
+				|| (world.getBlockState(new BlockPos((int) x, (int) (y + 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_BOTTOM)
+				&& !((world.getBlockState(new BlockPos((int) x, (int) (y - 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_MIDDLE
+						|| (world.getBlockState(new BlockPos((int) x, (int) (y - 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS
+						|| (world.getBlockState(new BlockPos((int) x, (int) (y - 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_TOP
+						|| (world.getBlockState(new BlockPos((int) x, (int) (y - 1), (int) z)))
+								.getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_BOTTOM)) {
 			{
 				BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
 				BlockState _bs = ArchiblockTwoModBlocks.BRASS_BARS_BOTTOM.defaultBlockState();
@@ -65,10 +80,15 @@ public class BrassBarsBlockCheckProcedure {
 				}
 				world.setBlock(_bp, _bs, 3);
 			}
-		} else if ((!((world.getBlockState(new BlockPos((int) x, (int) (y + 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_TOP)
-				|| !((world.getBlockState(new BlockPos((int) x, (int) (y + 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS))
-				&& (!((world.getBlockState(new BlockPos((int) x, (int) (y - 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_BOTTOM)
-						|| !((world.getBlockState(new BlockPos((int) x, (int) (y - 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS))) {
+		} else if (!(((world.getBlockState(new BlockPos((int) x, (int) (y + 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_MIDDLE
+				|| (world.getBlockState(new BlockPos((int) x, (int) (y + 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS
+				|| (world.getBlockState(new BlockPos((int) x, (int) (y + 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_TOP
+				|| (world.getBlockState(new BlockPos((int) x, (int) (y + 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_BOTTOM)
+				&& ((world.getBlockState(new BlockPos((int) x, (int) (y - 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_MIDDLE
+						|| (world.getBlockState(new BlockPos((int) x, (int) (y - 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS
+						|| (world.getBlockState(new BlockPos((int) x, (int) (y - 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_TOP
+						|| (world.getBlockState(new BlockPos((int) x, (int) (y - 1), (int) z)))
+								.getBlock() == ArchiblockTwoModBlocks.BRASS_BARS_BOTTOM))) {
 			{
 				BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
 				BlockState _bs = ArchiblockTwoModBlocks.BRASS_BARS_MIDDLE.defaultBlockState();
