@@ -1980,15 +1980,6 @@
       "path": "~/Stone Type Blocks/Stone/Recipes"
     },
     {
-      "name": "CrackedStonePillarR1",
-      "type": "recipe",
-      "sortid": 553,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "cracked_stone_pillar_r_1",
-      "path": "~/Stone Type Blocks/Stone/Recipes"
-    },
-    {
       "name": "CutObsidianR1",
       "type": "recipe",
       "sortid": 554,
@@ -2121,15 +2112,6 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "mossy_small_stone_bricks_r",
-      "path": "~/Stone Type Blocks/Stone/Recipes"
-    },
-    {
-      "name": "CrackedStoneTilesR2",
-      "type": "recipe",
-      "sortid": 567,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "cracked_stone_tiles_r_2",
       "path": "~/Stone Type Blocks/Stone/Recipes"
     },
     {
@@ -2394,15 +2376,6 @@
       "path": "~/Stone Type Blocks/Stone/Recipes"
     },
     {
-      "name": "CrackedCutStoneR1",
-      "type": "recipe",
-      "sortid": 587,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "cracked_cut_stone_r_1",
-      "path": "~/Stone Type Blocks/Stone/Recipes"
-    },
-    {
       "name": "StoneTiles",
       "type": "block",
       "sortid": 60,
@@ -2428,15 +2401,6 @@
       "locked_code": false,
       "registry_name": "obsidian_brick_wall_r_1",
       "path": "~/Stone Type Blocks/Obsidian/Recipes"
-    },
-    {
-      "name": "CrackedStonePillarR",
-      "type": "recipe",
-      "sortid": 590,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "cracked_stone_pillar_r",
-      "path": "~/Stone Type Blocks/Stone/Recipes"
     },
     {
       "name": "ObsidianBrickWallR3",
@@ -8418,6 +8382,789 @@
       "locked_code": false,
       "registry_name": "dried_bamboo_r_1",
       "path": "~/Nature/Bamboo/Recipes"
+    },
+    {
+      "name": "NetherBrickPlate",
+      "type": "block",
+      "sortid": 918,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_plate",
+      "path": "~/OtherBlocks/Nether Bricks"
+    },
+    {
+      "name": "BigNetherBricks",
+      "type": "block",
+      "sortid": 919,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_nether_bricks",
+      "path": "~/OtherBlocks/Nether Bricks"
+    },
+    {
+      "name": "NetherBrickTiles",
+      "type": "block",
+      "sortid": 920,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_tiles",
+      "path": "~/OtherBlocks/Nether Bricks"
+    },
+    {
+      "name": "NetherBrickPillar",
+      "type": "block",
+      "sortid": 921,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_pillar",
+      "path": "~/OtherBlocks/Nether Bricks"
+    },
+    {
+      "name": "CrackedNetherBrickPlate",
+      "type": "block",
+      "sortid": 922,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_nether_brick_plate",
+      "path": "~/OtherBlocks/Nether Bricks"
+    },
+    {
+      "name": "CrackedBigNetherBricks",
+      "type": "block",
+      "sortid": 923,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_big_nether_bricks",
+      "path": "~/OtherBlocks/Nether Bricks"
+    },
+    {
+      "name": "CrackedNetherBrickTiles",
+      "type": "block",
+      "sortid": 924,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_nether_brick_tiles",
+      "path": "~/OtherBlocks/Nether Bricks"
+    },
+    {
+      "name": "WeepingVineCoveredNetherBrickPlate",
+      "type": "block",
+      "sortid": 925,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "weeping_vine_covered_nether_brick_plate",
+      "path": "~/OtherBlocks/Nether Bricks"
+    },
+    {
+      "name": "WeepingVineCoveredBigNetherBricks",
+      "type": "block",
+      "sortid": 926,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "weeping_vine_covered_big_nether_bricks",
+      "path": "~/OtherBlocks/Nether Bricks"
+    },
+    {
+      "name": "WeepingVineCoveredNetherBrickTiles",
+      "type": "block",
+      "sortid": 927,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "weeping_vine_covered_nether_brick_tiles",
+      "path": "~/OtherBlocks/Nether Bricks"
+    },
+    {
+      "name": "WeepingVineCoveredNetherBrickPillar",
+      "type": "block",
+      "sortid": 928,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "weeping_vine_covered_nether_brick_pillar",
+      "path": "~/OtherBlocks/Nether Bricks"
+    },
+    {
+      "name": "WeepingVineCoveredNetherBricks",
+      "type": "block",
+      "sortid": 929,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "weeping_vine_covered_nether_bricks",
+      "path": "~/OtherBlocks/Nether Bricks"
+    },
+    {
+      "name": "WeepingVineCoveredChiselledNetherBricks",
+      "type": "block",
+      "sortid": 930,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "weeping_vine_covered_chiselled_nether_bricks",
+      "path": "~/OtherBlocks/Nether Bricks"
+    },
+    {
+      "name": "TwistingVineCoveredNetherBrickPlate",
+      "type": "block",
+      "sortid": 931,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twisting_vine_covered_nether_brick_plate",
+      "path": "~/OtherBlocks/Nether Bricks"
+    },
+    {
+      "name": "TwistingVineCoveredNetherBricks",
+      "type": "block",
+      "sortid": 932,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twisting_vine_covered_nether_bricks",
+      "path": "~/OtherBlocks/Nether Bricks"
+    },
+    {
+      "name": "TwistingVineCoveredBigNetherBricks",
+      "type": "block",
+      "sortid": 933,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twisting_vine_covered_big_nether_bricks",
+      "path": "~/OtherBlocks/Nether Bricks"
+    },
+    {
+      "name": "TwistingVineCoveredNetherBrickTiles",
+      "type": "block",
+      "sortid": 934,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twisting_vine_covered_nether_brick_tiles",
+      "path": "~/OtherBlocks/Nether Bricks"
+    },
+    {
+      "name": "TwistingVineCoveredNetherBrickPillar",
+      "type": "block",
+      "sortid": 935,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twisting_vine_covered_nether_brick_pillar",
+      "path": "~/OtherBlocks/Nether Bricks"
+    },
+    {
+      "name": "TwistingVineCoveredChiselledNetherBricks",
+      "type": "block",
+      "sortid": 936,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twisting_vine_covered_chiselled_nether_bricks",
+      "path": "~/OtherBlocks/Nether Bricks"
+    },
+    {
+      "name": "NetherBrickPlateStairs",
+      "type": "block",
+      "sortid": 937,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_plate_stairs",
+      "path": "~/OtherBlocks/Nether Bricks"
+    },
+    {
+      "name": "NetherBrickPlateSlab",
+      "type": "block",
+      "sortid": 938,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_plate_slab",
+      "path": "~/OtherBlocks/Nether Bricks"
+    },
+    {
+      "name": "NetherBrickPlateWall",
+      "type": "block",
+      "sortid": 939,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_plate_wall",
+      "path": "~/OtherBlocks/Nether Bricks"
+    },
+    {
+      "name": "BigNetherBrickStairs",
+      "type": "block",
+      "sortid": 940,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_nether_brick_stairs",
+      "path": "~/OtherBlocks/Nether Bricks"
+    },
+    {
+      "name": "BigNetherBrickSlab",
+      "type": "block",
+      "sortid": 941,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_nether_brick_slab",
+      "path": "~/OtherBlocks/Nether Bricks"
+    },
+    {
+      "name": "BigNetherBrickWall",
+      "type": "block",
+      "sortid": 942,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_nether_brick_wall",
+      "path": "~/OtherBlocks/Nether Bricks"
+    },
+    {
+      "name": "NetherBrickTileStairs",
+      "type": "block",
+      "sortid": 943,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_tile_stairs",
+      "path": "~/OtherBlocks/Nether Bricks"
+    },
+    {
+      "name": "NetherBrickTileSlab",
+      "type": "block",
+      "sortid": 944,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_tile_slab",
+      "path": "~/OtherBlocks/Nether Bricks"
+    },
+    {
+      "name": "NetherBrickTileWall",
+      "type": "block",
+      "sortid": 945,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_tile_wall",
+      "path": "~/OtherBlocks/Nether Bricks"
+    },
+    {
+      "name": "NetherBrickPlateR",
+      "type": "recipe",
+      "sortid": 948,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_plate_r",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "BigNetherBricksR",
+      "type": "recipe",
+      "sortid": 949,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_nether_bricks_r",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "NetherBrickTilesR",
+      "type": "recipe",
+      "sortid": 950,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_tiles_r",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "NetherBrickPillarR",
+      "type": "recipe",
+      "sortid": 951,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_pillar_r",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "CrackedNetherBrickPlateR",
+      "type": "recipe",
+      "sortid": 952,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_nether_brick_plate_r",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "CrackedBigNetherBricksR",
+      "type": "recipe",
+      "sortid": 953,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_big_nether_bricks_r",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "CrackedNetherBrickTilesR",
+      "type": "recipe",
+      "sortid": 954,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_nether_brick_tiles_r",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "NetherBrickPlateStairsR",
+      "type": "recipe",
+      "sortid": 955,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_plate_stairs_r",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "NetherBrickPlateSlabR",
+      "type": "recipe",
+      "sortid": 956,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_plate_slab_r",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "NetherBrickPlateWallR",
+      "type": "recipe",
+      "sortid": 957,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_plate_wall_r",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "BigNetherBrickStairsR",
+      "type": "recipe",
+      "sortid": 958,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_nether_brick_stairs_r",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "BigNetherBrickSlabR",
+      "type": "recipe",
+      "sortid": 959,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_nether_brick_slab_r",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "BigNetherBrickWallR",
+      "type": "recipe",
+      "sortid": 960,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_nether_brick_wall_r",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "NetherBrickTileStairsR",
+      "type": "recipe",
+      "sortid": 961,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_tile_stairs_r",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "NetherBrickTileSlabR",
+      "type": "recipe",
+      "sortid": 962,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_tile_slab_r",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "NetherBrickTileWallR",
+      "type": "recipe",
+      "sortid": 963,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_tile_wall_r",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "BigNetherBricksR1",
+      "type": "recipe",
+      "sortid": 964,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_nether_bricks_r_1",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "NetherBrickTilesR1",
+      "type": "recipe",
+      "sortid": 965,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_tiles_r_1",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "NetherBrickTilesR2",
+      "type": "recipe",
+      "sortid": 966,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_tiles_r_2",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "NetherBrickPillarR1",
+      "type": "recipe",
+      "sortid": 967,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_pillar_r_1",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "BigNetherBrickStairsR1",
+      "type": "recipe",
+      "sortid": 968,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_nether_brick_stairs_r_1",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "BigNetherBrickStairsR2",
+      "type": "recipe",
+      "sortid": 969,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_nether_brick_stairs_r_2",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "BigNetherBrickSlabR1",
+      "type": "recipe",
+      "sortid": 970,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_nether_brick_slab_r_1",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "BigNetherBrickSlabR2",
+      "type": "recipe",
+      "sortid": 971,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_nether_brick_slab_r_2",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "BigNetherBrickWallR1",
+      "type": "recipe",
+      "sortid": 972,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_nether_brick_wall_r_1",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "BigNetherBrickWallR2",
+      "type": "recipe",
+      "sortid": 973,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_nether_brick_wall_r_2",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "NetherBrickPlateStairsR1",
+      "type": "recipe",
+      "sortid": 974,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_plate_stairs_r_1",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "NetherBrickPlateSlabR1",
+      "type": "recipe",
+      "sortid": 975,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_plate_slab_r_1",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "NetherBrickPlateWallR1",
+      "type": "recipe",
+      "sortid": 976,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_plate_wall_r_1",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "NetherBrickTileStairsR1",
+      "type": "recipe",
+      "sortid": 977,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_tile_stairs_r_1",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "NetherBrickTileStairsR2",
+      "type": "recipe",
+      "sortid": 978,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_tile_stairs_r_2",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "NetherBrickTileR3",
+      "type": "recipe",
+      "sortid": 979,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_tile_r_3",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "NetherBrickTileSlabR1",
+      "type": "recipe",
+      "sortid": 980,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_tile_slab_r_1",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "NetherBrickTileR2",
+      "type": "recipe",
+      "sortid": 981,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_tile_r_2",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "NetherBrickTileSlabR3",
+      "type": "recipe",
+      "sortid": 982,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_tile_slab_r_3",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "NetherBrickTileWallR1",
+      "type": "recipe",
+      "sortid": 983,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_tile_wall_r_1",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "NetherBrickTileWallR2",
+      "type": "recipe",
+      "sortid": 984,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_tile_wall_r_2",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "NetherBrickTileWallR3",
+      "type": "recipe",
+      "sortid": 985,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_tile_wall_r_3",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "CVNetherBrickPlate",
+      "type": "recipe",
+      "sortid": 986,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cv_nether_brick_plate",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "CVBigNetherBricksR",
+      "type": "recipe",
+      "sortid": 987,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cv_big_nether_bricks_r",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "CVNetherBricksR",
+      "type": "recipe",
+      "sortid": 988,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cv_nether_bricks_r",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "CVNetherBrickTilesR",
+      "type": "recipe",
+      "sortid": 989,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cv_nether_brick_tiles_r",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "CVNetherBrickPillar",
+      "type": "recipe",
+      "sortid": 990,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cv_nether_brick_pillar",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "CVChiselledNetherBricks",
+      "type": "recipe",
+      "sortid": 991,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cv_chiselled_nether_bricks",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "TVNetherBrickPlate",
+      "type": "recipe",
+      "sortid": 993,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tv_nether_brick_plate",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "TVNetherBricksR",
+      "type": "recipe",
+      "sortid": 994,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tv_nether_bricks_r",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "TVBigNetherBricksR",
+      "type": "recipe",
+      "sortid": 995,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tv_big_nether_bricks_r",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "TVNetherBrickTilesR",
+      "type": "recipe",
+      "sortid": 996,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tv_nether_brick_tiles_r",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "TVNetherBrickPillarR",
+      "type": "recipe",
+      "sortid": 997,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tv_nether_brick_pillar_r",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "TVChiselledNetherBricksR",
+      "type": "recipe",
+      "sortid": 998,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tv_chiselled_nether_bricks_r",
+      "path": "~/OtherBlocks/Nether Bricks/Recipes"
+    },
+    {
+      "name": "TwilightLoot",
+      "type": "loottable",
+      "sortid": 999,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twilight_loot",
+      "path": "~/OtherBlocks/Twilight/Normal"
+    },
+    {
+      "name": "SugiliteLoot",
+      "type": "loottable",
+      "sortid": 1000,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sugilite_loot",
+      "path": "~/OtherBlocks/Gems/Sugilite"
+    },
+    {
+      "name": "TopazStoneLoot",
+      "type": "loottable",
+      "sortid": 1002,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "topaz_stone_loot",
+      "path": "~/OtherBlocks/Gems/Topaz"
+    },
+    {
+      "name": "TopazGraniteLoot",
+      "type": "loottable",
+      "sortid": 1003,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "topaz_granite_loot",
+      "path": "~/OtherBlocks/Gems/Topaz"
+    },
+    {
+      "name": "RubyLoot",
+      "type": "loottable",
+      "sortid": 1004,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_loot",
+      "path": "~/OtherBlocks/Gems/Ruby"
+    },
+    {
+      "name": "SapphireLoot",
+      "type": "loottable",
+      "sortid": 1005,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_loot",
+      "path": "~/OtherBlocks/Gems/Sapphire"
+    },
+    {
+      "name": "SapphireDioriteLoot",
+      "type": "loottable",
+      "sortid": 1006,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_diorite_loot",
+      "path": "~/OtherBlocks/Gems/Sapphire"
+    },
+    {
+      "name": "RoseQuartzLoot",
+      "type": "loottable",
+      "sortid": 1007,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rose_quartz_loot",
+      "path": "~/OtherBlocks/Quartz"
+    },
+    {
+      "name": "SmokyQuartzLoot",
+      "type": "loottable",
+      "sortid": 1008,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smoky_quartz_loot",
+      "path": "~/OtherBlocks/Quartz"
     }
   ],
   "variable_elements": [],
@@ -8460,6 +9207,7 @@
       "block.archiblock_two.white_spool": "White Spool",
       "block.archiblock_two.red_clay_shingles": "Red Block of Clay Shingles",
       "block.archiblock_two.light_gray_spool": "Light Gray Spool",
+      "block.archiblock_two.twisting_vine_covered_big_nether_bricks": "Twisting Vine Covered Big Nether Bricks",
       "block.archiblock_two.chiselled_rose_quartz": "Chiselled Rose Quartz Block",
       "block.archiblock_two.smooth_smoky_quartz_slab": "Smooth Smoky Quartz Slab",
       "item.archiblock_two.smoky_quartz": "Smoky Quartz",
@@ -8504,6 +9252,7 @@
       "block.archiblock_two.blue_clay_shingles": "Blue Block of Clay Shingles",
       "block.archiblock_two.twilight_pillar": "Twilight Pillar",
       "block.archiblock_two.half_dented_brass_tiles": "Half Dented Brass Tiles",
+      "block.archiblock_two.nether_brick_plate_slab": "Nether Brick Plate Slab",
       "block.archiblock_two.twilightwave_brick_stairs": "Twilightwave Brick Stairs",
       "block.archiblock_two.cut_stone_slab": "Cut Stone Slab",
       "block.archiblock_two.snowy_cobblestone_stairs": "Snowy Cobblestone Stairs",
@@ -8573,6 +9322,7 @@
       "block.archiblock_two.olive_rose_shrub": "Chartreuse Rose Shrub",
       "block.archiblock_two.red_slanted_clay_shingles": "Red Slanted Clay Shingles",
       "block.archiblock_two.dried_bamboo_basket": "Dried Bamboo Basket",
+      "block.archiblock_two.nether_brick_tile_wall": "Nether Brick Tile Wall",
       "block.archiblock_two.dark_oak_basket_dirt": "Dirt Filled Woven Dark Oak Basket",
       "block.archiblock_two.woven_birch_stairs": "Woven Birch Stairs",
       "block.archiblock_two.birch_basket_sand": "Sand Filled Woven Birch Basket",
@@ -8580,11 +9330,13 @@
       "block.archiblock_two.mystic_maple_button": "Mystic Maple Button",
       "block.archiblock_two.woven_fiber_slab": "Woven Fiber Slab",
       "item.archiblock_two.sugilite": "Sugilite",
+      "block.archiblock_two.weeping_vine_covered_nether_bricks": "Weeping Vine Covered Nether Bricks",
       "block.archiblock_two.brass_bars": "Brass Bars",
       "block.archiblock_two.andesite_bricks": "Andesite Bricks",
       "block.archiblock_two.obsidian_brick_wall": "Obsidian Brick Wall",
       "block.archiblock_two.woven_spruce_basket": "Woven Spruce Basket",
       "block.archiblock_two.woven_birch_block": "Woven Birch Block",
+      "block.archiblock_two.twisting_vine_covered_chiselled_nether_bricks": "Twisting Vine Covered Chiselled Nether Bricks",
       "block.archiblock_two.topaz_bricks": "Topaz Bricks",
       "block.archiblock_two.woven_birch_slab": "Woven Birch Slab",
       "block.archiblock_two.chiselled_twilight_bricks": "Chiselled Twilight Bricks",
@@ -8596,9 +9348,11 @@
       "block.archiblock_two.cut_diorite": "Cut Diorite",
       "item.archiblock_two.sus.desc": "canon in the monochrome universe",
       "block.archiblock_two.sugilite_ore": "Sugilite Ore",
+      "block.archiblock_two.big_nether_brick_slab": "Big Nether Brick Slab",
       "block.archiblock_two.mystic_maple_pressure_plate": "Mystic Maple Pressure Plate",
       "block.archiblock_two.blue_slanted_clay_shingles": "Blue Slanted Clay Shingles",
       "block.archiblock_two.diorite_brick_wall": "Diorite Brick Wall",
+      "block.archiblock_two.weeping_vine_covered_chiselled_nether_bricks": "Weeping Vine Covered Chiselled Nether Bricks",
       "block.archiblock_two.glowing_eyes_round_blink": "Round Glowing Eyes",
       "block.archiblock_two.block_of_brass": "Block Of Brass",
       "block.archiblock_two.dried_bamboo_plank_stairs": "Dried Bamboo Plank Stairs",
@@ -8634,6 +9388,7 @@
       "block.archiblock_two.scarlet_rose": "Scarlet Rose",
       "block.archiblock_two.rose_brick_wall_2": "Carved Rose Quartz Brick Wall",
       "block.archiblock_two.sugilite_block": "Sugilite Block",
+      "block.archiblock_two.weeping_vine_covered_nether_brick_pillar": "Weeping Vine Covered Nether Brick Pillar",
       "block.archiblock_two.granite_brick_wall": "Granite Brick Wall",
       "block.archiblock_two.woven_warped_block": "Woven Warped Block",
       "block.archiblock_two.bamboo_plank_fence_gate": "Bamboo Plank Fence Gate",
@@ -8654,6 +9409,7 @@
       "block.archiblock_two.dried_carved_bamboo_planks": "Dried Carved Bamboo Planks",
       "block.archiblock_two.spruce_basket_dirt": "Dirt Filled Woven Spruce Basket",
       "block.archiblock_two.dried_bamboo_plank_fence_gate": "Dried Bamboo Plank Fence Gate",
+      "block.archiblock_two.weeping_vine_covered_nether_brick_plate": "Weeping Vine Covered Nether Brick Plate",
       "block.archiblock_two.dark_oak_basket_podzol": "Podzol Filled Woven Dark Oak Basket",
       "block.archiblock_two.diorite_brick_slab": "Diorite Brick Slab",
       "block.archiblock_two.snowy_stone_tiles": "Snowy Stone Tiles",
@@ -8665,10 +9421,12 @@
       "block.archiblock_two.framed_string_mesh": "Framed String Mesh",
       "block.archiblock_two.acacia_basket_sand": "Sand Filled Woven Acacia Basket",
       "block.archiblock_two.diorite_pillar": "Diorite Pillar",
+      "block.archiblock_two.cracked_nether_brick_plate": "Cracked Nether Brick Plate",
       "block.archiblock_two.obsidian_tiles": "Obsidian Tiles",
       "block.archiblock_two.woven_mystic_maple_slab": "Woven Mystic Maple Slab",
       "block.archiblock_two.bamboo_ladder": "Bamboo Ladder",
       "block.archiblock_two.olive_rose_bush": "Chartreuse Rose Bush",
+      "block.archiblock_two.nether_brick_tiles": "Nether Brick Tiles",
       "block.archiblock_two.snowy_stone_slab": "Snowy Stone Slab",
       "block.archiblock_two.red_clay_brick_tiles": "Red Clay Brick Tiles",
       "block.archiblock_two.twilightwave_pillar": "Twilightwave Pillar",
@@ -8678,12 +9436,14 @@
       "block.archiblock_two.brass_tiles_stairs": "Brass Tile Stairs",
       "block.archiblock_two.birch_basket_dirt": "Dirt Filled Woven Birch Basket",
       "block.archiblock_two.woven_fiber_block": "Woven Fiber Block",
+      "block.archiblock_two.nether_brick_plate": "Nether Brick Plate",
       "block.archiblock_two.woven_basket_grass": "Moss Filled Woven Basket",
       "block.archiblock_two.woven_spruce_slab": "Woven Spruce Slab",
       "block.archiblock_two.string_mesh": "String Mesh",
       "block.archiblock_two.crimson_basket_dirt": "Dirt Filled Woven Crimson Basket",
       "block.archiblock_two.woven_dark_oak_basket": "Woven Dark Oak Basket",
       "block.archiblock_two.cut_granite": "Cut Granite",
+      "block.archiblock_two.cracked_nether_brick_tiles": "Cracked Nether Brick Tiles",
       "block.archiblock_two.sapphire_block": "Sapphire Block",
       "block.archiblock_two.andesite_brick_wall": "Andesite Brick Wall",
       "block.archiblock_two.chiselled_smoky_quartz": "Chiselled Smoky Quartz Block",
@@ -8696,16 +9456,21 @@
       "block.archiblock_two.olive_rose": "Chartreuse Rose",
       "block.archiblock_two.smoky_quartz_stairs": "Smoky Quartz Stairs",
       "block.archiblock_two.woven_mystic_maple_basket": "Woven Mystic Maple Basket",
+      "block.archiblock_two.weeping_vine_covered_nether_brick_tiles": "Weeping Vine Covered Nether Brick Tiles",
       "block.archiblock_two.mystic_basket_mycelium": "Mycelium Filled Mystic Maple Basket",
       "block.archiblock_two.tiedbamboo_block": "Tied Bamboo Block",
+      "block.archiblock_two.big_nether_brick_stairs": "Big Nether Brick Stairs",
       "block.archiblock_two.raw_twilightwave_block": "Raw Twilightwave Block",
       "block.archiblock_two.ruby_ore": "Ruby Ore",
       "block.archiblock_two.lush_twilight_pillar": "Lush Twilight Pillar",
       "block.archiblock_two.diorite_tiles": "Diorite Tiles",
+      "block.archiblock_two.twisting_vine_covered_nether_brick_pillar": "Twisting Vine Covered Nether Brick Pillar",
       "block.archiblock_two.snowy_stone_brick_slab": "Snowy Stone Brick Slab",
+      "block.archiblock_two.weeping_vine_covered_big_nether_bricks": "Weeping Vine Covered Big Nether Bricks",
       "block.archiblock_two.woven_warped_stairs": "Woven Warped Stairs",
       "block.archiblock_two.rose_brick_slab": "Rose Quartz Brick Slab",
       "block.archiblock_two.diorite_bricks": "Diorite Bricks",
+      "block.archiblock_two.twisting_vine_covered_nether_brick_plate": "Twisting Vine Covered Nether Brick Plate",
       "block.archiblock_two.blue_neon_block": "Blue Neon Block",
       "block.archiblock_two.twilight_brick_stairs": "Twilight Brick Stairs",
       "block.archiblock_two.smooth_rose_quartz_slab": "Smooth Rose Quartz Slab",
@@ -8716,6 +9481,7 @@
       "block.archiblock_two.blush_rose_bush": "Blush Rose Bush",
       "block.archiblock_two.rose_quartz_brick_stairs": "Rose Quartz Brick Stairs",
       "block.archiblock_two.smoky_quartz_ore": "Smoky Quartz Ore",
+      "block.archiblock_two.nether_brick_tile_stairs": "Nether Brick Tile Stairs",
       "block.archiblock_two.stone_pillar": "Stone Pillar",
       "block.archiblock_two.rose_quartz_pillar": "Rose Quartz Pillar",
       "block.archiblock_two.twilight_pillar_top": "Twilight Pillar Top",
@@ -8733,6 +9499,7 @@
       "block.archiblock_two.cut_stone": "Cut Stone",
       "block.archiblock_two.cracked_stone_pillar": "Cracked Stone Pillar",
       "block.archiblock_two.diorite_tile_stairs": "Diorite Tile Stairs",
+      "block.archiblock_two.big_nether_bricks": "Big Nether Bricks",
       "block.archiblock_two.lush_twilight_brick_wall": "Lush Twilight Brick Wall",
       "block.archiblock_two.dried_bamboo_plank_fence": "Dried Bamboo Plank Fence",
       "block.archiblock_two.brass_block_stairs": "Brass Block Stairs",
@@ -8758,13 +9525,17 @@
       "block.archiblock_two.andesite_tiles": "Andesite Tiles",
       "block.archiblock_two.black_neon_block": "Black Neon Block",
       "block.archiblock_two.rose_quartz_stairs": "Rose Quartz Stairs",
+      "block.archiblock_two.nether_brick_plate_wall": "Nether Brick Plate Wall",
+      "block.archiblock_two.big_nether_brick_wall": "Big Nether Brick Wall",
       "block.archiblock_two.raw_twilight_block": "Raw Twilight Block",
+      "block.archiblock_two.nether_brick_plate_stairs": "Nether Brick Plate Stairs",
       "block.archiblock_two.smoky_quartz_pillar": "Smoky Quartz Pillar",
       "block.archiblock_two.gray_spool": "Gray Spool",
       "block.archiblock_two.crimson_basket_podzol": "Podzol Filled Woven Crimson Basket",
       "block.archiblock_two.mystic_basket_podzol": "Podzol Filled Mystic Maple Basket",
       "block.archiblock_two.pink_neon_block": "Pink Neon Block",
       "block.archiblock_two.twilightwave_pillar_top": "Twilightwave Pillar Top",
+      "block.archiblock_two.twisting_vine_covered_nether_brick_tiles": "Twisting Vine Covered Nether Brick Tiles",
       "block.archiblock_two.dark_oak_basket_moss": "Moss Filled Woven Dark Oak Basket",
       "block.archiblock_two.woven_jungle_basket": "Woven Jungle Block",
       "block.archiblock_two.snowy_stone_stairs": "Snowy Stone Stairs",
@@ -8800,6 +9571,7 @@
       "block.archiblock_two.smoky_brick_wall": "Smoky Quartz Brick Wall",
       "block.archiblock_two.warped_basket_sand": "Sand Filled Woven Warped Basket",
       "block.archiblock_two.blue_clay_brick_tiles": "Blue Clay Brick Tiles",
+      "block.archiblock_two.cracked_big_nether_bricks": "Cracked Big Nether Bricks",
       "block.archiblock_two.ruby_bricks": "Ruby Bricks",
       "itemGroup.tabarchiblock_ii_tab": "Archiblock II - Building",
       "block.archiblock_two.birch_basket_mycelium": "Mycelium Filled Woven Birch Basket",
@@ -8815,6 +9587,7 @@
       "item.archiblock_two.twilight_shard": "Twilight Shard",
       "item.archiblock_two.mutandis": "Mutandis",
       "block.archiblock_two.bamboo_planks": "Bamboo Planks",
+      "block.archiblock_two.nether_brick_tile_slab": "Nether Brick Tile Slab",
       "block.archiblock_two.woven_crimson_slab": "Woven Crimson Slab",
       "block.archiblock_two.diorite_brick_stairs": "Diorite Brick Stairs",
       "block.archiblock_two.twilight_brick_slab": "Twilight Brick Slab",
@@ -8823,6 +9596,7 @@
       "block.archiblock_two.twilightwave_brick_wall": "Twilightwave Brick Wall",
       "block.archiblock_two.magenta_neon_block": "Magenta Neon Block",
       "block.archiblock_two.pitchdark_block": "Pitchdark Block",
+      "block.archiblock_two.nether_brick_pillar": "Nether Brick Pillar",
       "block.archiblock_two.snowy_cut_stone": "Snowy Cut Stone",
       "block.archiblock_two.mystic_maple_sapling": "Mystic Maple Sapling",
       "block.archiblock_two.obsidian_brick_slab": "Obsidian Brick Slab",
@@ -8838,6 +9612,7 @@
       "block.archiblock_two.granite_cut_pillar": "Granite Cut Pillar",
       "block.archiblock_two.woven_warped_slab": "Woven Warped Slab",
       "block.archiblock_two.jungle_basket_moss": "Moss Filled Woven Jungle Basket",
+      "block.archiblock_two.twisting_vine_covered_nether_bricks": "Twisting Vine Covered Nether Bricks",
       "block.archiblock_two.granite_small_bricks": "Granite Small Bricks",
       "block.archiblock_two.woven_crimson_basket": "Woven Crimson Block",
       "block.archiblock_two.buttermilk_rose_bush": "Buttermilk Rose Bush",
@@ -9009,6 +9784,15 @@
           },
           {
             "name": "Brass",
+            "children": [
+              {
+                "name": "Recipes",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Nether Bricks",
             "children": [
               {
                 "name": "Recipes",

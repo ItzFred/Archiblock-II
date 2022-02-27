@@ -1,0 +1,33 @@
+{
+  "group": "nether_brick_plate_stairs",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:nether_brick_plate"
+    },
+    "3": {
+      "item": "archiblock_two:nether_brick_plate"
+    },
+    "4": {
+      "item": "archiblock_two:nether_brick_plate"
+    },
+    "6": {
+      "item": "archiblock_two:nether_brick_plate"
+    },
+    "7": {
+      "item": "archiblock_two:nether_brick_plate"
+    },
+    "8": {
+      "item": "archiblock_two:nether_brick_plate"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:nether_brick_plate_stairs",
+    "count": 3
+  }
+}

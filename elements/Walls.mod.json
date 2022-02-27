@@ -73,6 +73,18 @@
       },
       {
         "value": "CUSTOM:RoseBrickWall"
+      },
+      {
+        "value": "CUSTOM:NetherBrickPlateWall"
+      },
+      {
+        "value": "CUSTOM:BigNetherBrickWall"
+      },
+      {
+        "value": "CUSTOM:NetherBrickTileWall"
+      },
+      {
+        "value": "Blocks.NETHER_BRICK_WALL"
       }
     ],
     "functions": [],

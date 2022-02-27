@@ -1,0 +1,22 @@
+{
+  "group": "nether_brick_plate_slab",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:nether_brick_plate"
+    },
+    "1": {
+      "item": "archiblock_two:nether_brick_plate"
+    },
+    "2": {
+      "item": "archiblock_two:nether_brick_plate"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:nether_brick_plate_slab",
+    "count": 6
+  }
+}

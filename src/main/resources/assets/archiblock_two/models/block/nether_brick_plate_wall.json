@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "archiblock_two:blocks/netherbrickplate",
+    "particle": "archiblock_two:blocks/netherbrickplate"
+  }
+}

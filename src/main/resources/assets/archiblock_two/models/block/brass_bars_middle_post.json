@@ -1,7 +1,7 @@
 {
   "parent": "block/template_glass_pane_post",
   "textures": {
-    "edge": "archiblock_two:blocks/brassbarsmiddle",
+    "edge": "archiblock_two:blocks/emptiness",
     "pane": "archiblock_two:blocks/brassbarsmiddle"
   }
 }

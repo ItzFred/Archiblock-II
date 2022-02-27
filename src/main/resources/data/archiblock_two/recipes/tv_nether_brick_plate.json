@@ -1,0 +1,16 @@
+{
+  "group": "twisting_vine_covered_nether_brick_plate",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "archiblock_two:nether_brick_plate"
+    },
+    {
+      "item": "minecraft:twisting_vines"
+    }
+  ],
+  "result": {
+    "item": "archiblock_two:twisting_vine_covered_nether_brick_plate",
+    "count": 1
+  }
+}

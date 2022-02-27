@@ -1,0 +1,26 @@
+{
+  "group": "big_nether_bricks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:nether_bricks"
+    },
+    "1": {
+      "item": "minecraft:nether_bricks"
+    },
+    "2": {
+      "item": "minecraft:nether_bricks"
+    },
+    "3": {
+      "item": "minecraft:nether_bricks"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:big_nether_bricks",
+    "count": 4
+  }
+}

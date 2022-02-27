@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "archiblock_two:block/nether_brick_pillar",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "archiblock_two:block/nether_brick_pillar"
+    },
+    "axis=z": {
+      "model": "archiblock_two:block/nether_brick_pillar",
+      "x": 90
+    }
+  }
+}

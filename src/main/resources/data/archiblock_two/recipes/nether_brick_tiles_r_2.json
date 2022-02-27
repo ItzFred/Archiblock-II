@@ -1,0 +1,9 @@
+{
+  "group": "nether_brick_tiles",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "archiblock_two:big_nether_bricks"
+  },
+  "result": "archiblock_two:nether_brick_tiles"
+}

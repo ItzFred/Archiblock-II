@@ -1,0 +1,16 @@
+{
+  "group": "weeping_vine_covered_nether_brick_pillar",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "archiblock_two:nether_brick_pillar"
+    },
+    {
+      "item": "minecraft:weeping_vines"
+    }
+  ],
+  "result": {
+    "item": "archiblock_two:weeping_vine_covered_nether_brick_pillar",
+    "count": 1
+  }
+}
