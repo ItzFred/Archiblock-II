@@ -5,8 +5,8 @@
     "recipeType": "Crafting",
     "xpReward": 0.0,
     "cookingTime": 200,
-    "recipeRetstackSize": 3,
-    "group": "",
+    "recipeRetstackSize": 4,
+    "group": "dented_brass_stairs",
     "recipeShapeless": false,
     "recipeSlots": [
       {
@@ -38,7 +38,7 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:DentedBrassBlockStairs"
+      "value": "CUSTOM:DentedBrassTileStairs"
     },
     "name": "dented_brass_stairs_r",
     "namespace": "mod"

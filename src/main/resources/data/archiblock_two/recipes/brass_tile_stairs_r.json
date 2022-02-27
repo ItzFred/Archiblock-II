@@ -1,4 +1,5 @@
 {
+  "group": "brass_tile_stairs",
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "0  ",
@@ -26,7 +27,7 @@
     }
   },
   "result": {
-    "item": "archiblock_two:brass_tiles_stairs",
-    "count": 3
+    "item": "archiblock_two:brass_tile_stairs",
+    "count": 4
   }
 }
