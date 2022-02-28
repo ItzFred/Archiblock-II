@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "3 5",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "archiblock_two:cut_purpur"
+    },
+    "3": {
+      "item": "archiblock_two:cut_purpur"
+    },
+    "5": {
+      "item": "archiblock_two:cut_purpur"
+    },
+    "7": {
+      "item": "archiblock_two:cut_purpur"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:carved_purpur",
+    "count": 4
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "archiblock_two:blocks/shimmeringpurpurpillartop",
+    "up": "archiblock_two:blocks/shimmeringpurpurpillartop",
+    "north": "archiblock_two:blocks/shimmeringpurpurpillar",
+    "east": "archiblock_two:blocks/shimmeringpurpurpillar",
+    "south": "archiblock_two:blocks/shimmeringpurpurpillar",
+    "west": "archiblock_two:blocks/shimmeringpurpurpillar",
+    "particle": "archiblock_two:blocks/shimmeringpurpurpillartop"
+  }
+}

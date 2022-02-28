@@ -538,6 +538,32 @@ public class ArchiblockTwoModItems {
 	public static final Item BRASS_BARS = register(ArchiblockTwoModBlocks.BRASS_BARS, null);
 	public static final Item BRASS_BARS_TOP = register(ArchiblockTwoModBlocks.BRASS_BARS_TOP, null);
 	public static final Item BRASS_BARS_BOTTOM = register(ArchiblockTwoModBlocks.BRASS_BARS_BOTTOM, null);
+	public static final Item BRASS_BLOCK_STAIRS = register(ArchiblockTwoModBlocks.BRASS_BLOCK_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item DENTED_BRASS_BLOCK_STAIRS = register(ArchiblockTwoModBlocks.DENTED_BRASS_BLOCK_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item HALF_DENTED_BRASS_BLOCK_STAIRS = register(ArchiblockTwoModBlocks.HALF_DENTED_BRASS_BLOCK_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item BRASS_TILES_STAIRS = register(ArchiblockTwoModBlocks.BRASS_TILES_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CUT_PURPUR = register(ArchiblockTwoModBlocks.CUT_PURPUR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CARVED_PURPUR = register(ArchiblockTwoModBlocks.CARVED_PURPUR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SHIMMERING_PURPUR = register(ArchiblockTwoModBlocks.SHIMMERING_PURPUR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CUT_PURPUR_STAIRS = register(ArchiblockTwoModBlocks.CUT_PURPUR_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CUT_PURPUR_SLAB = register(ArchiblockTwoModBlocks.CUT_PURPUR_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CUT_SHIMMERING_PURPUR = register(ArchiblockTwoModBlocks.CUT_SHIMMERING_PURPUR,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SHIMMERING_PURPUR_STAIRS = register(ArchiblockTwoModBlocks.SHIMMERING_PURPUR_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SHIMMERING_PURPUR_SLAB = register(ArchiblockTwoModBlocks.SHIMMERING_PURPUR_SLAB,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SHIMMERING_PURPUR_WALL = register(ArchiblockTwoModBlocks.SHIMMERING_PURPUR_WALL,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CUT_SHIMMERING_STAIRS = register(ArchiblockTwoModBlocks.CUT_SHIMMERING_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CUT_SHIMMERING_SLAB = register(ArchiblockTwoModBlocks.CUT_SHIMMERING_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SHIMMERING_PURPUR_PILLAR = register(ArchiblockTwoModBlocks.SHIMMERING_PURPUR_PILLAR,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CARVED_SHIMMERING_PURPUR = register(ArchiblockTwoModBlocks.CARVED_SHIMMERING_PURPUR,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

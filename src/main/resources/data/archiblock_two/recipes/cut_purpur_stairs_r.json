@@ -1,0 +1,33 @@
+{
+  "group": "cut_purpur_stairs",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:cut_purpur"
+    },
+    "3": {
+      "item": "archiblock_two:cut_purpur"
+    },
+    "4": {
+      "item": "archiblock_two:cut_purpur"
+    },
+    "6": {
+      "item": "archiblock_two:cut_purpur"
+    },
+    "7": {
+      "item": "archiblock_two:cut_purpur"
+    },
+    "8": {
+      "item": "archiblock_two:cut_purpur"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:cut_purpur_stairs",
+    "count": 4
+  }
+}

@@ -8418,6 +8418,168 @@
       "locked_code": false,
       "registry_name": "dried_bamboo_r_1",
       "path": "~/Nature/Bamboo/Recipes"
+    },
+    {
+      "name": "CutPurpur",
+      "type": "block",
+      "sortid": 918,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_purpur",
+      "path": "~/OtherBlocks/Purpur"
+    },
+    {
+      "name": "CarvedPurpur",
+      "type": "block",
+      "sortid": 919,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carved_purpur",
+      "path": "~/OtherBlocks/Purpur"
+    },
+    {
+      "name": "ShimmeringPurpur",
+      "type": "block",
+      "sortid": 920,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shimmering_purpur",
+      "path": "~/OtherBlocks/Purpur"
+    },
+    {
+      "name": "CutPurpurStairs",
+      "type": "block",
+      "sortid": 921,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_purpur_stairs",
+      "path": "~/OtherBlocks/Purpur"
+    },
+    {
+      "name": "CutPurpurSlab",
+      "type": "block",
+      "sortid": 922,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_purpur_slab",
+      "path": "~/OtherBlocks/Purpur"
+    },
+    {
+      "name": "CutPurpurR",
+      "type": "recipe",
+      "sortid": 923,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_purpur_r",
+      "path": "~/OtherBlocks/Purpur/Recipes"
+    },
+    {
+      "name": "ShimmeringPurpurR",
+      "type": "recipe",
+      "sortid": 924,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shimmering_purpur_r",
+      "path": "~/OtherBlocks/Purpur/Recipes"
+    },
+    {
+      "name": "CutPurpurStairsR",
+      "type": "recipe",
+      "sortid": 925,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_purpur_stairs_r",
+      "path": "~/OtherBlocks/Purpur/Recipes"
+    },
+    {
+      "name": "CutPurpurSlabR",
+      "type": "recipe",
+      "sortid": 926,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_purpur_slab_r",
+      "path": "~/OtherBlocks/Purpur/Recipes"
+    },
+    {
+      "name": "CarvedPurpurR",
+      "type": "recipe",
+      "sortid": 927,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carved_purpur_r",
+      "path": "~/OtherBlocks/Purpur/Recipes"
+    },
+    {
+      "name": "CutShimmeringPurpur",
+      "type": "block",
+      "sortid": 928,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_shimmering_purpur",
+      "path": "~/OtherBlocks/Purpur"
+    },
+    {
+      "name": "ShimmeringPurpurStairs",
+      "type": "block",
+      "sortid": 929,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shimmering_purpur_stairs",
+      "path": "~/OtherBlocks/Purpur"
+    },
+    {
+      "name": "ShimmeringPurpurSlab",
+      "type": "block",
+      "sortid": 930,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shimmering_purpur_slab",
+      "path": "~/OtherBlocks/Purpur"
+    },
+    {
+      "name": "ShimmeringPurpurWall",
+      "type": "block",
+      "sortid": 931,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shimmering_purpur_wall",
+      "path": "~/OtherBlocks/Purpur"
+    },
+    {
+      "name": "CutShimmeringStairs",
+      "type": "block",
+      "sortid": 932,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_shimmering_stairs",
+      "path": "~/OtherBlocks/Purpur"
+    },
+    {
+      "name": "CutShimmeringSlab",
+      "type": "block",
+      "sortid": 933,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_shimmering_slab",
+      "path": "~/OtherBlocks/Purpur"
+    },
+    {
+      "name": "ShimmeringPurpurPillar",
+      "type": "block",
+      "sortid": 934,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shimmering_purpur_pillar",
+      "path": "~/OtherBlocks/Purpur"
+    },
+    {
+      "name": "CarvedShimmeringPurpur",
+      "type": "block",
+      "sortid": 935,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carved_shimmering_purpur",
+      "path": "~/OtherBlocks/Purpur"
     }
   ],
   "variable_elements": [],
@@ -8495,6 +8657,7 @@
       "block.archiblock_two.slanted_shingles_side": "Slanted Clay Shingles Side",
       "block.archiblock_two.warped_basket_moss": "Moss Filled Woven Warped Basket",
       "block.archiblock_two.brass_bars_top": "Brass Bars",
+      "block.archiblock_two.shimmering_purpur_wall": "Shimmering Purpur Wall",
       "block.archiblock_two.mystic_maple_stairs": "Mystic Maple Stairs",
       "block.archiblock_two.small_obsidian_bricks": "Small Obsidian Bricks",
       "itemGroup.tabarchiblock_ii_nature": "Archiblock II - Nature",
@@ -8525,6 +8688,7 @@
       "block.archiblock_two.twilight_block": "Twilight Block",
       "block.archiblock_two.lush_twilight_block": "Lush Twilight Block",
       "block.archiblock_two.topaz_granite_ore": "Topaz Granite Ore",
+      "block.archiblock_two.cut_shimmering_slab": "Cut Shimmering Purpur Slab",
       "block.archiblock_two.jungle_basket_sand": "Sand Filled Woven Jungle Basket",
       "block.archiblock_two.granite_tiles": "Granite Tiles",
       "block.archiblock_two.chiselled_granite": "Chiselled Granite",
@@ -8569,10 +8733,12 @@
       "block.archiblock_two.side_snowy_stone_pillar": "Snowy Stone Pillar",
       "block.archiblock_two.pink_rose": "Pink Rose",
       "block.archiblock_two.rose_quartz_block": "Block of Rose Quartz",
+      "block.archiblock_two.cut_shimmering_purpur": "Cut Shimmering Purpur",
       "block.archiblock_two.twilightwave_bricks": "Twilightwave Bricks",
       "block.archiblock_two.olive_rose_shrub": "Chartreuse Rose Shrub",
       "block.archiblock_two.red_slanted_clay_shingles": "Red Slanted Clay Shingles",
       "block.archiblock_two.dried_bamboo_basket": "Dried Bamboo Basket",
+      "block.archiblock_two.cut_purpur_slab": "Cut Purpur Slab",
       "block.archiblock_two.dark_oak_basket_dirt": "Dirt Filled Woven Dark Oak Basket",
       "block.archiblock_two.woven_birch_stairs": "Woven Birch Stairs",
       "block.archiblock_two.birch_basket_sand": "Sand Filled Woven Birch Basket",
@@ -8614,6 +8780,7 @@
       "block.archiblock_two.blush_rose": "Blush Rose",
       "block.archiblock_two.twilightwave_tiles": "Twilightwave Tiles",
       "block.archiblock_two.warped_basket_podzol": "Podzol Filled Woven Warped Basket",
+      "block.archiblock_two.cut_purpur": "Cut Purpur",
       "block.archiblock_two.rose_quartz_bricks_2": "Carved Rose Quartz Bricks",
       "block.archiblock_two.twilightwave_block": "Twilightwave Block",
       "block.archiblock_two.yellow_spool": "Yellow Spool",
@@ -8658,6 +8825,7 @@
       "block.archiblock_two.diorite_brick_slab": "Diorite Brick Slab",
       "block.archiblock_two.snowy_stone_tiles": "Snowy Stone Tiles",
       "block.archiblock_two.mystic_maple_fence_gate": "Mystic Maple Fence Gate",
+      "block.archiblock_two.shimmering_purpur_pillar": "Shimmering Purpur Pillar",
       "block.archiblock_two.smoky_slab_2": "Carved Smoky Quartz Brick Slab",
       "block.archiblock_two.rose": "Rose",
       "block.archiblock_two.brass_tile_slab": "Brass Tile Slab",
@@ -8681,6 +8849,7 @@
       "block.archiblock_two.woven_basket_grass": "Moss Filled Woven Basket",
       "block.archiblock_two.woven_spruce_slab": "Woven Spruce Slab",
       "block.archiblock_two.string_mesh": "String Mesh",
+      "block.archiblock_two.carved_purpur": "Carved Purpur",
       "block.archiblock_two.crimson_basket_dirt": "Dirt Filled Woven Crimson Basket",
       "block.archiblock_two.woven_dark_oak_basket": "Woven Dark Oak Basket",
       "block.archiblock_two.cut_granite": "Cut Granite",
@@ -8718,6 +8887,7 @@
       "block.archiblock_two.smoky_quartz_ore": "Smoky Quartz Ore",
       "block.archiblock_two.stone_pillar": "Stone Pillar",
       "block.archiblock_two.rose_quartz_pillar": "Rose Quartz Pillar",
+      "block.archiblock_two.cut_purpur_stairs": "Cut Purpur Stairs",
       "block.archiblock_two.twilight_pillar_top": "Twilight Pillar Top",
       "item.archiblock_two.brass_ingot": "Brass Ingot",
       "block.archiblock_two.woven_jungle_stairs": "Woven Jungle Stairs",
@@ -8759,6 +8929,7 @@
       "block.archiblock_two.black_neon_block": "Black Neon Block",
       "block.archiblock_two.rose_quartz_stairs": "Rose Quartz Stairs",
       "block.archiblock_two.raw_twilight_block": "Raw Twilight Block",
+      "block.archiblock_two.shimmering_purpur_slab": "Shimmering Purpur Slab",
       "block.archiblock_two.smoky_quartz_pillar": "Smoky Quartz Pillar",
       "block.archiblock_two.gray_spool": "Gray Spool",
       "block.archiblock_two.crimson_basket_podzol": "Podzol Filled Woven Crimson Basket",
@@ -8768,6 +8939,7 @@
       "block.archiblock_two.dark_oak_basket_moss": "Moss Filled Woven Dark Oak Basket",
       "block.archiblock_two.woven_jungle_basket": "Woven Jungle Block",
       "block.archiblock_two.snowy_stone_stairs": "Snowy Stone Stairs",
+      "block.archiblock_two.shimmering_purpur": "Shimmering Purpur",
       "block.archiblock_two.lush_twilight_brick_stairs": "Lush Twilight Brick Stairs",
       "block.archiblock_two.andesite_pillar": "Andesite Pillar",
       "block.archiblock_two.red_clay_shingles_slab": "Red Clay Shingles Slab",
@@ -8800,6 +8972,7 @@
       "block.archiblock_two.smoky_brick_wall": "Smoky Quartz Brick Wall",
       "block.archiblock_two.warped_basket_sand": "Sand Filled Woven Warped Basket",
       "block.archiblock_two.blue_clay_brick_tiles": "Blue Clay Brick Tiles",
+      "block.archiblock_two.shimmering_purpur_stairs": "Shimmering Purpur Stairs",
       "block.archiblock_two.ruby_bricks": "Ruby Bricks",
       "itemGroup.tabarchiblock_ii_tab": "Archiblock II - Building",
       "block.archiblock_two.birch_basket_mycelium": "Mycelium Filled Woven Birch Basket",
@@ -8811,6 +8984,7 @@
       "block.archiblock_two.spruce_basket_podzol": "Podzol Filled Woven Spruce Basket",
       "block.archiblock_two.mystic_maple_leaves": "Mystic Maple Leaves",
       "block.archiblock_two.granite_brick_stairs": "Granite Brick Stairs",
+      "block.archiblock_two.carved_shimmering_purpur": "Carved Shimmering Purpur",
       "block.archiblock_two.smooth_smoky_quartz_stairs": "Smooth Smoky Quartz Stairs",
       "item.archiblock_two.twilight_shard": "Twilight Shard",
       "item.archiblock_two.mutandis": "Mutandis",
@@ -8818,6 +8992,7 @@
       "block.archiblock_two.woven_crimson_slab": "Woven Crimson Slab",
       "block.archiblock_two.diorite_brick_stairs": "Diorite Brick Stairs",
       "block.archiblock_two.twilight_brick_slab": "Twilight Brick Slab",
+      "block.archiblock_two.cut_shimmering_stairs": "Cut Shimmering Purpur Stairs",
       "block.archiblock_two.dark_oak_basket_mycelium": "Mycelium Filled Woven Dark Oak Basket",
       "block.archiblock_two.small_stone_bricks": "Small Stone Bricks",
       "block.archiblock_two.twilightwave_brick_wall": "Twilightwave Brick Wall",
@@ -9009,6 +9184,15 @@
           },
           {
             "name": "Brass",
+            "children": [
+              {
+                "name": "Recipes",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Purpur",
             "children": [
               {
                 "name": "Recipes",
