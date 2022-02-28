@@ -3,7 +3,7 @@
   "_type": "block",
   "definition": {
     "texture": "brassbarstop",
-    "textureTop": "",
+    "textureTop": "emptiness",
     "textureLeft": "",
     "textureFront": "",
     "textureRight": "",

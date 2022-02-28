@@ -2,16 +2,16 @@
   "_fv": 24,
   "_type": "recipe",
   "definition": {
-    "recipeType": "Stone cutting",
-    "xpReward": 0.0,
+    "recipeType": "Smelting",
+    "xpReward": 1.0,
     "cookingTime": 200,
     "recipeRetstackSize": 1,
     "group": "cracked_stone_tiles",
     "recipeShapeless": false,
-    "stoneCuttingInputStack": {
-      "value": "Blocks.STONE#0"
+    "smeltingInputStack": {
+      "value": "CUSTOM:StoneTiles"
     },
-    "stoneCuttingReturnStack": {
+    "smeltingReturnStack": {
       "value": "CUSTOM:CrackedStoneTiles"
     },
     "name": "cracked_stone_tiles_r",

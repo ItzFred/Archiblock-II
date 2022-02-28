@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 1.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "cracked_nether_brick_plate",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:NetherBrickPlate"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:CrackedNetherBrickPlate"
+    },
+    "name": "cracked_nether_brick_plate_r",
+    "namespace": "mod"
+  }
+}

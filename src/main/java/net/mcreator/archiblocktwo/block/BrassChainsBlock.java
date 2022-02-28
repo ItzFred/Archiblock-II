@@ -36,8 +36,8 @@ public class BrassChainsBlock extends Block {
 	public static final EnumProperty<Direction.Axis> AXIS = BlockStateProperties.AXIS;
 
 	public BrassChainsBlock() {
-		super(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.CHAIN).strength(1f, 10f).requiresCorrectToolForDrops().noCollission()
-				.noOcclusion().isRedstoneConductor((bs, br, bp) -> false));
+		super(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.CHAIN).strength(1f, 10f).requiresCorrectToolForDrops().noOcclusion()
+				.isRedstoneConductor((bs, br, bp) -> false));
 		this.registerDefaultState(this.stateDefinition.any().setValue(AXIS, Direction.Axis.Y));
 		setRegistryName("brass_chains");
 	}
@@ -57,12 +57,12 @@ public class BrassChainsBlock extends Block {
 		Vec3 offset = state.getOffset(world, pos);
 		switch ((Direction.Axis) state.getValue(AXIS)) {
 			case X :
-				return box(0, 6, 6, 16, 10, 10).move(offset.x, offset.y, offset.z);
+				return box(0, 6, 6, 16, 9, 9).move(offset.x, offset.y, offset.z);
 			case Y :
 			default :
-				return box(6, 0, 6, 10, 16, 10).move(offset.x, offset.y, offset.z);
+				return box(6, 0, 6, 9, 16, 9).move(offset.x, offset.y, offset.z);
 			case Z :
-				return box(6, 6, 0, 10, 10, 16).move(offset.x, offset.y, offset.z);
+				return box(6, 6, 0, 9, 9, 16).move(offset.x, offset.y, offset.z);
 		}
 	}
 

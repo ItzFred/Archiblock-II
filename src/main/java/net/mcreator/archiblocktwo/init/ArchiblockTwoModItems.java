@@ -545,24 +545,76 @@ public class ArchiblockTwoModItems {
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item BRASS_TILES_STAIRS = register(ArchiblockTwoModBlocks.BRASS_TILES_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CUT_PURPUR = register(ArchiblockTwoModBlocks.CUT_PURPUR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item NETHER_BRICK_PLATE = register(ArchiblockTwoModBlocks.NETHER_BRICK_PLATE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CARVED_PURPUR = register(ArchiblockTwoModBlocks.CARVED_PURPUR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item BIG_NETHER_BRICKS = register(ArchiblockTwoModBlocks.BIG_NETHER_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item SHIMMERING_PURPUR = register(ArchiblockTwoModBlocks.SHIMMERING_PURPUR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item NETHER_BRICK_TILES = register(ArchiblockTwoModBlocks.NETHER_BRICK_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CUT_PURPUR_STAIRS = register(ArchiblockTwoModBlocks.CUT_PURPUR_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item NETHER_BRICK_PILLAR = register(ArchiblockTwoModBlocks.NETHER_BRICK_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CUT_PURPUR_SLAB = register(ArchiblockTwoModBlocks.CUT_PURPUR_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CRACKED_NETHER_BRICK_PLATE = register(ArchiblockTwoModBlocks.CRACKED_NETHER_BRICK_PLATE,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CRACKED_BIG_NETHER_BRICKS = register(ArchiblockTwoModBlocks.CRACKED_BIG_NETHER_BRICKS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CRACKED_NETHER_BRICK_TILES = register(ArchiblockTwoModBlocks.CRACKED_NETHER_BRICK_TILES,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item WEEPING_VINE_COVERED_NETHER_BRICK_PLATE = register(ArchiblockTwoModBlocks.WEEPING_VINE_COVERED_NETHER_BRICK_PLATE,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item WEEPING_VINE_COVERED_BIG_NETHER_BRICKS = register(ArchiblockTwoModBlocks.WEEPING_VINE_COVERED_BIG_NETHER_BRICKS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item WEEPING_VINE_COVERED_NETHER_BRICK_TILES = register(ArchiblockTwoModBlocks.WEEPING_VINE_COVERED_NETHER_BRICK_TILES,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CUT_SHIMMERING_PURPUR = register(ArchiblockTwoModBlocks.CUT_SHIMMERING_PURPUR,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item WEEPING_VINE_COVERED_NETHER_BRICK_PILLAR = register(ArchiblockTwoModBlocks.WEEPING_VINE_COVERED_NETHER_BRICK_PILLAR,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item SHIMMERING_PURPUR_STAIRS = register(ArchiblockTwoModBlocks.SHIMMERING_PURPUR_STAIRS,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item WEEPING_VINE_COVERED_NETHER_BRICKS = register(ArchiblockTwoModBlocks.WEEPING_VINE_COVERED_NETHER_BRICKS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item SHIMMERING_PURPUR_SLAB = register(ArchiblockTwoModBlocks.SHIMMERING_PURPUR_SLAB,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item WEEPING_VINE_COVERED_CHISELLED_NETHER_BRICKS = register(
+			ArchiblockTwoModBlocks.WEEPING_VINE_COVERED_CHISELLED_NETHER_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item SHIMMERING_PURPUR_WALL = register(ArchiblockTwoModBlocks.SHIMMERING_PURPUR_WALL,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TWISTING_VINE_COVERED_NETHER_BRICK_PLATE = register(ArchiblockTwoModBlocks.TWISTING_VINE_COVERED_NETHER_BRICK_PLATE,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CUT_SHIMMERING_STAIRS = register(ArchiblockTwoModBlocks.CUT_SHIMMERING_STAIRS,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TWISTING_VINE_COVERED_NETHER_BRICKS = register(ArchiblockTwoModBlocks.TWISTING_VINE_COVERED_NETHER_BRICKS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CUT_SHIMMERING_SLAB = register(ArchiblockTwoModBlocks.CUT_SHIMMERING_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TWISTING_VINE_COVERED_BIG_NETHER_BRICKS = register(ArchiblockTwoModBlocks.TWISTING_VINE_COVERED_BIG_NETHER_BRICKS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item SHIMMERING_PURPUR_PILLAR = register(ArchiblockTwoModBlocks.SHIMMERING_PURPUR_PILLAR,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TWISTING_VINE_COVERED_NETHER_BRICK_TILES = register(ArchiblockTwoModBlocks.TWISTING_VINE_COVERED_NETHER_BRICK_TILES,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CARVED_SHIMMERING_PURPUR = register(ArchiblockTwoModBlocks.CARVED_SHIMMERING_PURPUR,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TWISTING_VINE_COVERED_NETHER_BRICK_PILLAR = register(ArchiblockTwoModBlocks.TWISTING_VINE_COVERED_NETHER_BRICK_PILLAR,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TWISTING_VINE_COVERED_CHISELLED_NETHER_BRICKS = register(
+			ArchiblockTwoModBlocks.TWISTING_VINE_COVERED_CHISELLED_NETHER_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item NETHER_BRICK_PLATE_STAIRS = register(ArchiblockTwoModBlocks.NETHER_BRICK_PLATE_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item NETHER_BRICK_PLATE_SLAB = register(ArchiblockTwoModBlocks.NETHER_BRICK_PLATE_SLAB,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item NETHER_BRICK_PLATE_WALL = register(ArchiblockTwoModBlocks.NETHER_BRICK_PLATE_WALL,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item BIG_NETHER_BRICK_STAIRS = register(ArchiblockTwoModBlocks.BIG_NETHER_BRICK_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item BIG_NETHER_BRICK_SLAB = register(ArchiblockTwoModBlocks.BIG_NETHER_BRICK_SLAB,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item BIG_NETHER_BRICK_WALL = register(ArchiblockTwoModBlocks.BIG_NETHER_BRICK_WALL,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item NETHER_BRICK_TILE_STAIRS = register(ArchiblockTwoModBlocks.NETHER_BRICK_TILE_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item NETHER_BRICK_TILE_SLAB = register(ArchiblockTwoModBlocks.NETHER_BRICK_TILE_SLAB,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item NETHER_BRICK_TILE_WALL = register(ArchiblockTwoModBlocks.NETHER_BRICK_TILE_WALL,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 
 	private static Item register(Item item) {

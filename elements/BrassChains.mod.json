@@ -26,9 +26,9 @@
         "mx": 6.0,
         "my": 0.0,
         "mz": 6.0,
-        "Mx": 10.0,
+        "Mx": 9.0,
         "My": 16.0,
-        "Mz": 10.0,
+        "Mz": 9.0,
         "subtract": false
       }
     ],
@@ -74,7 +74,7 @@
     "speedFactor": 1.0,
     "jumpFactor": 1.0,
     "reactionToPushing": "NORMAL",
-    "isNotColidable": true,
+    "isNotColidable": false,
     "isCustomSoundType": false,
     "soundOnStep": {
       "value": "CHAIN"

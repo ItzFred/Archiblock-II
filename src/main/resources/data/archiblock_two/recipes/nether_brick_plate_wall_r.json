@@ -1,0 +1,32 @@
+{
+  "group": "nether_brick_plate_wall",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:nether_brick_plate"
+    },
+    "1": {
+      "item": "archiblock_two:nether_brick_plate"
+    },
+    "2": {
+      "item": "archiblock_two:nether_brick_plate"
+    },
+    "3": {
+      "item": "archiblock_two:nether_brick_plate"
+    },
+    "4": {
+      "item": "archiblock_two:nether_brick_plate"
+    },
+    "5": {
+      "item": "archiblock_two:nether_brick_plate"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:deleted_mod_element",
+    "count": 6
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "group": "nether_brick_tile_wall",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:nether_brick_tiles"
+    },
+    "1": {
+      "item": "archiblock_two:nether_brick_tiles"
+    },
+    "2": {
+      "item": "archiblock_two:nether_brick_tiles"
+    },
+    "3": {
+      "item": "archiblock_two:nether_brick_tiles"
+    },
+    "4": {
+      "item": "archiblock_two:nether_brick_tiles"
+    },
+    "5": {
+      "item": "archiblock_two:nether_brick_tiles"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:deleted_mod_element",
+    "count": 6
+  }
+}

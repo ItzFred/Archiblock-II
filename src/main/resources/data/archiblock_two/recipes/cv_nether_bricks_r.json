@@ -1,0 +1,16 @@
+{
+  "group": "weeping_vine_covered_nether_bricks",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:nether_bricks"
+    },
+    {
+      "item": "minecraft:weeping_vines"
+    }
+  ],
+  "result": {
+    "item": "archiblock_two:deleted_mod_element",
+    "count": 1
+  }
+}

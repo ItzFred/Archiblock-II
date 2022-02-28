@@ -7,20 +7,20 @@
   ],
   "key": {
     "1": {
-      "item": "archiblock_two:cut_purpur"
+      "item": "archiblock_two:deleted_mod_element"
     },
     "3": {
-      "item": "archiblock_two:cut_purpur"
+      "item": "archiblock_two:deleted_mod_element"
     },
     "5": {
-      "item": "archiblock_two:cut_purpur"
+      "item": "archiblock_two:deleted_mod_element"
     },
     "7": {
-      "item": "archiblock_two:cut_purpur"
+      "item": "archiblock_two:deleted_mod_element"
     }
   },
   "result": {
-    "item": "archiblock_two:carved_purpur",
+    "item": "archiblock_two:deleted_mod_element",
     "count": 4
   }
 }

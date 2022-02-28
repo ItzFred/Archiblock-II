@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "archiblock_two:blocks/netherbrickpillartop",
+    "up": "archiblock_two:blocks/netherbrickpillartop",
+    "north": "archiblock_two:blocks/netherbrickpillar",
+    "east": "archiblock_two:blocks/netherbrickpillar",
+    "south": "archiblock_two:blocks/netherbrickpillar",
+    "west": "archiblock_two:blocks/netherbrickpillar",
+    "particle": "archiblock_two:blocks/netherbrickpillartop"
+  }
+}

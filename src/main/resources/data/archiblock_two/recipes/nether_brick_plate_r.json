@@ -1,0 +1,42 @@
+{
+  "group": "nether_brick_plate",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:nether_brick"
+    },
+    "1": {
+      "item": "minecraft:nether_brick"
+    },
+    "2": {
+      "item": "minecraft:nether_brick"
+    },
+    "3": {
+      "item": "minecraft:nether_brick"
+    },
+    "4": {
+      "item": "minecraft:nether_brick"
+    },
+    "5": {
+      "item": "minecraft:nether_brick"
+    },
+    "6": {
+      "item": "minecraft:nether_brick"
+    },
+    "7": {
+      "item": "minecraft:nether_brick"
+    },
+    "8": {
+      "item": "minecraft:nether_brick"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:nether_brick_plate",
+    "count": 1
+  }
+}

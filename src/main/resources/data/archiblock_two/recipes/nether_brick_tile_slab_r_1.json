@@ -1,0 +1,9 @@
+{
+  "group": "nether_brick_tile_slab",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "minecraft:nether_bricks"
+  },
+  "result": "archiblock_two:deleted_mod_element"
+}

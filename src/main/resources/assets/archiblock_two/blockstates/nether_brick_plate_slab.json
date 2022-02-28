@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "archiblock_two:block/nether_brick_plate_slab"
+    },
+    "type=top": {
+      "model": "archiblock_two:block/nether_brick_plate_slab_top"
+    },
+    "type=double": {
+      "model": "archiblock_two:block/nether_brick_plate_slab_full"
+    }
+  }
+}

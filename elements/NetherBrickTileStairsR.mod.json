@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "nether_brick_tile_stairs",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:NetherBrickTiles"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:NetherBrickTiles"
+      },
+      {
+        "value": "CUSTOM:NetherBrickTiles"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:NetherBrickTiles"
+      },
+      {
+        "value": "CUSTOM:NetherBrickTiles"
+      },
+      {
+        "value": "CUSTOM:NetherBrickTiles"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:NetherBrickTileStairs"
+    },
+    "name": "nether_brick_tile_stairs_r",
+    "namespace": "mod"
+  }
+}
