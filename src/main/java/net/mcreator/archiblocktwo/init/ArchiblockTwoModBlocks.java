@@ -98,6 +98,7 @@ import net.mcreator.archiblocktwo.block.TopazPillarsBlock;
 import net.mcreator.archiblocktwo.block.TopazGraniteOreBlock;
 import net.mcreator.archiblocktwo.block.TopazBricksBlock;
 import net.mcreator.archiblocktwo.block.TopazBlockBlock;
+import net.mcreator.archiblocktwo.block.TiledArchiumBlock;
 import net.mcreator.archiblocktwo.block.TiedbambooBlockBlock;
 import net.mcreator.archiblocktwo.block.SugiliteTilesBlock;
 import net.mcreator.archiblocktwo.block.SugilitePillarBlock;
@@ -417,6 +418,9 @@ import net.mcreator.archiblocktwo.block.BambooPlankFenceBlock;
 import net.mcreator.archiblocktwo.block.BambooLadderBlock;
 import net.mcreator.archiblocktwo.block.BambooDreamcatcherBlock;
 import net.mcreator.archiblocktwo.block.BambooBasketBlock;
+import net.mcreator.archiblocktwo.block.ArchiumVeinsBlock;
+import net.mcreator.archiblocktwo.block.ArchiumTendrilsBlock;
+import net.mcreator.archiblocktwo.block.ArchiumBlock;
 import net.mcreator.archiblocktwo.block.AndesiteTilesBlock;
 import net.mcreator.archiblocktwo.block.AndesiteSmallBricksBlock;
 import net.mcreator.archiblocktwo.block.AndesitePillarBlock;
@@ -860,6 +864,10 @@ public class ArchiblockTwoModBlocks {
 	public static final Block NETHER_BRICK_TILE_STAIRS = register(new NetherBrickTileStairsBlock());
 	public static final Block NETHER_BRICK_TILE_SLAB = register(new NetherBrickTileSlabBlock());
 	public static final Block NETHER_BRICK_TILE_WALL = register(new NetherBrickTileWallBlock());
+	public static final Block ARCHIUM = register(new ArchiumBlock());
+	public static final Block TILED_ARCHIUM = register(new TiledArchiumBlock());
+	public static final Block ARCHIUM_VEINS = register(new ArchiumVeinsBlock());
+	public static final Block ARCHIUM_TENDRILS = register(new ArchiumTendrilsBlock());
 
 	private static Block register(Block block) {
 		REGISTRY.add(block);
@@ -967,6 +975,8 @@ public class ArchiblockTwoModBlocks {
 			BrassBarsBlock.registerRenderLayer();
 			BrassBarsTopBlock.registerRenderLayer();
 			BrassBarsBottomBlock.registerRenderLayer();
+			ArchiumVeinsBlock.registerRenderLayer();
+			ArchiumTendrilsBlock.registerRenderLayer();
 		}
 
 		@SubscribeEvent

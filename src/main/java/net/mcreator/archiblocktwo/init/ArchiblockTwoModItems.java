@@ -596,6 +596,10 @@ public class ArchiblockTwoModItems {
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item NETHER_BRICK_TILE_WALL = register(ArchiblockTwoModBlocks.NETHER_BRICK_TILE_WALL,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ARCHIUM = register(ArchiblockTwoModBlocks.ARCHIUM, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item TILED_ARCHIUM = register(ArchiblockTwoModBlocks.TILED_ARCHIUM, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ARCHIUM_VEINS = register(ArchiblockTwoModBlocks.ARCHIUM_VEINS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ARCHIUM_TENDRILS = register(ArchiblockTwoModBlocks.ARCHIUM_TENDRILS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

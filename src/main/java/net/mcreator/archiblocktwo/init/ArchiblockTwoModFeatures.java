@@ -42,7 +42,9 @@ import net.mcreator.archiblocktwo.world.features.ores.SapphireDioriteOreFeature;
 import net.mcreator.archiblocktwo.world.features.ores.RubyOreFeature;
 import net.mcreator.archiblocktwo.world.features.ores.RoseQuartzOreFeature;
 import net.mcreator.archiblocktwo.world.features.ores.RawTwilightBlockFeature;
+import net.mcreator.archiblocktwo.world.features.ores.ArchiumFeature;
 import net.mcreator.archiblocktwo.world.features.ChunkAnalyzerFeature;
+import net.mcreator.archiblocktwo.world.features.ArchiumSpikeFeature;
 
 import java.util.Set;
 import java.util.Map;
@@ -106,6 +108,10 @@ public class ArchiblockTwoModFeatures {
 				OliveRoseBushFeature.GENERATE_BIOMES, OliveRoseBushFeature.CONFIGURED_FEATURE));
 		REGISTRY.put(ChunkAnalyzerFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_STRUCTURES,
 				ChunkAnalyzerFeature.GENERATE_BIOMES, ChunkAnalyzerFeature.CONFIGURED_FEATURE));
+		REGISTRY.put(ArchiumFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES, ArchiumFeature.GENERATE_BIOMES,
+				ArchiumFeature.CONFIGURED_FEATURE));
+		REGISTRY.put(ArchiumSpikeFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_STRUCTURES,
+				ArchiumSpikeFeature.GENERATE_BIOMES, ArchiumSpikeFeature.CONFIGURED_FEATURE));
 	}
 
 	@SubscribeEvent

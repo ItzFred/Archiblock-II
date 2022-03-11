@@ -2,36 +2,25 @@
   "_fv": 24,
   "_type": "structure",
   "definition": {
-    "structure": "actual-air-thxgeo",
+    "structure": "archiumspike",
     "randomlyRotateStructure": true,
     "surfaceDetectionType": "First motion blocking block",
     "spawnProbability": 1000000,
-    "minCountPerChunk": 2,
-    "maxCountPerChunk": 4,
+    "minCountPerChunk": 8,
+    "maxCountPerChunk": 10,
     "spawnLocation": "Underground",
-    "spawnHeightOffset": 0,
+    "spawnHeightOffset": -2,
     "spawnXOffset": 0,
     "spawnZOffset": 0,
     "spawnWorldTypes": [
-      "Surface",
-      "End",
       "Nether"
     ],
     "restrictionBlocks": [
       {
-        "value": "Blocks.VOID_AIR"
-      },
-      {
-        "value": "Blocks.CAVE_AIR"
-      },
-      {
-        "value": "Blocks.AIR"
+        "value": "CUSTOM:Archium"
       }
     ],
     "restrictionBiomes": [],
-    "ignoreBlocks": "STRUCTURE_BLOCK",
-    "onStructureGenerated": {
-      "name": "AnalyzeChunk"
-    }
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
   }
 }

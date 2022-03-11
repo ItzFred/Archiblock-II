@@ -17,6 +17,12 @@
         "0": "bigcrackdecal1"
       },
       "name": "bigcracks"
+    },
+    "archiumveins": {
+      "map": {
+        "0": "archiumveins"
+      },
+      "name": "archiumveins"
     }
   }
 }
