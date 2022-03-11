@@ -168,6 +168,19 @@
     "archiblock_two:brass_block_stairs",
     "archiblock_two:dented_brass_block_stairs",
     "archiblock_two:half_dented_brass_block_stairs",
-    "archiblock_two:brass_tiles_stairs"
+    "archiblock_two:brass_tiles_stairs",
+    "archiblock_two:cut_purpur",
+    "archiblock_two:carved_purpur",
+    "archiblock_two:shimmering_purpur",
+    "archiblock_two:cut_purpur_stairs",
+    "archiblock_two:cut_purpur_slab",
+    "archiblock_two:cut_shimmering_purpur",
+    "archiblock_two:shimmering_purpur_stairs",
+    "archiblock_two:shimmering_purpur_slab",
+    "archiblock_two:shimmering_purpur_wall",
+    "archiblock_two:cut_shimmering_stairs",
+    "archiblock_two:cut_shimmering_slab",
+    "archiblock_two:shimmering_purpur_pillar",
+    "archiblock_two:carved_shimmering_purpur"
   ]
 }

@@ -3,14 +3,14 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "archiblock_two:big_nether_bricks"
+      "item": "archiblock_two:deleted_mod_element"
     },
     {
       "item": "minecraft:twisting_vines"
     }
   ],
   "result": {
-    "item": "archiblock_two:twisting_vine_covered_big_nether_bricks",
+    "item": "archiblock_two:deleted_mod_element",
     "count": 1
   }
 }

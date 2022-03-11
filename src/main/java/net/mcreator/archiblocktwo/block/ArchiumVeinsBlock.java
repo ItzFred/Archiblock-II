@@ -1,48 +1,23 @@
 
 package net.mcreator.archiblocktwo.block;
 
-import net.minecraftforge.api.distmarker.OnlyIn;
-import net.minecraftforge.api.distmarker.Dist;
-
-import net.minecraft.world.phys.shapes.VoxelShape;
-import net.minecraft.world.phys.shapes.CollisionContext;
-import net.minecraft.world.phys.Vec3;
-import net.minecraft.world.level.material.MaterialColor;
 import net.minecraft.world.level.material.Material;
-import net.minecraft.world.level.material.Fluids;
-import net.minecraft.world.level.material.FluidState;
-import net.minecraft.world.level.block.state.properties.DirectionProperty;
-import net.minecraft.world.level.block.state.properties.BooleanProperty;
-import net.minecraft.world.level.block.state.properties.BlockStateProperties;
-import net.minecraft.world.level.block.state.StateDefinition;
-import net.minecraft.world.level.block.state.BlockState;
-import net.minecraft.world.level.block.state.BlockBehaviour;
-import net.minecraft.world.level.block.SoundType;
-import net.minecraft.world.level.block.SimpleWaterloggedBlock;
-import net.minecraft.world.level.block.Rotation;
-import net.minecraft.world.level.block.Mirror;
-import net.minecraft.world.level.block.DirectionalBlock;
-import net.minecraft.world.level.block.Block;
-import net.minecraft.world.level.LevelAccessor;
-import net.minecraft.world.level.BlockGetter;
-import net.minecraft.world.item.context.BlockPlaceContext;
-import net.minecraft.core.Direction;
-import net.minecraft.core.BlockPos;
-import net.minecraft.client.renderer.RenderType;
-import net.minecraft.client.renderer.ItemBlockRenderTypes;
-
-import net.mcreator.archiblocktwo.init.ArchiblockTwoModBlocks;
+import net.minecraft.sounds.SoundEvent;
+import net.minecraft.world.level.block.state.BlockBehaviour.Properties;
 
 public class ArchiumVeinsBlock extends Block implements SimpleWaterloggedBlock
 
 {
+
 	public static final DirectionProperty FACING = DirectionalBlock.FACING;
 	public static final BooleanProperty WATERLOGGED = BlockStateProperties.WATERLOGGED;
 
 	public ArchiumVeinsBlock() {
 		super(BlockBehaviour.Properties.of(Material.METAL).sound(SoundType.METAL).strength(2f, 10f).noCollission().noOcclusion()
 				.isRedstoneConductor((bs, br, bp) -> false).noDrops());
+
 		this.registerDefaultState(this.stateDefinition.any().setValue(FACING, Direction.NORTH).setValue(WATERLOGGED, false));
+
 		setRegistryName("archium_veins");
 	}
 
@@ -62,17 +37,29 @@ public class ArchiumVeinsBlock extends Block implements SimpleWaterloggedBlock
 		switch ((Direction) state.getValue(FACING)) {
 			case SOUTH :
 			default :
-				return box(0, 0, 0, 16, 16, 1).move(offset.x, offset.y, offset.z);
+				return box(0, 0, 0, 16, 16, 1)
+
+						.move(offset.x, offset.y, offset.z);
 			case NORTH :
-				return box(0, 0, 15, 16, 16, 16).move(offset.x, offset.y, offset.z);
+				return box(0, 0, 15, 16, 16, 16)
+
+						.move(offset.x, offset.y, offset.z);
 			case EAST :
-				return box(0, 0, 0, 1, 16, 16).move(offset.x, offset.y, offset.z);
+				return box(0, 0, 0, 1, 16, 16)
+
+						.move(offset.x, offset.y, offset.z);
 			case WEST :
-				return box(15, 0, 0, 16, 16, 16).move(offset.x, offset.y, offset.z);
+				return box(15, 0, 0, 16, 16, 16)
+
+						.move(offset.x, offset.y, offset.z);
 			case UP :
-				return box(0, 0, 0, 16, 1, 16).move(offset.x, offset.y, offset.z);
+				return box(0, 0, 0, 16, 1, 16)
+
+						.move(offset.x, offset.y, offset.z);
 			case DOWN :
-				return box(0, 15, 0, 16, 16, 16).move(offset.x, offset.y, offset.z);
+				return box(0, 15, 0, 16, 16, 16)
+
+						.move(offset.x, offset.y, offset.z);
 		}
 	}
 

@@ -1,0 +1,27 @@
+{
+  "group": "cut_purpur",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "3 5",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:purpur_block"
+    },
+    "3": {
+      "item": "minecraft:purpur_block"
+    },
+    "5": {
+      "item": "minecraft:purpur_block"
+    },
+    "7": {
+      "item": "minecraft:purpur_block"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:deleted_mod_element",
+    "count": 4
+  }
+}

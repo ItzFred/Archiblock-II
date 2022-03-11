@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "cut_purpur_stairs",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CutPurpur"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CutPurpur"
+      },
+      {
+        "value": "CUSTOM:CutPurpur"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CutPurpur"
+      },
+      {
+        "value": "CUSTOM:CutPurpur"
+      },
+      {
+        "value": "CUSTOM:CutPurpur"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CutPurpurStairs"
+    },
+    "name": "cut_purpur_stairs_r",
+    "namespace": "mod"
+  }
+}
