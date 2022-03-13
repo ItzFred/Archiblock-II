@@ -1,0 +1,399 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 135,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "A",
+          "onClick": {
+            "name": "TurnLetterA"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "A",
+          "x": 132,
+          "y": 80
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "B",
+          "onClick": {
+            "name": "TurnLetterB"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "B",
+          "x": 150,
+          "y": 80
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "C",
+          "onClick": {
+            "name": "TurnLetterC"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "C",
+          "x": 168,
+          "y": 80
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "D",
+          "onClick": {
+            "name": "TurnLetterD"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "D",
+          "x": 186,
+          "y": 80
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "E",
+          "onClick": {
+            "name": "TurnLetterE"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "E",
+          "x": 204,
+          "y": 80
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "F",
+          "onClick": {
+            "name": "TurnLetterF"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "F",
+          "x": 222,
+          "y": 80
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "G",
+          "onClick": {
+            "name": "TurnLetterG"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "G",
+          "x": 240,
+          "y": 80
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "H",
+          "onClick": {
+            "name": "TurnLetterH"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "H",
+          "x": 258,
+          "y": 80
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "I",
+          "onClick": {
+            "name": "TurnLetterI"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "I",
+          "x": 276,
+          "y": 80
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Select Upper Case Letter",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Select Upper Case Letter",
+          "x": 132,
+          "y": 62
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "J",
+          "onClick": {
+            "name": "TurnLetterJ"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "J",
+          "x": 132,
+          "y": 98
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "K",
+          "onClick": {
+            "name": "TurnLetterK"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "K",
+          "x": 150,
+          "y": 98
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "L",
+          "onClick": {
+            "name": "TurnLetterL"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "L",
+          "x": 168,
+          "y": 98
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "M",
+          "onClick": {
+            "name": "TurnLetterM"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "M",
+          "x": 186,
+          "y": 98
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "N",
+          "onClick": {
+            "name": "TurnLetterN"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "N",
+          "x": 204,
+          "y": 98
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "O",
+          "onClick": {
+            "name": "TurnLetterO"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "O",
+          "x": 222,
+          "y": 98
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "P",
+          "onClick": {
+            "name": "TurnLetterP"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "P",
+          "x": 240,
+          "y": 98
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Q",
+          "onClick": {
+            "name": "TurnLetterQ"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "Q",
+          "x": 258,
+          "y": 98
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "R",
+          "onClick": {
+            "name": "TurnLetterR"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "R",
+          "x": 276,
+          "y": 98
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "S",
+          "onClick": {
+            "name": "TurnLetterS"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "S",
+          "x": 141,
+          "y": 116
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "T",
+          "onClick": {
+            "name": "TurnLetterT"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "T",
+          "x": 159,
+          "y": 116
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "U",
+          "onClick": {
+            "name": "TurnLetterU"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "U",
+          "x": 177,
+          "y": 116
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "V",
+          "onClick": {
+            "name": "TurnLetterV"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "V",
+          "x": 195,
+          "y": 116
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "W",
+          "onClick": {
+            "name": "TurnLetterW"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "W",
+          "x": 213,
+          "y": 116
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "X",
+          "onClick": {
+            "name": "TurnLetterX"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "X",
+          "x": 231,
+          "y": 116
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Y",
+          "onClick": {
+            "name": "TurnLetterY"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "Y",
+          "x": 249,
+          "y": 116
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Z",
+          "onClick": {
+            "name": "TurnLetterZ"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "Z",
+          "x": 267,
+          "y": 116
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

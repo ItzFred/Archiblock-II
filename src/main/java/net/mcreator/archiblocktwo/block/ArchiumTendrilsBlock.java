@@ -25,7 +25,9 @@ import net.minecraft.world.level.LevelReader;
 import net.minecraft.world.level.LevelAccessor;
 import net.minecraft.world.level.BlockGetter;
 import net.minecraft.world.item.context.BlockPlaceContext;
+import net.minecraft.world.item.TieredItem;
 import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.entity.player.Player;
 import net.minecraft.core.Direction;
 import net.minecraft.core.BlockPos;
 import net.minecraft.client.renderer.RenderType;
@@ -43,8 +45,8 @@ public class ArchiumTendrilsBlock extends Block implements SimpleWaterloggedBloc
 	public static final BooleanProperty WATERLOGGED = BlockStateProperties.WATERLOGGED;
 
 	public ArchiumTendrilsBlock() {
-		super(BlockBehaviour.Properties.of(Material.METAL).sound(SoundType.METAL).strength(2f, 10f).noCollission().noOcclusion()
-				.isRedstoneConductor((bs, br, bp) -> false).dynamicShape());
+		super(BlockBehaviour.Properties.of(Material.METAL).sound(SoundType.METAL).strength(2f, 10f).requiresCorrectToolForDrops().noCollission()
+				.noOcclusion().isRedstoneConductor((bs, br, bp) -> false).dynamicShape());
 		this.registerDefaultState(this.stateDefinition.any().setValue(WATERLOGGED, false));
 		setRegistryName("archium_tendrils");
 	}
@@ -111,6 +113,13 @@ public class ArchiumTendrilsBlock extends Block implements SimpleWaterloggedBloc
 	@Override
 	public Block.OffsetType getOffsetType() {
 		return Block.OffsetType.XZ;
+	}
+
+	@Override
+	public boolean canHarvestBlock(BlockState state, BlockGetter world, BlockPos pos, Player player) {
+		if (player.getInventory().getSelected().getItem()instanceof TieredItem tieredItem)
+			return tieredItem.getTier().getLevel() >= 1;
+		return false;
 	}
 
 	@Override

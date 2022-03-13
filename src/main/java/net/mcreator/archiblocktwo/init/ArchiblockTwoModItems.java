@@ -24,6 +24,7 @@ import net.mcreator.archiblocktwo.item.RubyItem;
 import net.mcreator.archiblocktwo.item.RoseQuartzItem;
 import net.mcreator.archiblocktwo.item.MutandisItem;
 import net.mcreator.archiblocktwo.item.LushTwilightShardItem;
+import net.mcreator.archiblocktwo.item.CrushedObsidianItem;
 import net.mcreator.archiblocktwo.item.BrassIngotItem;
 
 import java.util.List;
@@ -600,6 +601,34 @@ public class ArchiblockTwoModItems {
 	public static final Item TILED_ARCHIUM = register(ArchiblockTwoModBlocks.TILED_ARCHIUM, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item ARCHIUM_VEINS = register(ArchiblockTwoModBlocks.ARCHIUM_VEINS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item ARCHIUM_TENDRILS = register(ArchiblockTwoModBlocks.ARCHIUM_TENDRILS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item EMPTIED_ARCHIUM = register(ArchiblockTwoModBlocks.EMPTIED_ARCHIUM, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CRUSHED_OBSIDIAN = register(new CrushedObsidianItem());
+	public static final Item A_BLOCK = register(ArchiblockTwoModBlocks.A_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item B_BLOCK = register(ArchiblockTwoModBlocks.B_BLOCK, null);
+	public static final Item C_BLOCK = register(ArchiblockTwoModBlocks.C_BLOCK, null);
+	public static final Item D_BLOCK = register(ArchiblockTwoModBlocks.D_BLOCK, null);
+	public static final Item E_BLOCK = register(ArchiblockTwoModBlocks.E_BLOCK, null);
+	public static final Item F_BLOCK = register(ArchiblockTwoModBlocks.F_BLOCK, null);
+	public static final Item G_BLOCK = register(ArchiblockTwoModBlocks.G_BLOCK, null);
+	public static final Item H_BLOCK = register(ArchiblockTwoModBlocks.H_BLOCK, null);
+	public static final Item I_BLOCK = register(ArchiblockTwoModBlocks.I_BLOCK, null);
+	public static final Item J_BLOCK = register(ArchiblockTwoModBlocks.J_BLOCK, null);
+	public static final Item K_BLOCK = register(ArchiblockTwoModBlocks.K_BLOCK, null);
+	public static final Item L_BLOCK = register(ArchiblockTwoModBlocks.L_BLOCK, null);
+	public static final Item M_BLOCK = register(ArchiblockTwoModBlocks.M_BLOCK, null);
+	public static final Item N_BLOCK = register(ArchiblockTwoModBlocks.N_BLOCK, null);
+	public static final Item O_BLOCK = register(ArchiblockTwoModBlocks.O_BLOCK, null);
+	public static final Item P_BLOCK = register(ArchiblockTwoModBlocks.P_BLOCK, null);
+	public static final Item Q_BLOCK = register(ArchiblockTwoModBlocks.Q_BLOCK, null);
+	public static final Item R_BLOCK = register(ArchiblockTwoModBlocks.R_BLOCK, null);
+	public static final Item S_BLOCK = register(ArchiblockTwoModBlocks.S_BLOCK, null);
+	public static final Item T_BLOCK = register(ArchiblockTwoModBlocks.T_BLOCK, null);
+	public static final Item U_BLOCK = register(ArchiblockTwoModBlocks.U_BLOCK, null);
+	public static final Item V_BLOCK = register(ArchiblockTwoModBlocks.V_BLOCK, null);
+	public static final Item W_BLOCK = register(ArchiblockTwoModBlocks.W_BLOCK, null);
+	public static final Item X_BLOCK = register(ArchiblockTwoModBlocks.X_BLOCK, null);
+	public static final Item Y_BLOCK = register(ArchiblockTwoModBlocks.Y_BLOCK, null);
+	public static final Item Z_BLOCK = register(ArchiblockTwoModBlocks.Z_BLOCK, null);
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

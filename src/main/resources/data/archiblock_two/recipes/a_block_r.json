@@ -1,0 +1,42 @@
+{
+  "group": "a_block",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:pitchdark_block"
+    },
+    "1": {
+      "item": "archiblock_two:pitchdark_block"
+    },
+    "2": {
+      "item": "archiblock_two:pitchdark_block"
+    },
+    "3": {
+      "item": "archiblock_two:pitchdark_block"
+    },
+    "4": {
+      "tag": "items:signs"
+    },
+    "5": {
+      "item": "archiblock_two:pitchdark_block"
+    },
+    "6": {
+      "item": "archiblock_two:pitchdark_block"
+    },
+    "7": {
+      "item": "archiblock_two:pitchdark_block"
+    },
+    "8": {
+      "item": "archiblock_two:pitchdark_block"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:a_block",
+    "count": 8
+  }
+}

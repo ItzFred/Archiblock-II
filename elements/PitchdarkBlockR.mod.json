@@ -5,7 +5,7 @@
     "recipeType": "Crafting",
     "xpReward": 0.0,
     "cookingTime": 200,
-    "recipeRetstackSize": 8,
+    "recipeRetstackSize": 1,
     "group": "pitchdark_block",
     "recipeShapeless": false,
     "recipeSlots": [
@@ -22,7 +22,7 @@
         "value": ""
       },
       {
-        "value": "Blocks.OBSIDIAN"
+        "value": "CUSTOM:CrushedObsidian"
       },
       {
         "value": ""

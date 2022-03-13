@@ -41,7 +41,7 @@
     "creativeTab": {
       "value": "CUSTOM:ArchiblockIITab"
     },
-    "destroyTool": "Not specified",
+    "destroyTool": "pickaxe",
     "customDrop": {
       "value": ""
     },

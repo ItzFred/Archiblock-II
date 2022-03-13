@@ -41,9 +41,9 @@
     "creativeTab": {
       "value": "CUSTOM:ArchiblockIITab"
     },
-    "destroyTool": "Not specified",
+    "destroyTool": "pickaxe",
     "customDrop": {
-      "value": "Blocks.AIR"
+      "value": ""
     },
     "dropAmount": 0,
     "useLootTableForDrops": false,

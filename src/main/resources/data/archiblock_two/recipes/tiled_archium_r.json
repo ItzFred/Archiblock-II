@@ -1,0 +1,26 @@
+{
+  "group": "tiled_archium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:archium"
+    },
+    "1": {
+      "item": "archiblock_two:archium"
+    },
+    "2": {
+      "item": "archiblock_two:archium"
+    },
+    "3": {
+      "item": "archiblock_two:archium"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:tiled_archium",
+    "count": 4
+  }
+}

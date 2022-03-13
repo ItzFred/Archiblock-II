@@ -168,6 +168,11 @@
     "archiblock_two:brass_block_stairs",
     "archiblock_two:dented_brass_block_stairs",
     "archiblock_two:half_dented_brass_block_stairs",
-    "archiblock_two:brass_tiles_stairs"
+    "archiblock_two:brass_tiles_stairs",
+    "archiblock_two:archium",
+    "archiblock_two:tiled_archium",
+    "archiblock_two:archium_veins",
+    "archiblock_two:archium_tendrils",
+    "archiblock_two:emptied_archium"
   ]
 }
