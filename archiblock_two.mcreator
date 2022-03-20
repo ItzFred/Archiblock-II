@@ -10333,6 +10333,1529 @@
         ]
       },
       "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "PeriodBlock",
+      "type": "block",
+      "sortid": 1074,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "period_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "ExclamationMarkBlock",
+      "type": "block",
+      "sortid": 1075,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exclamation_mark_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "QuestionMarkBlock",
+      "type": "block",
+      "sortid": 1076,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "question_mark_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "LineBlock",
+      "type": "block",
+      "sortid": 1077,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "line_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "ApostropheBlock",
+      "type": "block",
+      "sortid": 1078,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apostrophe_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "SwitchToUCLetterSelectGUI",
+      "type": "procedure",
+      "sortid": 1079,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "switch_to_uc_letter_select_gui",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "SwitchTOSymbolSelectGUI",
+      "type": "procedure",
+      "sortid": 1081,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "switch_to_symbol_select_gui",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnSymbolPeriod",
+      "type": "procedure",
+      "sortid": 1082,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_symbol_period",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnSymbolLine",
+      "type": "procedure",
+      "sortid": 1083,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_symbol_line",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnSymbolExclamationMark",
+      "type": "procedure",
+      "sortid": 1084,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_symbol_exclamation_mark",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnSymbolQuestionMark",
+      "type": "procedure",
+      "sortid": 1085,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_symbol_question_mark",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnSymbolApostrophe",
+      "type": "procedure",
+      "sortid": 1086,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_symbol_apostrophe",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "SelectSymbolBlockGUI",
+      "type": "gui",
+      "sortid": 1087,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "select_symbol_block_gui",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "SquareBlock",
+      "type": "block",
+      "sortid": 1088,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "square_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "CircleBlock",
+      "type": "block",
+      "sortid": 1089,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "circle_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "TriangleBlock",
+      "type": "block",
+      "sortid": 1090,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "triangle_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "DiamondSymbolBlock",
+      "type": "block",
+      "sortid": 1091,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_symbol_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "StarBlock",
+      "type": "block",
+      "sortid": 1092,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "star_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "DotBlock",
+      "type": "block",
+      "sortid": 1094,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dot_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "TurnSymbolSquare",
+      "type": "procedure",
+      "sortid": 1095,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_symbol_square",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnSymbolDot",
+      "type": "procedure",
+      "sortid": 1096,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_symbol_dot",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnSymbolCirlce",
+      "type": "procedure",
+      "sortid": 1097,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_symbol_cirlce",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnSymbolTriangle",
+      "type": "procedure",
+      "sortid": 1098,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_symbol_triangle",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnSymbolStar",
+      "type": "procedure",
+      "sortid": 1099,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_symbol_star",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnSymbolDiamond",
+      "type": "procedure",
+      "sortid": 1100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_symbol_diamond",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "LCaBlock",
+      "type": "block",
+      "sortid": 1101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_ca_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "LCbBlock",
+      "type": "block",
+      "sortid": 1102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_cb_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "LCcBlock",
+      "type": "block",
+      "sortid": 1103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_cc_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "LCdBlock",
+      "type": "block",
+      "sortid": 1104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_cd_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "LCeBlock",
+      "type": "block",
+      "sortid": 1105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_ce_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "LCfBlock",
+      "type": "block",
+      "sortid": 1106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_cf_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "LCgBlock",
+      "type": "block",
+      "sortid": 1107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_cg_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "LChBlock",
+      "type": "block",
+      "sortid": 1108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_ch_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "LCiBlock",
+      "type": "block",
+      "sortid": 1109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_ci_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "LCjBlock",
+      "type": "block",
+      "sortid": 1110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_cj_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "LCkBlock",
+      "type": "block",
+      "sortid": 1111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_ck_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "LClBlock",
+      "type": "block",
+      "sortid": 1112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_cl_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "LCmBlock",
+      "type": "block",
+      "sortid": 1113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_cm_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "LCnBlock",
+      "type": "block",
+      "sortid": 1114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_cn_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "LCoBlock",
+      "type": "block",
+      "sortid": 1115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_co_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "LCpBlock",
+      "type": "block",
+      "sortid": 1116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_cp_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "LCqBlock",
+      "type": "block",
+      "sortid": 1117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_cq_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "LCrBlock",
+      "type": "block",
+      "sortid": 1118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_cr_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "LCsBlock",
+      "type": "block",
+      "sortid": 1119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_cs_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "LCtBlock",
+      "type": "block",
+      "sortid": 1120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_ct_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "LCuBlock",
+      "type": "block",
+      "sortid": 1121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_cu_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "LCvBlock",
+      "type": "block",
+      "sortid": 1122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_cv_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "LCwBlock",
+      "type": "block",
+      "sortid": 1123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_cw_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "LCxBlock",
+      "type": "block",
+      "sortid": 1124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_cx_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "LCyBlock",
+      "type": "block",
+      "sortid": 1125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_cy_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "LCzBlock",
+      "type": "block",
+      "sortid": 1126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_cz_block",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter"
+    },
+    {
+      "name": "TurnLCLetterA",
+      "type": "procedure",
+      "sortid": 1127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_lc_letter_a",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnLCLetterB",
+      "type": "procedure",
+      "sortid": 1128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_lc_letter_b",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnLCLetterC",
+      "type": "procedure",
+      "sortid": 1129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_lc_letter_c",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnLCLetterD",
+      "type": "procedure",
+      "sortid": 1130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_lc_letter_d",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnLCLetterE",
+      "type": "procedure",
+      "sortid": 1131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_lc_letter_e",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnLCLetterF",
+      "type": "procedure",
+      "sortid": 1132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_lc_letter_f",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnLCLetterG",
+      "type": "procedure",
+      "sortid": 1133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_lc_letter_g",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnLCLetterH",
+      "type": "procedure",
+      "sortid": 1134,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_lc_letter_h",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnLCLetterI",
+      "type": "procedure",
+      "sortid": 1135,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_lc_letter_i",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnLCLetterJ",
+      "type": "procedure",
+      "sortid": 1136,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_lc_letter_j",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnLCLetterK",
+      "type": "procedure",
+      "sortid": 1137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_lc_letter_k",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnLCLetterL",
+      "type": "procedure",
+      "sortid": 1138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_lc_letter_l",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnLCLetterM",
+      "type": "procedure",
+      "sortid": 1139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_lc_letter_m",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnLCLetterN",
+      "type": "procedure",
+      "sortid": 1140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_lc_letter_n",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnLCLetterO",
+      "type": "procedure",
+      "sortid": 1141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_lc_letter_o",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnLCLetterP",
+      "type": "procedure",
+      "sortid": 1142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_lc_letter_p",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnLCLetterQ",
+      "type": "procedure",
+      "sortid": 1143,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_lc_letter_q",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnLCLetterR",
+      "type": "procedure",
+      "sortid": 1144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_lc_letter_r",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnLCLetterS",
+      "type": "procedure",
+      "sortid": 1145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_lc_letter_s",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnLCLetterT",
+      "type": "procedure",
+      "sortid": 1146,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_lc_letter_t",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnLCLetterU",
+      "type": "procedure",
+      "sortid": 1147,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_lc_letter_u",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnLCLetterV",
+      "type": "procedure",
+      "sortid": 1148,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_lc_letter_v",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnLCLetterW",
+      "type": "procedure",
+      "sortid": 1149,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_lc_letter_w",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnLCLetterX",
+      "type": "procedure",
+      "sortid": 1150,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_lc_letter_x",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnLCLetterY",
+      "type": "procedure",
+      "sortid": 1151,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_lc_letter_y",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "TurnLCLetterZ",
+      "type": "procedure",
+      "sortid": 1152,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turn_lc_letter_z",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "SelectUnderCaseLetterBlockGUI",
+      "type": "gui",
+      "sortid": 1153,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "select_under_case_letter_block_gui",
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "SwitchToLCLetterGUI",
+      "type": "procedure",
+      "sortid": 1154,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "switch_to_lc_letter_gui",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
     }
   ],
   "variable_elements": [],
@@ -10350,10 +11873,13 @@
     "en_us": {
       "block.archiblock_two.smooth_rose_quartz_stairs": "Smooth Rose Quartz Stairs",
       "block.archiblock_two.woven_warped_basket": "Woven Warped Block",
+      "block.archiblock_two.apostrophe_block": "\u0027 Block",
       "block.archiblock_two.cut_obsidian": "Cut Obsidian",
       "block.archiblock_two.clay_shingles_slab": "Clay Shingles Slab",
+      "block.archiblock_two.l_ci_block": "i Block",
       "block.archiblock_two.woven_mystic_maple_stairs": "Woven Mystic Maple Stairs",
       "block.archiblock_two.x_block": "X Block",
+      "block.archiblock_two.l_cz_block": "z Block",
       "item.archiblock_two.rose_quartz": "Rose Quartz",
       "block.archiblock_two.twilight_bricks": "Twilight Bricks",
       "block.archiblock_two.andesite_brick_slab": "Andesite Brick Slab",
@@ -10389,11 +11915,15 @@
       "block.archiblock_two.brass_door": "Brass Door",
       "item.archiblock_two.twilightwave_shard": "Twilightwave Shard",
       "block.archiblock_two.birch_basket_moss": "Moss Filled Woven Birch Basket",
+      "block.archiblock_two.question_mark_block": "? Block",
+      "block.archiblock_two.l_cn_block": "n Block",
       "block.archiblock_two.cut_brass_slab": "Cut Brass Slab",
+      "block.archiblock_two.l_cu_block": "u Block",
       "block.archiblock_two.red_spool": "Red Spool",
       "block.archiblock_two.crimson_basket_moss": "Moss Filled Woven Crimson Basket",
       "block.archiblock_two.buttermilk_rose": "Buttermilk Rose",
       "block.archiblock_two.sapphire_ore": "Sapphire Ore",
+      "block.archiblock_two.triangle_block": "Triangle Block",
       "block.archiblock_two.light_blue_spool": "Light Blue Spool",
       "block.archiblock_two.red_big_clay_bricks": "Red Big Clay Bricks",
       "block.archiblock_two.sugilite_bricks": "Sugilite Bricks",
@@ -10409,6 +11939,7 @@
       "block.archiblock_two.sapphire_pillar": "Sapphire Pillar",
       "block.archiblock_two.bamboo_basket": "Bamboo Basket",
       "block.archiblock_two.woven_acacia_stairs": "Woven Acacia Stairs",
+      "block.archiblock_two.l_cp_block": "p Block",
       "block.archiblock_two.light_gray_neon_block": "Light Gray Neon Block",
       "block.archiblock_two.warped_basket_moss": "Moss Filled Woven Warped Basket",
       "block.archiblock_two.slanted_shingles_side": "Slanted Clay Shingles Side",
@@ -10420,6 +11951,8 @@
       "item.archiblock_two.lush_twilight_shard": "Lush Twilight Shard",
       "block.archiblock_two.snowy_cobblestone": "Snowy Cobblestone",
       "block.archiblock_two.blue_clay_brick_small_tiles": "Blue Clay Brick Small Tiles",
+      "block.archiblock_two.dot_block": "Bot Block",
+      "block.archiblock_two.l_cs_block": "s Block",
       "block.archiblock_two.blue_clay_shingles": "Blue Block of Clay Shingles",
       "block.archiblock_two.twilight_pillar": "Twilight Pillar",
       "block.archiblock_two.half_dented_brass_tiles": "Half Dented Brass Tiles",
@@ -10440,11 +11973,13 @@
       "block.archiblock_two.red_clay_brick_pavement": "Red Clay Brick Pavement",
       "block.archiblock_two.stripped_mystic_maple_log": "Stripped Mystic Maple Log",
       "block.archiblock_two.i_block": "I Block",
+      "block.archiblock_two.l_cb_block": "b Block",
       "block.archiblock_two.orange_spool": "Orange Spool",
       "block.archiblock_two.dried_bamboo_plank_slab": "Dried Bamboo Plank Slab",
       "block.archiblock_two.woven_birch_basket": "Woven Birch Basket",
       "block.archiblock_two.twilight_block": "Twilight Block",
       "block.archiblock_two.lush_twilight_block": "Lush Twilight Block",
+      "block.archiblock_two.l_cd_block": "d Block",
       "block.archiblock_two.topaz_granite_ore": "Topaz Granite Ore",
       "block.archiblock_two.chiselled_granite": "Chiselled Granite",
       "block.archiblock_two.granite_tiles": "Granite Tiles",
@@ -10466,7 +12001,9 @@
       "block.archiblock_two.g_block": "G Block",
       "block.archiblock_two.half_dented_brass_t_ile_slab": "Half Dented Brass Tile Slab",
       "block.archiblock_two.sapphire_diorite_ore": "Sapphire Diorite Ore",
+      "block.archiblock_two.diamond_symbol_block": "Diamond Symbol Block",
       "block.archiblock_two.j_block": "J Block",
+      "block.archiblock_two.l_cw_block": "w Block",
       "block.archiblock_two.cyan_spool": "Cyan Spool",
       "block.archiblock_two.snowy_cut_stone_stairs": "Snowy Cut Stone Stairs",
       "block.archiblock_two.woven_acacia_basket": "Woven Acacia Basket",
@@ -10484,20 +12021,20 @@
       "block.archiblock_two.sugilite_tiles": "Sugilite Tiles",
       "block.archiblock_two.dried_bamboo_planks": "Dried Bamboo Planks",
       "block.archiblock_two.snowy_cobblestone_slab": "Snowy Cobblestone Slab",
-      "item.archiblock_two.sapphire": "Sapphire",
-      "block.archiblock_two.obsidian_pillar": "Obsidian Pillar",
       "block.archiblock_two.magenta_spool": "Magenta Spool",
+      "block.archiblock_two.obsidian_pillar": "Obsidian Pillar",
+      "item.archiblock_two.sapphire": "Sapphire",
       "block.archiblock_two.raw_lush_twilight_block": "Raw Lush Twilight Block",
       "block.archiblock_two.diorite_tile_slab": "Diorite Tile Slab",
       "block.archiblock_two.brown_neon_block": "Brown Neon Block",
       "block.archiblock_two.mossy_stone_tiles": "Mossy Stone Tiles",
       "block.archiblock_two.woven_basket": "Woven Basket",
-      "block.archiblock_two.pink_rose": "Pink Rose",
       "block.archiblock_two.side_snowy_stone_pillar": "Snowy Stone Pillar",
+      "block.archiblock_two.pink_rose": "Pink Rose",
       "block.archiblock_two.rose_quartz_block": "Block of Rose Quartz",
       "block.archiblock_two.twilightwave_bricks": "Twilightwave Bricks",
-      "block.archiblock_two.red_slanted_clay_shingles": "Red Slanted Clay Shingles",
       "block.archiblock_two.olive_rose_shrub": "Chartreuse Rose Shrub",
+      "block.archiblock_two.red_slanted_clay_shingles": "Red Slanted Clay Shingles",
       "block.archiblock_two.dried_bamboo_basket": "Dried Bamboo Basket",
       "block.archiblock_two.nether_brick_tile_wall": "Nether Brick Tile Wall",
       "block.archiblock_two.dark_oak_basket_dirt": "Dirt Filled Woven Dark Oak Basket",
@@ -10505,9 +12042,11 @@
       "block.archiblock_two.birch_basket_sand": "Sand Filled Woven Birch Basket",
       "block.archiblock_two.blue_clay_shingle_slab": "Blue Clay Shingles Slab",
       "block.archiblock_two.mystic_maple_button": "Mystic Maple Button",
+      "block.archiblock_two.exclamation_mark_block": "! Block",
       "block.archiblock_two.woven_fiber_slab": "Woven Fiber Slab",
       "item.archiblock_two.sugilite": "Sugilite",
       "block.archiblock_two.weeping_vine_covered_nether_bricks": "Weeping Vine Covered Nether Bricks",
+      "block.archiblock_two.l_ca_block": "a Block",
       "block.archiblock_two.brass_bars": "Brass Bars",
       "block.archiblock_two.andesite_bricks": "Andesite Bricks",
       "block.archiblock_two.obsidian_brick_wall": "Obsidian Brick Wall",
@@ -10544,15 +12083,18 @@
       "block.archiblock_two.bamboo_plank_stairs": "Bamboo Planks Stairs",
       "block.archiblock_two.orange_neon_block": "Orange Neon Block",
       "block.archiblock_two.stone_tiles": "Stone Tiles",
+      "block.archiblock_two.l_cv_block": "v Block",
       "block.archiblock_two.blush_rose": "Blush Rose",
       "block.archiblock_two.twilightwave_tiles": "Twilightwave Tiles",
       "block.archiblock_two.warped_basket_podzol": "Podzol Filled Woven Warped Basket",
       "block.archiblock_two.rose_quartz_bricks_2": "Carved Rose Quartz Bricks",
+      "block.archiblock_two.l_cy_block": "y Block",
       "block.archiblock_two.l_block": "L Block",
       "block.archiblock_two.twilightwave_block": "Twilightwave Block",
       "block.archiblock_two.yellow_spool": "Yellow Spool",
       "block.archiblock_two.brass_trapdoor": "Brass Trapdoor",
       "block.archiblock_two.snowy_cut_stone_slab": "Snowy Cut Stone Slab",
+      "block.archiblock_two.star_block": "Star Block",
       "block.archiblock_two.woven_basket_podzol": "Podzol Filled Woven Basket",
       "block.archiblock_two.o_block": "O Block",
       "block.archiblock_two.clay_brick_pavement": "Clay Brick Pavement",
@@ -10566,6 +12108,7 @@
       "block.archiblock_two.twilightwave_brick_slab": "Twilightwave Brick Slab",
       "block.archiblock_two.red_neon_block": "Red Neon Block",
       "block.archiblock_two.snowy_chiselled_stone_bricks": "Snowy Chiselled Stone Bricks",
+      "block.archiblock_two.l_cx_block": "x Block",
       "block.archiblock_two.scarlet_rose": "Scarlet Rose",
       "block.archiblock_two.rose_brick_wall_2": "Carved Rose Quartz Brick Wall",
       "block.archiblock_two.sugilite_block": "Sugilite Block",
@@ -10597,6 +12140,7 @@
       "block.archiblock_two.dark_oak_basket_podzol": "Podzol Filled Woven Dark Oak Basket",
       "block.archiblock_two.diorite_brick_slab": "Diorite Brick Slab",
       "block.archiblock_two.snowy_stone_tiles": "Snowy Stone Tiles",
+      "block.archiblock_two.l_cc_block": "c Block",
       "block.archiblock_two.mystic_maple_fence_gate": "Mystic Maple Fence Gate",
       "block.archiblock_two.smoky_slab_2": "Carved Smoky Quartz Brick Slab",
       "block.archiblock_two.archium_tendrils": "Archium Tendrils",
@@ -10612,15 +12156,18 @@
       "block.archiblock_two.woven_mystic_maple_slab": "Woven Mystic Maple Slab",
       "block.archiblock_two.bamboo_ladder": "Bamboo Ladder",
       "block.archiblock_two.olive_rose_bush": "Chartreuse Rose Bush",
+      "block.archiblock_two.l_co_block": "o Block",
       "block.archiblock_two.nether_brick_tiles": "Nether Brick Tiles",
       "block.archiblock_two.snowy_stone_slab": "Snowy Stone Slab",
       "block.archiblock_two.red_clay_brick_tiles": "Red Clay Brick Tiles",
+      "block.archiblock_two.period_block": ". Block",
       "block.archiblock_two.twilightwave_pillar": "Twilightwave Pillar",
       "block.archiblock_two.mystic_maple_wood": "Mystic Maple Wood",
       "block.archiblock_two.snowy_stone_pillar": "Snowy Stone Pillar",
       "block.archiblock_two.brass_pipe": "Brass Pillar",
       "block.archiblock_two.brass_tiles_stairs": "Brass Tile Stairs",
       "block.archiblock_two.birch_basket_dirt": "Dirt Filled Woven Birch Basket",
+      "block.archiblock_two.l_ch_block": "h Block",
       "block.archiblock_two.woven_fiber_block": "Woven Fiber Block",
       "block.archiblock_two.nether_brick_plate": "Nether Brick Plate",
       "block.archiblock_two.woven_basket_grass": "Moss Filled Woven Basket",
@@ -10631,6 +12178,7 @@
       "block.archiblock_two.woven_dark_oak_basket": "Woven Dark Oak Basket",
       "block.archiblock_two.cut_granite": "Cut Granite",
       "block.archiblock_two.cracked_nether_brick_tiles": "Cracked Nether Brick Tiles",
+      "block.archiblock_two.circle_block": "Circle Block",
       "block.archiblock_two.sapphire_block": "Sapphire Block",
       "block.archiblock_two.andesite_brick_wall": "Andesite Brick Wall",
       "block.archiblock_two.chiselled_smoky_quartz": "Chiselled Smoky Quartz Block",
@@ -10642,6 +12190,7 @@
       "block.archiblock_two.clay_brick_block": "Clay Brick Block",
       "block.archiblock_two.olive_rose": "Chartreuse Rose",
       "block.archiblock_two.smoky_quartz_stairs": "Smoky Quartz Stairs",
+      "block.archiblock_two.l_ct_block": "t Block",
       "block.archiblock_two.woven_mystic_maple_basket": "Woven Mystic Maple Basket",
       "block.archiblock_two.weeping_vine_covered_nether_brick_tiles": "Weeping Vine Covered Nether Brick Tiles",
       "block.archiblock_two.mystic_basket_mycelium": "Mycelium Filled Mystic Maple Basket",
@@ -10666,6 +12215,7 @@
       "block.archiblock_two.lime_spool": "Lime Spool",
       "block.archiblock_two.andesite_block_slab": "Andesite Block Slab",
       "block.archiblock_two.smoky_quartz_block": "Block of Smoky Quartz",
+      "block.archiblock_two.l_ce_block": "e Block",
       "block.archiblock_two.mossy_stone_pillar": "Mossy Stone Pillar",
       "block.archiblock_two.blush_rose_bush": "Blush Rose Bush",
       "block.archiblock_two.rose_quartz_brick_stairs": "Rose Quartz Brick Stairs",
@@ -10683,6 +12233,7 @@
       "block.archiblock_two.lush_twilight_tiles": "Lush Twilight Tiles",
       "block.archiblock_two.granite_bricks": "Granite Bricks",
       "block.archiblock_two.snowy_stone_bricks": "Snowy Stone Bricks",
+      "block.archiblock_two.l_cr_block": "r Block",
       "block.archiblock_two.smoky_quartz_wall": "Smoky Quartz Wall",
       "block.archiblock_two.cut_stone_wall": "Cut Stone Wall",
       "block.archiblock_two.brass_bars_bottom": "Brass Bars",
@@ -10698,6 +12249,7 @@
       "block.archiblock_two.rose_quartz_bricks": "Rose Quartz Bricks",
       "block.archiblock_two.white_neon_block": "White Neon Block",
       "block.archiblock_two.chiselled_obsidian_wall": "Chiselled Obsidian Wall",
+      "block.archiblock_two.l_cq_block": "q Block",
       "block.archiblock_two.rose_quartz_ore": "Rose Quartz Ore",
       "block.archiblock_two.mystic_basket_moss": "Moss Filled Mystic Maple Basket",
       "block.archiblock_two.mystic_maple_planks": "Mystic Maple Planks",
@@ -10721,9 +12273,13 @@
       "block.archiblock_two.big_nether_brick_wall": "Big Nether Brick Wall",
       "block.archiblock_two.raw_twilight_block": "Raw Twilight Block",
       "block.archiblock_two.nether_brick_plate_stairs": "Nether Brick Plate Stairs",
+      "block.archiblock_two.square_block": "Square Block",
+      "block.archiblock_two.l_cf_block": "f Block",
       "block.archiblock_two.smoky_quartz_pillar": "Smoky Quartz Pillar",
       "block.archiblock_two.gray_spool": "Gray Spool",
+      "block.archiblock_two.l_cl_block": "l Block",
       "block.archiblock_two.crimson_basket_podzol": "Podzol Filled Woven Crimson Basket",
+      "block.archiblock_two.line_block": "- Block",
       "block.archiblock_two.mystic_basket_podzol": "Podzol Filled Mystic Maple Basket",
       "block.archiblock_two.pink_neon_block": "Pink Neon Block",
       "block.archiblock_two.twilightwave_pillar_top": "Twilightwave Pillar Top",
@@ -10755,6 +12311,7 @@
       "block.archiblock_two.cyan_neon_block": "Cyan Neon Block",
       "block.archiblock_two.woven_jungle_block": "Woven Jungle Block",
       "block.archiblock_two.mystic_maple_door": "Mystic Maple Door",
+      "block.archiblock_two.l_cg_block": "g Block",
       "block.archiblock_two.woven_spruce_block": "Woven Spruce Block",
       "block.archiblock_two.obsidian_bricks": "Obsidian Bricks",
       "block.archiblock_two.topaz_tiles": "Topaz Tiles",
@@ -10768,6 +12325,7 @@
       "block.archiblock_two.warped_basket_sand": "Sand Filled Woven Warped Basket",
       "block.archiblock_two.blue_clay_brick_tiles": "Blue Clay Brick Tiles",
       "block.archiblock_two.emptied_archium": "Emptied Archium",
+      "block.archiblock_two.l_cm_block": "m Block",
       "block.archiblock_two.cracked_big_nether_bricks": "Cracked Big Nether Bricks",
       "block.archiblock_two.ruby_bricks": "Ruby Bricks",
       "itemGroup.tabarchiblock_ii_tab": "Archiblock II - Building",
@@ -10805,7 +12363,9 @@
       "block.archiblock_two.andesite_block_stairs": "Andesite Block Stairs",
       "block.archiblock_two.acacia_basket_moss": "Moss Filled Woven Acacia Basket",
       "block.archiblock_two.z_block": "Z Block",
+      "block.archiblock_two.l_ck_block": "k Block",
       "block.archiblock_two.woven_spruce_stairs": "Woven Spruce Stairs",
+      "block.archiblock_two.l_cj_block": "j Block",
       "block.archiblock_two.spruce_basket_sand": "Sand Filled Woven Spruce Basket",
       "block.archiblock_two.bamboo_plank_fence": "Bamboo Plank Fence",
       "block.archiblock_two.granite_cut_pillar": "Granite Cut Pillar",

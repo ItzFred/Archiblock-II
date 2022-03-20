@@ -1,0 +1,454 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 135,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Select Lower Case Letter",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Select Lower Case Letter",
+          "x": 132,
+          "y": 62
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "___________________________",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "___________________________",
+          "x": 132,
+          "y": 143
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "A",
+          "onClick": {
+            "name": "SwitchToUCLetterSelectGUI"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "A",
+          "x": 132,
+          "y": 161
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "!",
+          "onClick": {
+            "name": "SwitchTOSymbolSelectGUI"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "!",
+          "x": 168,
+          "y": 161
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "a",
+          "onClick": {
+            "name": "SwitchToLCLetterGUI"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "a",
+          "x": 150,
+          "y": 161
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "a",
+          "onClick": {
+            "name": "TurnLCLetterA"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "a",
+          "x": 132,
+          "y": 80
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "b",
+          "onClick": {
+            "name": "TurnLCLetterB"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "b",
+          "x": 150,
+          "y": 80
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "c",
+          "onClick": {
+            "name": "TurnLCLetterC"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "c",
+          "x": 168,
+          "y": 80
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "d",
+          "onClick": {
+            "name": "TurnLCLetterD"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "d",
+          "x": 186,
+          "y": 80
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "e",
+          "onClick": {
+            "name": "TurnLCLetterE"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "e",
+          "x": 204,
+          "y": 80
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "f",
+          "onClick": {
+            "name": "TurnLCLetterF"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "f",
+          "x": 222,
+          "y": 80
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "g",
+          "onClick": {
+            "name": "TurnLCLetterG"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "g",
+          "x": 240,
+          "y": 80
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "h",
+          "onClick": {
+            "name": "TurnLCLetterH"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "h",
+          "x": 258,
+          "y": 80
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "i",
+          "onClick": {
+            "name": "TurnLCLetterI"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "i",
+          "x": 276,
+          "y": 80
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "j",
+          "onClick": {
+            "name": "TurnLCLetterJ"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "j",
+          "x": 132,
+          "y": 98
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "k",
+          "onClick": {
+            "name": "TurnLCLetterK"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "k",
+          "x": 150,
+          "y": 98
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "l",
+          "onClick": {
+            "name": "TurnLCLetterL"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "l",
+          "x": 168,
+          "y": 98
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "m",
+          "onClick": {
+            "name": "TurnLCLetterM"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "m",
+          "x": 186,
+          "y": 98
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "n",
+          "onClick": {
+            "name": "TurnLCLetterN"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "n",
+          "x": 204,
+          "y": 98
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "o",
+          "onClick": {
+            "name": "TurnLCLetterO"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "o",
+          "x": 222,
+          "y": 98
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "p",
+          "onClick": {
+            "name": "TurnLCLetterP"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "p",
+          "x": 240,
+          "y": 98
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "q",
+          "onClick": {
+            "name": "TurnLCLetterQ"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "q",
+          "x": 258,
+          "y": 98
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "r",
+          "onClick": {
+            "name": "TurnLCLetterR"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "r",
+          "x": 276,
+          "y": 98
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "s",
+          "onClick": {
+            "name": "TurnLCLetterS"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "s",
+          "x": 141,
+          "y": 116
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "t",
+          "onClick": {
+            "name": "TurnLCLetterT"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "t",
+          "x": 159,
+          "y": 116
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "u",
+          "onClick": {
+            "name": "TurnLCLetterU"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "u",
+          "x": 177,
+          "y": 116
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "v",
+          "onClick": {
+            "name": "TurnLCLetterV"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "v",
+          "x": 195,
+          "y": 116
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "w",
+          "onClick": {
+            "name": "TurnLCLetterW"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "w",
+          "x": 213,
+          "y": 116
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "x",
+          "onClick": {
+            "name": "TurnLCLetterX"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "x",
+          "x": 231,
+          "y": 116
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "y",
+          "onClick": {
+            "name": "TurnLCLetterY"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "y",
+          "x": 249,
+          "y": 116
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "z",
+          "onClick": {
+            "name": "TurnLCLetterZ"
+          },
+          "width": 18,
+          "height": 20,
+          "name": "z",
+          "x": 267,
+          "y": 116
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

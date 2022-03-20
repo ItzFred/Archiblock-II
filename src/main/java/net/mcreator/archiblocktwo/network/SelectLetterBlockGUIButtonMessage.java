@@ -38,6 +38,9 @@ import net.mcreator.archiblocktwo.procedures.TurnLetterDProcedure;
 import net.mcreator.archiblocktwo.procedures.TurnLetterCProcedure;
 import net.mcreator.archiblocktwo.procedures.TurnLetterBProcedure;
 import net.mcreator.archiblocktwo.procedures.TurnLetterAProcedure;
+import net.mcreator.archiblocktwo.procedures.SwitchToUCLetterSelectGUIProcedure;
+import net.mcreator.archiblocktwo.procedures.SwitchToLCLetterGUIProcedure;
+import net.mcreator.archiblocktwo.procedures.SwitchTOSymbolSelectGUIProcedure;
 import net.mcreator.archiblocktwo.ArchiblockTwoMod;
 
 import java.util.function.Supplier;
@@ -190,6 +193,18 @@ public class SelectLetterBlockGUIButtonMessage {
 		if (buttonID == 25) {
 
 			TurnLetterZProcedure.execute(world, x, y, z);
+		}
+		if (buttonID == 26) {
+
+			SwitchToUCLetterSelectGUIProcedure.execute(world, x, y, z, entity);
+		}
+		if (buttonID == 27) {
+
+			SwitchTOSymbolSelectGUIProcedure.execute(world, x, y, z, entity);
+		}
+		if (buttonID == 28) {
+
+			SwitchToLCLetterGUIProcedure.execute(world, x, y, z, entity);
 		}
 	}
 

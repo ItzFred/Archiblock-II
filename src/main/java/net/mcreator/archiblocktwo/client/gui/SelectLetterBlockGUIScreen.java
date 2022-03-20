@@ -70,6 +70,7 @@ public class SelectLetterBlockGUIScreen extends AbstractContainerScreen<SelectLe
 	@Override
 	protected void renderLabels(PoseStack poseStack, int mouseX, int mouseY) {
 		this.font.draw(poseStack, "Select Upper Case Letter", 6, 9, -16777216);
+		this.font.draw(poseStack, "___________________________", 6, 90, -12829636);
 	}
 
 	@Override
@@ -236,6 +237,24 @@ public class SelectLetterBlockGUIScreen extends AbstractContainerScreen<SelectLe
 			if (true) {
 				ArchiblockTwoMod.PACKET_HANDLER.sendToServer(new SelectLetterBlockGUIButtonMessage(25, x, y, z));
 				SelectLetterBlockGUIButtonMessage.handleButtonAction(entity, 25, x, y, z);
+			}
+		}));
+		this.addRenderableWidget(new Button(this.leftPos + 6, this.topPos + 108, 18, 20, new TextComponent("A"), e -> {
+			if (true) {
+				ArchiblockTwoMod.PACKET_HANDLER.sendToServer(new SelectLetterBlockGUIButtonMessage(26, x, y, z));
+				SelectLetterBlockGUIButtonMessage.handleButtonAction(entity, 26, x, y, z);
+			}
+		}));
+		this.addRenderableWidget(new Button(this.leftPos + 42, this.topPos + 108, 18, 20, new TextComponent("!"), e -> {
+			if (true) {
+				ArchiblockTwoMod.PACKET_HANDLER.sendToServer(new SelectLetterBlockGUIButtonMessage(27, x, y, z));
+				SelectLetterBlockGUIButtonMessage.handleButtonAction(entity, 27, x, y, z);
+			}
+		}));
+		this.addRenderableWidget(new Button(this.leftPos + 24, this.topPos + 108, 18, 20, new TextComponent("a"), e -> {
+			if (true) {
+				ArchiblockTwoMod.PACKET_HANDLER.sendToServer(new SelectLetterBlockGUIButtonMessage(28, x, y, z));
+				SelectLetterBlockGUIButtonMessage.handleButtonAction(entity, 28, x, y, z);
 			}
 		}));
 	}
