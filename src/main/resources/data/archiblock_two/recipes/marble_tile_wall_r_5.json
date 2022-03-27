@@ -1,0 +1,9 @@
+{
+  "group": "marble_tile_wall",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "archiblock_two:polished_marble_bricks"
+  },
+  "result": "archiblock_two:marble_tile_wall"
+}

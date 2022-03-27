@@ -1,0 +1,9 @@
+{
+  "group": "chiselled_marble",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "archiblock_two:polished_marble_bricks"
+  },
+  "result": "archiblock_two:chiselled_marble"
+}

@@ -1,0 +1,26 @@
+{
+  "group": "small_marble_bricks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:marble_tiles"
+    },
+    "1": {
+      "item": "archiblock_two:marble_tiles"
+    },
+    "2": {
+      "item": "archiblock_two:marble_tiles"
+    },
+    "3": {
+      "item": "archiblock_two:marble_tiles"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:marble_small_bricks",
+    "count": 4
+  }
+}

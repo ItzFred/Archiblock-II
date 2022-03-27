@@ -1,0 +1,9 @@
+{
+  "group": "polished_marble_brick_stairs",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "archiblock_two:polished_marble"
+  },
+  "result": "archiblock_two:polished_marble_brick_stairs"
+}

@@ -1,0 +1,20 @@
+{
+  "group": "chiselled_marble",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:marble_brick_slab"
+    },
+    "1": {
+      "item": "archiblock_two:marble_brick_slab"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:chiselled_marble",
+    "count": 1
+  }
+}

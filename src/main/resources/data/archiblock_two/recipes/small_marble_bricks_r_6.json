@@ -1,0 +1,9 @@
+{
+  "group": "small_marble_bricks",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "archiblock_two:marble_tiles"
+  },
+  "result": "archiblock_two:marble_small_bricks"
+}

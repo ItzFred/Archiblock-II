@@ -1,0 +1,19 @@
+{
+  "group": "fret_patterned_marble",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:cut_marble"
+    },
+    "1": {
+      "item": "archiblock_two:cut_marble"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:fret_patterned_marble",
+    "count": 2
+  }
+}

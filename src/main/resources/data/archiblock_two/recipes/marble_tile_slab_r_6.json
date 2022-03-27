@@ -1,0 +1,9 @@
+{
+  "group": "marble_tile_slab",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "archiblock_two:marble_tiles"
+  },
+  "result": "archiblock_two:marble_tile_slab"
+}

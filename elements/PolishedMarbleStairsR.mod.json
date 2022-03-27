@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "polished_marble_stairs",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PolishedMarble"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PolishedMarble"
+      },
+      {
+        "value": "CUSTOM:PolishedMarble"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PolishedMarble"
+      },
+      {
+        "value": "CUSTOM:PolishedMarble"
+      },
+      {
+        "value": "CUSTOM:PolishedMarble"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PolishedMarbleStairs"
+    },
+    "name": "polished_marble_stairs_r",
+    "namespace": "mod"
+  }
+}

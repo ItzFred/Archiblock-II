@@ -1,0 +1,9 @@
+{
+  "group": "fret_patterned_marble",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "archiblock_two:polished_marble"
+  },
+  "result": "archiblock_two:fret_patterned_marble"
+}

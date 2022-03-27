@@ -1,0 +1,22 @@
+{
+  "group": "polished_marble_slab",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:polished_marble"
+    },
+    "1": {
+      "item": "archiblock_two:polished_marble"
+    },
+    "2": {
+      "item": "archiblock_two:polished_marble"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:polished_marble_slab",
+    "count": 6
+  }
+}

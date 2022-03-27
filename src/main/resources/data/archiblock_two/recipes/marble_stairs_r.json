@@ -1,0 +1,33 @@
+{
+  "group": "marble_stairs",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:marble"
+    },
+    "3": {
+      "item": "archiblock_two:marble"
+    },
+    "4": {
+      "item": "archiblock_two:marble"
+    },
+    "6": {
+      "item": "archiblock_two:marble"
+    },
+    "7": {
+      "item": "archiblock_two:marble"
+    },
+    "8": {
+      "item": "archiblock_two:marble"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:marble_stairs",
+    "count": 3
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "marble_tiles",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:polished_marble_bricks"
+    },
+    "1": {
+      "item": "archiblock_two:polished_marble_bricks"
+    },
+    "2": {
+      "item": "archiblock_two:polished_marble_bricks"
+    },
+    "3": {
+      "item": "archiblock_two:polished_marble_bricks"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:marble_tiles",
+    "count": 4
+  }
+}
