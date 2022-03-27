@@ -97,6 +97,21 @@
       },
       {
         "value": "CUSTOM:DriedBambooPlankStairs"
+      },
+      {
+        "value": "CUSTOM:MarbleStairs"
+      },
+      {
+        "value": "CUSTOM:PolishedMarbleStairs"
+      },
+      {
+        "value": "CUSTOM:MarbleBrickStairs"
+      },
+      {
+        "value": "CUSTOM:PolishedMarbleBrickStairs"
+      },
+      {
+        "value": "CUSTOM:MarbleTileStairs"
       }
     ],
     "functions": [],

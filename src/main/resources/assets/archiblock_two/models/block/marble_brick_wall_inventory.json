@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "archiblock_two:blocks/marblebricks",
+    "particle": "archiblock_two:blocks/marblebricks"
+  }
+}

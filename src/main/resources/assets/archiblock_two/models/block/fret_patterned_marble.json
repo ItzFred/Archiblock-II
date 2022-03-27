@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "archiblock_two:blocks/fretpatternedmarbletoprotated",
+    "up": "archiblock_two:blocks/fretpatternedmarbletoprotated",
+    "north": "archiblock_two:blocks/fretpatternedmarble",
+    "east": "archiblock_two:blocks/fretpatternedmarble",
+    "south": "archiblock_two:blocks/fretpatternedmarble",
+    "west": "archiblock_two:blocks/fretpatternedmarble",
+    "particle": "archiblock_two:blocks/fretpatternedmarbletoprotated"
+  }
+}

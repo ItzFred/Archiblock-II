@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "archiblock_two:blocks/smoothmarble",
+    "top": "archiblock_two:blocks/smoothmarble",
+    "side": "archiblock_two:blocks/polishedmarbleslab"
+  }
+}

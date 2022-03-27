@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "archiblock_two:andesite_block_stairs",
+    "archiblock_two:polished_marble_stairs",
     "archiblock_two:smooth_smoky_quartz_stairs",
     "archiblock_two:cut_stone_stairs",
     "archiblock_two:woven_birch_stairs",
@@ -19,11 +20,14 @@
     "archiblock_two:woven_crimson_stairs",
     "archiblock_two:smoky_stairs_2",
     "archiblock_two:mystic_maple_stairs",
+    "archiblock_two:marble_stairs",
     "archiblock_two:smoky_quartz_stairs",
+    "archiblock_two:marble_tile_stairs",
     "archiblock_two:diorite_tile_stairs",
     "archiblock_two:smoky_brick_stairs",
     "archiblock_two:obsidian_brick_stairs",
     "archiblock_two:woven_acacia_stairs",
+    "archiblock_two:polished_marble_brick_stairs",
     "archiblock_two:rose_brick_stairs_2",
     "archiblock_two:woven_jungle_stairs",
     "archiblock_two:woven_warped_stairs",
@@ -31,6 +35,7 @@
     "archiblock_two:granite_brick_stairs",
     "archiblock_two:andesite_brick_stairs",
     "archiblock_two:bamboo_plank_stairs",
+    "archiblock_two:marble_brick_stairs",
     "archiblock_two:woven_fiber_stairs"
   ]
 }

@@ -85,6 +85,18 @@
       },
       {
         "value": "Blocks.NETHER_BRICK_WALL"
+      },
+      {
+        "value": "CUSTOM:MarbleWall"
+      },
+      {
+        "value": "CUSTOM:MarbleBrickWall"
+      },
+      {
+        "value": "CUSTOM:PolishedMarbleBrickWall"
+      },
+      {
+        "value": "CUSTOM:MarbleTileWall"
       }
     ],
     "functions": [],

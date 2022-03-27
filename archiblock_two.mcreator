@@ -11856,6 +11856,222 @@
         ]
       },
       "path": "~/OtherBlocks/Pitchdark Block Family/Letter/ProcedureAndGUI"
+    },
+    {
+      "name": "Marble",
+      "type": "block",
+      "sortid": 1155,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "marble",
+      "path": "~/Stone Type Blocks/Marble"
+    },
+    {
+      "name": "CutMarble",
+      "type": "block",
+      "sortid": 1156,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_marble",
+      "path": "~/Stone Type Blocks/Marble"
+    },
+    {
+      "name": "PolishedMarble",
+      "type": "block",
+      "sortid": 1157,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_marble",
+      "path": "~/Stone Type Blocks/Marble"
+    },
+    {
+      "name": "MarbleBricks",
+      "type": "block",
+      "sortid": 1158,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "marble_bricks",
+      "path": "~/Stone Type Blocks/Marble"
+    },
+    {
+      "name": "PolishedMarbleBricks",
+      "type": "block",
+      "sortid": 1159,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_marble_bricks",
+      "path": "~/Stone Type Blocks/Marble"
+    },
+    {
+      "name": "MarbleSmallBricks",
+      "type": "block",
+      "sortid": 1160,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "marble_small_bricks",
+      "path": "~/Stone Type Blocks/Marble"
+    },
+    {
+      "name": "MarbleTiles",
+      "type": "block",
+      "sortid": 1161,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "marble_tiles",
+      "path": "~/Stone Type Blocks/Marble"
+    },
+    {
+      "name": "MarblePillar",
+      "type": "block",
+      "sortid": 1162,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "marble_pillar",
+      "path": "~/Stone Type Blocks/Marble"
+    },
+    {
+      "name": "FretPatternedMarble",
+      "type": "block",
+      "sortid": 1163,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fret_patterned_marble",
+      "path": "~/Stone Type Blocks/Marble"
+    },
+    {
+      "name": "MarbleStairs",
+      "type": "block",
+      "sortid": 1164,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "marble_stairs",
+      "path": "~/Stone Type Blocks/Marble"
+    },
+    {
+      "name": "ChiselledMarble",
+      "type": "block",
+      "sortid": 1165,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_marble",
+      "path": "~/Stone Type Blocks/Marble"
+    },
+    {
+      "name": "MarbleSlab",
+      "type": "block",
+      "sortid": 1166,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "marble_slab",
+      "path": "~/Stone Type Blocks/Marble"
+    },
+    {
+      "name": "MarbleWall",
+      "type": "block",
+      "sortid": 1167,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "marble_wall",
+      "path": "~/Stone Type Blocks/Marble"
+    },
+    {
+      "name": "PolishedMarbleStairs",
+      "type": "block",
+      "sortid": 1168,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_marble_stairs",
+      "path": "~/Stone Type Blocks/Marble"
+    },
+    {
+      "name": "PolishedMarbleSlab",
+      "type": "block",
+      "sortid": 1169,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_marble_slab",
+      "path": "~/Stone Type Blocks/Marble"
+    },
+    {
+      "name": "MarbleBrickStairs",
+      "type": "block",
+      "sortid": 1170,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "marble_brick_stairs",
+      "path": "~/Stone Type Blocks/Marble"
+    },
+    {
+      "name": "MarbleBrickSlab",
+      "type": "block",
+      "sortid": 1171,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "marble_brick_slab",
+      "path": "~/Stone Type Blocks/Marble"
+    },
+    {
+      "name": "MarbleBrickWall",
+      "type": "block",
+      "sortid": 1172,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "marble_brick_wall",
+      "path": "~/Stone Type Blocks/Marble"
+    },
+    {
+      "name": "PolishedMarbleBrickStairs",
+      "type": "block",
+      "sortid": 1173,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_marble_brick_stairs",
+      "path": "~/Stone Type Blocks/Marble"
+    },
+    {
+      "name": "PolishedMarbleBrickSlab",
+      "type": "block",
+      "sortid": 1174,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_marble_brick_slab",
+      "path": "~/Stone Type Blocks/Marble"
+    },
+    {
+      "name": "PolishedMarbleBrickWall",
+      "type": "block",
+      "sortid": 1175,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_marble_brick_wall",
+      "path": "~/Stone Type Blocks/Marble"
+    },
+    {
+      "name": "MarbleTileStairs",
+      "type": "block",
+      "sortid": 1176,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "marble_tile_stairs",
+      "path": "~/Stone Type Blocks/Marble"
+    },
+    {
+      "name": "MarbleTileSlab",
+      "type": "block",
+      "sortid": 1177,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "marble_tile_slab",
+      "path": "~/Stone Type Blocks/Marble"
+    },
+    {
+      "name": "MarbleTileWall",
+      "type": "block",
+      "sortid": 1178,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "marble_tile_wall",
+      "path": "~/Stone Type Blocks/Marble"
     }
   ],
   "variable_elements": [],
@@ -11885,6 +12101,7 @@
       "block.archiblock_two.andesite_brick_slab": "Andesite Brick Slab",
       "block.archiblock_two.spruce_basket_moss": "Moss Filled Woven Spruce Basket",
       "block.archiblock_two.ruby_tiles": "Ruby Tiles",
+      "block.archiblock_two.marble_tile_stairs": "Marble Tile Stairs",
       "block.archiblock_two.woven_acacia_slab": "Woven Acacia Slab",
       "block.archiblock_two.smooth_rose_quartz": "Smooth Rose Quartz Block",
       "block.archiblock_two.yellow_neon_block": "Yellow Neon Block",
@@ -11921,18 +12138,22 @@
       "block.archiblock_two.l_cu_block": "u Block",
       "block.archiblock_two.red_spool": "Red Spool",
       "block.archiblock_two.crimson_basket_moss": "Moss Filled Woven Crimson Basket",
+      "block.archiblock_two.chiselled_marble": "Chiselled Marble",
       "block.archiblock_two.buttermilk_rose": "Buttermilk Rose",
       "block.archiblock_two.sapphire_ore": "Sapphire Ore",
       "block.archiblock_two.triangle_block": "Triangle Block",
       "block.archiblock_two.light_blue_spool": "Light Blue Spool",
+      "block.archiblock_two.polished_marble": "Polished Marble",
+      "block.archiblock_two.polished_marble_brick_slab": "Polished Marble Brick Slab",
       "block.archiblock_two.red_big_clay_bricks": "Red Big Clay Bricks",
       "block.archiblock_two.sugilite_bricks": "Sugilite Bricks",
       "block.archiblock_two.clay_brick_tiles": "Clay Brick Tiles",
       "block.archiblock_two.snowy_stone_brick_stairs": "Snowy Stone Brick Stairs",
       "block.archiblock_two.chiselled_obsidian_slab": "Chiselled Obsidian Slab",
-      "block.archiblock_two.smoky_brick_slab": "Smoky Quartz Brick Slab",
       "block.archiblock_two.sapphire_tiles": "Sapphire Tiles",
+      "block.archiblock_two.smoky_brick_slab": "Smoky Quartz Brick Slab",
       "block.archiblock_two.half_dented_brass_block_stairs": "Half Dented Brass Tile Stairs",
+      "block.archiblock_two.polished_marble_stairs": "Polished Marble Stairs",
       "block.archiblock_two.smoky_quartz_slab": "Smoky Quartz Slab",
       "block.archiblock_two.woven_basket_sand": "Sand Filled Woven Basket",
       "block.archiblock_two.woven_fiber_stairs": "Woven Fiber Stairs",
@@ -11978,6 +12199,7 @@
       "block.archiblock_two.dried_bamboo_plank_slab": "Dried Bamboo Plank Slab",
       "block.archiblock_two.woven_birch_basket": "Woven Birch Basket",
       "block.archiblock_two.twilight_block": "Twilight Block",
+      "block.archiblock_two.marble_brick_wall": "Marble Brick Wall",
       "block.archiblock_two.lush_twilight_block": "Lush Twilight Block",
       "block.archiblock_two.l_cd_block": "d Block",
       "block.archiblock_two.topaz_granite_ore": "Topaz Granite Ore",
@@ -11990,8 +12212,8 @@
       "block.archiblock_two.cut_stone_stairs": "Cut Stone Stairs",
       "block.archiblock_two.mystic_basket_dirt": "Woven Mystic Maple Block",
       "block.archiblock_two.purple_spool": "Purple Spool",
-      "block.archiblock_two.woven_dark_oak_stairs": "Woven Dark Oak Stairs",
       "block.archiblock_two.u_block": "U Block",
+      "block.archiblock_two.woven_dark_oak_stairs": "Woven Dark Oak Stairs",
       "block.archiblock_two.smoky_brick_stairs": "Smoky Quartz Brick Stairs",
       "block.archiblock_two.crimson_basket_mycelium": "Mycelium Filled Woven Crimson Basket",
       "block.archiblock_two.snowy_small_stone_bricks": "Snowy Small Stone Bricks",
@@ -12046,8 +12268,10 @@
       "block.archiblock_two.woven_fiber_slab": "Woven Fiber Slab",
       "item.archiblock_two.sugilite": "Sugilite",
       "block.archiblock_two.weeping_vine_covered_nether_bricks": "Weeping Vine Covered Nether Bricks",
+      "block.archiblock_two.polished_marble_bricks": "Polished Marble Bricks",
       "block.archiblock_two.l_ca_block": "a Block",
       "block.archiblock_two.brass_bars": "Brass Bars",
+      "block.archiblock_two.marble_bricks": "Marble Bricks",
       "block.archiblock_two.andesite_bricks": "Andesite Bricks",
       "block.archiblock_two.obsidian_brick_wall": "Obsidian Brick Wall",
       "block.archiblock_two.woven_birch_block": "Woven Birch Block",
@@ -12072,11 +12296,13 @@
       "block.archiblock_two.diorite_brick_wall": "Diorite Brick Wall",
       "block.archiblock_two.weeping_vine_covered_chiselled_nether_bricks": "Weeping Vine Covered Chiselled Nether Bricks",
       "block.archiblock_two.glowing_eyes_round_blink": "Round Glowing Eyes",
+      "block.archiblock_two.marble_tiles": "Marble Tiles",
       "block.archiblock_two.block_of_brass": "Block Of Brass",
       "block.archiblock_two.dried_bamboo_plank_stairs": "Dried Bamboo Plank Stairs",
       "block.archiblock_two.spruce_basket_mycelium": "Mycelium Filled Woven Spruce Basket",
       "block.archiblock_two.glowing_eyes_dots": "Small Glowing Eyes",
       "block.archiblock_two.chiselled_lush_twilight_bricks": "Chiselled Lush Twilight Bricks",
+      "block.archiblock_two.marble_slab": "Marble Slab",
       "block.archiblock_two.dented_brass_tiles": "Dented Brass Tiles",
       "block.archiblock_two.rose_brick_slab_2": "Carved Rose Quartz Brick Slab",
       "block.archiblock_two.dried_bamboo_dreamcatcher": "Dried Bamboo Dreamcatcher",
@@ -12146,6 +12372,7 @@
       "block.archiblock_two.archium_tendrils": "Archium Tendrils",
       "block.archiblock_two.m_block": "M Block",
       "block.archiblock_two.rose": "Rose",
+      "block.archiblock_two.cut_marble": "Cut Marble",
       "block.archiblock_two.brass_tile_slab": "Brass Tile Slab",
       "block.archiblock_two.woven_jungle_slab": "Woven Jungle Slab",
       "block.archiblock_two.framed_string_mesh": "Framed String Mesh",
@@ -12177,8 +12404,10 @@
       "block.archiblock_two.crimson_basket_dirt": "Dirt Filled Woven Crimson Basket",
       "block.archiblock_two.woven_dark_oak_basket": "Woven Dark Oak Basket",
       "block.archiblock_two.cut_granite": "Cut Granite",
+      "block.archiblock_two.polished_marble_slab": "Polished Marble Slab",
       "block.archiblock_two.cracked_nether_brick_tiles": "Cracked Nether Brick Tiles",
       "block.archiblock_two.circle_block": "Circle Block",
+      "block.archiblock_two.marble_stairs": "Marble Stairs",
       "block.archiblock_two.sapphire_block": "Sapphire Block",
       "block.archiblock_two.andesite_brick_wall": "Andesite Brick Wall",
       "block.archiblock_two.chiselled_smoky_quartz": "Chiselled Smoky Quartz Block",
@@ -12199,6 +12428,7 @@
       "block.archiblock_two.raw_twilightwave_block": "Raw Twilightwave Block",
       "block.archiblock_two.ruby_ore": "Ruby Ore",
       "block.archiblock_two.lush_twilight_pillar": "Lush Twilight Pillar",
+      "block.archiblock_two.fret_patterned_marble": "Fret Patterned Marble",
       "block.archiblock_two.diorite_tiles": "Diorite Tiles",
       "block.archiblock_two.twisting_vine_covered_nether_brick_pillar": "Twisting Vine Covered Nether Brick Pillar",
       "block.archiblock_two.snowy_stone_brick_slab": "Snowy Stone Brick Slab",
@@ -12212,6 +12442,7 @@
       "block.archiblock_two.twilight_brick_stairs": "Twilight Brick Stairs",
       "block.archiblock_two.smooth_rose_quartz_slab": "Smooth Rose Quartz Slab",
       "block.archiblock_two.w_block": "W Block",
+      "block.archiblock_two.polished_marble_brick_wall": "Polished Marble Brick Wall",
       "block.archiblock_two.lime_spool": "Lime Spool",
       "block.archiblock_two.andesite_block_slab": "Andesite Block Slab",
       "block.archiblock_two.smoky_quartz_block": "Block of Smoky Quartz",
@@ -12228,11 +12459,13 @@
       "item.archiblock_two.brass_ingot": "Brass Ingot",
       "block.archiblock_two.woven_jungle_stairs": "Woven Jungle Stairs",
       "block.archiblock_two.cracked_stone_tiles": "Cracked Stone Tiles",
+      "block.archiblock_two.marble_brick_slab": "Marble Brick Wall",
       "block.archiblock_two.warped_basket_mycelium": "Mycelium Filled Woven Warped Basket",
       "block.archiblock_two.twilight_tiles": "Twilight Tiles",
       "block.archiblock_two.lush_twilight_tiles": "Lush Twilight Tiles",
       "block.archiblock_two.granite_bricks": "Granite Bricks",
       "block.archiblock_two.snowy_stone_bricks": "Snowy Stone Bricks",
+      "block.archiblock_two.marble_tile_wall": "Marble Tile Wall",
       "block.archiblock_two.l_cr_block": "r Block",
       "block.archiblock_two.smoky_quartz_wall": "Smoky Quartz Wall",
       "block.archiblock_two.cut_stone_wall": "Cut Stone Wall",
@@ -12281,6 +12514,7 @@
       "block.archiblock_two.crimson_basket_podzol": "Podzol Filled Woven Crimson Basket",
       "block.archiblock_two.line_block": "- Block",
       "block.archiblock_two.mystic_basket_podzol": "Podzol Filled Mystic Maple Basket",
+      "block.archiblock_two.marble_brick_stairs": "Marble Bricks Stairs",
       "block.archiblock_two.pink_neon_block": "Pink Neon Block",
       "block.archiblock_two.twilightwave_pillar_top": "Twilightwave Pillar Top",
       "block.archiblock_two.twisting_vine_covered_nether_brick_tiles": "Twisting Vine Covered Nether Brick Tiles",
@@ -12298,6 +12532,8 @@
       "block.archiblock_two.mossy_cracked_stone": "Mossy Cut Stone",
       "block.archiblock_two.crimson_basket_sand": "Sand Filled Woven Crimson Basket",
       "block.archiblock_two.e_block": "E Block",
+      "block.archiblock_two.marble_tile_slab": "Marble Tile Slab",
+      "block.archiblock_two.marble_pillar": "Marble Pillar",
       "block.archiblock_two.blue_spool": "Blue Spool",
       "block.archiblock_two.lime_neon_block": "Lime Neon Block",
       "block.archiblock_two.granite_brick_slab": "Granite Brick Slab",
@@ -12306,6 +12542,7 @@
       "block.archiblock_two.pink_rose_shrub": "Pink Rose Shrub",
       "block.archiblock_two.rose_quartz_slab": "Rose Quartz Slab",
       "block.archiblock_two.cut_granite_wall": "Cut Granite Wall",
+      "block.archiblock_two.marble_wall": "Marble Wall",
       "block.archiblock_two.big_clay_bricks": "Big Clay Bricks",
       "block.archiblock_two.topaz_block": "Topaz Block",
       "block.archiblock_two.cyan_neon_block": "Cyan Neon Block",
@@ -12339,6 +12576,7 @@
       "block.archiblock_two.mystic_maple_leaves": "Mystic Maple Leaves",
       "block.archiblock_two.granite_brick_stairs": "Granite Brick Stairs",
       "block.archiblock_two.smooth_smoky_quartz_stairs": "Smooth Smoky Quartz Stairs",
+      "block.archiblock_two.marble": "Marble",
       "item.archiblock_two.twilight_shard": "Twilight Shard",
       "item.archiblock_two.mutandis": "Mutandis",
       "block.archiblock_two.bamboo_planks": "Bamboo Planks",
@@ -12364,6 +12602,7 @@
       "block.archiblock_two.acacia_basket_moss": "Moss Filled Woven Acacia Basket",
       "block.archiblock_two.z_block": "Z Block",
       "block.archiblock_two.l_ck_block": "k Block",
+      "block.archiblock_two.marble_small_bricks": "Marble Small Bricks",
       "block.archiblock_two.woven_spruce_stairs": "Woven Spruce Stairs",
       "block.archiblock_two.l_cj_block": "j Block",
       "block.archiblock_two.spruce_basket_sand": "Sand Filled Woven Spruce Basket",
@@ -12376,7 +12615,8 @@
       "block.archiblock_two.woven_crimson_basket": "Woven Crimson Block",
       "block.archiblock_two.buttermilk_rose_bush": "Buttermilk Rose Bush",
       "block.archiblock_two.acacia_basket_mycelium": "Mycelium Filled Woven Acacia Basket",
-      "block.archiblock_two.a_block": "A Block"
+      "block.archiblock_two.a_block": "A Block",
+      "block.archiblock_two.polished_marble_brick_stairs": "Polished Marble Brick Stairs"
     }
   },
   "foldersRoot": {
@@ -12658,6 +12898,10 @@
                 "children": []
               }
             ]
+          },
+          {
+            "name": "Marble",
+            "children": []
           }
         ]
       }

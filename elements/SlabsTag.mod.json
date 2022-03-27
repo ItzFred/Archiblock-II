@@ -112,6 +112,21 @@
       },
       {
         "value": "CUSTOM:DriedBambooPlankSlab"
+      },
+      {
+        "value": "CUSTOM:MarbleSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedMarbleSlab"
+      },
+      {
+        "value": "CUSTOM:MarbleBrickSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedMarbleBrickSlab"
+      },
+      {
+        "value": "CUSTOM:MarbleTileSlab"
       }
     ],
     "functions": [],

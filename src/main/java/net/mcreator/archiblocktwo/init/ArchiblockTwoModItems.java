@@ -666,6 +666,36 @@ public class ArchiblockTwoModItems {
 	public static final Item L_CX_BLOCK = register(ArchiblockTwoModBlocks.L_CX_BLOCK, null);
 	public static final Item L_CY_BLOCK = register(ArchiblockTwoModBlocks.L_CY_BLOCK, null);
 	public static final Item L_CZ_BLOCK = register(ArchiblockTwoModBlocks.L_CZ_BLOCK, null);
+	public static final Item MARBLE = register(ArchiblockTwoModBlocks.MARBLE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CUT_MARBLE = register(ArchiblockTwoModBlocks.CUT_MARBLE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item POLISHED_MARBLE = register(ArchiblockTwoModBlocks.POLISHED_MARBLE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MARBLE_BRICKS = register(ArchiblockTwoModBlocks.MARBLE_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item POLISHED_MARBLE_BRICKS = register(ArchiblockTwoModBlocks.POLISHED_MARBLE_BRICKS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MARBLE_SMALL_BRICKS = register(ArchiblockTwoModBlocks.MARBLE_SMALL_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MARBLE_TILES = register(ArchiblockTwoModBlocks.MARBLE_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MARBLE_PILLAR = register(ArchiblockTwoModBlocks.MARBLE_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item FRET_PATTERNED_MARBLE = register(ArchiblockTwoModBlocks.FRET_PATTERNED_MARBLE,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MARBLE_STAIRS = register(ArchiblockTwoModBlocks.MARBLE_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_MARBLE = register(ArchiblockTwoModBlocks.CHISELLED_MARBLE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MARBLE_SLAB = register(ArchiblockTwoModBlocks.MARBLE_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MARBLE_WALL = register(ArchiblockTwoModBlocks.MARBLE_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item POLISHED_MARBLE_STAIRS = register(ArchiblockTwoModBlocks.POLISHED_MARBLE_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item POLISHED_MARBLE_SLAB = register(ArchiblockTwoModBlocks.POLISHED_MARBLE_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MARBLE_BRICK_STAIRS = register(ArchiblockTwoModBlocks.MARBLE_BRICK_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MARBLE_BRICK_SLAB = register(ArchiblockTwoModBlocks.MARBLE_BRICK_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MARBLE_BRICK_WALL = register(ArchiblockTwoModBlocks.MARBLE_BRICK_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item POLISHED_MARBLE_BRICK_STAIRS = register(ArchiblockTwoModBlocks.POLISHED_MARBLE_BRICK_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item POLISHED_MARBLE_BRICK_SLAB = register(ArchiblockTwoModBlocks.POLISHED_MARBLE_BRICK_SLAB,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item POLISHED_MARBLE_BRICK_WALL = register(ArchiblockTwoModBlocks.POLISHED_MARBLE_BRICK_WALL,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MARBLE_TILE_STAIRS = register(ArchiblockTwoModBlocks.MARBLE_TILE_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MARBLE_TILE_SLAB = register(ArchiblockTwoModBlocks.MARBLE_TILE_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item MARBLE_TILE_WALL = register(ArchiblockTwoModBlocks.MARBLE_TILE_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

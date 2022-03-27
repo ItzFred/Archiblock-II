@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "archiblock_two:blocks/marblebricks",
+    "top": "archiblock_two:blocks/marblebricks",
+    "side": "archiblock_two:blocks/marblebricks"
+  }
+}
