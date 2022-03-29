@@ -112,6 +112,18 @@
       },
       {
         "value": "CUSTOM:MarbleTileStairs"
+      },
+      {
+        "value": "CUSTOM:SandstoneBrickStairs"
+      },
+      {
+        "value": "CUSTOM:ChiselledSandstoneBrickStairs"
+      },
+      {
+        "value": "CUSTOM:SandstoneTileStairs"
+      },
+      {
+        "value": "CUSTOM:ChiselledSandstoneTileStairs"
       }
     ],
     "functions": [],

@@ -97,6 +97,12 @@
       },
       {
         "value": "CUSTOM:MarbleTileWall"
+      },
+      {
+        "value": "CUSTOM:SandstoneBrickWall"
+      },
+      {
+        "value": "CUSTOM:ChiselledSandstoneBrickWall"
       }
     ],
     "functions": [],

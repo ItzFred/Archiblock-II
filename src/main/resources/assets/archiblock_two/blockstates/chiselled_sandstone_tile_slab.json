@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "archiblock_two:block/chiselled_sandstone_tile_slab"
+    },
+    "type=top": {
+      "model": "archiblock_two:block/chiselled_sandstone_tile_slab_top"
+    },
+    "type=double": {
+      "model": "archiblock_two:block/chiselled_sandstone_tile_slab_full"
+    }
+  }
+}

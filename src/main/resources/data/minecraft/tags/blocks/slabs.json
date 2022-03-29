@@ -30,17 +30,21 @@
     "archiblock_two:rose_brick_slab",
     "archiblock_two:dried_bamboo_plank_slab",
     "archiblock_two:bamboo_plank_slab",
+    "archiblock_two:chiselled_sandstone_tile_slab",
     "archiblock_two:polished_marble_slab",
     "archiblock_two:andesite_brick_slab",
     "archiblock_two:blue_clay_shingle_slab",
     "archiblock_two:woven_spruce_slab",
     "archiblock_two:woven_fiber_slab",
     "archiblock_two:woven_crimson_slab",
+    "archiblock_two:sandstone_tile_slab",
     "archiblock_two:cut_stone_slab",
     "archiblock_two:smoky_slab_2",
     "archiblock_two:cut_granite_slab",
+    "archiblock_two:sandstone_brick_slab",
     "archiblock_two:andesite_block_slab",
     "archiblock_two:twilight_brick_slab",
-    "archiblock_two:snowy_cut_stone_slab"
+    "archiblock_two:snowy_cut_stone_slab",
+    "archiblock_two:chiselled_sandstone_brick_slab"
   ]
 }

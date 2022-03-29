@@ -696,6 +696,32 @@ public class ArchiblockTwoModItems {
 	public static final Item MARBLE_TILE_STAIRS = register(ArchiblockTwoModBlocks.MARBLE_TILE_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item MARBLE_TILE_SLAB = register(ArchiblockTwoModBlocks.MARBLE_TILE_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item MARBLE_TILE_WALL = register(ArchiblockTwoModBlocks.MARBLE_TILE_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SANDSTONE_BRICKS = register(ArchiblockTwoModBlocks.SANDSTONE_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_SANDSTONE_BRICKS = register(ArchiblockTwoModBlocks.CHISELLED_SANDSTONE_BRICKS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SANDSTONE_TILES = register(ArchiblockTwoModBlocks.SANDSTONE_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_SANDSTONE_TILES = register(ArchiblockTwoModBlocks.CHISELLED_SANDSTONE_TILES,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SANDSTONE_PILLAR = register(ArchiblockTwoModBlocks.SANDSTONE_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_SANDSTONE_PILLAR = register(ArchiblockTwoModBlocks.CHISELLED_SANDSTONE_PILLAR,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SANDSTONE_BRICK_STAIRS = register(ArchiblockTwoModBlocks.SANDSTONE_BRICK_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SANDSTONE_BRICK_SLAB = register(ArchiblockTwoModBlocks.SANDSTONE_BRICK_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SANDSTONE_BRICK_WALL = register(ArchiblockTwoModBlocks.SANDSTONE_BRICK_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_SANDSTONE_BRICK_STAIRS = register(ArchiblockTwoModBlocks.CHISELLED_SANDSTONE_BRICK_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_SANDSTONE_BRICK_SLAB = register(ArchiblockTwoModBlocks.CHISELLED_SANDSTONE_BRICK_SLAB,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_SANDSTONE_BRICK_WALL = register(ArchiblockTwoModBlocks.CHISELLED_SANDSTONE_BRICK_WALL,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SANDSTONE_TILE_STAIRS = register(ArchiblockTwoModBlocks.SANDSTONE_TILE_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SANDSTONE_TILE_SLAB = register(ArchiblockTwoModBlocks.SANDSTONE_TILE_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_SANDSTONE_TILE_STAIRS = register(ArchiblockTwoModBlocks.CHISELLED_SANDSTONE_TILE_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_SANDSTONE_TILE_SLAB = register(ArchiblockTwoModBlocks.CHISELLED_SANDSTONE_TILE_SLAB,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "archiblock_two:blocks/smoothsandstone",
+    "up": "archiblock_two:blocks/smoothsandstone",
+    "north": "archiblock_two:blocks/chiseledsandstonetiles",
+    "east": "archiblock_two:blocks/chiseledsandstonetiles",
+    "south": "archiblock_two:blocks/chiseledsandstonetiles",
+    "west": "archiblock_two:blocks/chiseledsandstonetiles",
+    "particle": "archiblock_two:blocks/smoothsandstone"
+  }
+}

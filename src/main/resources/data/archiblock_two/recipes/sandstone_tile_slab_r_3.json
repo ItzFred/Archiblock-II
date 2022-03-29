@@ -1,0 +1,9 @@
+{
+  "group": "sandstone_tile_slab",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "archiblock_two:sandstone_tiles"
+  },
+  "result": "archiblock_two:sandstone_tile_slab"
+}

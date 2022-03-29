@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "archiblock_two:blocks/sandstonepillartop",
+    "up": "archiblock_two:blocks/sandstonepillartop",
+    "north": "archiblock_two:blocks/sandstonepillarside",
+    "east": "archiblock_two:blocks/sandstonepillarside",
+    "south": "archiblock_two:blocks/sandstonepillarside",
+    "west": "archiblock_two:blocks/sandstonepillarside",
+    "particle": "archiblock_two:blocks/sandstonepillartop"
+  }
+}

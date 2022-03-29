@@ -1,0 +1,9 @@
+{
+  "group": "sandstone_tile_stairs",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "tag": "forge:sandstone"
+  },
+  "result": "archiblock_two:sandstone_tile_stairs"
+}

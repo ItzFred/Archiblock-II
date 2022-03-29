@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "sandstone_tile_stairs",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SandstoneTiles"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SandstoneTiles"
+      },
+      {
+        "value": "CUSTOM:SandstoneTiles"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SandstoneTiles"
+      },
+      {
+        "value": "CUSTOM:SandstoneTiles"
+      },
+      {
+        "value": "CUSTOM:SandstoneTiles"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SandstoneTileStairs"
+    },
+    "name": "sandstone_tile_stairs_r",
+    "namespace": "mod"
+  }
+}

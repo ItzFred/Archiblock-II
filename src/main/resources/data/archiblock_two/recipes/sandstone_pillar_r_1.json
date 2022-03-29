@@ -1,0 +1,9 @@
+{
+  "group": "sandstone_pillar",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "tag": "forge:sandstone"
+  },
+  "result": "archiblock_two:sandstone_pillar"
+}

@@ -127,6 +127,18 @@
       },
       {
         "value": "CUSTOM:MarbleTileSlab"
+      },
+      {
+        "value": "CUSTOM:SandstoneBrickSlab"
+      },
+      {
+        "value": "CUSTOM:ChiselledSandstoneBrickSlab"
+      },
+      {
+        "value": "CUSTOM:SandstoneTileSlab"
+      },
+      {
+        "value": "CUSTOM:ChiselledSandstoneTileSlab"
       }
     ],
     "functions": [],

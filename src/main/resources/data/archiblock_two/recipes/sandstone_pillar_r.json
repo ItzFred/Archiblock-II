@@ -1,0 +1,20 @@
+{
+  "group": "sandstone_pillar",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cut_sandstone"
+    },
+    "1": {
+      "item": "minecraft:cut_sandstone"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:sandstone_pillar",
+    "count": 2
+  }
+}
