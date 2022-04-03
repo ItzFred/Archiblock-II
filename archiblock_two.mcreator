@@ -13347,6 +13347,168 @@
       "locked_code": false,
       "registry_name": "sandstone_tile_slab_r_3",
       "path": "~/Stone Type Blocks/Sandstone/Recipes"
+    },
+    {
+      "name": "CutSnow",
+      "type": "block",
+      "sortid": 1318,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_snow",
+      "path": "~/OtherBlocks/Snow"
+    },
+    {
+      "name": "SnowBricks",
+      "type": "block",
+      "sortid": 1319,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "snow_bricks",
+      "path": "~/OtherBlocks/Snow"
+    },
+    {
+      "name": "SmallSnowBricks",
+      "type": "block",
+      "sortid": 1320,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_snow_bricks",
+      "path": "~/OtherBlocks/Snow"
+    },
+    {
+      "name": "SnowPillar",
+      "type": "block",
+      "sortid": 1321,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "snow_pillar",
+      "path": "~/OtherBlocks/Snow"
+    },
+    {
+      "name": "CutSnowR",
+      "type": "recipe",
+      "sortid": 1322,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_snow_r",
+      "path": "~/OtherBlocks/Snow/Recipes"
+    },
+    {
+      "name": "SnowPillarR",
+      "type": "recipe",
+      "sortid": 1323,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "snow_pillar_r",
+      "path": "~/OtherBlocks/Snow/Recipes"
+    },
+    {
+      "name": "SnowBricksR",
+      "type": "recipe",
+      "sortid": 1324,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "snow_bricks_r",
+      "path": "~/OtherBlocks/Snow/Recipes"
+    },
+    {
+      "name": "SmallSnowBricksR",
+      "type": "recipe",
+      "sortid": 1325,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_snow_bricks_r",
+      "path": "~/OtherBlocks/Snow/Recipes"
+    },
+    {
+      "name": "CutPackedIce",
+      "type": "block",
+      "sortid": 1326,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_packed_ice",
+      "path": "~/OtherBlocks/Ice/Packed Ice"
+    },
+    {
+      "name": "PackedIceBricks",
+      "type": "block",
+      "sortid": 1327,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "packed_ice_bricks",
+      "path": "~/OtherBlocks/Ice/Packed Ice"
+    },
+    {
+      "name": "PackedIceTiles",
+      "type": "block",
+      "sortid": 1328,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "packed_ice_tiles",
+      "path": "~/OtherBlocks/Ice/Packed Ice"
+    },
+    {
+      "name": "PackedIcePillar",
+      "type": "block",
+      "sortid": 1329,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "packed_ice_pillar",
+      "path": "~/OtherBlocks/Ice/Packed Ice"
+    },
+    {
+      "name": "ChiselledPackedIce",
+      "type": "block",
+      "sortid": 1330,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_packed_ice",
+      "path": "~/OtherBlocks/Ice/Packed Ice"
+    },
+    {
+      "name": "CutIce",
+      "type": "block",
+      "sortid": 1331,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_ice",
+      "path": "~/OtherBlocks/Ice/Transparent Ice"
+    },
+    {
+      "name": "IceBricks",
+      "type": "block",
+      "sortid": 1332,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice_bricks",
+      "path": "~/OtherBlocks/Ice/Transparent Ice"
+    },
+    {
+      "name": "IceTiles",
+      "type": "block",
+      "sortid": 1333,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice_tiles",
+      "path": "~/OtherBlocks/Ice/Transparent Ice"
+    },
+    {
+      "name": "ChiselledIce",
+      "type": "block",
+      "sortid": 1334,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_ice",
+      "path": "~/OtherBlocks/Ice/Transparent Ice"
+    },
+    {
+      "name": "IcePillar",
+      "type": "block",
+      "sortid": 1335,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice_pillar",
+      "path": "~/OtherBlocks/Ice/Transparent Ice"
     }
   ],
   "variable_elements": [],
@@ -13365,6 +13527,7 @@
       "block.archiblock_two.smooth_rose_quartz_stairs": "Smooth Rose Quartz Stairs",
       "block.archiblock_two.woven_warped_basket": "Woven Warped Block",
       "block.archiblock_two.apostrophe_block": "\u0027 Block",
+      "block.archiblock_two.ice_tiles": "Ice Tiles",
       "block.archiblock_two.cut_obsidian": "Cut Obsidian",
       "block.archiblock_two.clay_shingles_slab": "Clay Shingles Slab",
       "block.archiblock_two.l_ci_block": "i Block",
@@ -13410,6 +13573,7 @@
       "block.archiblock_two.birch_basket_moss": "Moss Filled Woven Birch Basket",
       "block.archiblock_two.question_mark_block": "? Block",
       "block.archiblock_two.l_cn_block": "n Block",
+      "block.archiblock_two.snow_bricks": "Snow Bricks",
       "block.archiblock_two.cut_brass_slab": "Cut Brass Slab",
       "block.archiblock_two.l_cu_block": "u Block",
       "block.archiblock_two.red_spool": "Red Spool",
@@ -13425,6 +13589,7 @@
       "block.archiblock_two.red_big_clay_bricks": "Red Big Clay Bricks",
       "block.archiblock_two.sugilite_bricks": "Sugilite Bricks",
       "block.archiblock_two.clay_brick_tiles": "Clay Brick Tiles",
+      "block.archiblock_two.chiselled_packed_ice": "Chiselled Packed Ice",
       "block.archiblock_two.snowy_stone_brick_stairs": "Snowy Stone Brick Stairs",
       "block.archiblock_two.chiselled_obsidian_slab": "Chiselled Obsidian Slab",
       "block.archiblock_two.sapphire_tiles": "Sapphire Tiles",
@@ -13456,6 +13621,7 @@
       "block.archiblock_two.half_dented_brass_tiles": "Half Dented Brass Tiles",
       "block.archiblock_two.nether_brick_plate_slab": "Nether Brick Plate Slab",
       "block.archiblock_two.twilightwave_brick_stairs": "Twilightwave Brick Stairs",
+      "block.archiblock_two.snow_pillar": "Snow Pillar",
       "block.archiblock_two.cut_stone_slab": "Cut Stone Slab",
       "block.archiblock_two.snowy_cobblestone_stairs": "Snowy Cobblestone Stairs",
       "block.archiblock_two.smoky_stairs_2": "Carved Smoky Quartz Brick Stairs",
@@ -13501,6 +13667,7 @@
       "block.archiblock_two.half_dented_brass_t_ile_slab": "Half Dented Brass Tile Slab",
       "block.archiblock_two.chiselled_sandstone_brick_slab": "Chiselled Sandstone Brick Slab",
       "block.archiblock_two.sapphire_diorite_ore": "Sapphire Diorite Ore",
+      "block.archiblock_two.cut_snow": "Cut Snow",
       "block.archiblock_two.diamond_symbol_block": "Diamond Symbol Block",
       "block.archiblock_two.j_block": "J Block",
       "block.archiblock_two.l_cw_block": "w Block",
@@ -13527,6 +13694,7 @@
       "block.archiblock_two.obsidian_pillar": "Obsidian Pillar",
       "item.archiblock_two.sapphire": "Sapphire",
       "block.archiblock_two.raw_lush_twilight_block": "Raw Lush Twilight Block",
+      "block.archiblock_two.ice_pillar": "Ice Pillar",
       "block.archiblock_two.diorite_tile_slab": "Diorite Tile Slab",
       "block.archiblock_two.brown_neon_block": "Brown Neon Block",
       "block.archiblock_two.mossy_stone_tiles": "Mossy Stone Tiles",
@@ -13549,6 +13717,7 @@
       "item.archiblock_two.sugilite": "Sugilite",
       "block.archiblock_two.weeping_vine_covered_nether_bricks": "Weeping Vine Covered Nether Bricks",
       "block.archiblock_two.polished_marble_bricks": "Polished Marble Bricks",
+      "block.archiblock_two.packed_ice_pillar": "Packed Ice Pillar",
       "block.archiblock_two.l_ca_block": "a Block",
       "block.archiblock_two.sandstone_brick_stairs": "Sandstone Brick Stairs",
       "block.archiblock_two.brass_bars": "Brass Bars",
@@ -13626,6 +13795,7 @@
       "block.archiblock_two.granite_brick_wall": "Granite Brick Wall",
       "block.archiblock_two.woven_warped_block": "Woven Warped Block",
       "block.archiblock_two.bamboo_plank_fence_gate": "Bamboo Plank Fence Gate",
+      "block.archiblock_two.chiselled_ice": "Chiselled Ice",
       "block.archiblock_two.ruby_block": "Ruby Block",
       "block.archiblock_two.archium": "Archium",
       "block.archiblock_two.obsidian_brick_stairs": "Obsidian Brick Stairs",
@@ -13638,6 +13808,7 @@
       "block.archiblock_two.chiselled_twilightwave_bricks": "Chiselled Twilightwave Bricks",
       "block.archiblock_two.brown_spool": "Brown Spool",
       "block.archiblock_two.blue_clay_brick_pavement": "Blue Clay Brick Pavement",
+      "block.archiblock_two.cut_packed_ice": "Cut Packed Ice",
       "block.archiblock_two.red_slanted_shingles_side": "Red Slanted Clay Shingles Side",
       "block.archiblock_two.smooth_smoky_quartz": "Smooth Smoky Quartz Block",
       "block.archiblock_two.archium_veins": "Archium Veins",
@@ -13680,6 +13851,7 @@
       "block.archiblock_two.brass_pipe": "Brass Pillar",
       "block.archiblock_two.brass_tiles_stairs": "Brass Tile Stairs",
       "block.archiblock_two.birch_basket_dirt": "Dirt Filled Woven Birch Basket",
+      "block.archiblock_two.ice_bricks": "Ice Bricks",
       "block.archiblock_two.l_ch_block": "h Block",
       "block.archiblock_two.woven_fiber_block": "Woven Fiber Block",
       "block.archiblock_two.nether_brick_plate": "Nether Brick Plate",
@@ -13690,6 +13862,7 @@
       "block.archiblock_two.crimson_basket_dirt": "Dirt Filled Woven Crimson Basket",
       "block.archiblock_two.woven_dark_oak_basket": "Woven Dark Oak Basket",
       "block.archiblock_two.cut_granite": "Cut Granite",
+      "block.archiblock_two.small_snow_bricks": "Small Snow bricks",
       "block.archiblock_two.polished_marble_slab": "Polished Marble Slab",
       "block.archiblock_two.cracked_nether_brick_tiles": "Cracked Nether Brick Tiles",
       "block.archiblock_two.circle_block": "Circle Block",
@@ -13805,6 +13978,7 @@
       "block.archiblock_two.marble_brick_stairs": "Marble Bricks Stairs",
       "block.archiblock_two.pink_neon_block": "Pink Neon Block",
       "block.archiblock_two.twilightwave_pillar_top": "Twilightwave Pillar Top",
+      "block.archiblock_two.packed_ice_tiles": "Packed Ice Tiles",
       "block.archiblock_two.twisting_vine_covered_nether_brick_tiles": "Twisting Vine Covered Nether Brick Tiles",
       "block.archiblock_two.dark_oak_basket_moss": "Moss Filled Woven Dark Oak Basket",
       "block.archiblock_two.woven_jungle_basket": "Woven Jungle Block",
@@ -13832,6 +14006,7 @@
       "block.archiblock_two.rose_quartz_slab": "Rose Quartz Slab",
       "block.archiblock_two.cut_granite_wall": "Cut Granite Wall",
       "block.archiblock_two.marble_wall": "Marble Wall",
+      "block.archiblock_two.packed_ice_bricks": "Packed Ice Bricks",
       "block.archiblock_two.big_clay_bricks": "Big Clay Bricks",
       "block.archiblock_two.topaz_block": "Topaz Block",
       "block.archiblock_two.cyan_neon_block": "Cyan Neon Block",
@@ -13867,6 +14042,7 @@
       "block.archiblock_two.granite_brick_stairs": "Granite Brick Stairs",
       "block.archiblock_two.smooth_smoky_quartz_stairs": "Smooth Smoky Quartz Stairs",
       "block.archiblock_two.marble": "Marble",
+      "block.archiblock_two.cut_ice": "Cut Ice",
       "item.archiblock_two.twilight_shard": "Twilight Shard",
       "item.archiblock_two.mutandis": "Mutandis",
       "block.archiblock_two.bamboo_planks": "Bamboo Planks",
@@ -14096,6 +14272,28 @@
             "children": [
               {
                 "name": "Recipes",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Snow",
+            "children": [
+              {
+                "name": "Recipes",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Ice",
+            "children": [
+              {
+                "name": "Transparent Ice",
+                "children": []
+              },
+              {
+                "name": "Packed Ice",
                 "children": []
               }
             ]

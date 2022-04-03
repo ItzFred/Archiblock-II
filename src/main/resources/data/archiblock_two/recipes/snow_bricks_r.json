@@ -1,0 +1,26 @@
+{
+  "group": "snow_bricks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:cut_snow"
+    },
+    "1": {
+      "item": "archiblock_two:cut_snow"
+    },
+    "2": {
+      "item": "archiblock_two:cut_snow"
+    },
+    "3": {
+      "item": "archiblock_two:cut_snow"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:snow_bricks",
+    "count": 4
+  }
+}

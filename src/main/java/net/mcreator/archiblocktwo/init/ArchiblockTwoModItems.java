@@ -722,6 +722,20 @@ public class ArchiblockTwoModItems {
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CHISELLED_SANDSTONE_TILE_SLAB = register(ArchiblockTwoModBlocks.CHISELLED_SANDSTONE_TILE_SLAB,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CUT_SNOW = register(ArchiblockTwoModBlocks.CUT_SNOW, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SNOW_BRICKS = register(ArchiblockTwoModBlocks.SNOW_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SMALL_SNOW_BRICKS = register(ArchiblockTwoModBlocks.SMALL_SNOW_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item SNOW_PILLAR = register(ArchiblockTwoModBlocks.SNOW_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CUT_PACKED_ICE = register(ArchiblockTwoModBlocks.CUT_PACKED_ICE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item PACKED_ICE_BRICKS = register(ArchiblockTwoModBlocks.PACKED_ICE_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item PACKED_ICE_TILES = register(ArchiblockTwoModBlocks.PACKED_ICE_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item PACKED_ICE_PILLAR = register(ArchiblockTwoModBlocks.PACKED_ICE_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_PACKED_ICE = register(ArchiblockTwoModBlocks.CHISELLED_PACKED_ICE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CUT_ICE = register(ArchiblockTwoModBlocks.CUT_ICE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ICE_BRICKS = register(ArchiblockTwoModBlocks.ICE_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ICE_TILES = register(ArchiblockTwoModBlocks.ICE_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_ICE = register(ArchiblockTwoModBlocks.CHISELLED_ICE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ICE_PILLAR = register(ArchiblockTwoModBlocks.ICE_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);
