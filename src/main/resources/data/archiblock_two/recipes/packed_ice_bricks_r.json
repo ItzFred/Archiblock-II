@@ -1,0 +1,26 @@
+{
+  "group": "packed_ice_bricks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:cut_packed_ice"
+    },
+    "1": {
+      "item": "archiblock_two:cut_packed_ice"
+    },
+    "2": {
+      "item": "archiblock_two:cut_packed_ice"
+    },
+    "3": {
+      "item": "archiblock_two:cut_packed_ice"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:packed_ice_bricks",
+    "count": 4
+  }
+}

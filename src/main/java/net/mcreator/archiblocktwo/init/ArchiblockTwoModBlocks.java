@@ -169,8 +169,6 @@ import net.mcreator.archiblocktwo.block.SmallStoneBricksBlock;
 import net.mcreator.archiblocktwo.block.SmallSnowBricksBlock;
 import net.mcreator.archiblocktwo.block.SmallObsidianBricksBlock;
 import net.mcreator.archiblocktwo.block.SmallClayBrickTilesBlock;
-import net.mcreator.archiblocktwo.block.SlantedShinglesSideBlock;
-import net.mcreator.archiblocktwo.block.SlantedClayShinglesBlock;
 import net.mcreator.archiblocktwo.block.SideSnowyStonePillarBlock;
 import net.mcreator.archiblocktwo.block.ScarletRoseShrubBlock;
 import net.mcreator.archiblocktwo.block.ScarletRoseBushBlock;
@@ -212,8 +210,6 @@ import net.mcreator.archiblocktwo.block.RoseBrickSlabBlock;
 import net.mcreator.archiblocktwo.block.RoseBrickSlab2Block;
 import net.mcreator.archiblocktwo.block.RoseBlock;
 import net.mcreator.archiblocktwo.block.RedSpoolBlock;
-import net.mcreator.archiblocktwo.block.RedSlantedShinglesSideBlock;
-import net.mcreator.archiblocktwo.block.RedSlantedClayShinglesBlock;
 import net.mcreator.archiblocktwo.block.RedNeonBlockBlock;
 import net.mcreator.archiblocktwo.block.RedClayShinglesSlabBlock;
 import net.mcreator.archiblocktwo.block.RedClayShinglesBlock;
@@ -244,9 +240,15 @@ import net.mcreator.archiblocktwo.block.PinkRoseBushBlock;
 import net.mcreator.archiblocktwo.block.PinkRoseBlock;
 import net.mcreator.archiblocktwo.block.PinkNeonBlockBlock;
 import net.mcreator.archiblocktwo.block.PeriodBlockBlock;
+import net.mcreator.archiblocktwo.block.PackedIceWallBlock;
 import net.mcreator.archiblocktwo.block.PackedIceTilesBlock;
+import net.mcreator.archiblocktwo.block.PackedIceStairsBlock;
+import net.mcreator.archiblocktwo.block.PackedIceSlabBlock;
 import net.mcreator.archiblocktwo.block.PackedIcePillarBlock;
 import net.mcreator.archiblocktwo.block.PackedIceBricksBlock;
+import net.mcreator.archiblocktwo.block.PackedIceBrickWallBlock;
+import net.mcreator.archiblocktwo.block.PackedIceBrickStairsBlock;
+import net.mcreator.archiblocktwo.block.PackedIceBrickSlabBlock;
 import net.mcreator.archiblocktwo.block.PBlockBlock;
 import net.mcreator.archiblocktwo.block.OrangeSpoolBlock;
 import net.mcreator.archiblocktwo.block.OrangeNeonBlockBlock;
@@ -358,9 +360,15 @@ import net.mcreator.archiblocktwo.block.JungleBasketMyceliumBlock;
 import net.mcreator.archiblocktwo.block.JungleBasketMossBlock;
 import net.mcreator.archiblocktwo.block.JungleBasketDirtBlock;
 import net.mcreator.archiblocktwo.block.JBlockBlock;
+import net.mcreator.archiblocktwo.block.IceWallBlock;
 import net.mcreator.archiblocktwo.block.IceTilesBlock;
+import net.mcreator.archiblocktwo.block.IceStairsBlock;
+import net.mcreator.archiblocktwo.block.IceSlabBlock;
 import net.mcreator.archiblocktwo.block.IcePillarBlock;
 import net.mcreator.archiblocktwo.block.IceBricksBlock;
+import net.mcreator.archiblocktwo.block.IceBrickWallBlock;
+import net.mcreator.archiblocktwo.block.IceBrickStairsBlock;
+import net.mcreator.archiblocktwo.block.IceBrickSlabBlock;
 import net.mcreator.archiblocktwo.block.IBlockBlock;
 import net.mcreator.archiblocktwo.block.HalfDentedBrassTilesBlock;
 import net.mcreator.archiblocktwo.block.HalfDentedBrassTIleSlabBlock;
@@ -501,8 +509,6 @@ import net.mcreator.archiblocktwo.block.BlushRoseShrubBlock;
 import net.mcreator.archiblocktwo.block.BlushRoseBushBlock;
 import net.mcreator.archiblocktwo.block.BlushRoseBlock;
 import net.mcreator.archiblocktwo.block.BlueSpoolBlock;
-import net.mcreator.archiblocktwo.block.BlueSlantedShinglesSideBlock;
-import net.mcreator.archiblocktwo.block.BlueSlantedClayShinglesBlock;
 import net.mcreator.archiblocktwo.block.BlueNeonBlockBlock;
 import net.mcreator.archiblocktwo.block.BlueClayShinglesBlock;
 import net.mcreator.archiblocktwo.block.BlueClayShingleSlabBlock;
@@ -651,8 +657,6 @@ public class ArchiblockTwoModBlocks {
 	public static final Block SMALL_CLAY_BRICK_TILES = register(new SmallClayBrickTilesBlock());
 	public static final Block CLAY_BRICK_PAVEMENT = register(new ClayBrickPavementBlock());
 	public static final Block CLAY_SHINGLES = register(new ClayShinglesBlock());
-	public static final Block SLANTED_CLAY_SHINGLES = register(new SlantedClayShinglesBlock());
-	public static final Block SLANTED_SHINGLES_SIDE = register(new SlantedShinglesSideBlock());
 	public static final Block RED_BIG_CLAY_BRICKS = register(new RedBigClayBricksBlock());
 	public static final Block RED_CLAY_BRICK_BLOCK = register(new RedClayBrickBlockBlock());
 	public static final Block RED_CLAY_BRICK_TILES = register(new RedClayBrickTilesBlock());
@@ -660,8 +664,6 @@ public class ArchiblockTwoModBlocks {
 	public static final Block RED_CLAY_BRICK_PAVEMENT = register(new RedClayBrickPavementBlock());
 	public static final Block RED_CLAY_SHINGLES = register(new RedClayShinglesBlock());
 	public static final Block RED_CLAY_SHINGLES_SLAB = register(new RedClayShinglesSlabBlock());
-	public static final Block RED_SLANTED_SHINGLES_SIDE = register(new RedSlantedShinglesSideBlock());
-	public static final Block RED_SLANTED_CLAY_SHINGLES = register(new RedSlantedClayShinglesBlock());
 	public static final Block BLUE_CLAY_BRICK_BLOCK = register(new BlueClayBrickBlockBlock());
 	public static final Block BLUE_BIG_CLAY_BRICKS = register(new BlueBigClayBricksBlock());
 	public static final Block BLUE_CLAY_BRICK_TILES = register(new BlueClayBrickTilesBlock());
@@ -669,8 +671,6 @@ public class ArchiblockTwoModBlocks {
 	public static final Block BLUE_CLAY_BRICK_PAVEMENT = register(new BlueClayBrickPavementBlock());
 	public static final Block BLUE_CLAY_SHINGLES = register(new BlueClayShinglesBlock());
 	public static final Block BLUE_CLAY_SHINGLE_SLAB = register(new BlueClayShingleSlabBlock());
-	public static final Block BLUE_SLANTED_CLAY_SHINGLES = register(new BlueSlantedClayShinglesBlock());
-	public static final Block BLUE_SLANTED_SHINGLES_SIDE = register(new BlueSlantedShinglesSideBlock());
 	public static final Block WOVEN_BIRCH_BLOCK = register(new WovenBirchBlockBlock());
 	public static final Block WOVEN_BIRCH_STAIRS = register(new WovenBirchStairsBlock());
 	public static final Block WOVEN_BIRCH_SLAB = register(new WovenBirchSlabBlock());
@@ -1104,6 +1104,18 @@ public class ArchiblockTwoModBlocks {
 	public static final Block ICE_TILES = register(new IceTilesBlock());
 	public static final Block CHISELLED_ICE = register(new ChiselledIceBlock());
 	public static final Block ICE_PILLAR = register(new IcePillarBlock());
+	public static final Block ICE_BRICK_STAIRS = register(new IceBrickStairsBlock());
+	public static final Block ICE_BRICK_SLAB = register(new IceBrickSlabBlock());
+	public static final Block ICE_BRICK_WALL = register(new IceBrickWallBlock());
+	public static final Block ICE_STAIRS = register(new IceStairsBlock());
+	public static final Block ICE_SLAB = register(new IceSlabBlock());
+	public static final Block ICE_WALL = register(new IceWallBlock());
+	public static final Block PACKED_ICE_BRICK_STAIRS = register(new PackedIceBrickStairsBlock());
+	public static final Block PACKED_ICE_BRICK_SLAB = register(new PackedIceBrickSlabBlock());
+	public static final Block PACKED_ICE_BRICK_WALL = register(new PackedIceBrickWallBlock());
+	public static final Block PACKED_ICE_STAIRS = register(new PackedIceStairsBlock());
+	public static final Block PACKED_ICE_SLAB = register(new PackedIceSlabBlock());
+	public static final Block PACKED_ICE_WALL = register(new PackedIceWallBlock());
 
 	private static Block register(Block block) {
 		REGISTRY.add(block);
@@ -1120,12 +1132,6 @@ public class ArchiblockTwoModBlocks {
 		@SubscribeEvent
 		public static void clientSetup(FMLClientSetupEvent event) {
 			OrangeSpoolBlock.registerRenderLayer();
-			SlantedClayShinglesBlock.registerRenderLayer();
-			SlantedShinglesSideBlock.registerRenderLayer();
-			RedSlantedShinglesSideBlock.registerRenderLayer();
-			RedSlantedClayShinglesBlock.registerRenderLayer();
-			BlueSlantedClayShinglesBlock.registerRenderLayer();
-			BlueSlantedShinglesSideBlock.registerRenderLayer();
 			WovenBirchBasketBlock.registerRenderLayer();
 			BirchBasketDirtBlock.registerRenderLayer();
 			BirchBasketMossBlock.registerRenderLayer();
@@ -1219,6 +1225,12 @@ public class ArchiblockTwoModBlocks {
 			IceTilesBlock.registerRenderLayer();
 			ChiselledIceBlock.registerRenderLayer();
 			IcePillarBlock.registerRenderLayer();
+			IceBrickStairsBlock.registerRenderLayer();
+			IceBrickSlabBlock.registerRenderLayer();
+			IceBrickWallBlock.registerRenderLayer();
+			IceStairsBlock.registerRenderLayer();
+			IceSlabBlock.registerRenderLayer();
+			IceWallBlock.registerRenderLayer();
 		}
 
 		@SubscribeEvent

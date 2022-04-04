@@ -1,0 +1,20 @@
+{
+  "group": "packed_ice_pillar",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:packed_ice"
+    },
+    "1": {
+      "item": "minecraft:packed_ice"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:packed_ice_pillar",
+    "count": 2
+  }
+}

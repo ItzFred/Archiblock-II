@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "packed_ice_brick_stairs",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PackedIceBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PackedIceBricks"
+      },
+      {
+        "value": "CUSTOM:PackedIceBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PackedIceBricks"
+      },
+      {
+        "value": "CUSTOM:PackedIceBricks"
+      },
+      {
+        "value": "CUSTOM:PackedIceBricks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PackedIceBrickStairs"
+    },
+    "name": "packed_ice_brick_stairs_r",
+    "namespace": "mod"
+  }
+}

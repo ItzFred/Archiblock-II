@@ -139,6 +139,18 @@
       },
       {
         "value": "CUSTOM:ChiselledSandstoneTileSlab"
+      },
+      {
+        "value": "CUSTOM:IceBrickSlab"
+      },
+      {
+        "value": "CUSTOM:IceSlab"
+      },
+      {
+        "value": "CUSTOM:PackedIceBrickSlab"
+      },
+      {
+        "value": "CUSTOM:PackedIceSlab"
       }
     ],
     "functions": [],

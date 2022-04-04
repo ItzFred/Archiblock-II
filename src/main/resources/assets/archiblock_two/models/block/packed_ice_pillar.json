@@ -1,7 +1,12 @@
 {
-  "parent": "block/cube_all",
+  "parent": "block/cube",
   "textures": {
-    "all": "archiblock_two:blocks/packedcutice",
-    "particle": "archiblock_two:blocks/packedcutice"
+    "down": "archiblock_two:blocks/packedicepillartop",
+    "up": "archiblock_two:blocks/packedicepillartop",
+    "north": "archiblock_two:blocks/packedicepillar",
+    "east": "archiblock_two:blocks/packedicepillar",
+    "south": "archiblock_two:blocks/packedicepillar",
+    "west": "archiblock_two:blocks/packedicepillar",
+    "particle": "archiblock_two:blocks/packedicepillartop"
   }
 }

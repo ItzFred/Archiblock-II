@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "archiblock_two:blocks/packedcutice",
-    "particle": "archiblock_two:blocks/packedcutice"
+    "all": "archiblock_two:blocks/packedicetiles",
+    "particle": "archiblock_two:blocks/packedicetiles"
   }
 }

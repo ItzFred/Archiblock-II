@@ -134,10 +134,6 @@ public class ArchiblockTwoModItems {
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CLAY_BRICK_PAVEMENT = register(ArchiblockTwoModBlocks.CLAY_BRICK_PAVEMENT, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CLAY_SHINGLES = register(ArchiblockTwoModBlocks.CLAY_SHINGLES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SLANTED_CLAY_SHINGLES = register(ArchiblockTwoModBlocks.SLANTED_CLAY_SHINGLES,
-			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item SLANTED_SHINGLES_SIDE = register(ArchiblockTwoModBlocks.SLANTED_SHINGLES_SIDE,
-			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item RED_BIG_CLAY_BRICKS = register(ArchiblockTwoModBlocks.RED_BIG_CLAY_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item RED_CLAY_BRICK_BLOCK = register(ArchiblockTwoModBlocks.RED_CLAY_BRICK_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item RED_CLAY_BRICK_TILES = register(ArchiblockTwoModBlocks.RED_CLAY_BRICK_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
@@ -147,10 +143,6 @@ public class ArchiblockTwoModItems {
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item RED_CLAY_SHINGLES = register(ArchiblockTwoModBlocks.RED_CLAY_SHINGLES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item RED_CLAY_SHINGLES_SLAB = register(ArchiblockTwoModBlocks.RED_CLAY_SHINGLES_SLAB,
-			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item RED_SLANTED_SHINGLES_SIDE = register(ArchiblockTwoModBlocks.RED_SLANTED_SHINGLES_SIDE,
-			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item RED_SLANTED_CLAY_SHINGLES = register(ArchiblockTwoModBlocks.RED_SLANTED_CLAY_SHINGLES,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item BLUE_CLAY_BRICK_BLOCK = register(ArchiblockTwoModBlocks.BLUE_CLAY_BRICK_BLOCK,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
@@ -163,10 +155,6 @@ public class ArchiblockTwoModItems {
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item BLUE_CLAY_SHINGLES = register(ArchiblockTwoModBlocks.BLUE_CLAY_SHINGLES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item BLUE_CLAY_SHINGLE_SLAB = register(ArchiblockTwoModBlocks.BLUE_CLAY_SHINGLE_SLAB,
-			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item BLUE_SLANTED_CLAY_SHINGLES = register(ArchiblockTwoModBlocks.BLUE_SLANTED_CLAY_SHINGLES,
-			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
-	public static final Item BLUE_SLANTED_SHINGLES_SIDE = register(ArchiblockTwoModBlocks.BLUE_SLANTED_SHINGLES_SIDE,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item WOVEN_BIRCH_BLOCK = register(ArchiblockTwoModBlocks.WOVEN_BIRCH_BLOCK, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item WOVEN_BIRCH_STAIRS = register(ArchiblockTwoModBlocks.WOVEN_BIRCH_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
@@ -736,6 +724,21 @@ public class ArchiblockTwoModItems {
 	public static final Item ICE_TILES = register(ArchiblockTwoModBlocks.ICE_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item CHISELLED_ICE = register(ArchiblockTwoModBlocks.CHISELLED_ICE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item ICE_PILLAR = register(ArchiblockTwoModBlocks.ICE_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ICE_BRICK_STAIRS = register(ArchiblockTwoModBlocks.ICE_BRICK_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ICE_BRICK_SLAB = register(ArchiblockTwoModBlocks.ICE_BRICK_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ICE_BRICK_WALL = register(ArchiblockTwoModBlocks.ICE_BRICK_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ICE_STAIRS = register(ArchiblockTwoModBlocks.ICE_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ICE_SLAB = register(ArchiblockTwoModBlocks.ICE_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item ICE_WALL = register(ArchiblockTwoModBlocks.ICE_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item PACKED_ICE_BRICK_STAIRS = register(ArchiblockTwoModBlocks.PACKED_ICE_BRICK_STAIRS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item PACKED_ICE_BRICK_SLAB = register(ArchiblockTwoModBlocks.PACKED_ICE_BRICK_SLAB,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item PACKED_ICE_BRICK_WALL = register(ArchiblockTwoModBlocks.PACKED_ICE_BRICK_WALL,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item PACKED_ICE_STAIRS = register(ArchiblockTwoModBlocks.PACKED_ICE_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item PACKED_ICE_SLAB = register(ArchiblockTwoModBlocks.PACKED_ICE_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item PACKED_ICE_WALL = register(ArchiblockTwoModBlocks.PACKED_ICE_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

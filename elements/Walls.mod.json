@@ -103,6 +103,18 @@
       },
       {
         "value": "CUSTOM:ChiselledSandstoneBrickWall"
+      },
+      {
+        "value": "CUSTOM:IceBrickWall"
+      },
+      {
+        "value": "CUSTOM:IceWall"
+      },
+      {
+        "value": "CUSTOM:PackedIceBrickWall"
+      },
+      {
+        "value": "CUSTOM:PackedIceWall"
       }
     ],
     "functions": [],

@@ -1,0 +1,26 @@
+{
+  "group": "ice_bricks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:cut_ice"
+    },
+    "1": {
+      "item": "archiblock_two:cut_ice"
+    },
+    "2": {
+      "item": "archiblock_two:cut_ice"
+    },
+    "3": {
+      "item": "archiblock_two:cut_ice"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:ice_bricks",
+    "count": 4
+  }
+}

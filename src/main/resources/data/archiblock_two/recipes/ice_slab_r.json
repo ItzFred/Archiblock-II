@@ -1,0 +1,22 @@
+{
+  "group": "ice_slab",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:ice"
+    },
+    "1": {
+      "item": "minecraft:ice"
+    },
+    "2": {
+      "item": "minecraft:ice"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:ice_slab",
+    "count": 6
+  }
+}

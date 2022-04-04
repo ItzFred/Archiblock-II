@@ -124,6 +124,18 @@
       },
       {
         "value": "CUSTOM:ChiselledSandstoneTileStairs"
+      },
+      {
+        "value": "CUSTOM:IceStairs"
+      },
+      {
+        "value": "CUSTOM:IceBrickStairs"
+      },
+      {
+        "value": "CUSTOM:PackedIceBrickStairs"
+      },
+      {
+        "value": "CUSTOM:PackedIceStairs"
       }
     ],
     "functions": [],

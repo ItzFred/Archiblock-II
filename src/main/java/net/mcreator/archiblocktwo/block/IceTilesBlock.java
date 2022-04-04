@@ -37,7 +37,7 @@ public class IceTilesBlock extends Block {
 
 	@Override
 	public int getLightBlock(BlockState state, BlockGetter worldIn, BlockPos pos) {
-		return 15;
+		return 8;
 	}
 
 	@Override

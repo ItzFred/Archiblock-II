@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "archiblock_two:blocks/ice",
+    "top": "archiblock_two:blocks/ice",
+    "side": "archiblock_two:blocks/ice"
+  }
+}
