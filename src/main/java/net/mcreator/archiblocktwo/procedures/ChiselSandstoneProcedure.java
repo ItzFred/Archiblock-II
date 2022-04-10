@@ -5,8 +5,6 @@ import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.eventbus.api.Event;
 import net.minecraftforge.event.entity.player.PlayerInteractEvent;
 
-import net.minecraft.world.phys.Vec3;
-import net.minecraft.world.phys.BlockHitResult;
 import net.minecraft.world.level.block.state.properties.Property;
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraft.world.level.block.Blocks;
@@ -18,7 +16,6 @@ import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.entity.LivingEntity;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.InteractionHand;
-import net.minecraft.core.Direction;
 import net.minecraft.core.BlockPos;
 
 import net.mcreator.archiblocktwo.init.ArchiblockTwoModBlocks;
@@ -62,11 +59,8 @@ public class ChiselSandstoneProcedure {
 					world.setBlock(_bp, _bs, 3);
 				}
 				world.levelEvent(2001, new BlockPos((int) x, (int) y, (int) z), Block.getId(Blocks.CUT_SANDSTONE.defaultBlockState()));
-				if (entity instanceof Player _player) {
-					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					_player.level.getBlockState(_bp).use(_player.level, _player, InteractionHand.MAIN_HAND,
-							BlockHitResult.miss(new Vec3(_bp.getX(), _bp.getY(), _bp.getZ()), Direction.UP, _bp));
-				}
+				if (entity instanceof LivingEntity _entity)
+					_entity.swing(InteractionHand.MAIN_HAND, true);
 				{
 					ItemStack _ist = (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY);
 					if (_ist.hurt(1, new Random(), null)) {
@@ -90,11 +84,8 @@ public class ChiselSandstoneProcedure {
 					world.setBlock(_bp, _bs, 3);
 				}
 				world.levelEvent(2001, new BlockPos((int) x, (int) y, (int) z), Block.getId(Blocks.CUT_SANDSTONE.defaultBlockState()));
-				if (entity instanceof Player _player) {
-					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					_player.level.getBlockState(_bp).use(_player.level, _player, InteractionHand.MAIN_HAND,
-							BlockHitResult.miss(new Vec3(_bp.getX(), _bp.getY(), _bp.getZ()), Direction.UP, _bp));
-				}
+				if (entity instanceof LivingEntity _entity)
+					_entity.swing(InteractionHand.MAIN_HAND, true);
 				{
 					ItemStack _ist = (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY);
 					if (_ist.hurt(1, new Random(), null)) {
@@ -118,11 +109,8 @@ public class ChiselSandstoneProcedure {
 					world.setBlock(_bp, _bs, 3);
 				}
 				world.levelEvent(2001, new BlockPos((int) x, (int) y, (int) z), Block.getId(Blocks.CUT_SANDSTONE.defaultBlockState()));
-				if (entity instanceof Player _player) {
-					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					_player.level.getBlockState(_bp).use(_player.level, _player, InteractionHand.MAIN_HAND,
-							BlockHitResult.miss(new Vec3(_bp.getX(), _bp.getY(), _bp.getZ()), Direction.UP, _bp));
-				}
+				if (entity instanceof LivingEntity _entity)
+					_entity.swing(InteractionHand.MAIN_HAND, true);
 				{
 					ItemStack _ist = (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY);
 					if (_ist.hurt(1, new Random(), null)) {
@@ -146,11 +134,8 @@ public class ChiselSandstoneProcedure {
 					world.setBlock(_bp, _bs, 3);
 				}
 				world.levelEvent(2001, new BlockPos((int) x, (int) y, (int) z), Block.getId(Blocks.CUT_SANDSTONE.defaultBlockState()));
-				if (entity instanceof Player _player) {
-					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					_player.level.getBlockState(_bp).use(_player.level, _player, InteractionHand.MAIN_HAND,
-							BlockHitResult.miss(new Vec3(_bp.getX(), _bp.getY(), _bp.getZ()), Direction.UP, _bp));
-				}
+				if (entity instanceof LivingEntity _entity)
+					_entity.swing(InteractionHand.MAIN_HAND, true);
 				{
 					ItemStack _ist = (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY);
 					if (_ist.hurt(1, new Random(), null)) {
@@ -174,11 +159,8 @@ public class ChiselSandstoneProcedure {
 					world.setBlock(_bp, _bs, 3);
 				}
 				world.levelEvent(2001, new BlockPos((int) x, (int) y, (int) z), Block.getId(Blocks.CUT_SANDSTONE.defaultBlockState()));
-				if (entity instanceof Player _player) {
-					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					_player.level.getBlockState(_bp).use(_player.level, _player, InteractionHand.MAIN_HAND,
-							BlockHitResult.miss(new Vec3(_bp.getX(), _bp.getY(), _bp.getZ()), Direction.UP, _bp));
-				}
+				if (entity instanceof LivingEntity _entity)
+					_entity.swing(InteractionHand.MAIN_HAND, true);
 				{
 					ItemStack _ist = (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY);
 					if (_ist.hurt(1, new Random(), null)) {
@@ -202,11 +184,8 @@ public class ChiselSandstoneProcedure {
 					world.setBlock(_bp, _bs, 3);
 				}
 				world.levelEvent(2001, new BlockPos((int) x, (int) y, (int) z), Block.getId(Blocks.CUT_SANDSTONE.defaultBlockState()));
-				if (entity instanceof Player _player) {
-					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					_player.level.getBlockState(_bp).use(_player.level, _player, InteractionHand.MAIN_HAND,
-							BlockHitResult.miss(new Vec3(_bp.getX(), _bp.getY(), _bp.getZ()), Direction.UP, _bp));
-				}
+				if (entity instanceof LivingEntity _entity)
+					_entity.swing(InteractionHand.MAIN_HAND, true);
 				{
 					ItemStack _ist = (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY);
 					if (_ist.hurt(1, new Random(), null)) {
@@ -230,11 +209,8 @@ public class ChiselSandstoneProcedure {
 					world.setBlock(_bp, _bs, 3);
 				}
 				world.levelEvent(2001, new BlockPos((int) x, (int) y, (int) z), Block.getId(Blocks.CUT_SANDSTONE.defaultBlockState()));
-				if (entity instanceof Player _player) {
-					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					_player.level.getBlockState(_bp).use(_player.level, _player, InteractionHand.MAIN_HAND,
-							BlockHitResult.miss(new Vec3(_bp.getX(), _bp.getY(), _bp.getZ()), Direction.UP, _bp));
-				}
+				if (entity instanceof LivingEntity _entity)
+					_entity.swing(InteractionHand.MAIN_HAND, true);
 				{
 					ItemStack _ist = (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY);
 					if (_ist.hurt(1, new Random(), null)) {
@@ -258,11 +234,8 @@ public class ChiselSandstoneProcedure {
 					world.setBlock(_bp, _bs, 3);
 				}
 				world.levelEvent(2001, new BlockPos((int) x, (int) y, (int) z), Block.getId(Blocks.CUT_SANDSTONE.defaultBlockState()));
-				if (entity instanceof Player _player) {
-					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					_player.level.getBlockState(_bp).use(_player.level, _player, InteractionHand.MAIN_HAND,
-							BlockHitResult.miss(new Vec3(_bp.getX(), _bp.getY(), _bp.getZ()), Direction.UP, _bp));
-				}
+				if (entity instanceof LivingEntity _entity)
+					_entity.swing(InteractionHand.MAIN_HAND, true);
 				{
 					ItemStack _ist = (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY);
 					if (_ist.hurt(1, new Random(), null)) {
@@ -286,11 +259,8 @@ public class ChiselSandstoneProcedure {
 					world.setBlock(_bp, _bs, 3);
 				}
 				world.levelEvent(2001, new BlockPos((int) x, (int) y, (int) z), Block.getId(Blocks.CUT_SANDSTONE.defaultBlockState()));
-				if (entity instanceof Player _player) {
-					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					_player.level.getBlockState(_bp).use(_player.level, _player, InteractionHand.MAIN_HAND,
-							BlockHitResult.miss(new Vec3(_bp.getX(), _bp.getY(), _bp.getZ()), Direction.UP, _bp));
-				}
+				if (entity instanceof LivingEntity _entity)
+					_entity.swing(InteractionHand.MAIN_HAND, true);
 				{
 					ItemStack _ist = (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY);
 					if (_ist.hurt(1, new Random(), null)) {

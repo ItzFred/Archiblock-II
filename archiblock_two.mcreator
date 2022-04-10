@@ -13707,6 +13707,68 @@
       "locked_code": false,
       "registry_name": "packed_ice_brick_wall_r",
       "path": "~/OtherBlocks/Ice/Packed Ice/Recipes"
+    },
+    {
+      "name": "WindChimeChime",
+      "type": "procedure",
+      "sortid": 1370,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_chime_chime",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/OtherBlocks"
+    },
+    {
+      "name": "BambooWindChimesUpdateTick",
+      "type": "procedure",
+      "sortid": 1371,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bamboo_wind_chimes_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Nature/Bamboo"
     }
   ],
   "variable_elements": [],
@@ -13718,6 +13780,14 @@
       ],
       "category": "record",
       "subtitle": "ZAMN"
+    },
+    {
+      "name": "windchime",
+      "files": [
+        "windchime"
+      ],
+      "category": "block",
+      "subtitle": "Wind Chime"
     }
   ],
   "language_map": {
@@ -13849,6 +13919,7 @@
       "block.archiblock_two.jungle_basket_sand": "Sand Filled Woven Jungle Basket",
       "block.archiblock_two.packed_ice_brick_wall": "Packed Ice Brick Wall",
       "block.archiblock_two.brass_tiles_r": "Brass Tiles",
+      "subtitles.windchime": "Wind Chime",
       "block.archiblock_two.scarlet_rose_shrub": "Scarlet Rose Shrub",
       "subtitles.lolol": "ZAMN",
       "block.archiblock_two.cut_stone_stairs": "Cut Stone Stairs",
@@ -14171,7 +14242,7 @@
       "block.archiblock_two.nether_brick_plate_stairs": "Nether Brick Plate Stairs",
       "block.archiblock_two.square_block": "Square Block",
       "block.archiblock_two.l_cf_block": "f Block",
-      "block.archiblock_two.ice_wall": "Ice Stairs",
+      "block.archiblock_two.ice_wall": "Ice Wall",
       "block.archiblock_two.sandstone_brick_wall": "Sandstone Brick Wall",
       "block.archiblock_two.smoky_quartz_pillar": "Smoky Quartz Pillar",
       "block.archiblock_two.gray_spool": "Gray Spool",

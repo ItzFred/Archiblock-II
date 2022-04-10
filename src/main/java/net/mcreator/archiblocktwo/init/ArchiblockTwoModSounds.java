@@ -19,6 +19,7 @@ public class ArchiblockTwoModSounds {
 	public static Map<ResourceLocation, SoundEvent> REGISTRY = new HashMap<>();
 	static {
 		REGISTRY.put(new ResourceLocation("archiblock_two", "lolol"), new SoundEvent(new ResourceLocation("archiblock_two", "lolol")));
+		REGISTRY.put(new ResourceLocation("archiblock_two", "windchime"), new SoundEvent(new ResourceLocation("archiblock_two", "windchime")));
 	}
 
 	@SubscribeEvent

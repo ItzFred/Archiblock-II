@@ -17,7 +17,7 @@ import java.util.Collections;
 
 public class SnowBricksBlock extends Block {
 	public SnowBricksBlock() {
-		super(BlockBehaviour.Properties.of(Material.TOP_SNOW).sound(SoundType.SNOW).strength(0.2f));
+		super(BlockBehaviour.Properties.of(Material.SNOW).sound(SoundType.SNOW).strength(0.2f));
 		setRegistryName("snow_bricks");
 	}
 

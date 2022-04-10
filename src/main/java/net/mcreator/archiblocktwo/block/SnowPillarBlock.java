@@ -25,7 +25,7 @@ public class SnowPillarBlock extends Block {
 	public static final EnumProperty<Direction.Axis> AXIS = BlockStateProperties.AXIS;
 
 	public SnowPillarBlock() {
-		super(BlockBehaviour.Properties.of(Material.TOP_SNOW).sound(SoundType.SNOW).strength(0.2f));
+		super(BlockBehaviour.Properties.of(Material.SNOW).sound(SoundType.SNOW).strength(0.2f));
 		this.registerDefaultState(this.stateDefinition.any().setValue(AXIS, Direction.Axis.Y));
 		setRegistryName("snow_pillar");
 	}

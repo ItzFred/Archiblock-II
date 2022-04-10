@@ -27,19 +27,23 @@ import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.LevelReader;
 import net.minecraft.world.level.LevelAccessor;
+import net.minecraft.world.level.Level;
 import net.minecraft.world.level.BlockGetter;
 import net.minecraft.world.item.context.BlockPlaceContext;
 import net.minecraft.world.item.TieredItem;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.entity.player.Player;
+import net.minecraft.server.level.ServerLevel;
 import net.minecraft.core.Direction;
 import net.minecraft.core.BlockPos;
 import net.minecraft.client.renderer.RenderType;
 import net.minecraft.client.renderer.ItemBlockRenderTypes;
 
+import net.mcreator.archiblocktwo.procedures.BambooWindChimesUpdateTickProcedure;
 import net.mcreator.archiblocktwo.procedures.BambooDreamcatcherBlockValidPlacementConditionProcedure;
 import net.mcreator.archiblocktwo.init.ArchiblockTwoModBlocks;
 
+import java.util.Random;
 import java.util.List;
 import java.util.Collections;
 
@@ -151,6 +155,23 @@ public class DriedBambooWindChimesBlock extends Block implements SimpleWaterlogg
 		if (!dropsOriginal.isEmpty())
 			return dropsOriginal;
 		return Collections.singletonList(new ItemStack(this, 1));
+	}
+
+	@Override
+	public void onPlace(BlockState blockstate, Level world, BlockPos pos, BlockState oldState, boolean moving) {
+		super.onPlace(blockstate, world, pos, oldState, moving);
+		world.getBlockTicks().scheduleTick(pos, this, 10);
+	}
+
+	@Override
+	public void tick(BlockState blockstate, ServerLevel world, BlockPos pos, Random random) {
+		super.tick(blockstate, world, pos, random);
+		int x = pos.getX();
+		int y = pos.getY();
+		int z = pos.getZ();
+
+		BambooWindChimesUpdateTickProcedure.execute(world, x, y, z);
+		world.getBlockTicks().scheduleTick(pos, this, 10);
 	}
 
 	@OnlyIn(Dist.CLIENT)

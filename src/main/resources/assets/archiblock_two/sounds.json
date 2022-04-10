@@ -8,5 +8,15 @@
         "stream": true
       }
     ]
+  },
+  "windchime": {
+    "category": "block",
+    "subtitle": "subtitles.windchime",
+    "sounds": [
+      {
+        "name": "archiblock_two:windchime",
+        "stream": false
+      }
+    ]
   }
 }
