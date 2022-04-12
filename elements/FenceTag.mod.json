@@ -13,6 +13,33 @@
       },
       {
         "value": "CUSTOM:DriedBambooPlankFence"
+      },
+      {
+        "value": "CUSTOM:OakLatice"
+      },
+      {
+        "value": "CUSTOM:SpruceLatice"
+      },
+      {
+        "value": "CUSTOM:BirchLatice"
+      },
+      {
+        "value": "CUSTOM:JungleLatice"
+      },
+      {
+        "value": "CUSTOM:WarpedLatice"
+      },
+      {
+        "value": "CUSTOM:CrimsonLatice"
+      },
+      {
+        "value": "CUSTOM:DarkOakLatice"
+      },
+      {
+        "value": "CUSTOM:MysticMapleLatice"
+      },
+      {
+        "value": "CUSTOM:AcaciaLatice"
       }
     ],
     "functions": [],

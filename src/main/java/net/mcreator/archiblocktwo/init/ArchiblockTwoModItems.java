@@ -739,6 +739,16 @@ public class ArchiblockTwoModItems {
 	public static final Item PACKED_ICE_STAIRS = register(ArchiblockTwoModBlocks.PACKED_ICE_STAIRS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item PACKED_ICE_SLAB = register(ArchiblockTwoModBlocks.PACKED_ICE_SLAB, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 	public static final Item PACKED_ICE_WALL = register(ArchiblockTwoModBlocks.PACKED_ICE_WALL, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item OAK_LATICE = register(ArchiblockTwoModBlocks.OAK_LATICE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item SPRUCE_LATICE = register(ArchiblockTwoModBlocks.SPRUCE_LATICE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item BIRCH_LATICE = register(ArchiblockTwoModBlocks.BIRCH_LATICE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item JUNGLE_LATICE = register(ArchiblockTwoModBlocks.JUNGLE_LATICE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item WARPED_LATICE = register(ArchiblockTwoModBlocks.WARPED_LATICE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item CRIMSON_LATICE = register(ArchiblockTwoModBlocks.CRIMSON_LATICE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DARK_OAK_LATICE = register(ArchiblockTwoModBlocks.DARK_OAK_LATICE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item MYSTIC_MAPLE_LATICE = register(ArchiblockTwoModBlocks.MYSTIC_MAPLE_LATICE,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item ACACIA_LATICE = register(ArchiblockTwoModBlocks.ACACIA_LATICE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

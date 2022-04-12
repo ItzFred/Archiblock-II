@@ -12,13 +12,12 @@ import net.minecraft.world.level.levelgen.feature.ConfiguredFeature;
 import net.minecraft.world.level.levelgen.Heightmap;
 import net.minecraft.world.level.block.Rotation;
 import net.minecraft.world.level.block.Mirror;
+import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.Level;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.resources.ResourceKey;
 import net.minecraft.core.BlockPos;
-
-import net.mcreator.archiblocktwo.init.ArchiblockTwoModBlocks;
 
 import java.util.Set;
 import java.util.List;
@@ -27,7 +26,7 @@ public class ArchiumSpikeFeature extends Feature<NoneFeatureConfiguration> {
 	public static final ArchiumSpikeFeature FEATURE = (ArchiumSpikeFeature) new ArchiumSpikeFeature().setRegistryName("archiblock_two:archium_spike");
 	public static final ConfiguredFeature<?, ?> CONFIGURED_FEATURE = FEATURE.configured(FeatureConfiguration.NONE);
 	public static final Set<ResourceLocation> GENERATE_BIOMES = null;
-	private final List<Block> base_blocks = List.of(ArchiblockTwoModBlocks.ARCHIUM);
+	private final List<Block> base_blocks = List.of(Blocks.LAVA, Blocks.LAVA);
 	private StructureTemplate template = null;
 
 	public ArchiumSpikeFeature() {
@@ -48,7 +47,7 @@ public class ArchiumSpikeFeature extends Feature<NoneFeatureConfiguration> {
 			return false;
 		if ((context.random().nextInt(1000000) + 1) <= 1000000) {
 			boolean anyPlaced = false;
-			int count = context.random().nextInt(3) + 8;
+			int count = context.random().nextInt(5) + 4;
 			for (int a = 0; a < count; a++) {
 				int i = context.origin().getX() + context.random().nextInt(16);
 				int k = context.origin().getZ() + context.random().nextInt(16);
@@ -56,7 +55,7 @@ public class ArchiumSpikeFeature extends Feature<NoneFeatureConfiguration> {
 				j = Math.abs(context.random().nextInt(Math.max(1, j)) - 24);
 				if (!base_blocks.contains(context.level().getBlockState(new BlockPos(i, j, k)).getBlock()))
 					continue;
-				BlockPos spawnTo = new BlockPos(i + 0, j + -2, k + 0);
+				BlockPos spawnTo = new BlockPos(i + 0, j + -5, k + 0);
 				if (template.placeInWorld(context.level(), spawnTo, spawnTo,
 						new StructurePlaceSettings().setMirror(Mirror.values()[context.random().nextInt(2)])
 								.setRotation(Rotation.values()[context.random().nextInt(3)]).setRandom(context.random())

@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "archiblock_two:block/oak_latice"
+    },
+    "facing=east": {
+      "model": "archiblock_two:block/oak_latice",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "archiblock_two:block/oak_latice",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "archiblock_two:block/oak_latice",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "archiblock_two:block/oak_latice",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "archiblock_two:block/oak_latice",
+      "x": 90
+    }
+  }
+}

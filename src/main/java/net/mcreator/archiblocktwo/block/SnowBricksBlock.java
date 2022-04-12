@@ -9,7 +9,9 @@ import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.BlockGetter;
+import net.minecraft.world.item.TieredItem;
 import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.entity.player.Player;
 import net.minecraft.core.BlockPos;
 
 import java.util.List;
@@ -17,7 +19,7 @@ import java.util.Collections;
 
 public class SnowBricksBlock extends Block {
 	public SnowBricksBlock() {
-		super(BlockBehaviour.Properties.of(Material.SNOW).sound(SoundType.SNOW).strength(0.2f));
+		super(BlockBehaviour.Properties.of(Material.SNOW).sound(SoundType.SNOW).strength(0.2f).requiresCorrectToolForDrops());
 		setRegistryName("snow_bricks");
 	}
 
@@ -29,6 +31,13 @@ public class SnowBricksBlock extends Block {
 	@Override
 	public MaterialColor defaultMaterialColor() {
 		return MaterialColor.SNOW;
+	}
+
+	@Override
+	public boolean canHarvestBlock(BlockState state, BlockGetter world, BlockPos pos, Player player) {
+		if (player.getInventory().getSelected().getItem()instanceof TieredItem tieredItem)
+			return tieredItem.getTier().getLevel() >= -1;
+		return false;
 	}
 
 	@Override

@@ -191,6 +191,22 @@
     "archiblock_two:polished_marble_brick_wall",
     "archiblock_two:marble_tile_stairs",
     "archiblock_two:marble_tile_slab",
-    "archiblock_two:marble_tile_wall"
+    "archiblock_two:marble_tile_wall",
+    "archiblock_two:sandstone_bricks",
+    "archiblock_two:chiselled_sandstone_bricks",
+    "archiblock_two:sandstone_tiles",
+    "archiblock_two:chiselled_sandstone_tiles",
+    "archiblock_two:sandstone_pillar",
+    "archiblock_two:chiselled_sandstone_pillar",
+    "archiblock_two:sandstone_brick_stairs",
+    "archiblock_two:sandstone_brick_slab",
+    "archiblock_two:sandstone_brick_wall",
+    "archiblock_two:chiselled_sandstone_brick_stairs",
+    "archiblock_two:chiselled_sandstone_brick_slab",
+    "archiblock_two:chiselled_sandstone_brick_wall",
+    "archiblock_two:sandstone_tile_stairs",
+    "archiblock_two:sandstone_tile_slab",
+    "archiblock_two:chiselled_sandstone_tile_stairs",
+    "archiblock_two:chiselled_sandstone_tile_slab"
   ]
 }

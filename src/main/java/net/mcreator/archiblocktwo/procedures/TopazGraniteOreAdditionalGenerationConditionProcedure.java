@@ -73,11 +73,9 @@ public class TopazGraniteOreAdditionalGenerationConditionProcedure {
 				}
 			}
 		}
-		if ((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == Blocks.AIR) {
-			if ((world.getBlockState(new BlockPos((int) x, (int) (y - 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.ARCHIUM) {
-				if (Math.random() > 0.3) {
-					world.setBlock(new BlockPos((int) x, (int) y, (int) z), ArchiblockTwoModBlocks.ARCHIUM_TENDRILS.defaultBlockState(), 3);
-				}
+		if ((world.getBlockState(new BlockPos((int) x, (int) (y - 1), (int) z))).getBlock() == ArchiblockTwoModBlocks.ARCHIUM) {
+			if (Math.random() > 0.7) {
+				world.setBlock(new BlockPos((int) x, (int) y, (int) z), ArchiblockTwoModBlocks.ARCHIUM_TENDRILS.defaultBlockState(), 3);
 			}
 		}
 		if ((world.getBlockState(new BlockPos((int) (x + 1), (int) y, (int) z))).getBlock() == ArchiblockTwoModBlocks.ARCHIUM

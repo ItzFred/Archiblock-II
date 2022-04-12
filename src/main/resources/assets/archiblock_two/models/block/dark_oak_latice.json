@@ -1,0 +1,8 @@
+{
+  "parent": "archiblock_two:custom/laticenew",
+  "textures": {
+    "all": "archiblock_two:blocks/darkoakbasket",
+    "particle": "archiblock_two:blocks/darkoakbasket",
+    "0": "archiblock_two:blocks/laticedarkoakuv"
+  }
+}

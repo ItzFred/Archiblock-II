@@ -9,21 +9,34 @@ import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.block.StairBlock;
 import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.Block;
+import net.minecraft.world.level.BlockGetter;
+import net.minecraft.world.item.TieredItem;
 import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.entity.player.Player;
+import net.minecraft.core.BlockPos;
 
 import java.util.List;
 import java.util.Collections;
 
 public class SandstoneBrickStairsBlock extends StairBlock {
 	public SandstoneBrickStairsBlock() {
-		super(() -> new Block(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.STONE).strength(0.8f).dynamicShape()).defaultBlockState(),
-				BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.STONE).strength(0.8f).dynamicShape());
+		super(() -> new Block(
+				BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.STONE).strength(0.8f).requiresCorrectToolForDrops().dynamicShape())
+						.defaultBlockState(),
+				BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.STONE).strength(0.8f).requiresCorrectToolForDrops().dynamicShape());
 		setRegistryName("sandstone_brick_stairs");
 	}
 
 	@Override
 	public MaterialColor defaultMaterialColor() {
 		return MaterialColor.SAND;
+	}
+
+	@Override
+	public boolean canHarvestBlock(BlockState state, BlockGetter world, BlockPos pos, Player player) {
+		if (player.getInventory().getSelected().getItem()instanceof TieredItem tieredItem)
+			return tieredItem.getTier().getLevel() >= 0;
+		return false;
 	}
 
 	@Override

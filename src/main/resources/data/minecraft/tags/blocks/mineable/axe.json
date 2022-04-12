@@ -127,6 +127,15 @@
     "archiblock_two:dried_bamboo_plank_fence_gate",
     "archiblock_two:dried_bamboo_basket",
     "archiblock_two:dried_bamboo_wind_chimes",
-    "archiblock_two:dried_bamboo"
+    "archiblock_two:dried_bamboo",
+    "archiblock_two:oak_latice",
+    "archiblock_two:spruce_latice",
+    "archiblock_two:birch_latice",
+    "archiblock_two:jungle_latice",
+    "archiblock_two:warped_latice",
+    "archiblock_two:crimson_latice",
+    "archiblock_two:dark_oak_latice",
+    "archiblock_two:mystic_maple_latice",
+    "archiblock_two:acacia_latice"
   ]
 }

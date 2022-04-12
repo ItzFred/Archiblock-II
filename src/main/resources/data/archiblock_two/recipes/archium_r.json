@@ -1,0 +1,16 @@
+{
+  "group": "archium",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "archiblock_two:emptied_archium"
+    },
+    {
+      "item": "archiblock_two:emptied_archium"
+    }
+  ],
+  "result": {
+    "item": "archiblock_two:archium",
+    "count": 1
+  }
+}

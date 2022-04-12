@@ -6,10 +6,10 @@
     "randomlyRotateStructure": true,
     "surfaceDetectionType": "First motion blocking block",
     "spawnProbability": 1000000,
-    "minCountPerChunk": 8,
-    "maxCountPerChunk": 10,
+    "minCountPerChunk": 4,
+    "maxCountPerChunk": 8,
     "spawnLocation": "Underground",
-    "spawnHeightOffset": -2,
+    "spawnHeightOffset": -5,
     "spawnXOffset": 0,
     "spawnZOffset": 0,
     "spawnWorldTypes": [
@@ -17,7 +17,10 @@
     ],
     "restrictionBlocks": [
       {
-        "value": "CUSTOM:Archium"
+        "value": "Blocks.LAVA"
+      },
+      {
+        "value": "Blocks.FLOWING_LAVA"
       }
     ],
     "restrictionBiomes": [],
