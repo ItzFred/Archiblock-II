@@ -428,6 +428,15 @@ import net.mcreator.archiblocktwo.block.DiamondSymbolBlockBlock;
 import net.mcreator.archiblocktwo.block.DentedBrassTilesBlock;
 import net.mcreator.archiblocktwo.block.DentedBrassTileSlabBlock;
 import net.mcreator.archiblocktwo.block.DentedBrassBlockStairsBlock;
+import net.mcreator.archiblocktwo.block.DenseWarpedLaticeBlock;
+import net.mcreator.archiblocktwo.block.DenseSpruceLaticeBlock;
+import net.mcreator.archiblocktwo.block.DenseOakLaticeBlock;
+import net.mcreator.archiblocktwo.block.DenseMysticMapleLaticeBlock;
+import net.mcreator.archiblocktwo.block.DenseJungleLaticeBlock;
+import net.mcreator.archiblocktwo.block.DenseDarkOakLaticeBlock;
+import net.mcreator.archiblocktwo.block.DenseCrimsonLaticeBlock;
+import net.mcreator.archiblocktwo.block.DenseBirchLaticeBlock;
+import net.mcreator.archiblocktwo.block.DenseAcaciaLaticeBlock;
 import net.mcreator.archiblocktwo.block.DarkOakLaticeBlock;
 import net.mcreator.archiblocktwo.block.DarkOakBasketSandBlock;
 import net.mcreator.archiblocktwo.block.DarkOakBasketPodzolBlock;
@@ -1134,6 +1143,15 @@ public class ArchiblockTwoModBlocks {
 	public static final Block DARK_OAK_LATICE = register(new DarkOakLaticeBlock());
 	public static final Block MYSTIC_MAPLE_LATICE = register(new MysticMapleLaticeBlock());
 	public static final Block ACACIA_LATICE = register(new AcaciaLaticeBlock());
+	public static final Block DENSE_OAK_LATICE = register(new DenseOakLaticeBlock());
+	public static final Block DENSE_SPRUCE_LATICE = register(new DenseSpruceLaticeBlock());
+	public static final Block DENSE_BIRCH_LATICE = register(new DenseBirchLaticeBlock());
+	public static final Block DENSE_JUNGLE_LATICE = register(new DenseJungleLaticeBlock());
+	public static final Block DENSE_WARPED_LATICE = register(new DenseWarpedLaticeBlock());
+	public static final Block DENSE_CRIMSON_LATICE = register(new DenseCrimsonLaticeBlock());
+	public static final Block DENSE_DARK_OAK_LATICE = register(new DenseDarkOakLaticeBlock());
+	public static final Block DENSE_MYSTIC_MAPLE_LATICE = register(new DenseMysticMapleLaticeBlock());
+	public static final Block DENSE_ACACIA_LATICE = register(new DenseAcaciaLaticeBlock());
 
 	private static Block register(Block block) {
 		REGISTRY.add(block);
@@ -1258,6 +1276,15 @@ public class ArchiblockTwoModBlocks {
 			DarkOakLaticeBlock.registerRenderLayer();
 			MysticMapleLaticeBlock.registerRenderLayer();
 			AcaciaLaticeBlock.registerRenderLayer();
+			DenseOakLaticeBlock.registerRenderLayer();
+			DenseSpruceLaticeBlock.registerRenderLayer();
+			DenseBirchLaticeBlock.registerRenderLayer();
+			DenseJungleLaticeBlock.registerRenderLayer();
+			DenseWarpedLaticeBlock.registerRenderLayer();
+			DenseCrimsonLaticeBlock.registerRenderLayer();
+			DenseDarkOakLaticeBlock.registerRenderLayer();
+			DenseMysticMapleLaticeBlock.registerRenderLayer();
+			DenseAcaciaLaticeBlock.registerRenderLayer();
 		}
 
 		@SubscribeEvent

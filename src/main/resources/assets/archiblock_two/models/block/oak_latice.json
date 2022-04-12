@@ -1,8 +1,8 @@
 {
-  "parent": "archiblock_two:custom/laticenew",
+  "parent": "archiblock_two:custom/laticeflatnn",
   "textures": {
     "all": "archiblock_two:blocks/wovenbasketside",
     "particle": "archiblock_two:blocks/wovenbasketside",
-    "0": "archiblock_two:blocks/laticeoakuv"
+    "0": "archiblock_two:blocks/laticeoak1"
   }
 }

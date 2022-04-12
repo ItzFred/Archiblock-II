@@ -49,10 +49,15 @@ public class MysticMapleLaticeBlock extends Block implements SimpleWaterloggedBl
 	public static final BooleanProperty WATERLOGGED = BlockStateProperties.WATERLOGGED;
 
 	public MysticMapleLaticeBlock() {
-		super(BlockBehaviour.Properties.of(Material.WOOD).sound(SoundType.WOOD).strength(2f).lightLevel(s -> 1).requiresCorrectToolForDrops()
-				.noOcclusion().isRedstoneConductor((bs, br, bp) -> false));
+		super(BlockBehaviour.Properties.of(Material.WOOD).sound(SoundType.WOOD).strength(2f).requiresCorrectToolForDrops().noOcclusion()
+				.isRedstoneConductor((bs, br, bp) -> false));
 		this.registerDefaultState(this.stateDefinition.any().setValue(FACING, Direction.NORTH).setValue(WATERLOGGED, false));
 		setRegistryName("mystic_maple_latice");
+	}
+
+	@Override
+	public boolean skipRendering(BlockState state, BlockState adjacentBlockState, Direction side) {
+		return adjacentBlockState.getBlock() == this ? true : super.skipRendering(state, adjacentBlockState, side);
 	}
 
 	@Override
@@ -145,7 +150,7 @@ public class MysticMapleLaticeBlock extends Block implements SimpleWaterloggedBl
 
 	@OnlyIn(Dist.CLIENT)
 	public static void registerRenderLayer() {
-		ItemBlockRenderTypes.setRenderLayer(ArchiblockTwoModBlocks.MYSTIC_MAPLE_LATICE, renderType -> renderType == RenderType.translucent());
+		ItemBlockRenderTypes.setRenderLayer(ArchiblockTwoModBlocks.MYSTIC_MAPLE_LATICE, renderType -> renderType == RenderType.cutout());
 	}
 
 }

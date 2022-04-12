@@ -9,7 +9,7 @@
     "textureRight": "",
     "textureBack": "",
     "renderType": 2,
-    "customModelName": "laticenew:birch",
+    "customModelName": "laticeflatnn:birch",
     "rotationMode": 2,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
@@ -18,8 +18,8 @@
     "tintType": "No tint",
     "isItemTinted": false,
     "hasTransparency": true,
-    "connectedSides": false,
-    "transparencyType": "TRANSLUCENT",
+    "connectedSides": true,
+    "transparencyType": "CUTOUT",
     "disableOffset": false,
     "boundingBoxes": [
       {
@@ -94,7 +94,7 @@
     "fallSound": {
       "value": ""
     },
-    "luminance": 1,
+    "luminance": 0,
     "unbreakable": false,
     "breakHarvestLevel": -1,
     "spawnParticles": false,

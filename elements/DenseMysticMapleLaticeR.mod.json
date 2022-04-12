@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "dense_mystic_maple_latice",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MysticMapleLatice"
+      },
+      {
+        "value": "CUSTOM:MysticMapleLatice"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MysticMapleLatice"
+      },
+      {
+        "value": "CUSTOM:MysticMapleLatice"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DenseMysticMapleLatice"
+    },
+    "name": "dense_mystic_maple_latice_r",
+    "namespace": "mod"
+  }
+}

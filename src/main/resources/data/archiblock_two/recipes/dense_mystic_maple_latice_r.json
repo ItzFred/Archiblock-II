@@ -1,0 +1,26 @@
+{
+  "group": "dense_mystic_maple_latice",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:mystic_maple_latice"
+    },
+    "1": {
+      "item": "archiblock_two:mystic_maple_latice"
+    },
+    "2": {
+      "item": "archiblock_two:mystic_maple_latice"
+    },
+    "3": {
+      "item": "archiblock_two:mystic_maple_latice"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:dense_mystic_maple_latice",
+    "count": 4
+  }
+}

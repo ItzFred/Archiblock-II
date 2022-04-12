@@ -1,0 +1,26 @@
+{
+  "group": "dense_crimson_latice",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:crimson_latice"
+    },
+    "1": {
+      "item": "archiblock_two:crimson_latice"
+    },
+    "2": {
+      "item": "archiblock_two:crimson_latice"
+    },
+    "3": {
+      "item": "archiblock_two:crimson_latice"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:dense_crimson_latice",
+    "count": 4
+  }
+}

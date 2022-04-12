@@ -136,6 +136,15 @@
     "archiblock_two:crimson_latice",
     "archiblock_two:dark_oak_latice",
     "archiblock_two:mystic_maple_latice",
-    "archiblock_two:acacia_latice"
+    "archiblock_two:acacia_latice",
+    "archiblock_two:dense_oak_latice",
+    "archiblock_two:dense_spruce_latice",
+    "archiblock_two:dense_birch_latice",
+    "archiblock_two:dense_jungle_latice",
+    "archiblock_two:dense_warped_latice",
+    "archiblock_two:dense_crimson_latice",
+    "archiblock_two:dense_dark_oak_latice",
+    "archiblock_two:dense_mystic_maple_latice",
+    "archiblock_two:dense_acacia_latice"
   ]
 }

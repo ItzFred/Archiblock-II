@@ -1,0 +1,26 @@
+{
+  "group": "dense_warped_latice",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:warped_latice"
+    },
+    "1": {
+      "item": "archiblock_two:warped_latice"
+    },
+    "2": {
+      "item": "archiblock_two:warped_latice"
+    },
+    "3": {
+      "item": "archiblock_two:warped_latice"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:dense_warped_latice",
+    "count": 4
+  }
+}

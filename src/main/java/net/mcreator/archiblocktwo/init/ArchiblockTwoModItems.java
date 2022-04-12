@@ -749,6 +749,22 @@ public class ArchiblockTwoModItems {
 	public static final Item MYSTIC_MAPLE_LATICE = register(ArchiblockTwoModBlocks.MYSTIC_MAPLE_LATICE,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
 	public static final Item ACACIA_LATICE = register(ArchiblockTwoModBlocks.ACACIA_LATICE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DENSE_OAK_LATICE = register(ArchiblockTwoModBlocks.DENSE_OAK_LATICE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DENSE_SPRUCE_LATICE = register(ArchiblockTwoModBlocks.DENSE_SPRUCE_LATICE,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DENSE_BIRCH_LATICE = register(ArchiblockTwoModBlocks.DENSE_BIRCH_LATICE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DENSE_JUNGLE_LATICE = register(ArchiblockTwoModBlocks.DENSE_JUNGLE_LATICE,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DENSE_WARPED_LATICE = register(ArchiblockTwoModBlocks.DENSE_WARPED_LATICE,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DENSE_CRIMSON_LATICE = register(ArchiblockTwoModBlocks.DENSE_CRIMSON_LATICE,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DENSE_DARK_OAK_LATICE = register(ArchiblockTwoModBlocks.DENSE_DARK_OAK_LATICE,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DENSE_MYSTIC_MAPLE_LATICE = register(ArchiblockTwoModBlocks.DENSE_MYSTIC_MAPLE_LATICE,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item DENSE_ACACIA_LATICE = register(ArchiblockTwoModBlocks.DENSE_ACACIA_LATICE,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

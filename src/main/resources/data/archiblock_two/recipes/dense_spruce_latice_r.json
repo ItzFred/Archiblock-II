@@ -1,0 +1,26 @@
+{
+  "group": "dense_spruce_latice",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:spruce_latice"
+    },
+    "1": {
+      "item": "archiblock_two:spruce_latice"
+    },
+    "2": {
+      "item": "archiblock_two:spruce_latice"
+    },
+    "3": {
+      "item": "archiblock_two:spruce_latice"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:dense_spruce_latice",
+    "count": 4
+  }
+}

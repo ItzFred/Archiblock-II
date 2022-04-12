@@ -1,0 +1,112 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "laticeoak1"
+      },
+      "name": "default"
+    },
+    "birch": {
+      "map": {
+        "0": "laticebirch"
+      },
+      "name": "birch"
+    },
+    "spruce": {
+      "map": {
+        "0": "laticespruce"
+      },
+      "name": "spruce"
+    },
+    "darkoak": {
+      "map": {
+        "0": "laticedarkoak"
+      },
+      "name": "darkoak"
+    },
+    "acacia": {
+      "map": {
+        "0": "laticeacacia"
+      },
+      "name": "acacia"
+    },
+    "crimson": {
+      "map": {
+        "0": "laticecrimson"
+      },
+      "name": "crimson"
+    },
+    "warped": {
+      "map": {
+        "0": "laticewarped"
+      },
+      "name": "warped"
+    },
+    "mysticmaple": {
+      "map": {
+        "0": "laticemysticmaple"
+      },
+      "name": "mysticmaple"
+    },
+    "denseoak": {
+      "map": {
+        "0": "laticedenseoak"
+      },
+      "name": "denseoak"
+    },
+    "densebirch": {
+      "map": {
+        "0": "laticedensebirch"
+      },
+      "name": "densebirch"
+    },
+    "densespruce": {
+      "map": {
+        "0": "laticedensespruce"
+      },
+      "name": "densespruce"
+    },
+    "densedarkoak": {
+      "map": {
+        "0": "laticedensedarkoak"
+      },
+      "name": "densedarkoak"
+    },
+    "denseacacia": {
+      "map": {
+        "0": "laticedenseacacia"
+      },
+      "name": "denseacacia"
+    },
+    "densecrimson": {
+      "map": {
+        "0": "laticedensecrimson"
+      },
+      "name": "densecrimson"
+    },
+    "densewarped": {
+      "map": {
+        "0": "laticedensewarped"
+      },
+      "name": "densewarped"
+    },
+    "densemysticmaple": {
+      "map": {
+        "0": "laticedensemysticmaple"
+      },
+      "name": "densemysticmaple"
+    },
+    "jungle": {
+      "map": {
+        "0": "laticejungle"
+      },
+      "name": "jungle"
+    },
+    "densejungle": {
+      "map": {
+        "0": "laticedensejungle"
+      },
+      "name": "densejungle"
+    }
+  }
+}

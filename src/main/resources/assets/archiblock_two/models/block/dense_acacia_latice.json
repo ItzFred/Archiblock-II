@@ -1,0 +1,8 @@
+{
+  "parent": "archiblock_two:custom/laticeflatnn",
+  "textures": {
+    "all": "archiblock_two:blocks/wovenacacia",
+    "particle": "archiblock_two:blocks/wovenacacia",
+    "0": "archiblock_two:blocks/laticedenseacacia"
+  }
+}

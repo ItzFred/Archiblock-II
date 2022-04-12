@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "dense_spruce_latice",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SpruceLatice"
+      },
+      {
+        "value": "CUSTOM:SpruceLatice"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SpruceLatice"
+      },
+      {
+        "value": "CUSTOM:SpruceLatice"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DenseSpruceLatice"
+    },
+    "name": "dense_spruce_latice_r",
+    "namespace": "mod"
+  }
+}

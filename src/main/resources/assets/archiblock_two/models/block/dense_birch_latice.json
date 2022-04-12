@@ -1,0 +1,8 @@
+{
+  "parent": "archiblock_two:custom/laticeflatnn",
+  "textures": {
+    "all": "archiblock_two:blocks/birchbasket",
+    "particle": "archiblock_two:blocks/birchbasket",
+    "0": "archiblock_two:blocks/laticedensebirch"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "dense_dark_oak_latice",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DarkOakLatice"
+      },
+      {
+        "value": "CUSTOM:DarkOakLatice"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DarkOakLatice"
+      },
+      {
+        "value": "CUSTOM:DarkOakLatice"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DenseDarkOakLatice"
+    },
+    "name": "dense_dark_oak_latice_r",
+    "namespace": "mod"
+  }
+}
