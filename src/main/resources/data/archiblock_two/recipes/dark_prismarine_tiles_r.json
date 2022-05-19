@@ -1,0 +1,26 @@
+{
+  "group": "dark_prismarine_tiles",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:cut_dark_prismarine"
+    },
+    "1": {
+      "item": "archiblock_two:cut_dark_prismarine"
+    },
+    "2": {
+      "item": "archiblock_two:cut_dark_prismarine"
+    },
+    "3": {
+      "item": "archiblock_two:cut_dark_prismarine"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:dark_prismarine_tiles",
+    "count": 4
+  }
+}

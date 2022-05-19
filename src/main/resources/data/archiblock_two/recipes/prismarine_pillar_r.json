@@ -1,0 +1,20 @@
+{
+  "group": "prismarine_pillar",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:prismarine_bricks"
+    },
+    "1": {
+      "item": "minecraft:prismarine_bricks"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:prismarine_pillar",
+    "count": 2
+  }
+}

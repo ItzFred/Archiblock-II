@@ -14102,6 +14102,276 @@
       "locked_code": false,
       "registry_name": "dense_mystic_maple_latice_r",
       "path": "~/Nature/Latices/Recipes"
+    },
+    {
+      "name": "PrismarineTiles",
+      "type": "block",
+      "sortid": 1410,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prismarine_tiles",
+      "path": "~/OtherBlocks/Prismarine/Prismarine"
+    },
+    {
+      "name": "PrismarinePillar",
+      "type": "block",
+      "sortid": 1411,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prismarine_pillar",
+      "path": "~/OtherBlocks/Prismarine/Prismarine"
+    },
+    {
+      "name": "CutPrismarine",
+      "type": "block",
+      "sortid": 1412,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_prismarine",
+      "path": "~/OtherBlocks/Prismarine/Prismarine"
+    },
+    {
+      "name": "ChiselledPrismarineBricks",
+      "type": "block",
+      "sortid": 1413,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_prismarine_bricks",
+      "path": "~/OtherBlocks/Prismarine/Prismarine"
+    },
+    {
+      "name": "CutDarkPrismarine",
+      "type": "block",
+      "sortid": 1414,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_dark_prismarine",
+      "path": "~/OtherBlocks/Prismarine/Prismarine"
+    },
+    {
+      "name": "DarkPrismarinePillar",
+      "type": "block",
+      "sortid": 1416,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_prismarine_pillar",
+      "path": "~/OtherBlocks/Prismarine/Prismarine"
+    },
+    {
+      "name": "ChiselledDarkPrismarine",
+      "type": "block",
+      "sortid": 1417,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_dark_prismarine",
+      "path": "~/OtherBlocks/Prismarine/Prismarine"
+    },
+    {
+      "name": "DarkPrismarineTiles",
+      "type": "block",
+      "sortid": 1418,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_prismarine_tiles",
+      "path": "~/OtherBlocks/Prismarine/Prismarine"
+    },
+    {
+      "name": "PrismarineTilesR",
+      "type": "recipe",
+      "sortid": 1419,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prismarine_tiles_r",
+      "path": "~/OtherBlocks/Prismarine/Prismarine/Recipe"
+    },
+    {
+      "name": "PrismarinePillarR",
+      "type": "recipe",
+      "sortid": 1420,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prismarine_pillar_r",
+      "path": "~/OtherBlocks/Prismarine/Prismarine/Recipe"
+    },
+    {
+      "name": "CutPrismarineR",
+      "type": "recipe",
+      "sortid": 1421,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_prismarine_r",
+      "path": "~/OtherBlocks/Prismarine/Prismarine/Recipe"
+    },
+    {
+      "name": "ChiselledPrismarineBricksR",
+      "type": "recipe",
+      "sortid": 1422,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_prismarine_bricks_r",
+      "path": "~/OtherBlocks/Prismarine/Prismarine/Recipe"
+    },
+    {
+      "name": "CutDarkPrismarineR",
+      "type": "recipe",
+      "sortid": 1423,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_dark_prismarine_r",
+      "path": "~/OtherBlocks/Prismarine/Prismarine/Recipe"
+    },
+    {
+      "name": "DarkPrismarinePillarR",
+      "type": "recipe",
+      "sortid": 1424,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_prismarine_pillar_r",
+      "path": "~/OtherBlocks/Prismarine/Prismarine/Recipe"
+    },
+    {
+      "name": "DarkPrismarineTilesR",
+      "type": "recipe",
+      "sortid": 1425,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_prismarine_tiles_r",
+      "path": "~/OtherBlocks/Prismarine/Prismarine/Recipe"
+    },
+    {
+      "name": "ChiselledDarkPrismarineR",
+      "type": "recipe",
+      "sortid": 1426,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_dark_prismarine_r",
+      "path": "~/OtherBlocks/Prismarine/Prismarine/Recipe"
+    },
+    {
+      "name": "Chasmarine",
+      "type": "block",
+      "sortid": 1427,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chasmarine",
+      "path": "~/OtherBlocks/Prismarine/Chasmarine"
+    },
+    {
+      "name": "ChasmarineBricks",
+      "type": "block",
+      "sortid": 1428,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chasmarine_bricks",
+      "path": "~/OtherBlocks/Prismarine/Chasmarine"
+    },
+    {
+      "name": "ChasmarineTiles",
+      "type": "block",
+      "sortid": 1429,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chasmarine_tiles",
+      "path": "~/OtherBlocks/Prismarine/Chasmarine"
+    },
+    {
+      "name": "ChasmarinePillar",
+      "type": "block",
+      "sortid": 1430,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chasmarine_pillar",
+      "path": "~/OtherBlocks/Prismarine/Chasmarine"
+    },
+    {
+      "name": "ChiselledChasmarineBricks",
+      "type": "block",
+      "sortid": 1431,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_chasmarine_bricks",
+      "path": "~/OtherBlocks/Prismarine/Chasmarine"
+    },
+    {
+      "name": "DarkChasmarine",
+      "type": "block",
+      "sortid": 1432,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_chasmarine",
+      "path": "~/OtherBlocks/Prismarine/Chasmarine"
+    },
+    {
+      "name": "ChiselledDarkChasmarine",
+      "type": "block",
+      "sortid": 1433,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiselled_dark_chasmarine",
+      "path": "~/OtherBlocks/Prismarine/Chasmarine"
+    },
+    {
+      "name": "DarkChasmarineTiles",
+      "type": "block",
+      "sortid": 1434,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_chasmarine_tiles",
+      "path": "~/OtherBlocks/Prismarine/Chasmarine"
+    },
+    {
+      "name": "CutDarkChasmarine",
+      "type": "block",
+      "sortid": 1435,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_dark_chasmarine",
+      "path": "~/OtherBlocks/Prismarine/Chasmarine"
+    },
+    {
+      "name": "DarkChasmarinePillar",
+      "type": "block",
+      "sortid": 1436,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_chasmarine_pillar",
+      "path": "~/OtherBlocks/Prismarine/Chasmarine"
+    },
+    {
+      "name": "ChasmarineR",
+      "type": "recipe",
+      "sortid": 1437,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chasmarine_r",
+      "path": "~/OtherBlocks/Prismarine/Chasmarine/Recipe"
+    },
+    {
+      "name": "DarkChasmarineR",
+      "type": "recipe",
+      "sortid": 1438,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_chasmarine_r",
+      "path": "~/OtherBlocks/Prismarine/Chasmarine/Recipe"
+    },
+    {
+      "name": "DarkChasmarineR1",
+      "type": "recipe",
+      "sortid": 1439,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_chasmarine_r_1",
+      "path": "~/OtherBlocks/Prismarine/Chasmarine/Recipe"
+    },
+    {
+      "name": "DarkChasmarineR2",
+      "type": "recipe",
+      "sortid": 1440,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_chasmarine_r_2",
+      "path": "~/OtherBlocks/Prismarine/Chasmarine/Recipe"
     }
   ],
   "variable_elements": [],
@@ -14127,8 +14397,8 @@
     "en_us": {
       "block.archiblock_two.smooth_rose_quartz_stairs": "Smooth Rose Quartz Stairs",
       "block.archiblock_two.woven_warped_basket": "Woven Warped Block",
-      "block.archiblock_two.apostrophe_block": "\u0027 Block",
       "block.archiblock_two.ice_tiles": "Ice Tiles",
+      "block.archiblock_two.apostrophe_block": "\u0027 Block",
       "block.archiblock_two.cut_obsidian": "Cut Obsidian",
       "block.archiblock_two.l_ci_block": "i Block",
       "block.archiblock_two.clay_shingles_slab": "Clay Shingles Slab",
@@ -14136,31 +14406,31 @@
       "block.archiblock_two.x_block": "X Block",
       "block.archiblock_two.l_cz_block": "z Block",
       "item.archiblock_two.rose_quartz": "Rose Quartz",
-      "block.archiblock_two.twilight_bricks": "Twilight Bricks",
-      "block.archiblock_two.andesite_brick_slab": "Andesite Brick Slab",
       "block.archiblock_two.chiselled_sandstone_tile_slab": "Chiselled Sandstone Tile Slab",
+      "block.archiblock_two.andesite_brick_slab": "Andesite Brick Slab",
+      "block.archiblock_two.twilight_bricks": "Twilight Bricks",
       "block.archiblock_two.spruce_basket_moss": "Moss Filled Woven Spruce Basket",
-      "block.archiblock_two.ruby_tiles": "Ruby Tiles",
       "block.archiblock_two.marble_tile_stairs": "Marble Tile Stairs",
+      "block.archiblock_two.ruby_tiles": "Ruby Tiles",
       "block.archiblock_two.woven_acacia_slab": "Woven Acacia Slab",
       "block.archiblock_two.smooth_rose_quartz": "Smooth Rose Quartz Block",
       "block.archiblock_two.yellow_neon_block": "Yellow Neon Block",
-      "block.archiblock_two.ice_brick_slab": "Ice Brick Slab",
-      "block.archiblock_two.twilight_brick_wall": "Twilight Brick Wall",
       "block.archiblock_two.purple_neon_block": "Purple Neon Block",
+      "block.archiblock_two.twilight_brick_wall": "Twilight Brick Wall",
+      "block.archiblock_two.ice_brick_slab": "Ice Brick Slab",
       "block.archiblock_two.smooth_rose_quartz_wall": "Smooth Rose Quartz Wall",
       "block.archiblock_two.b_block": "B Block",
-      "block.archiblock_two.sugilite_pillar": "Sugilite Pillar",
       "block.archiblock_two.bamboo_plank_slab": "Bamboo Plank Slab",
+      "block.archiblock_two.sugilite_pillar": "Sugilite Pillar",
       "block.archiblock_two.chiselled_obsidian": "Chiselled Obsidian",
       "block.archiblock_two.pink_spool": "Pink Spool",
-      "block.archiblock_two.smoky_quartz_bricks_2": "Carved Smoky Quartz Bricks",
       "block.archiblock_two.andesite_brick_stairs": "Andesite Brick Stairs",
+      "block.archiblock_two.smoky_quartz_bricks_2": "Carved Smoky Quartz Bricks",
       "block.archiblock_two.sapphire_bricks": "Sapphire Bricks",
       "block.archiblock_two.s_block": "S Block",
       "block.archiblock_two.dark_oak_basket_sand": "Sand Filled Woven Dark Oak Basket",
-      "block.archiblock_two.red_clay_shingles": "Red Block of Clay Shingles",
       "block.archiblock_two.white_spool": "White Spool",
+      "block.archiblock_two.red_clay_shingles": "Red Block of Clay Shingles",
       "block.archiblock_two.light_gray_spool": "Light Gray Spool",
       "block.archiblock_two.twisting_vine_covered_big_nether_bricks": "Twisting Vine Covered Big Nether Bricks",
       "block.archiblock_two.packed_ice_stairs": "Packed Ice Stairs",
@@ -14169,8 +14439,8 @@
       "item.archiblock_two.smoky_quartz": "Smoky Quartz",
       "block.archiblock_two.red_clay_brick_block": "Red Clay Brick Block",
       "block.archiblock_two.cracked_cut_stone": "Cracked Cut Stone",
-      "block.archiblock_two.lush_twilight_brick_slab": "Lush Twilight Brick Slab",
       "block.archiblock_two.black_spool": "Black Spool",
+      "block.archiblock_two.lush_twilight_brick_slab": "Lush Twilight Brick Slab",
       "block.archiblock_two.brass_door": "Brass Door",
       "item.archiblock_two.twilightwave_shard": "Twilightwave Shard",
       "block.archiblock_two.birch_basket_moss": "Moss Filled Woven Birch Basket",
@@ -14183,22 +14453,22 @@
       "block.archiblock_two.crimson_basket_moss": "Moss Filled Woven Crimson Basket",
       "block.archiblock_two.sandstone_tile_stairs": "Sandstone Tile Stairs",
       "block.archiblock_two.chiselled_marble": "Chiselled Marble",
-      "block.archiblock_two.jungle_latice": "Jungle Latice",
       "block.archiblock_two.dense_mystic_maple_latice": "Dense Mystic Maple Latice",
+      "block.archiblock_two.jungle_latice": "Jungle Latice",
       "block.archiblock_two.buttermilk_rose": "Buttermilk Rose",
       "block.archiblock_two.sapphire_ore": "Sapphire Ore",
       "block.archiblock_two.triangle_block": "Triangle Block",
       "block.archiblock_two.light_blue_spool": "Light Blue Spool",
       "block.archiblock_two.polished_marble": "Polished Marble",
       "block.archiblock_two.polished_marble_brick_slab": "Polished Marble Brick Slab",
-      "block.archiblock_two.red_big_clay_bricks": "Red Big Clay Bricks",
       "block.archiblock_two.sugilite_bricks": "Sugilite Bricks",
+      "block.archiblock_two.red_big_clay_bricks": "Red Big Clay Bricks",
       "block.archiblock_two.clay_brick_tiles": "Clay Brick Tiles",
       "block.archiblock_two.chiselled_packed_ice": "Chiselled Packed Ice",
       "block.archiblock_two.snowy_stone_brick_stairs": "Snowy Stone Brick Stairs",
       "block.archiblock_two.chiselled_obsidian_slab": "Chiselled Obsidian Slab",
-      "block.archiblock_two.sapphire_tiles": "Sapphire Tiles",
       "block.archiblock_two.smoky_brick_slab": "Smoky Quartz Brick Slab",
+      "block.archiblock_two.sapphire_tiles": "Sapphire Tiles",
       "block.archiblock_two.half_dented_brass_block_stairs": "Half Dented Brass Tile Stairs",
       "block.archiblock_two.polished_marble_stairs": "Polished Marble Stairs",
       "block.archiblock_two.smoky_quartz_slab": "Smoky Quartz Slab",
@@ -14256,6 +14526,7 @@
       "block.archiblock_two.granite_tiles": "Granite Tiles",
       "block.archiblock_two.jungle_basket_sand": "Sand Filled Woven Jungle Basket",
       "block.archiblock_two.packed_ice_brick_wall": "Packed Ice Brick Wall",
+      "block.archiblock_two.chiselled_dark_prismarine": "Chiselled Dark Prismarine",
       "block.archiblock_two.brass_tiles_r": "Brass Tiles",
       "subtitles.windchime": "Wind Chime",
       "block.archiblock_two.scarlet_rose_shrub": "Scarlet Rose Shrub",
@@ -14286,8 +14557,10 @@
       "block.archiblock_two.tiled_archium": "Tiled Archium",
       "block.archiblock_two.twilight_ore": "Twilight Ore",
       "block.archiblock_two.rose_quartz_wall": "Rose Quartz Wall",
+      "block.archiblock_two.chasmarine": "Chasmarine",
       "block.archiblock_two.brass_chains": "Brass Chain",
       "block.archiblock_two.green_neon_block": "Green Neon Block",
+      "block.archiblock_two.dark_prismarine_tiles": "Dark Prismarine Tiles",
       "block.archiblock_two.packed_ice_brick_stairs": "Packed Ice Brick Stairs",
       "block.archiblock_two.woven_dark_oak_block": "Woven Dark Oak Block",
       "block.archiblock_two.cut_granite_slab": "Cut Granite Slab",
@@ -14299,6 +14572,7 @@
       "block.archiblock_two.dried_bamboo_planks": "Dried Bamboo Planks",
       "block.archiblock_two.snowy_cobblestone_slab": "Snowy Cobblestone Slab",
       "block.archiblock_two.sandstone_tile_slab": "Sandstone Tile Slab",
+      "block.archiblock_two.dark_prismarine_pillar": "Dark Prismarine Pillar",
       "block.archiblock_two.magenta_spool": "Magenta Spool",
       "block.archiblock_two.obsidian_pillar": "Obsidian Pillar",
       "item.archiblock_two.sapphire": "Sapphire",
@@ -14321,6 +14595,7 @@
       "block.archiblock_two.dense_jungle_latice": "Dense Jungle Latice",
       "block.archiblock_two.blue_clay_shingle_slab": "Blue Clay Shingles Slab",
       "block.archiblock_two.mystic_maple_button": "Mystic Maple Button",
+      "block.archiblock_two.chiselled_chasmarine_bricks": "Chiselled Chasmarine Bricks",
       "block.archiblock_two.exclamation_mark_block": "! Block",
       "block.archiblock_two.woven_fiber_slab": "Woven Fiber Slab",
       "item.archiblock_two.sugilite": "Sugilite",
@@ -14352,6 +14627,8 @@
       "block.archiblock_two.q_block": "Q Block",
       "block.archiblock_two.cut_diorite": "Cut Diorite",
       "item.archiblock_two.sus.desc": "canon in the monochrome universe",
+      "block.archiblock_two.chasmarine_tiles": "Chasmarine Tiles",
+      "block.archiblock_two.cut_prismarine": "Cut Prismarine",
       "block.archiblock_two.sugilite_ore": "Sugilite Ore",
       "block.archiblock_two.big_nether_brick_slab": "Big Nether Brick Slab",
       "block.archiblock_two.mystic_maple_pressure_plate": "Mystic Maple Pressure Plate",
@@ -14368,6 +14645,7 @@
       "block.archiblock_two.birch_latice": "Birch Latice",
       "block.archiblock_two.marble_slab": "Marble Slab",
       "block.archiblock_two.dented_brass_tiles": "Dented Brass Tiles",
+      "block.archiblock_two.chiselled_dark_chasmarine": "Chiselled Dark Chasmarine",
       "block.archiblock_two.rose_brick_slab_2": "Carved Rose Quartz Brick Slab",
       "block.archiblock_two.dried_bamboo_dreamcatcher": "Dried Bamboo Dreamcatcher",
       "block.archiblock_two.bamboo_plank_stairs": "Bamboo Planks Stairs",
@@ -14402,6 +14680,7 @@
       "block.archiblock_two.spruce_latice": "Spruce Latice",
       "block.archiblock_two.l_cx_block": "x Block",
       "block.archiblock_two.scarlet_rose": "Scarlet Rose",
+      "block.archiblock_two.chasmarine_pillar": "Chasmarine Pillar",
       "block.archiblock_two.rose_brick_wall_2": "Carved Rose Quartz Brick Wall",
       "block.archiblock_two.sugilite_block": "Sugilite Block",
       "block.archiblock_two.weeping_vine_covered_nether_brick_pillar": "Weeping Vine Covered Nether Brick Pillar",
@@ -14537,7 +14816,9 @@
       "block.archiblock_two.woven_jungle_stairs": "Woven Jungle Stairs",
       "block.archiblock_two.cracked_stone_tiles": "Cracked Stone Tiles",
       "block.archiblock_two.marble_brick_slab": "Marble Brick Wall",
+      "block.archiblock_two.cut_dark_chasmarine": "Cut Dark Chasmarine",
       "block.archiblock_two.warped_basket_mycelium": "Mycelium Filled Woven Warped Basket",
+      "block.archiblock_two.prismarine_tiles": "Prismarine Tiles",
       "block.archiblock_two.twilight_tiles": "Twilight Tiles",
       "block.archiblock_two.lush_twilight_tiles": "Lush Twilight Tiles",
       "block.archiblock_two.granite_bricks": "Granite Bricks",
@@ -14591,6 +14872,7 @@
       "block.archiblock_two.sandstone_brick_wall": "Sandstone Brick Wall",
       "block.archiblock_two.smoky_quartz_pillar": "Smoky Quartz Pillar",
       "block.archiblock_two.gray_spool": "Gray Spool",
+      "block.archiblock_two.cut_dark_prismarine": "Cut  Dark Prismarine",
       "block.archiblock_two.l_cl_block": "l Block",
       "block.archiblock_two.crimson_basket_podzol": "Podzol Filled Woven Crimson Basket",
       "block.archiblock_two.line_block": "- Block",
@@ -14608,8 +14890,10 @@
       "block.archiblock_two.lush_twilight_brick_stairs": "Lush Twilight Brick Stairs",
       "block.archiblock_two.andesite_pillar": "Andesite Pillar",
       "block.archiblock_two.red_clay_shingles_slab": "Red Clay Shingles Slab",
+      "block.archiblock_two.dark_chasmarine_pillar": "Dark Chasmarine Pillar",
       "block.archiblock_two.dense_crimson_latice": "Dense Crimson Latice",
       "block.archiblock_two.chiselled_sandstone_tile_stairs": "Sandstone Tile Stairs",
+      "block.archiblock_two.dark_chasmarine": "Dark Chasmarine",
       "block.archiblock_two.light_blue_neon_block": "Light Blue Neon Block",
       "block.archiblock_two.birch_basket_podzol": "Podzol Filled Woven Birch Basket",
       "block.archiblock_two.carved_bamboo_planks": "Carved Bamboo Planks",
@@ -14670,6 +14954,7 @@
       "block.archiblock_two.cut_ice": "Cut Ice",
       "item.archiblock_two.twilight_shard": "Twilight Shard",
       "item.archiblock_two.mutandis": "Mutandis",
+      "block.archiblock_two.chiselled_prismarine_bricks": "Chiselled Prismarine Bricks",
       "block.archiblock_two.bamboo_planks": "Bamboo Planks",
       "block.archiblock_two.nether_brick_tile_slab": "Nether Brick Tile Slab",
       "block.archiblock_two.woven_crimson_slab": "Woven Crimson Slab",
@@ -14677,6 +14962,7 @@
       "block.archiblock_two.twilight_brick_slab": "Twilight Brick Slab",
       "block.archiblock_two.y_block": "Y Block",
       "block.archiblock_two.dark_oak_basket_mycelium": "Mycelium Filled Woven Dark Oak Basket",
+      "block.archiblock_two.chasmarine_bricks": "Chasmarine Bricks",
       "block.archiblock_two.small_stone_bricks": "Small Stone Bricks",
       "block.archiblock_two.twilightwave_brick_wall": "Twilightwave Brick Wall",
       "block.archiblock_two.magenta_neon_block": "Magenta Neon Block",
@@ -14684,6 +14970,7 @@
       "block.archiblock_two.nether_brick_pillar": "Nether Brick Pillar",
       "block.archiblock_two.snowy_cut_stone": "Snowy Cut Stone",
       "block.archiblock_two.mystic_maple_sapling": "Mystic Maple Sapling",
+      "block.archiblock_two.prismarine_pillar": "Prismarine Pillar",
       "block.archiblock_two.obsidian_brick_slab": "Obsidian Brick Slab",
       "block.archiblock_two.woven_dark_oak_slab": "Woven Dark Oak Block",
       "block.archiblock_two.mystic_maple_slab": "Mystic Maple Slab",
@@ -14695,6 +14982,7 @@
       "block.archiblock_two.mystic_maple_latice": "Mystic Maple Latice",
       "block.archiblock_two.sandstone_tiles": "Sandstone Tiles",
       "block.archiblock_two.marble_small_bricks": "Small Marble Bricks",
+      "block.archiblock_two.dark_chasmarine_tiles": "Dark Chasmarine Tiles",
       "block.archiblock_two.woven_spruce_stairs": "Woven Spruce Stairs",
       "block.archiblock_two.l_cj_block": "j Block",
       "block.archiblock_two.spruce_basket_sand": "Sand Filled Woven Spruce Basket",
@@ -14931,6 +15219,33 @@
                     "children": []
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "name": "Prismarine",
+            "children": [
+              {
+                "name": "Prismarine",
+                "children": [
+                  {
+                    "name": "Recipe",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Chasmarine",
+                "children": [
+                  {
+                    "name": "Recipe",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Abysmarine",
+                "children": []
               }
             ]
           }

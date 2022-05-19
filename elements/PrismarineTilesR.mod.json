@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "prismarine_tiles",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.PRISMARINE#1"
+      },
+      {
+        "value": "Blocks.PRISMARINE#1"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.PRISMARINE#1"
+      },
+      {
+        "value": "Blocks.PRISMARINE#1"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PrismarineTiles"
+    },
+    "name": "prismarine_tiles_r",
+    "namespace": "mod"
+  }
+}

@@ -765,6 +765,32 @@ public class ArchiblockTwoModItems {
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
 	public static final Item DENSE_ACACIA_LATICE = register(ArchiblockTwoModBlocks.DENSE_ACACIA_LATICE,
 			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_NATURE);
+	public static final Item PRISMARINE_TILES = register(ArchiblockTwoModBlocks.PRISMARINE_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item PRISMARINE_PILLAR = register(ArchiblockTwoModBlocks.PRISMARINE_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CUT_PRISMARINE = register(ArchiblockTwoModBlocks.CUT_PRISMARINE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_PRISMARINE_BRICKS = register(ArchiblockTwoModBlocks.CHISELLED_PRISMARINE_BRICKS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CUT_DARK_PRISMARINE = register(ArchiblockTwoModBlocks.CUT_DARK_PRISMARINE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item DARK_PRISMARINE_PILLAR = register(ArchiblockTwoModBlocks.DARK_PRISMARINE_PILLAR,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_DARK_PRISMARINE = register(ArchiblockTwoModBlocks.CHISELLED_DARK_PRISMARINE,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item DARK_PRISMARINE_TILES = register(ArchiblockTwoModBlocks.DARK_PRISMARINE_TILES,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHASMARINE = register(ArchiblockTwoModBlocks.CHASMARINE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHASMARINE_BRICKS = register(ArchiblockTwoModBlocks.CHASMARINE_BRICKS, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHASMARINE_TILES = register(ArchiblockTwoModBlocks.CHASMARINE_TILES, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHASMARINE_PILLAR = register(ArchiblockTwoModBlocks.CHASMARINE_PILLAR, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_CHASMARINE_BRICKS = register(ArchiblockTwoModBlocks.CHISELLED_CHASMARINE_BRICKS,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item DARK_CHASMARINE = register(ArchiblockTwoModBlocks.DARK_CHASMARINE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CHISELLED_DARK_CHASMARINE = register(ArchiblockTwoModBlocks.CHISELLED_DARK_CHASMARINE,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item DARK_CHASMARINE_TILES = register(ArchiblockTwoModBlocks.DARK_CHASMARINE_TILES,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item CUT_DARK_CHASMARINE = register(ArchiblockTwoModBlocks.CUT_DARK_CHASMARINE, ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
+	public static final Item DARK_CHASMARINE_PILLAR = register(ArchiblockTwoModBlocks.DARK_CHASMARINE_PILLAR,
+			ArchiblockTwoModTabs.TAB_ARCHIBLOCK_II_TAB);
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

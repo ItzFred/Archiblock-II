@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "archiblock_two:blocks/prprismarinetiles",
+    "particle": "archiblock_two:blocks/prprismarinetiles"
+  }
+}

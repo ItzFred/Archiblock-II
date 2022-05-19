@@ -1,0 +1,42 @@
+{
+  "group": "dark_chasmarine",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "archiblock_two:chasmarine"
+    },
+    "1": {
+      "item": "archiblock_two:chasmarine"
+    },
+    "2": {
+      "item": "archiblock_two:chasmarine"
+    },
+    "3": {
+      "item": "archiblock_two:chasmarine"
+    },
+    "4": {
+      "item": "minecraft:black_dye"
+    },
+    "5": {
+      "item": "archiblock_two:chasmarine"
+    },
+    "6": {
+      "item": "archiblock_two:chasmarine"
+    },
+    "7": {
+      "item": "archiblock_two:chasmarine"
+    },
+    "8": {
+      "item": "archiblock_two:chasmarine"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:dark_chasmarine",
+    "count": 8
+  }
+}

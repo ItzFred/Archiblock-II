@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 8,
+    "group": "dark_chasmarine",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Chasmarine"
+      },
+      {
+        "value": "CUSTOM:Chasmarine"
+      },
+      {
+        "value": "CUSTOM:Chasmarine"
+      },
+      {
+        "value": "CUSTOM:Chasmarine"
+      },
+      {
+        "value": "Items.DYE#16"
+      },
+      {
+        "value": "CUSTOM:Chasmarine"
+      },
+      {
+        "value": "CUSTOM:Chasmarine"
+      },
+      {
+        "value": "CUSTOM:Chasmarine"
+      },
+      {
+        "value": "CUSTOM:Chasmarine"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DarkChasmarine"
+    },
+    "name": "dark_chasmarine_r_1",
+    "namespace": "mod"
+  }
+}

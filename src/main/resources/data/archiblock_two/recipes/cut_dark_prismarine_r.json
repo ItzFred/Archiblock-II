@@ -1,0 +1,26 @@
+{
+  "group": "cut_dark_prismarine",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dark_prismarine"
+    },
+    "1": {
+      "item": "minecraft:dark_prismarine"
+    },
+    "2": {
+      "item": "minecraft:dark_prismarine"
+    },
+    "3": {
+      "item": "minecraft:dark_prismarine"
+    }
+  },
+  "result": {
+    "item": "archiblock_two:cut_dark_prismarine",
+    "count": 4
+  }
+}

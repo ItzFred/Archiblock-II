@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "archiblock_two:blocks/crcutchasmarine",
+    "up": "archiblock_two:blocks/crcutchasmarine",
+    "north": "archiblock_two:blocks/crchasmarinepillarside",
+    "east": "archiblock_two:blocks/crchasmarinepillarside",
+    "south": "archiblock_two:blocks/crchasmarinepillarside",
+    "west": "archiblock_two:blocks/crchasmarinepillarside",
+    "particle": "archiblock_two:blocks/crcutchasmarine"
+  }
+}
